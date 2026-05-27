@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG205101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Luuka",
+      "en": "Luuka",
+      "slug": "luuka-ug205101"
+    },
+    "code": {
+      "id": "UG205101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2051",
+      "level": 2,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.818",
+      "lon": "33.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

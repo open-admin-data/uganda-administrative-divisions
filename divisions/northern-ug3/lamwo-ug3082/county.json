@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG308201",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lamwo",
+      "en": "Lamwo",
+      "slug": "lamwo-ug308201"
+    },
+    "code": {
+      "id": "UG308201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3082",
+      "level": 2,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.521",
+      "lon": "32.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

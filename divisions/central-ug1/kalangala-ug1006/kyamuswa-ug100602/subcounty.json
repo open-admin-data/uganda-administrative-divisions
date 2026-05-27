@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG10060201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubeke",
+      "en": "Bubeke",
+      "slug": "bubeke"
+    },
+    "code": {
+      "id": "UG10060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100602",
+      "level": 3,
+      "name": {
+        "local": "Kyamuswa",
+        "en": "Kyamuswa",
+        "slug": "kyamuswa-ug100602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1006",
+        "level": 2,
+        "name": {
+          "local": "Kalangala",
+          "en": "Kalangala",
+          "slug": "kalangala-ug1006"
+        }
+      },
+      {
+        "id": "UG100602",
+        "level": 3,
+        "name": {
+          "local": "Kyamuswa",
+          "en": "Kyamuswa",
+          "slug": "kyamuswa-ug100602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.324",
+      "lon": "32.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10060202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bufumira",
+      "en": "Bufumira",
+      "slug": "bufumira"
+    },
+    "code": {
+      "id": "UG10060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100602",
+      "level": 3,
+      "name": {
+        "local": "Kyamuswa",
+        "en": "Kyamuswa",
+        "slug": "kyamuswa-ug100602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1006",
+        "level": 2,
+        "name": {
+          "local": "Kalangala",
+          "en": "Kalangala",
+          "slug": "kalangala-ug1006"
+        }
+      },
+      {
+        "id": "UG100602",
+        "level": 3,
+        "name": {
+          "local": "Kyamuswa",
+          "en": "Kyamuswa",
+          "slug": "kyamuswa-ug100602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.31",
+      "lon": "32.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10060203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamuswa",
+      "en": "Kyamuswa",
+      "slug": "kyamuswa"
+    },
+    "code": {
+      "id": "UG10060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100602",
+      "level": 3,
+      "name": {
+        "local": "Kyamuswa",
+        "en": "Kyamuswa",
+        "slug": "kyamuswa-ug100602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1006",
+        "level": 2,
+        "name": {
+          "local": "Kalangala",
+          "en": "Kalangala",
+          "slug": "kalangala-ug1006"
+        }
+      },
+      {
+        "id": "UG100602",
+        "level": 3,
+        "name": {
+          "local": "Kyamuswa",
+          "en": "Kyamuswa",
+          "slug": "kyamuswa-ug100602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.656",
+      "lon": "32.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10060204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mazinga",
+      "en": "Mazinga",
+      "slug": "mazinga"
+    },
+    "code": {
+      "id": "UG10060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100602",
+      "level": 3,
+      "name": {
+        "local": "Kyamuswa",
+        "en": "Kyamuswa",
+        "slug": "kyamuswa-ug100602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1006",
+        "level": 2,
+        "name": {
+          "local": "Kalangala",
+          "en": "Kalangala",
+          "slug": "kalangala-ug1006"
+        }
+      },
+      {
+        "id": "UG100602",
+        "level": 3,
+        "name": {
+          "local": "Kyamuswa",
+          "en": "Kyamuswa",
+          "slug": "kyamuswa-ug100602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.714",
+      "lon": "32.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

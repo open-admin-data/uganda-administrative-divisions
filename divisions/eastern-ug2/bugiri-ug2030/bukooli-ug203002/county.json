@@ -1,0 +1,56 @@
+{
+  "id": "UG203002",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bukooli",
+    "en": "Bukooli",
+    "slug": "bukooli-ug203002"
+  },
+  "code": {
+    "id": "UG203002",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2030",
+    "level": 2,
+    "name": {
+      "local": "Bugiri",
+      "en": "Bugiri",
+      "slug": "bugiri-ug2030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2030",
+      "level": 2,
+      "name": {
+        "local": "Bugiri",
+        "en": "Bugiri",
+        "slug": "bugiri-ug2030"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.519",
+    "lon": "33.773"
+  },
+  "metadata": {},
+  "source": {}
+}

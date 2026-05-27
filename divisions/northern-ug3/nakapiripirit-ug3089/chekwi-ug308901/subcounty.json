@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG30890101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakomongole",
+      "en": "Kakomongole",
+      "slug": "kakomongole"
+    },
+    "code": {
+      "id": "UG30890101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308901",
+      "level": 3,
+      "name": {
+        "local": "Chekwi",
+        "en": "Chekwi",
+        "slug": "chekwi-ug308901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      },
+      {
+        "id": "UG308901",
+        "level": 3,
+        "name": {
+          "local": "Chekwi",
+          "en": "Chekwi",
+          "slug": "chekwi-ug308901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.879",
+      "lon": "34.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30890102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Loregae",
+      "en": "Loregae",
+      "slug": "loregae"
+    },
+    "code": {
+      "id": "UG30890102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308901",
+      "level": 3,
+      "name": {
+        "local": "Chekwi",
+        "en": "Chekwi",
+        "slug": "chekwi-ug308901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      },
+      {
+        "id": "UG308901",
+        "level": 3,
+        "name": {
+          "local": "Chekwi",
+          "en": "Chekwi",
+          "slug": "chekwi-ug308901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.731",
+      "lon": "34.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30890103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Moruita",
+      "en": "Moruita",
+      "slug": "moruita"
+    },
+    "code": {
+      "id": "UG30890103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308901",
+      "level": 3,
+      "name": {
+        "local": "Chekwi",
+        "en": "Chekwi",
+        "slug": "chekwi-ug308901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      },
+      {
+        "id": "UG308901",
+        "level": 3,
+        "name": {
+          "local": "Chekwi",
+          "en": "Chekwi",
+          "slug": "chekwi-ug308901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.858",
+      "lon": "34.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30890104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakapiripirit Town Council",
+      "en": "Nakapiripirit Town Council",
+      "slug": "nakapiripirit-town-council"
+    },
+    "code": {
+      "id": "UG30890104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308901",
+      "level": 3,
+      "name": {
+        "local": "Chekwi",
+        "en": "Chekwi",
+        "slug": "chekwi-ug308901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      },
+      {
+        "id": "UG308901",
+        "level": 3,
+        "name": {
+          "local": "Chekwi",
+          "en": "Chekwi",
+          "slug": "chekwi-ug308901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.852",
+      "lon": "34.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30890105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namalu",
+      "en": "Namalu",
+      "slug": "namalu"
+    },
+    "code": {
+      "id": "UG30890105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308901",
+      "level": 3,
+      "name": {
+        "local": "Chekwi",
+        "en": "Chekwi",
+        "slug": "chekwi-ug308901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      },
+      {
+        "id": "UG308901",
+        "level": 3,
+        "name": {
+          "local": "Chekwi",
+          "en": "Chekwi",
+          "slug": "chekwi-ug308901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.702",
+      "lon": "34.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

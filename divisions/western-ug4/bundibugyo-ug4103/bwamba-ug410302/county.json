@@ -1,0 +1,56 @@
+{
+  "id": "UG410302",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bwamba",
+    "en": "Bwamba",
+    "slug": "bwamba-ug410302"
+  },
+  "code": {
+    "id": "UG410302",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4103",
+    "level": 2,
+    "name": {
+      "local": "Bundibugyo",
+      "en": "Bundibugyo",
+      "slug": "bundibugyo-ug4103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4103",
+      "level": 2,
+      "name": {
+        "local": "Bundibugyo",
+        "en": "Bundibugyo",
+        "slug": "bundibugyo-ug4103"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.739",
+    "lon": "30.043"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "UG4125",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masindi",
+    "en": "Masindi",
+    "slug": "masindi-ug4125"
+  },
+  "code": {
+    "id": "UG4125",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 3,
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.812",
+    "lon": "31.737"
+  },
+  "metadata": {},
+  "source": {}
+}

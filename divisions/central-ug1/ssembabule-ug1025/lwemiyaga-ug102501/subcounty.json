@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG10250101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwemiyaga",
+      "en": "Lwemiyaga",
+      "slug": "lwemiyaga"
+    },
+    "code": {
+      "id": "UG10250101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102501",
+      "level": 3,
+      "name": {
+        "local": "Lwemiyaga",
+        "en": "Lwemiyaga",
+        "slug": "lwemiyaga-ug102501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102501",
+        "level": 3,
+        "name": {
+          "local": "Lwemiyaga",
+          "en": "Lwemiyaga",
+          "slug": "lwemiyaga-ug102501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.099",
+      "lon": "31.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntuusi",
+      "en": "Ntuusi",
+      "slug": "ntuusi"
+    },
+    "code": {
+      "id": "UG10250102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102501",
+      "level": 3,
+      "name": {
+        "local": "Lwemiyaga",
+        "en": "Lwemiyaga",
+        "slug": "lwemiyaga-ug102501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102501",
+        "level": 3,
+        "name": {
+          "local": "Lwemiyaga",
+          "en": "Lwemiyaga",
+          "slug": "lwemiyaga-ug102501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.044",
+      "lon": "31.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

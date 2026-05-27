@@ -1,0 +1,56 @@
+{
+  "id": "UG412901",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kajara",
+    "en": "Kajara",
+    "slug": "kajara-ug412901"
+  },
+  "code": {
+    "id": "UG412901",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4129",
+    "level": 2,
+    "name": {
+      "local": "Ntungamo",
+      "en": "Ntungamo",
+      "slug": "ntungamo-ug4129"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4129",
+      "level": 2,
+      "name": {
+        "local": "Ntungamo",
+        "en": "Ntungamo",
+        "slug": "ntungamo-ug4129"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.831",
+    "lon": "30.13"
+  },
+  "metadata": {},
+  "source": {}
+}

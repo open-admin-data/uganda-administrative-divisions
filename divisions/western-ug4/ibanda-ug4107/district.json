@@ -1,0 +1,48 @@
+{
+  "id": "UG4107",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ibanda",
+    "en": "Ibanda",
+    "slug": "ibanda-ug4107"
+  },
+  "code": {
+    "id": "UG4107",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.062",
+    "lon": "30.492"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "UG206201",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Soroti",
+    "en": "Soroti",
+    "slug": "soroti-ug206201"
+  },
+  "code": {
+    "id": "UG206201",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2062",
+    "level": 2,
+    "name": {
+      "local": "Soroti",
+      "en": "Soroti",
+      "slug": "soroti-ug2062"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2062",
+      "level": 2,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug2062"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.788",
+    "lon": "33.607"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG20390201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulamogi",
+      "en": "Bulamogi",
+      "slug": "bulamogi"
+    },
+    "code": {
+      "id": "UG20390201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.602",
+      "lon": "33.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabitende",
+      "en": "Nabitende",
+      "slug": "nabitende"
+    },
+    "code": {
+      "id": "UG20390202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.802",
+      "lon": "33.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakalama",
+      "en": "Nakalama",
+      "slug": "nakalama"
+    },
+    "code": {
+      "id": "UG20390203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.679",
+      "lon": "33.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakigo",
+      "en": "Nakigo",
+      "slug": "nakigo"
+    },
+    "code": {
+      "id": "UG20390204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.588",
+      "lon": "33.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nambale",
+      "en": "Nambale",
+      "slug": "nambale"
+    },
+    "code": {
+      "id": "UG20390205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.81",
+      "lon": "33.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namungalwe",
+      "en": "Namungalwe",
+      "slug": "namungalwe"
+    },
+    "code": {
+      "id": "UG20390206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.71",
+      "lon": "33.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawandala",
+      "en": "Nawandala",
+      "slug": "nawandala"
+    },
+    "code": {
+      "id": "UG20390207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.848",
+      "lon": "33.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawanyingi",
+      "en": "Nawanyingi",
+      "slug": "nawanyingi"
+    },
+    "code": {
+      "id": "UG20390208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203902",
+      "level": 3,
+      "name": {
+        "local": "Kigulu",
+        "en": "Kigulu",
+        "slug": "kigulu-ug203902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203902",
+        "level": 3,
+        "name": {
+          "local": "Kigulu",
+          "en": "Kigulu",
+          "slug": "kigulu-ug203902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.671",
+      "lon": "33.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

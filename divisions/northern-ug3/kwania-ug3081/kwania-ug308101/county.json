@@ -1,0 +1,56 @@
+{
+  "id": "UG308101",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kwania",
+    "en": "Kwania",
+    "slug": "kwania-ug308101"
+  },
+  "code": {
+    "id": "UG308101",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3081",
+    "level": 2,
+    "name": {
+      "local": "Kwania",
+      "en": "Kwania",
+      "slug": "kwania-ug3081"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3081",
+      "level": 2,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug3081"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.901",
+    "lon": "32.774"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "UG3099",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yumbe",
+    "en": "Yumbe",
+    "slug": "yumbe-ug3099"
+  },
+  "code": {
+    "id": "UG3099",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.488",
+    "lon": "31.285"
+  },
+  "metadata": {},
+  "source": {}
+}

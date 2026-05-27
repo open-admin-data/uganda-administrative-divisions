@@ -1,0 +1,56 @@
+{
+  "id": "UG204101",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kaberamaido",
+    "en": "Kaberamaido",
+    "slug": "kaberamaido-ug204101"
+  },
+  "code": {
+    "id": "UG204101",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2041",
+    "level": 2,
+    "name": {
+      "local": "Kaberamaido",
+      "en": "Kaberamaido",
+      "slug": "kaberamaido-ug2041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2041",
+      "level": 2,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug2041"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.685",
+    "lon": "33.117"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG41260101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Biharwe Division",
+      "en": "Biharwe Division",
+      "slug": "biharwe-division"
+    },
+    "code": {
+      "id": "UG41260101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.542",
+      "lon": "30.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubaare",
+      "en": "Bubaare",
+      "slug": "bubaare"
+    },
+    "code": {
+      "id": "UG41260102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.553",
+      "lon": "30.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukiro",
+      "en": "Bukiro",
+      "slug": "bukiro"
+    },
+    "code": {
+      "id": "UG41260103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.435",
+      "lon": "30.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagongi",
+      "en": "Kagongi",
+      "slug": "kagongi"
+    },
+    "code": {
+      "id": "UG41260104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.258",
+      "lon": "30.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakiika Division",
+      "en": "Kakiika Division",
+      "slug": "kakiika-division"
+    },
+    "code": {
+      "id": "UG41260105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.562",
+      "lon": "30.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashare",
+      "en": "Kashare",
+      "slug": "kashare"
+    },
+    "code": {
+      "id": "UG41260106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.346",
+      "lon": "30.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakayojo Division",
+      "en": "Nyakayojo Division",
+      "slug": "nyakayojo-division"
+    },
+    "code": {
+      "id": "UG41260107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.678",
+      "lon": "30.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubaya",
+      "en": "Rubaya",
+      "slug": "rubaya"
+    },
+    "code": {
+      "id": "UG41260108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.449",
+      "lon": "30.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubindi",
+      "en": "Rubindi",
+      "slug": "rubindi"
+    },
+    "code": {
+      "id": "UG41260109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.346",
+      "lon": "30.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwanyamahembe",
+      "en": "Rwanyamahembe",
+      "slug": "rwanyamahembe"
+    },
+    "code": {
+      "id": "UG41260110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412601",
+      "level": 3,
+      "name": {
+        "local": "Kashari",
+        "en": "Kashari",
+        "slug": "kashari-ug412601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412601",
+        "level": 3,
+        "name": {
+          "local": "Kashari",
+          "en": "Kashari",
+          "slug": "kashari-ug412601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.452",
+      "lon": "30.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

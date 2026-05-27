@@ -1,0 +1,56 @@
+{
+  "id": "UG100601",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bujumba",
+    "en": "Bujumba",
+    "slug": "bujumba-ug100601"
+  },
+  "code": {
+    "id": "UG100601",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1006",
+    "level": 2,
+    "name": {
+      "local": "Kalangala",
+      "en": "Kalangala",
+      "slug": "kalangala-ug1006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1006",
+      "level": 2,
+      "name": {
+        "local": "Kalangala",
+        "en": "Kalangala",
+        "slug": "kalangala-ug1006"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.356",
+    "lon": "32.188"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "UG411401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kinkizi",
+    "en": "Kinkizi",
+    "slug": "kinkizi-ug411401"
+  },
+  "code": {
+    "id": "UG411401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4114",
+    "level": 2,
+    "name": {
+      "local": "Kanungu",
+      "en": "Kanungu",
+      "slug": "kanungu-ug4114"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4114",
+      "level": 2,
+      "name": {
+        "local": "Kanungu",
+        "en": "Kanungu",
+        "slug": "kanungu-ug4114"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.708",
+    "lon": "29.714"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG10150101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisekka",
+      "en": "Kisekka",
+      "slug": "kisekka"
+    },
+    "code": {
+      "id": "UG10150101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.413",
+      "lon": "31.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kkingo",
+      "en": "Kkingo",
+      "slug": "kkingo"
+    },
+    "code": {
+      "id": "UG10150102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.342",
+      "lon": "31.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyazanga",
+      "en": "Kyazanga",
+      "slug": "kyazanga"
+    },
+    "code": {
+      "id": "UG10150103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.462",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyazanga Town Council",
+      "en": "Kyazanga Town Council",
+      "slug": "kyazanga-town-council"
+    },
+    "code": {
+      "id": "UG10150104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.391",
+      "lon": "31.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwengo",
+      "en": "Lwengo",
+      "slug": "lwengo"
+    },
+    "code": {
+      "id": "UG10150105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.41",
+      "lon": "31.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwengo Town Council",
+      "en": "Lwengo Town Council",
+      "slug": "lwengo-town-council"
+    },
+    "code": {
+      "id": "UG10150106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.394",
+      "lon": "31.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Malongo",
+      "en": "Malongo",
+      "slug": "malongo"
+    },
+    "code": {
+      "id": "UG10150107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.381",
+      "lon": "31.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10150108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ndagwe",
+      "en": "Ndagwe",
+      "slug": "ndagwe"
+    },
+    "code": {
+      "id": "UG10150108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101501",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1015",
+        "level": 2,
+        "name": {
+          "local": "Lwengo",
+          "en": "Lwengo",
+          "slug": "lwengo-ug1015"
+        }
+      },
+      {
+        "id": "UG101501",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.53",
+      "lon": "31.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

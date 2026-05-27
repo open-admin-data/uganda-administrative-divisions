@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG413501",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sheema",
+      "en": "Sheema",
+      "slug": "sheema-ug413501"
+    },
+    "code": {
+      "id": "UG413501",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4135",
+      "level": 2,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug4135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.691",
+      "lon": "30.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG413502",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sheema Municipality",
+      "en": "Sheema Municipality",
+      "slug": "sheema-municipality-ug413502"
+    },
+    "code": {
+      "id": "UG413502",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4135",
+      "level": 2,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug4135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.604",
+      "lon": "30.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

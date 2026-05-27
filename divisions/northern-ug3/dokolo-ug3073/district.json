@@ -1,0 +1,48 @@
+{
+  "id": "UG3073",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dokolo",
+    "en": "Dokolo",
+    "slug": "dokolo-ug3073"
+  },
+  "code": {
+    "id": "UG3073",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.907",
+    "lon": "33.076"
+  },
+  "metadata": {},
+  "source": {}
+}

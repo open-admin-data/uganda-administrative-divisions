@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20490201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Divison",
+      "en": "Northern Divison",
+      "slug": "northern-divison"
+    },
+    "code": {
+      "id": "UG20490201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204902",
+      "level": 3,
+      "name": {
+        "local": "Kumi Municipality",
+        "en": "Kumi Municipality",
+        "slug": "kumi-municipality-ug204902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204902",
+        "level": 3,
+        "name": {
+          "local": "Kumi Municipality",
+          "en": "Kumi Municipality",
+          "slug": "kumi-municipality-ug204902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.508",
+      "lon": "33.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG20490202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204902",
+      "level": 3,
+      "name": {
+        "local": "Kumi Municipality",
+        "en": "Kumi Municipality",
+        "slug": "kumi-municipality-ug204902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204902",
+        "level": 3,
+        "name": {
+          "local": "Kumi Municipality",
+          "en": "Kumi Municipality",
+          "slug": "kumi-municipality-ug204902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.457",
+      "lon": "33.946"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG30730101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adeknino",
+      "en": "Adeknino",
+      "slug": "adeknino"
+    },
+    "code": {
+      "id": "UG30730101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.766",
+      "lon": "33.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adok",
+      "en": "Adok",
+      "slug": "adok"
+    },
+    "code": {
+      "id": "UG30730102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.011",
+      "lon": "32.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agwata",
+      "en": "Agwata",
+      "slug": "agwata"
+    },
+    "code": {
+      "id": "UG30730103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.964",
+      "lon": "33.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amwoma",
+      "en": "Amwoma",
+      "slug": "amwoma"
+    },
+    "code": {
+      "id": "UG30730104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.976",
+      "lon": "33.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Batta",
+      "en": "Batta",
+      "slug": "batta"
+    },
+    "code": {
+      "id": "UG30730105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.053",
+      "lon": "33.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dokolo",
+      "en": "Dokolo",
+      "slug": "dokolo"
+    },
+    "code": {
+      "id": "UG30730106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.974",
+      "lon": "33.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dokolo Tc",
+      "en": "Dokolo Tc",
+      "slug": "dokolo-tc"
+    },
+    "code": {
+      "id": "UG30730107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.91",
+      "lon": "33.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kangai",
+      "en": "Kangai",
+      "slug": "kangai"
+    },
+    "code": {
+      "id": "UG30730108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.837",
+      "lon": "33.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kwera",
+      "en": "Kwera",
+      "slug": "kwera"
+    },
+    "code": {
+      "id": "UG30730109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.851",
+      "lon": "32.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okwalongwen",
+      "en": "Okwalongwen",
+      "slug": "okwalongwen"
+    },
+    "code": {
+      "id": "UG30730110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.033",
+      "lon": "33.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30730111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okwongodul",
+      "en": "Okwongodul",
+      "slug": "okwongodul"
+    },
+    "code": {
+      "id": "UG30730111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307301",
+      "level": 3,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug307301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      },
+      {
+        "id": "UG307301",
+        "level": 3,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug307301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.895",
+      "lon": "33.07"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UG20560101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubutu",
+      "en": "Bubutu",
+      "slug": "bubutu"
+    },
+    "code": {
+      "id": "UG20560101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.818",
+      "lon": "34.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukhabusi",
+      "en": "Bukhabusi",
+      "slug": "bukhabusi"
+    },
+    "code": {
+      "id": "UG20560102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.945",
+      "lon": "34.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukhaweka",
+      "en": "Bukhaweka",
+      "slug": "bukhaweka"
+    },
+    "code": {
+      "id": "UG20560103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.92",
+      "lon": "34.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukiabi",
+      "en": "Bukiabi",
+      "slug": "bukiabi"
+    },
+    "code": {
+      "id": "UG20560104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.829",
+      "lon": "34.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukokho",
+      "en": "Bukokho",
+      "slug": "bukokho"
+    },
+    "code": {
+      "id": "UG20560105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.873",
+      "lon": "34.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumbo",
+      "en": "Bumbo",
+      "slug": "bumbo"
+    },
+    "code": {
+      "id": "UG20560106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.878",
+      "lon": "34.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumwoni",
+      "en": "Bumwoni",
+      "slug": "bumwoni"
+    },
+    "code": {
+      "id": "UG20560107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.829",
+      "lon": "34.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bupoto",
+      "en": "Bupoto",
+      "slug": "bupoto"
+    },
+    "code": {
+      "id": "UG20560108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.898",
+      "lon": "34.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwabwala",
+      "en": "Buwabwala",
+      "slug": "buwabwala"
+    },
+    "code": {
+      "id": "UG20560109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.93",
+      "lon": "34.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwakhakha Town Council",
+      "en": "Lwakhakha Town Council",
+      "slug": "lwakhakha-town-council"
+    },
+    "code": {
+      "id": "UG20560110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.794",
+      "lon": "34.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magale",
+      "en": "Magale",
+      "slug": "magale"
+    },
+    "code": {
+      "id": "UG20560111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.863",
+      "lon": "34.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magale Town Council",
+      "en": "Magale Town Council",
+      "slug": "magale-town-council"
+    },
+    "code": {
+      "id": "UG20560112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "34.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mukoto",
+      "en": "Mukoto",
+      "slug": "mukoto"
+    },
+    "code": {
+      "id": "UG20560113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.947",
+      "lon": "34.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namabya",
+      "en": "Namabya",
+      "slug": "namabya"
+    },
+    "code": {
+      "id": "UG20560114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.899",
+      "lon": "34.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namboko",
+      "en": "Namboko",
+      "slug": "namboko"
+    },
+    "code": {
+      "id": "UG20560115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "34.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namisindwa Town Council",
+      "en": "Namisindwa Town Council",
+      "slug": "namisindwa-town-council"
+    },
+    "code": {
+      "id": "UG20560116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "34.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20560117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tsekululu",
+      "en": "Tsekululu",
+      "slug": "tsekululu"
+    },
+    "code": {
+      "id": "UG20560117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205601",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2056",
+        "level": 2,
+        "name": {
+          "local": "Namisindwa",
+          "en": "Namisindwa",
+          "slug": "namisindwa-ug2056"
+        }
+      },
+      {
+        "id": "UG205601",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.959",
+      "lon": "34.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

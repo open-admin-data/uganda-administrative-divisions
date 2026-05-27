@@ -1,0 +1,56 @@
+{
+  "id": "UG101803",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mityana",
+    "en": "Mityana",
+    "slug": "mityana-ug101803"
+  },
+  "code": {
+    "id": "UG101803",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1018",
+    "level": 2,
+    "name": {
+      "local": "Mityana",
+      "en": "Mityana",
+      "slug": "mityana-ug1018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1018",
+      "level": 2,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug1018"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.536",
+    "lon": "32.058"
+  },
+  "metadata": {},
+  "source": {}
+}

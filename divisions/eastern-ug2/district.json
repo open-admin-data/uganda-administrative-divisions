@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "UG2027",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amuria",
+      "en": "Amuria",
+      "slug": "amuria-ug2027"
+    },
+    "code": {
+      "id": "UG2027",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.981",
+      "lon": "33.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2028",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Budaka",
+      "en": "Budaka",
+      "slug": "budaka-ug2028"
+    },
+    "code": {
+      "id": "UG2028",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.064",
+      "lon": "34.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2029",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bududa",
+      "en": "Bududa",
+      "slug": "bududa-ug2029"
+    },
+    "code": {
+      "id": "UG2029",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.026",
+      "lon": "34.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2030",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bugiri",
+      "en": "Bugiri",
+      "slug": "bugiri-ug2030"
+    },
+    "code": {
+      "id": "UG2030",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.519",
+      "lon": "33.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2031",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bugweri",
+      "en": "Bugweri",
+      "slug": "bugweri-ug2031"
+    },
+    "code": {
+      "id": "UG2031",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.622",
+      "lon": "33.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2032",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukedea",
+      "en": "Bukedea",
+      "slug": "bukedea-ug2032"
+    },
+    "code": {
+      "id": "UG2032",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.369",
+      "lon": "34.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2033",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukwo",
+      "en": "Bukwo",
+      "slug": "bukwo-ug2033"
+    },
+    "code": {
+      "id": "UG2033",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "34.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2034",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulambuli",
+      "en": "Bulambuli",
+      "slug": "bulambuli-ug2034"
+    },
+    "code": {
+      "id": "UG2034",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.348",
+      "lon": "34.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2035",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Busia",
+      "en": "Busia",
+      "slug": "busia-ug2035"
+    },
+    "code": {
+      "id": "UG2035",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.391",
+      "lon": "34.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2036",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Butaleja",
+      "en": "Butaleja",
+      "slug": "butaleja-ug2036"
+    },
+    "code": {
+      "id": "UG2036",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.866",
+      "lon": "33.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2037",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Butebo",
+      "en": "Butebo",
+      "slug": "butebo-ug2037"
+    },
+    "code": {
+      "id": "UG2037",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.172",
+      "lon": "34.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2038",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buyende",
+      "en": "Buyende",
+      "slug": "buyende-ug2038"
+    },
+    "code": {
+      "id": "UG2038",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.233",
+      "lon": "33.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2039",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Iganga",
+      "en": "Iganga",
+      "slug": "iganga-ug2039"
+    },
+    "code": {
+      "id": "UG2039",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.722",
+      "lon": "33.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2040",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinja",
+      "en": "Jinja",
+      "slug": "jinja-ug2040"
+    },
+    "code": {
+      "id": "UG2040",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.544",
+      "lon": "33.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2041",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaberamaido",
+      "en": "Kaberamaido",
+      "slug": "kaberamaido-ug2041"
+    },
+    "code": {
+      "id": "UG2041",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.685",
+      "lon": "33.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2042",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalaki",
+      "en": "Kalaki",
+      "slug": "kalaki-ug2042"
+    },
+    "code": {
+      "id": "UG2042",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.83",
+      "lon": "33.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2043",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaliro",
+      "en": "Kaliro",
+      "slug": "kaliro-ug2043"
+    },
+    "code": {
+      "id": "UG2043",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.08",
+      "lon": "33.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2044",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamuli",
+      "en": "Kamuli",
+      "slug": "kamuli-ug2044"
+    },
+    "code": {
+      "id": "UG2044",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.94",
+      "lon": "33.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2045",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapchorwa",
+      "en": "Kapchorwa",
+      "slug": "kapchorwa-ug2045"
+    },
+    "code": {
+      "id": "UG2045",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.328",
+      "lon": "34.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2046",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapelebyong",
+      "en": "Kapelebyong",
+      "slug": "kapelebyong-ug2046"
+    },
+    "code": {
+      "id": "UG2046",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.195",
+      "lon": "33.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2047",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katakwi",
+      "en": "Katakwi",
+      "slug": "katakwi-ug2047"
+    },
+    "code": {
+      "id": "UG2047",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.971",
+      "lon": "34.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2048",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kibuku",
+      "en": "Kibuku",
+      "slug": "kibuku-ug2048"
+    },
+    "code": {
+      "id": "UG2048",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.055",
+      "lon": "33.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2049",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kumi",
+      "en": "Kumi",
+      "slug": "kumi-ug2049"
+    },
+    "code": {
+      "id": "UG2049",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.456",
+      "lon": "33.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2050",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kween",
+      "en": "Kween",
+      "slug": "kween-ug2050"
+    },
+    "code": {
+      "id": "UG2050",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.351",
+      "lon": "34.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2051",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luuka",
+      "en": "Luuka",
+      "slug": "luuka-ug2051"
+    },
+    "code": {
+      "id": "UG2051",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.818",
+      "lon": "33.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2052",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manafwa",
+      "en": "Manafwa",
+      "slug": "manafwa-ug2052"
+    },
+    "code": {
+      "id": "UG2052",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "34.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2053",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayuge",
+      "en": "Mayuge",
+      "slug": "mayuge-ug2053"
+    },
+    "code": {
+      "id": "UG2053",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.193",
+      "lon": "33.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2054",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbale",
+      "en": "Mbale",
+      "slug": "mbale-ug2054"
+    },
+    "code": {
+      "id": "UG2054",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.002",
+      "lon": "34.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2055",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namayingo",
+      "en": "Namayingo",
+      "slug": "namayingo-ug2055"
+    },
+    "code": {
+      "id": "UG2055",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.27",
+      "lon": "33.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2056",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namisindwa",
+      "en": "Namisindwa",
+      "slug": "namisindwa-ug2056"
+    },
+    "code": {
+      "id": "UG2056",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.864",
+      "lon": "34.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2057",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namutumba",
+      "en": "Namutumba",
+      "slug": "namutumba-ug2057"
+    },
+    "code": {
+      "id": "UG2057",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "33.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2058",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngora",
+      "en": "Ngora",
+      "slug": "ngora-ug2058"
+    },
+    "code": {
+      "id": "UG2058",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.496",
+      "lon": "33.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2059",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pallisa",
+      "en": "Pallisa",
+      "slug": "pallisa-ug2059"
+    },
+    "code": {
+      "id": "UG2059",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.217",
+      "lon": "33.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2060",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Serere",
+      "en": "Serere",
+      "slug": "serere-ug2060"
+    },
+    "code": {
+      "id": "UG2060",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.492",
+      "lon": "33.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2061",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sironko",
+      "en": "Sironko",
+      "slug": "sironko-ug2061"
+    },
+    "code": {
+      "id": "UG2061",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.188",
+      "lon": "34.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2062",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soroti",
+      "en": "Soroti",
+      "slug": "soroti-ug2062"
+    },
+    "code": {
+      "id": "UG2062",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.788",
+      "lon": "33.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2063",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tororo",
+      "en": "Tororo",
+      "slug": "tororo-ug2063"
+    },
+    "code": {
+      "id": "UG2063",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.739",
+      "lon": "34.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

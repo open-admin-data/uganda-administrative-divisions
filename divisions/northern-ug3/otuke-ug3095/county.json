@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG309501",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Otuke",
+      "en": "Otuke",
+      "slug": "otuke-ug309501"
+    },
+    "code": {
+      "id": "UG309501",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3095",
+      "level": 2,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug3095"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.476",
+      "lon": "33.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

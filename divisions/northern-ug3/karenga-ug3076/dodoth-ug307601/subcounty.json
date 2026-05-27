@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG30760114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapedo",
+      "en": "Kapedo",
+      "slug": "kapedo"
+    },
+    "code": {
+      "id": "UG30760114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.672",
+      "lon": "33.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karenga Town Council",
+      "en": "Karenga Town Council",
+      "slug": "karenga-town-council"
+    },
+    "code": {
+      "id": "UG30760115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.587",
+      "lon": "33.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kawalakol",
+      "en": "Kawalakol",
+      "slug": "kawalakol"
+    },
+    "code": {
+      "id": "UG30760116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.895",
+      "lon": "33.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lobalangit",
+      "en": "Lobalangit",
+      "slug": "lobalangit"
+    },
+    "code": {
+      "id": "UG30760117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.436",
+      "lon": "33.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lokori",
+      "en": "Lokori",
+      "slug": "lokori"
+    },
+    "code": {
+      "id": "UG30760118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.738",
+      "lon": "33.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Napore Karenga",
+      "en": "Napore Karenga",
+      "slug": "napore-karenga"
+    },
+    "code": {
+      "id": "UG30760119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.653",
+      "lon": "33.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30760120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sangar",
+      "en": "Sangar",
+      "slug": "sangar"
+    },
+    "code": {
+      "id": "UG30760120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307601",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3076",
+        "level": 2,
+        "name": {
+          "local": "Karenga",
+          "en": "Karenga",
+          "slug": "karenga-ug3076"
+        }
+      },
+      {
+        "id": "UG307601",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.561",
+      "lon": "33.911"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

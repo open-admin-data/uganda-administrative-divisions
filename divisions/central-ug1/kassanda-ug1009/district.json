@@ -1,0 +1,48 @@
+{
+  "id": "UG1009",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kassanda",
+    "en": "Kassanda",
+    "slug": "kassanda-ug1009"
+  },
+  "code": {
+    "id": "UG1009",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.531",
+    "lon": "31.763"
+  },
+  "metadata": {},
+  "source": {}
+}

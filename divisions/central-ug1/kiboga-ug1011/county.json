@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG101101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kiboga",
+      "en": "Kiboga",
+      "slug": "kiboga-ug101101"
+    },
+    "code": {
+      "id": "UG101101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1011",
+      "level": 2,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug1011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.855",
+      "lon": "31.929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

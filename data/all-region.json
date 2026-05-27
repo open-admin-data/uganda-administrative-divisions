@@ -1,0 +1,126 @@
+[
+  {
+    "id": "UG1",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    },
+    "code": {
+      "id": "UG1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 26,
+      "subcounty": 268,
+      "county": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.336",
+      "lon": "32.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG2",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    },
+    "code": {
+      "id": "UG2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 37,
+      "subcounty": 454,
+      "county": 54
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.709",
+      "lon": "33.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    },
+    "code": {
+      "id": "UG3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 37,
+      "subcounty": 339,
+      "county": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.798",
+      "lon": "32.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    },
+    "code": {
+      "id": "UG4",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 35,
+      "subcounty": 459,
+      "county": 54
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.444",
+      "lon": "30.526"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

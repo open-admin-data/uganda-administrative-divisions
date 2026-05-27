@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41130101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Biguli",
+      "en": "Biguli",
+      "slug": "biguli"
+    },
+    "code": {
+      "id": "UG41130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.354",
+      "lon": "30.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bihanga",
+      "en": "Bihanga",
+      "slug": "bihanga"
+    },
+    "code": {
+      "id": "UG41130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.244",
+      "lon": "30.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busiriba",
+      "en": "Busiriba",
+      "slug": "busiriba"
+    },
+    "code": {
+      "id": "UG41130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.459",
+      "lon": "30.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwizi",
+      "en": "Bwizi",
+      "slug": "bwizi"
+    },
+    "code": {
+      "id": "UG41130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.398",
+      "lon": "30.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabambiro",
+      "en": "Kabambiro",
+      "slug": "kabambiro"
+    },
+    "code": {
+      "id": "UG41130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.155",
+      "lon": "30.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kahunge",
+      "en": "Kahunge",
+      "slug": "kahunge"
+    },
+    "code": {
+      "id": "UG41130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.306",
+      "lon": "30.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kahunge Town Council",
+      "en": "Kahunge Town Council",
+      "slug": "kahunge-town-council"
+    },
+    "code": {
+      "id": "UG41130107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.329",
+      "lon": "30.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamwenge",
+      "en": "Kamwenge",
+      "slug": "kamwenge"
+    },
+    "code": {
+      "id": "UG41130108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.218",
+      "lon": "30.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamwenge Town Council",
+      "en": "Kamwenge Town Council",
+      "slug": "kamwenge-town-council"
+    },
+    "code": {
+      "id": "UG41130109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.18",
+      "lon": "30.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkoma",
+      "en": "Nkoma",
+      "slug": "nkoma"
+    },
+    "code": {
+      "id": "UG41130110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.249",
+      "lon": "30.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41130111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkoma Town Council",
+      "en": "Nkoma Town Council",
+      "slug": "nkoma-town-council"
+    },
+    "code": {
+      "id": "UG41130111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411301",
+      "level": 3,
+      "name": {
+        "local": "Kibale",
+        "en": "Kibale",
+        "slug": "kibale-ug411301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4113",
+        "level": 2,
+        "name": {
+          "local": "Kamwenge",
+          "en": "Kamwenge",
+          "slug": "kamwenge-ug4113"
+        }
+      },
+      {
+        "id": "UG411301",
+        "level": 3,
+        "name": {
+          "local": "Kibale",
+          "en": "Kibale",
+          "slug": "kibale-ug411301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.338",
+      "lon": "30.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

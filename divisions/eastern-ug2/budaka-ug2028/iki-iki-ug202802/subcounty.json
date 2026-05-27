@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20280201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Iki-Iki",
+      "en": "Iki-Iki",
+      "slug": "iki-iki"
+    },
+    "code": {
+      "id": "UG20280201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.096",
+      "lon": "33.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kachomo",
+      "en": "Kachomo",
+      "slug": "kachomo"
+    },
+    "code": {
+      "id": "UG20280202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.124",
+      "lon": "33.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kameruka",
+      "en": "Kameruka",
+      "slug": "kameruka"
+    },
+    "code": {
+      "id": "UG20280203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.153",
+      "lon": "33.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamonkoli",
+      "en": "Kamonkoli",
+      "slug": "kamonkoli"
+    },
+    "code": {
+      "id": "UG20280204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.086",
+      "lon": "34.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katiira",
+      "en": "Katiira",
+      "slug": "katiira"
+    },
+    "code": {
+      "id": "UG20280205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.107",
+      "lon": "34.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mugiti",
+      "en": "Mugiti",
+      "slug": "mugiti"
+    },
+    "code": {
+      "id": "UG20280206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202802",
+      "level": 3,
+      "name": {
+        "local": "Iki-Iki",
+        "en": "Iki-Iki",
+        "slug": "iki-iki-ug202802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202802",
+        "level": 3,
+        "name": {
+          "local": "Iki-Iki",
+          "en": "Iki-Iki",
+          "slug": "iki-iki-ug202802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.092",
+      "lon": "34.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

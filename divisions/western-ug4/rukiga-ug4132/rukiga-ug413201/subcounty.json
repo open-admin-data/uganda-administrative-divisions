@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG41320101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukinda",
+      "en": "Bukinda",
+      "slug": "bukinda"
+    },
+    "code": {
+      "id": "UG41320101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.152",
+      "lon": "30.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41320102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamwezi",
+      "en": "Kamwezi",
+      "slug": "kamwezi"
+    },
+    "code": {
+      "id": "UG41320102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "30.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41320103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashambya",
+      "en": "Kashambya",
+      "slug": "kashambya"
+    },
+    "code": {
+      "id": "UG41320103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.073",
+      "lon": "29.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41320104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mparo Twon Council",
+      "en": "Mparo Twon Council",
+      "slug": "mparo-twon-council"
+    },
+    "code": {
+      "id": "UG41320104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.171",
+      "lon": "30.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41320105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muhanga Town Council",
+      "en": "Muhanga Town Council",
+      "slug": "muhanga-town-council"
+    },
+    "code": {
+      "id": "UG41320105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.195",
+      "lon": "30.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41320106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwamucucu",
+      "en": "Rwamucucu",
+      "slug": "rwamucucu"
+    },
+    "code": {
+      "id": "UG41320106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413201",
+      "level": 3,
+      "name": {
+        "local": "Rukiga",
+        "en": "Rukiga",
+        "slug": "rukiga-ug413201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4132",
+        "level": 2,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug4132"
+        }
+      },
+      {
+        "id": "UG413201",
+        "level": 3,
+        "name": {
+          "local": "Rukiga",
+          "en": "Rukiga",
+          "slug": "rukiga-ug413201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.144",
+      "lon": "30.036"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

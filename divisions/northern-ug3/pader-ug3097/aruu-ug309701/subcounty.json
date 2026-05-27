@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG30970101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Acholibur",
+      "en": "Acholibur",
+      "slug": "acholibur"
+    },
+    "code": {
+      "id": "UG30970101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.107",
+      "lon": "32.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Angagura",
+      "en": "Angagura",
+      "slug": "angagura"
+    },
+    "code": {
+      "id": "UG30970102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.034",
+      "lon": "32.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atanga",
+      "en": "Atanga",
+      "slug": "atanga"
+    },
+    "code": {
+      "id": "UG30970103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.925",
+      "lon": "32.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Awere",
+      "en": "Awere",
+      "slug": "awere"
+    },
+    "code": {
+      "id": "UG30970104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.721",
+      "lon": "32.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Laguti",
+      "en": "Laguti",
+      "slug": "laguti"
+    },
+    "code": {
+      "id": "UG30970105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.034",
+      "lon": "32.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lapul",
+      "en": "Lapul",
+      "slug": "lapul"
+    },
+    "code": {
+      "id": "UG30970106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.912",
+      "lon": "32.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Latanya",
+      "en": "Latanya",
+      "slug": "latanya"
+    },
+    "code": {
+      "id": "UG30970107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.146",
+      "lon": "32.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ogom",
+      "en": "Ogom",
+      "slug": "ogom"
+    },
+    "code": {
+      "id": "UG30970108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.929",
+      "lon": "33.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pader",
+      "en": "Pader",
+      "slug": "pader"
+    },
+    "code": {
+      "id": "UG30970109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.794",
+      "lon": "32.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pader Town Council",
+      "en": "Pader Town Council",
+      "slug": "pader-town-council"
+    },
+    "code": {
+      "id": "UG30970110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.878",
+      "lon": "33.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pajule",
+      "en": "Pajule",
+      "slug": "pajule"
+    },
+    "code": {
+      "id": "UG30970111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.959",
+      "lon": "32.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30970112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Puranga",
+      "en": "Puranga",
+      "slug": "puranga"
+    },
+    "code": {
+      "id": "UG30970112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309701",
+      "level": 3,
+      "name": {
+        "local": "Aruu",
+        "en": "Aruu",
+        "slug": "aruu-ug309701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3097",
+        "level": 2,
+        "name": {
+          "local": "Pader",
+          "en": "Pader",
+          "slug": "pader-ug3097"
+        }
+      },
+      {
+        "id": "UG309701",
+        "level": 3,
+        "name": {
+          "local": "Aruu",
+          "en": "Aruu",
+          "slug": "aruu-ug309701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.633",
+      "lon": "32.99"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

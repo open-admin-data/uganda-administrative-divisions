@@ -1,0 +1,48 @@
+{
+  "id": "UG2042",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalaki",
+    "en": "Kalaki",
+    "slug": "kalaki-ug2042"
+  },
+  "code": {
+    "id": "UG2042",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.83",
+    "lon": "33.356"
+  },
+  "metadata": {},
+  "source": {}
+}

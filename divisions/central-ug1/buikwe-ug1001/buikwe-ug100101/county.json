@@ -1,0 +1,56 @@
+{
+  "id": "UG100101",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Buikwe",
+    "en": "Buikwe",
+    "slug": "buikwe-ug100101"
+  },
+  "code": {
+    "id": "UG100101",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1001",
+    "level": 2,
+    "name": {
+      "local": "Buikwe",
+      "en": "Buikwe",
+      "slug": "buikwe-ug1001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.209",
+    "lon": "33.022"
+  },
+  "metadata": {},
+  "source": {}
+}

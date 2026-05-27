@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG20360101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budumba",
+      "en": "Budumba",
+      "slug": "budumba"
+    },
+    "code": {
+      "id": "UG20360101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.789",
+      "lon": "33.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busaba",
+      "en": "Busaba",
+      "slug": "busaba"
+    },
+    "code": {
+      "id": "UG20360102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.874",
+      "lon": "33.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busabi",
+      "en": "Busabi",
+      "slug": "busabi"
+    },
+    "code": {
+      "id": "UG20360103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.748",
+      "lon": "33.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busolwe",
+      "en": "Busolwe",
+      "slug": "busolwe"
+    },
+    "code": {
+      "id": "UG20360104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.818",
+      "lon": "33.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busolwe Town Council",
+      "en": "Busolwe Town Council",
+      "slug": "busolwe-town-council"
+    },
+    "code": {
+      "id": "UG20360105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.841",
+      "lon": "33.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butaleja",
+      "en": "Butaleja",
+      "slug": "butaleja"
+    },
+    "code": {
+      "id": "UG20360106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "33.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butaleja Town Council",
+      "en": "Butaleja Town Council",
+      "slug": "butaleja-town-council"
+    },
+    "code": {
+      "id": "UG20360107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.92",
+      "lon": "33.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Himutu",
+      "en": "Himutu",
+      "slug": "himutu"
+    },
+    "code": {
+      "id": "UG20360108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "34.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kachonga",
+      "en": "Kachonga",
+      "slug": "kachonga"
+    },
+    "code": {
+      "id": "UG20360109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "34.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mazimasa",
+      "en": "Mazimasa",
+      "slug": "mazimasa"
+    },
+    "code": {
+      "id": "UG20360110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.958",
+      "lon": "34.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawanjofu",
+      "en": "Nawanjofu",
+      "slug": "nawanjofu"
+    },
+    "code": {
+      "id": "UG20360111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.916",
+      "lon": "33.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20360112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Naweyo",
+      "en": "Naweyo",
+      "slug": "naweyo"
+    },
+    "code": {
+      "id": "UG20360112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203601",
+      "level": 3,
+      "name": {
+        "local": "Bunyole",
+        "en": "Bunyole",
+        "slug": "bunyole-ug203601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2036",
+        "level": 2,
+        "name": {
+          "local": "Butaleja",
+          "en": "Butaleja",
+          "slug": "butaleja-ug2036"
+        }
+      },
+      {
+        "id": "UG203601",
+        "level": 3,
+        "name": {
+          "local": "Bunyole",
+          "en": "Bunyole",
+          "slug": "bunyole-ug203601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.01",
+      "lon": "34.082"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

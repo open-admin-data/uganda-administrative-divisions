@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG20620201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG20620201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206202",
+      "level": 3,
+      "name": {
+        "local": "Soroti Municipality",
+        "en": "Soroti Municipality",
+        "slug": "soroti-municipality-ug206202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206202",
+        "level": 3,
+        "name": {
+          "local": "Soroti Municipality",
+          "en": "Soroti Municipality",
+          "slug": "soroti-municipality-ug206202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.736",
+      "lon": "33.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG20620202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206202",
+      "level": 3,
+      "name": {
+        "local": "Soroti Municipality",
+        "en": "Soroti Municipality",
+        "slug": "soroti-municipality-ug206202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206202",
+        "level": 3,
+        "name": {
+          "local": "Soroti Municipality",
+          "en": "Soroti Municipality",
+          "slug": "soroti-municipality-ug206202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.707",
+      "lon": "33.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG20620203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206202",
+      "level": 3,
+      "name": {
+        "local": "Soroti Municipality",
+        "en": "Soroti Municipality",
+        "slug": "soroti-municipality-ug206202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206202",
+        "level": 3,
+        "name": {
+          "local": "Soroti Municipality",
+          "en": "Soroti Municipality",
+          "slug": "soroti-municipality-ug206202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.711",
+      "lon": "33.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

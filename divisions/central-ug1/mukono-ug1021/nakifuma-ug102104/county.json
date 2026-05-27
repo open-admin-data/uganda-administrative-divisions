@@ -1,0 +1,56 @@
+{
+  "id": "UG102104",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nakifuma",
+    "en": "Nakifuma",
+    "slug": "nakifuma-ug102104"
+  },
+  "code": {
+    "id": "UG102104",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1021",
+    "level": 2,
+    "name": {
+      "local": "Mukono",
+      "en": "Mukono",
+      "slug": "mukono-ug1021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1021",
+      "level": 2,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug1021"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.611",
+    "lon": "32.842"
+  },
+  "metadata": {},
+  "source": {}
+}

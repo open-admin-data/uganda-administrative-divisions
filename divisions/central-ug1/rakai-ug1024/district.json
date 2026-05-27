@@ -1,0 +1,48 @@
+{
+  "id": "UG1024",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rakai",
+    "en": "Rakai",
+    "slug": "rakai-ug1024"
+  },
+  "code": {
+    "id": "UG1024",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.727",
+    "lon": "31.339"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30720401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ajia",
+      "en": "Ajia",
+      "slug": "ajia"
+    },
+    "code": {
+      "id": "UG30720401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307204",
+      "level": 3,
+      "name": {
+        "local": "Vurra",
+        "en": "Vurra",
+        "slug": "vurra-ug307204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307204",
+        "level": 3,
+        "name": {
+          "local": "Vurra",
+          "en": "Vurra",
+          "slug": "vurra-ug307204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.926",
+      "lon": "31.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720402",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arivu",
+      "en": "Arivu",
+      "slug": "arivu"
+    },
+    "code": {
+      "id": "UG30720402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307204",
+      "level": 3,
+      "name": {
+        "local": "Vurra",
+        "en": "Vurra",
+        "slug": "vurra-ug307204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307204",
+        "level": 3,
+        "name": {
+          "local": "Vurra",
+          "en": "Vurra",
+          "slug": "vurra-ug307204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.834",
+      "lon": "30.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720403",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Logiri",
+      "en": "Logiri",
+      "slug": "logiri"
+    },
+    "code": {
+      "id": "UG30720403",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307204",
+      "level": 3,
+      "name": {
+        "local": "Vurra",
+        "en": "Vurra",
+        "slug": "vurra-ug307204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307204",
+        "level": 3,
+        "name": {
+          "local": "Vurra",
+          "en": "Vurra",
+          "slug": "vurra-ug307204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.723",
+      "lon": "30.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720404",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Vurra",
+      "en": "Vurra",
+      "slug": "vurra"
+    },
+    "code": {
+      "id": "UG30720404",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307204",
+      "level": 3,
+      "name": {
+        "local": "Vurra",
+        "en": "Vurra",
+        "slug": "vurra-ug307204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307204",
+        "level": 3,
+        "name": {
+          "local": "Vurra",
+          "en": "Vurra",
+          "slug": "vurra-ug307204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.883",
+      "lon": "30.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

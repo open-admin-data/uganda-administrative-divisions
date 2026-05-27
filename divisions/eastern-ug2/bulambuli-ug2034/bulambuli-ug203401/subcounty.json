@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "UG20340101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buginyanya",
+      "en": "Buginyanya",
+      "slug": "buginyanya"
+    },
+    "code": {
+      "id": "UG20340101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.274",
+      "lon": "34.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukhalu",
+      "en": "Bukhalu",
+      "slug": "bukhalu"
+    },
+    "code": {
+      "id": "UG20340102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.313",
+      "lon": "34.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulaago",
+      "en": "Bulaago",
+      "slug": "bulaago"
+    },
+    "code": {
+      "id": "UG20340103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.207",
+      "lon": "34.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulambuli Town Council",
+      "en": "Bulambuli Town Council",
+      "slug": "bulambuli-town-council"
+    },
+    "code": {
+      "id": "UG20340104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.316",
+      "lon": "34.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulegeni",
+      "en": "Bulegeni",
+      "slug": "bulegeni"
+    },
+    "code": {
+      "id": "UG20340105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.301",
+      "lon": "34.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulegeni Town Council",
+      "en": "Bulegeni Town Council",
+      "slug": "bulegeni-town-council"
+    },
+    "code": {
+      "id": "UG20340106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.294",
+      "lon": "34.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buluganya",
+      "en": "Buluganya",
+      "slug": "buluganya"
+    },
+    "code": {
+      "id": "UG20340107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.224",
+      "lon": "34.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumasobo",
+      "en": "Bumasobo",
+      "slug": "bumasobo"
+    },
+    "code": {
+      "id": "UG20340108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.175",
+      "lon": "34.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumugibole",
+      "en": "Bumugibole",
+      "slug": "bumugibole"
+    },
+    "code": {
+      "id": "UG20340109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.223",
+      "lon": "34.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bunambutye",
+      "en": "Bunambutye",
+      "slug": "bunambutye"
+    },
+    "code": {
+      "id": "UG20340110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.483",
+      "lon": "34.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyaga Town Council",
+      "en": "Buyaga Town Council",
+      "slug": "buyaga-town-council"
+    },
+    "code": {
+      "id": "UG20340111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.271",
+      "lon": "34.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwikhonge",
+      "en": "Bwikhonge",
+      "slug": "bwikhonge"
+    },
+    "code": {
+      "id": "UG20340112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.432",
+      "lon": "34.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamu",
+      "en": "Kamu",
+      "slug": "kamu"
+    },
+    "code": {
+      "id": "UG20340113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.288",
+      "lon": "34.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lusha",
+      "en": "Lusha",
+      "slug": "lusha"
+    },
+    "code": {
+      "id": "UG20340114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.258",
+      "lon": "34.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masiira",
+      "en": "Masiira",
+      "slug": "masiira"
+    },
+    "code": {
+      "id": "UG20340115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.236",
+      "lon": "34.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muyembe",
+      "en": "Muyembe",
+      "slug": "muyembe"
+    },
+    "code": {
+      "id": "UG20340116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.327",
+      "lon": "34.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabbongo",
+      "en": "Nabbongo",
+      "slug": "nabbongo"
+    },
+    "code": {
+      "id": "UG20340117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.368",
+      "lon": "34.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namisuni",
+      "en": "Namisuni",
+      "slug": "namisuni"
+    },
+    "code": {
+      "id": "UG20340118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.294",
+      "lon": "34.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Simu",
+      "en": "Simu",
+      "slug": "simu"
+    },
+    "code": {
+      "id": "UG20340119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.238",
+      "lon": "34.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20340120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sisiyi",
+      "en": "Sisiyi",
+      "slug": "sisiyi"
+    },
+    "code": {
+      "id": "UG20340120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203401",
+      "level": 3,
+      "name": {
+        "local": "Bulambuli",
+        "en": "Bulambuli",
+        "slug": "bulambuli-ug203401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2034",
+        "level": 2,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug2034"
+        }
+      },
+      {
+        "id": "UG203401",
+        "level": 3,
+        "name": {
+          "local": "Bulambuli",
+          "en": "Bulambuli",
+          "slug": "bulambuli-ug203401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.269",
+      "lon": "34.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

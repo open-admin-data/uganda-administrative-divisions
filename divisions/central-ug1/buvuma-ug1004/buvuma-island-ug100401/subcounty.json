@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG10040101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugaya",
+      "en": "Bugaya",
+      "slug": "bugaya"
+    },
+    "code": {
+      "id": "UG10040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.697",
+      "lon": "33.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busamuzi",
+      "en": "Busamuzi",
+      "slug": "busamuzi"
+    },
+    "code": {
+      "id": "UG10040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.291",
+      "lon": "33.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buvuma Town Council",
+      "en": "Buvuma Town Council",
+      "slug": "buvuma-town-council"
+    },
+    "code": {
+      "id": "UG10040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "33.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwooya",
+      "en": "Buwooya",
+      "slug": "buwooya"
+    },
+    "code": {
+      "id": "UG10040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.277",
+      "lon": "33.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bweema",
+      "en": "Bweema",
+      "slug": "bweema"
+    },
+    "code": {
+      "id": "UG10040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.143",
+      "lon": "33.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lubya",
+      "en": "Lubya",
+      "slug": "lubya"
+    },
+    "code": {
+      "id": "UG10040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.386",
+      "lon": "33.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwajje",
+      "en": "Lwajje",
+      "slug": "lwajje"
+    },
+    "code": {
+      "id": "UG10040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.439",
+      "lon": "32.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lyabaana",
+      "en": "Lyabaana",
+      "slug": "lyabaana"
+    },
+    "code": {
+      "id": "UG10040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.698",
+      "lon": "33.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10040109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nairambi",
+      "en": "Nairambi",
+      "slug": "nairambi"
+    },
+    "code": {
+      "id": "UG10040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100401",
+      "level": 3,
+      "name": {
+        "local": "Buvuma Island",
+        "en": "Buvuma Island",
+        "slug": "buvuma-island-ug100401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1004",
+        "level": 2,
+        "name": {
+          "local": "Buvuma",
+          "en": "Buvuma",
+          "slug": "buvuma-ug1004"
+        }
+      },
+      {
+        "id": "UG100401",
+        "level": 3,
+        "name": {
+          "local": "Buvuma Island",
+          "en": "Buvuma Island",
+          "slug": "buvuma-island-ug100401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.161",
+      "lon": "33.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

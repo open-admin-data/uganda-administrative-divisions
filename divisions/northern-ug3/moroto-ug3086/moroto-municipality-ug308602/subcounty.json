@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG30860201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG30860201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308602",
+      "level": 3,
+      "name": {
+        "local": "Moroto Municipality",
+        "en": "Moroto Municipality",
+        "slug": "moroto-municipality-ug308602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308602",
+        "level": 3,
+        "name": {
+          "local": "Moroto Municipality",
+          "en": "Moroto Municipality",
+          "slug": "moroto-municipality-ug308602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.534",
+      "lon": "34.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30860202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Divison",
+      "en": "Southern Divison",
+      "slug": "southern-divison"
+    },
+    "code": {
+      "id": "UG30860202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308602",
+      "level": 3,
+      "name": {
+        "local": "Moroto Municipality",
+        "en": "Moroto Municipality",
+        "slug": "moroto-municipality-ug308602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308602",
+        "level": 3,
+        "name": {
+          "local": "Moroto Municipality",
+          "en": "Moroto Municipality",
+          "slug": "moroto-municipality-ug308602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.522",
+      "lon": "34.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

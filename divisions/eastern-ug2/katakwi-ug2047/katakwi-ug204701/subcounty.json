@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20470101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katakwi",
+      "en": "Katakwi",
+      "slug": "katakwi"
+    },
+    "code": {
+      "id": "UG20470101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.887",
+      "lon": "33.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katakwi Town Council",
+      "en": "Katakwi Town Council",
+      "slug": "katakwi-town-council"
+    },
+    "code": {
+      "id": "UG20470102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.916",
+      "lon": "33.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngariam",
+      "en": "Ngariam",
+      "slug": "ngariam"
+    },
+    "code": {
+      "id": "UG20470103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.833",
+      "lon": "34.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ongongoja",
+      "en": "Ongongoja",
+      "slug": "ongongoja"
+    },
+    "code": {
+      "id": "UG20470104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.173",
+      "lon": "34.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Palam",
+      "en": "Palam",
+      "slug": "palam"
+    },
+    "code": {
+      "id": "UG20470105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.003",
+      "lon": "34.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Usuk",
+      "en": "Usuk",
+      "slug": "usuk"
+    },
+    "code": {
+      "id": "UG20470106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204701",
+      "level": 3,
+      "name": {
+        "local": "Katakwi",
+        "en": "Katakwi",
+        "slug": "katakwi-ug204701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204701",
+        "level": 3,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug204701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.007",
+      "lon": "33.991"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

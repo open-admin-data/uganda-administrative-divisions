@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG41330201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyanja",
+      "en": "Buyanja",
+      "slug": "buyanja"
+    },
+    "code": {
+      "id": "UG41330201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.855",
+      "lon": "29.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyanja Town Council",
+      "en": "Buyanja Town Council",
+      "slug": "buyanja-town-council"
+    },
+    "code": {
+      "id": "UG41330202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.834",
+      "lon": "29.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kebisoni",
+      "en": "Kebisoni",
+      "slug": "kebisoni"
+    },
+    "code": {
+      "id": "UG41330203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.841",
+      "lon": "30.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kebisoni Town Council",
+      "en": "Kebisoni Town Council",
+      "slug": "kebisoni-town-council"
+    },
+    "code": {
+      "id": "UG41330204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.849",
+      "lon": "30.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakishenyi",
+      "en": "Nyakishenyi",
+      "slug": "nyakishenyi"
+    },
+    "code": {
+      "id": "UG41330205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.977",
+      "lon": "29.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyarushanje",
+      "en": "Nyarushanje",
+      "slug": "nyarushanje"
+    },
+    "code": {
+      "id": "UG41330206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413302",
+      "level": 3,
+      "name": {
+        "local": "Rubabo",
+        "en": "Rubabo",
+        "slug": "rubabo-ug413302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413302",
+        "level": 3,
+        "name": {
+          "local": "Rubabo",
+          "en": "Rubabo",
+          "slug": "rubabo-ug413302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.98",
+      "lon": "30.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

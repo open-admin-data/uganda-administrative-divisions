@@ -1,0 +1,56 @@
+{
+  "id": "UG203801",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Budiope",
+    "en": "Budiope",
+    "slug": "budiope-ug203801"
+  },
+  "code": {
+    "id": "UG203801",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2038",
+    "level": 2,
+    "name": {
+      "local": "Buyende",
+      "en": "Buyende",
+      "slug": "buyende-ug2038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2038",
+      "level": 2,
+      "name": {
+        "local": "Buyende",
+        "en": "Buyende",
+        "slug": "buyende-ug2038"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.233",
+    "lon": "33.176"
+  },
+  "metadata": {},
+  "source": {}
+}

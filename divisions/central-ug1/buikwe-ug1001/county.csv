@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG100101,Buikwe,Buikwe,buikwe-ug100101,UG100101,6,0.209,33.022
+UG100102,KCCA,KCCA,kcca-ug100102,UG100102,1,0.383,32.933
+UG100103,Lugazi Municipality,Lugazi Municipality,lugazi-municipality-ug100103,UG100103,2,0.375,33.028
+UG100104,Njeru Municipality,Njeru Municipality,njeru-municipality-ug100104,UG100104,3,0.423,33.148

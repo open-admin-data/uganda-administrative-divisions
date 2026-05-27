@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG10260201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Division A",
+      "en": "Division A",
+      "slug": "division-a"
+    },
+    "code": {
+      "id": "UG10260201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102602",
+      "level": 3,
+      "name": {
+        "local": "Entebbe Municipality",
+        "en": "Entebbe Municipality",
+        "slug": "entebbe-municipality-ug102602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102602",
+        "level": 3,
+        "name": {
+          "local": "Entebbe Municipality",
+          "en": "Entebbe Municipality",
+          "slug": "entebbe-municipality-ug102602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.043",
+      "lon": "32.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Division B",
+      "en": "Division B",
+      "slug": "division-b"
+    },
+    "code": {
+      "id": "UG10260202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102602",
+      "level": 3,
+      "name": {
+        "local": "Entebbe Municipality",
+        "en": "Entebbe Municipality",
+        "slug": "entebbe-municipality-ug102602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102602",
+        "level": 3,
+        "name": {
+          "local": "Entebbe Municipality",
+          "en": "Entebbe Municipality",
+          "slug": "entebbe-municipality-ug102602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.045",
+      "lon": "32.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

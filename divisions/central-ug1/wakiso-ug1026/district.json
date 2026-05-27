@@ -1,0 +1,48 @@
+{
+  "id": "UG1026",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wakiso",
+    "en": "Wakiso",
+    "slug": "wakiso-ug1026"
+  },
+  "code": {
+    "id": "UG1026",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 6,
+    "subcounty": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.216",
+    "lon": "32.514"
+  },
+  "metadata": {},
+  "source": {}
+}

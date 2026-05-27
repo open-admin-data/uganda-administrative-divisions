@@ -1,0 +1,56 @@
+{
+  "id": "UG101801",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Busujju",
+    "en": "Busujju",
+    "slug": "busujju-ug101801"
+  },
+  "code": {
+    "id": "UG101801",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1018",
+    "level": 2,
+    "name": {
+      "local": "Mityana",
+      "en": "Mityana",
+      "slug": "mityana-ug1018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1018",
+      "level": 2,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug1018"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.301",
+    "lon": "32.006"
+  },
+  "metadata": {},
+  "source": {}
+}

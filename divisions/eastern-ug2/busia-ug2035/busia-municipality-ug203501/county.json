@@ -1,0 +1,56 @@
+{
+  "id": "UG203501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Busia Municipality",
+    "en": "Busia Municipality",
+    "slug": "busia-municipality-ug203501"
+  },
+  "code": {
+    "id": "UG203501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2035",
+    "level": 2,
+    "name": {
+      "local": "Busia",
+      "en": "Busia",
+      "slug": "busia-ug2035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2035",
+      "level": 2,
+      "name": {
+        "local": "Busia",
+        "en": "Busia",
+        "slug": "busia-ug2035"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.468",
+    "lon": "34.091"
+  },
+  "metadata": {},
+  "source": {}
+}

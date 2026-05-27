@@ -1,0 +1,56 @@
+{
+  "id": "UG411501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bukonjo",
+    "en": "Bukonjo",
+    "slug": "bukonjo-ug411501"
+  },
+  "code": {
+    "id": "UG411501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4115",
+    "level": 2,
+    "name": {
+      "local": "Kasese",
+      "en": "Kasese",
+      "slug": "kasese-ug4115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4115",
+      "level": 2,
+      "name": {
+        "local": "Kasese",
+        "en": "Kasese",
+        "slug": "kasese-ug4115"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.07",
+    "lon": "29.832"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "UG1022",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nakaseke",
+    "en": "Nakaseke",
+    "slug": "nakaseke-ug1022"
+  },
+  "code": {
+    "id": "UG1022",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1",
+    "lon": "32.177"
+  },
+  "metadata": {},
+  "source": {}
+}

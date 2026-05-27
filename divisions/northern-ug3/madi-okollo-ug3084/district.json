@@ -1,0 +1,48 @@
+{
+  "id": "UG3084",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Madi Okollo",
+    "en": "Madi Okollo",
+    "slug": "madi-okollo-ug3084"
+  },
+  "code": {
+    "id": "UG3084",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.867",
+    "lon": "31.238"
+  },
+  "metadata": {},
+  "source": {}
+}

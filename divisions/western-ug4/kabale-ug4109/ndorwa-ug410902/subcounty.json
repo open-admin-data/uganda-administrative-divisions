@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG41090201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhara",
+      "en": "Buhara",
+      "slug": "buhara"
+    },
+    "code": {
+      "id": "UG41090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.365",
+      "lon": "30.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butanda",
+      "en": "Butanda",
+      "slug": "butanda"
+    },
+    "code": {
+      "id": "UG41090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.409",
+      "lon": "29.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaharo",
+      "en": "Kaharo",
+      "slug": "kaharo"
+    },
+    "code": {
+      "id": "UG41090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.256",
+      "lon": "30.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamuganguzi",
+      "en": "Kamuganguzi",
+      "slug": "kamuganguzi"
+    },
+    "code": {
+      "id": "UG41090204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.364",
+      "lon": "29.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katuna Town Council",
+      "en": "Katuna Town Council",
+      "slug": "katuna-town-council"
+    },
+    "code": {
+      "id": "UG41090205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.411",
+      "lon": "29.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitumba",
+      "en": "Kitumba",
+      "slug": "kitumba"
+    },
+    "code": {
+      "id": "UG41090206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.288",
+      "lon": "29.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyanamira",
+      "en": "Kyanamira",
+      "slug": "kyanamira"
+    },
+    "code": {
+      "id": "UG41090207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.255",
+      "lon": "30.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Maziba",
+      "en": "Maziba",
+      "slug": "maziba"
+    },
+    "code": {
+      "id": "UG41090208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.305",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubaya",
+      "en": "Rubaya",
+      "slug": "rubaya"
+    },
+    "code": {
+      "id": "UG41090209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.342",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ryakirimira Town Council",
+      "en": "Ryakirimira Town Council",
+      "slug": "ryakirimira-town-council"
+    },
+    "code": {
+      "id": "UG41090210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410902",
+      "level": 3,
+      "name": {
+        "local": "Ndorwa",
+        "en": "Ndorwa",
+        "slug": "ndorwa-ug410902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410902",
+        "level": 3,
+        "name": {
+          "local": "Ndorwa",
+          "en": "Ndorwa",
+          "slug": "ndorwa-ug410902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.419",
+      "lon": "29.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

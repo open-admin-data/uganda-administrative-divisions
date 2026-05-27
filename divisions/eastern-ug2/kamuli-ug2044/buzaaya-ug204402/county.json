@@ -1,0 +1,56 @@
+{
+  "id": "UG204402",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Buzaaya",
+    "en": "Buzaaya",
+    "slug": "buzaaya-ug204402"
+  },
+  "code": {
+    "id": "UG204402",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2044",
+    "level": 2,
+    "name": {
+      "local": "Kamuli",
+      "en": "Kamuli",
+      "slug": "kamuli-ug2044"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2044",
+      "level": 2,
+      "name": {
+        "local": "Kamuli",
+        "en": "Kamuli",
+        "slug": "kamuli-ug2044"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.776",
+    "lon": "33.146"
+  },
+  "metadata": {},
+  "source": {}
+}

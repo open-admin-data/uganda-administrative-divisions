@@ -1,0 +1,48 @@
+{
+  "id": "UG1023",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nakasongola",
+    "en": "Nakasongola",
+    "slug": "nakasongola-ug1023"
+  },
+  "code": {
+    "id": "UG1023",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.316",
+    "lon": "32.491"
+  },
+  "metadata": {},
+  "source": {}
+}

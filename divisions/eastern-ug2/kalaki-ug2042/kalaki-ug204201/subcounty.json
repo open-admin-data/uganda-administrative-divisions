@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20420101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Anyara",
+      "en": "Anyara",
+      "slug": "anyara"
+    },
+    "code": {
+      "id": "UG20420101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.998",
+      "lon": "33.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apapai",
+      "en": "Apapai",
+      "slug": "apapai"
+    },
+    "code": {
+      "id": "UG20420102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.899",
+      "lon": "33.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bululu",
+      "en": "Bululu",
+      "slug": "bululu"
+    },
+    "code": {
+      "id": "UG20420103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.7",
+      "lon": "33.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakure",
+      "en": "Kakure",
+      "slug": "kakure"
+    },
+    "code": {
+      "id": "UG20420104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.852",
+      "lon": "33.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalaki",
+      "en": "Kalaki",
+      "slug": "kalaki"
+    },
+    "code": {
+      "id": "UG20420105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.788",
+      "lon": "33.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalaki Town Council",
+      "en": "Kalaki Town Council",
+      "slug": "kalaki-town-council"
+    },
+    "code": {
+      "id": "UG20420106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.821",
+      "lon": "33.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20420107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Otuboi",
+      "en": "Otuboi",
+      "slug": "otuboi"
+    },
+    "code": {
+      "id": "UG20420107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204201",
+      "level": 3,
+      "name": {
+        "local": "Kalaki",
+        "en": "Kalaki",
+        "slug": "kalaki-ug204201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2042",
+        "level": 2,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug2042"
+        }
+      },
+      {
+        "id": "UG204201",
+        "level": 3,
+        "name": {
+          "local": "Kalaki",
+          "en": "Kalaki",
+          "slug": "kalaki-ug204201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.884",
+      "lon": "33.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

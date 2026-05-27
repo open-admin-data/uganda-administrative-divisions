@@ -1,0 +1,56 @@
+{
+  "id": "UG310001",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Okoro",
+    "en": "Okoro",
+    "slug": "okoro-ug310001"
+  },
+  "code": {
+    "id": "UG310001",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3100",
+    "level": 2,
+    "name": {
+      "local": "Zombo",
+      "en": "Zombo",
+      "slug": "zombo-ug3100"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3100",
+      "level": 2,
+      "name": {
+        "local": "Zombo",
+        "en": "Zombo",
+        "slug": "zombo-ug3100"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.52",
+    "lon": "30.875"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG10200101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butoloogo",
+      "en": "Butoloogo",
+      "slug": "butoloogo"
+    },
+    "code": {
+      "id": "UG10200101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102001",
+      "level": 3,
+      "name": {
+        "local": "Buwekula",
+        "en": "Buwekula",
+        "slug": "buwekula-ug102001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102001",
+        "level": 3,
+        "name": {
+          "local": "Buwekula",
+          "en": "Buwekula",
+          "slug": "buwekula-ug102001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.772",
+      "lon": "31.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitenga",
+      "en": "Kitenga",
+      "slug": "kitenga"
+    },
+    "code": {
+      "id": "UG10200102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102001",
+      "level": 3,
+      "name": {
+        "local": "Buwekula",
+        "en": "Buwekula",
+        "slug": "buwekula-ug102001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102001",
+        "level": 3,
+        "name": {
+          "local": "Buwekula",
+          "en": "Buwekula",
+          "slug": "buwekula-ug102001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.455",
+      "lon": "31.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiyuni",
+      "en": "Kiyuni",
+      "slug": "kiyuni"
+    },
+    "code": {
+      "id": "UG10200103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102001",
+      "level": 3,
+      "name": {
+        "local": "Buwekula",
+        "en": "Buwekula",
+        "slug": "buwekula-ug102001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102001",
+        "level": 3,
+        "name": {
+          "local": "Buwekula",
+          "en": "Buwekula",
+          "slug": "buwekula-ug102001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.67",
+      "lon": "31.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Madudu",
+      "en": "Madudu",
+      "slug": "madudu"
+    },
+    "code": {
+      "id": "UG10200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102001",
+      "level": 3,
+      "name": {
+        "local": "Buwekula",
+        "en": "Buwekula",
+        "slug": "buwekula-ug102001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102001",
+        "level": 3,
+        "name": {
+          "local": "Buwekula",
+          "en": "Buwekula",
+          "slug": "buwekula-ug102001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "31.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

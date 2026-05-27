@@ -1,0 +1,56 @@
+{
+  "id": "UG101702",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Masaka Municipality",
+    "en": "Masaka Municipality",
+    "slug": "masaka-municipality-ug101702"
+  },
+  "code": {
+    "id": "UG101702",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1017",
+    "level": 2,
+    "name": {
+      "local": "Masaka",
+      "en": "Masaka",
+      "slug": "masaka-ug1017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1017",
+      "level": 2,
+      "name": {
+        "local": "Masaka",
+        "en": "Masaka",
+        "slug": "masaka-ug1017"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.337",
+    "lon": "31.732"
+  },
+  "metadata": {},
+  "source": {}
+}

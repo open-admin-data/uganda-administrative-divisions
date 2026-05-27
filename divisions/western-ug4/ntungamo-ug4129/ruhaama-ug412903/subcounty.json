@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG41290301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Itojo",
+      "en": "Itojo",
+      "slug": "itojo"
+    },
+    "code": {
+      "id": "UG41290301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.774",
+      "lon": "30.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kafunjo-Mirama Town Council",
+      "en": "Kafunjo-Mirama Town Council",
+      "slug": "kafunjo-mirama-town-council"
+    },
+    "code": {
+      "id": "UG41290302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.03",
+      "lon": "30.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitwe Town Council",
+      "en": "Kitwe Town Council",
+      "slug": "kitwe-town-council"
+    },
+    "code": {
+      "id": "UG41290303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.991",
+      "lon": "30.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntungamo",
+      "en": "Ntungamo",
+      "slug": "ntungamo"
+    },
+    "code": {
+      "id": "UG41290304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.859",
+      "lon": "30.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290305",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakyera",
+      "en": "Nyakyera",
+      "slug": "nyakyera"
+    },
+    "code": {
+      "id": "UG41290305",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.884",
+      "lon": "30.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290306",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruhaama",
+      "en": "Ruhaama",
+      "slug": "ruhaama"
+    },
+    "code": {
+      "id": "UG41290306",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.967",
+      "lon": "30.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290307",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rukoni East",
+      "en": "Rukoni East",
+      "slug": "rukoni-east"
+    },
+    "code": {
+      "id": "UG41290307",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.899",
+      "lon": "30.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290308",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rukoni West",
+      "en": "Rukoni West",
+      "slug": "rukoni-west"
+    },
+    "code": {
+      "id": "UG41290308",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.926",
+      "lon": "30.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290309",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rweikiniro",
+      "en": "Rweikiniro",
+      "slug": "rweikiniro"
+    },
+    "code": {
+      "id": "UG41290309",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412903",
+      "level": 3,
+      "name": {
+        "local": "Ruhaama",
+        "en": "Ruhaama",
+        "slug": "ruhaama-ug412903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412903",
+        "level": 3,
+        "name": {
+          "local": "Ruhaama",
+          "en": "Ruhaama",
+          "slug": "ruhaama-ug412903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.993",
+      "lon": "30.273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

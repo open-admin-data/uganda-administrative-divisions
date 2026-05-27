@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41080201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Birere",
+      "en": "Birere",
+      "slug": "birere"
+    },
+    "code": {
+      "id": "UG41080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.705",
+      "lon": "30.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Isingiro Town Council",
+      "en": "Isingiro Town Council",
+      "slug": "isingiro-town-council"
+    },
+    "code": {
+      "id": "UG41080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.832",
+      "lon": "30.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaberebere Town Council",
+      "en": "Kaberebere Town Council",
+      "slug": "kaberebere-town-council"
+    },
+    "code": {
+      "id": "UG41080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.695",
+      "lon": "30.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabingo",
+      "en": "Kabingo",
+      "slug": "kabingo"
+    },
+    "code": {
+      "id": "UG41080204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.716",
+      "lon": "30.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabuyanda",
+      "en": "Kabuyanda",
+      "slug": "kabuyanda"
+    },
+    "code": {
+      "id": "UG41080205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.92",
+      "lon": "30.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabuyanda Town Council",
+      "en": "Kabuyanda Town Council",
+      "slug": "kabuyanda-town-council"
+    },
+    "code": {
+      "id": "UG41080206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.957",
+      "lon": "30.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikagate",
+      "en": "Kikagate",
+      "slug": "kikagate"
+    },
+    "code": {
+      "id": "UG41080207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.989",
+      "lon": "30.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masha",
+      "en": "Masha",
+      "slug": "masha"
+    },
+    "code": {
+      "id": "UG41080208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.671",
+      "lon": "30.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakitunda",
+      "en": "Nyakitunda",
+      "slug": "nyakitunda"
+    },
+    "code": {
+      "id": "UG41080209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.872",
+      "lon": "30.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamuyanja",
+      "en": "Nyamuyanja",
+      "slug": "nyamuyanja"
+    },
+    "code": {
+      "id": "UG41080210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.79",
+      "lon": "30.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruborogota",
+      "en": "Ruborogota",
+      "slug": "ruborogota"
+    },
+    "code": {
+      "id": "UG41080211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410802",
+      "level": 3,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug410802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410802",
+        "level": 3,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug410802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.002",
+      "lon": "30.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

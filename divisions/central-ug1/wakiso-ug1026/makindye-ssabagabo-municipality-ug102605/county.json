@@ -1,0 +1,56 @@
+{
+  "id": "UG102605",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Makindye Ssabagabo Municipality",
+    "en": "Makindye Ssabagabo Municipality",
+    "slug": "makindye-ssabagabo-municipality-ug102605"
+  },
+  "code": {
+    "id": "UG102605",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1026",
+    "level": 2,
+    "name": {
+      "local": "Wakiso",
+      "en": "Wakiso",
+      "slug": "wakiso-ug1026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.231",
+    "lon": "32.578"
+  },
+  "metadata": {},
+  "source": {}
+}

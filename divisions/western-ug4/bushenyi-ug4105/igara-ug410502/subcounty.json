@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41050201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bitooma",
+      "en": "Bitooma",
+      "slug": "bitooma"
+    },
+    "code": {
+      "id": "UG41050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.381",
+      "lon": "30.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumbaire",
+      "en": "Bumbaire",
+      "slug": "bumbaire"
+    },
+    "code": {
+      "id": "UG41050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.598",
+      "lon": "30.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ibaare",
+      "en": "Ibaare",
+      "slug": "ibaare"
+    },
+    "code": {
+      "id": "UG41050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.625",
+      "lon": "30.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakanju",
+      "en": "Kakanju",
+      "slug": "kakanju"
+    },
+    "code": {
+      "id": "UG41050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.47",
+      "lon": "30.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyabugimbi",
+      "en": "Kyabugimbi",
+      "slug": "kyabugimbi"
+    },
+    "code": {
+      "id": "UG41050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.488",
+      "lon": "30.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamuhunga",
+      "en": "Kyamuhunga",
+      "slug": "kyamuhunga"
+    },
+    "code": {
+      "id": "UG41050206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.436",
+      "lon": "30.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamuhunga Town Council",
+      "en": "Kyamuhunga Town Council",
+      "slug": "kyamuhunga-town-council"
+    },
+    "code": {
+      "id": "UG41050207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.436",
+      "lon": "30.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyeizooba",
+      "en": "Kyeizooba",
+      "slug": "kyeizooba"
+    },
+    "code": {
+      "id": "UG41050208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.579",
+      "lon": "30.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabubare",
+      "en": "Nyabubare",
+      "slug": "nyabubare"
+    },
+    "code": {
+      "id": "UG41050209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.537",
+      "lon": "30.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruhumuro",
+      "en": "Ruhumuro",
+      "slug": "ruhumuro"
+    },
+    "code": {
+      "id": "UG41050210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.444",
+      "lon": "30.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwentuha Town Council",
+      "en": "Rwentuha Town Council",
+      "slug": "rwentuha-town-council"
+    },
+    "code": {
+      "id": "UG41050211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410502",
+      "level": 3,
+      "name": {
+        "local": "Igara",
+        "en": "Igara",
+        "slug": "igara-ug410502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410502",
+        "level": 3,
+        "name": {
+          "local": "Igara",
+          "en": "Igara",
+          "slug": "igara-ug410502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.551",
+      "lon": "30.27"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

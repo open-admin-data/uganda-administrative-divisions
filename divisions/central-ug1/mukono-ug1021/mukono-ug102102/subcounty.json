@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG10210201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Koome Island",
+      "en": "Koome Island",
+      "slug": "koome-island"
+    },
+    "code": {
+      "id": "UG10210201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.047",
+      "lon": "32.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyampisi",
+      "en": "Kyampisi",
+      "slug": "kyampisi"
+    },
+    "code": {
+      "id": "UG10210202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.503",
+      "lon": "32.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpatta",
+      "en": "Mpatta",
+      "slug": "mpatta"
+    },
+    "code": {
+      "id": "UG10210203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.208",
+      "lon": "32.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpunge",
+      "en": "Mpunge",
+      "slug": "mpunge"
+    },
+    "code": {
+      "id": "UG10210204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.116",
+      "lon": "32.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakisunga",
+      "en": "Nakisunga",
+      "slug": "nakisunga"
+    },
+    "code": {
+      "id": "UG10210205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "32.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nama",
+      "en": "Nama",
+      "slug": "nama"
+    },
+    "code": {
+      "id": "UG10210206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.408",
+      "lon": "32.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntenjeru",
+      "en": "Ntenjeru",
+      "slug": "ntenjeru"
+    },
+    "code": {
+      "id": "UG10210207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102102",
+      "level": 3,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug102102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102102",
+        "level": 3,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug102102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.192",
+      "lon": "32.812"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG10110101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukomero",
+      "en": "Bukomero",
+      "slug": "bukomero"
+    },
+    "code": {
+      "id": "UG10110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.699",
+      "lon": "32.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukomero Town Council",
+      "en": "Bukomero Town Council",
+      "slug": "bukomero-town-council"
+    },
+    "code": {
+      "id": "UG10110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.687",
+      "lon": "32.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ddwaniro",
+      "en": "Ddwaniro",
+      "slug": "ddwaniro"
+    },
+    "code": {
+      "id": "UG10110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.837",
+      "lon": "32.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapeke",
+      "en": "Kapeke",
+      "slug": "kapeke"
+    },
+    "code": {
+      "id": "UG10110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.979",
+      "lon": "31.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibiga",
+      "en": "Kibiga",
+      "slug": "kibiga"
+    },
+    "code": {
+      "id": "UG10110105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.838",
+      "lon": "31.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiboga Town Council",
+      "en": "Kiboga Town Council",
+      "slug": "kiboga-town-council"
+    },
+    "code": {
+      "id": "UG10110106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.918",
+      "lon": "31.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwamata",
+      "en": "Lwamata",
+      "slug": "lwamata"
+    },
+    "code": {
+      "id": "UG10110107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.836",
+      "lon": "31.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwamata Town Council",
+      "en": "Lwamata Town Council",
+      "slug": "lwamata-town-council"
+    },
+    "code": {
+      "id": "UG10110108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.823",
+      "lon": "31.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10110109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muwanga",
+      "en": "Muwanga",
+      "slug": "muwanga"
+    },
+    "code": {
+      "id": "UG10110109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101101",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1011",
+        "level": 2,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug1011"
+        }
+      },
+      {
+        "id": "UG101101",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.697",
+      "lon": "31.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

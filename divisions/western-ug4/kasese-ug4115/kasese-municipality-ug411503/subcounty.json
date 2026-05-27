@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41150301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulembia Division",
+      "en": "Bulembia Division",
+      "slug": "bulembia-division"
+    },
+    "code": {
+      "id": "UG41150301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411503",
+      "level": 3,
+      "name": {
+        "local": "Kasese Municipality",
+        "en": "Kasese Municipality",
+        "slug": "kasese-municipality-ug411503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411503",
+        "level": 3,
+        "name": {
+          "local": "Kasese Municipality",
+          "en": "Kasese Municipality",
+          "slug": "kasese-municipality-ug411503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.252",
+      "lon": "29.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG41150302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411503",
+      "level": 3,
+      "name": {
+        "local": "Kasese Municipality",
+        "en": "Kasese Municipality",
+        "slug": "kasese-municipality-ug411503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411503",
+        "level": 3,
+        "name": {
+          "local": "Kasese Municipality",
+          "en": "Kasese Municipality",
+          "slug": "kasese-municipality-ug411503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.152",
+      "lon": "30.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamwamba Division",
+      "en": "Nyamwamba Division",
+      "slug": "nyamwamba-division"
+    },
+    "code": {
+      "id": "UG41150303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411503",
+      "level": 3,
+      "name": {
+        "local": "Kasese Municipality",
+        "en": "Kasese Municipality",
+        "slug": "kasese-municipality-ug411503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411503",
+        "level": 3,
+        "name": {
+          "local": "Kasese Municipality",
+          "en": "Kasese Municipality",
+          "slug": "kasese-municipality-ug411503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.215",
+      "lon": "30.109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

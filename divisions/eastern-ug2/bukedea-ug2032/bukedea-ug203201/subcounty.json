@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20320101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukedea",
+      "en": "Bukedea",
+      "slug": "bukedea"
+    },
+    "code": {
+      "id": "UG20320101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.331",
+      "lon": "34.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20320102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukedea Town Council",
+      "en": "Bukedea Town Council",
+      "slug": "bukedea-town-council"
+    },
+    "code": {
+      "id": "UG20320102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.364",
+      "lon": "34.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20320103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kachumbala",
+      "en": "Kachumbala",
+      "slug": "kachumbala"
+    },
+    "code": {
+      "id": "UG20320103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.234",
+      "lon": "34.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20320104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kidongole",
+      "en": "Kidongole",
+      "slug": "kidongole"
+    },
+    "code": {
+      "id": "UG20320104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.258",
+      "lon": "33.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20320105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kolir",
+      "en": "Kolir",
+      "slug": "kolir"
+    },
+    "code": {
+      "id": "UG20320105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.367",
+      "lon": "34.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20320106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Malera",
+      "en": "Malera",
+      "slug": "malera"
+    },
+    "code": {
+      "id": "UG20320106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203201",
+      "level": 3,
+      "name": {
+        "local": "Bukedea",
+        "en": "Bukedea",
+        "slug": "bukedea-ug203201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2032",
+        "level": 2,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug2032"
+        }
+      },
+      {
+        "id": "UG203201",
+        "level": 3,
+        "name": {
+          "local": "Bukedea",
+          "en": "Bukedea",
+          "slug": "bukedea-ug203201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.467",
+      "lon": "34.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

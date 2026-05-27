@@ -1,0 +1,65 @@
+[
+  {
+    "id": "UG10260401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasangati Town Council",
+      "en": "Kasangati Town Council",
+      "slug": "kasangati-town-council"
+    },
+    "code": {
+      "id": "UG10260401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102604",
+      "level": 3,
+      "name": {
+        "local": "Kyadondo",
+        "en": "Kyadondo",
+        "slug": "kyadondo-ug102604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102604",
+        "level": 3,
+        "name": {
+          "local": "Kyadondo",
+          "en": "Kyadondo",
+          "slug": "kyadondo-ug102604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.455",
+      "lon": "32.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

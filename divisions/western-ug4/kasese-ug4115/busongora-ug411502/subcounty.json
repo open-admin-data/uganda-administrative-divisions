@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG41150201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugoye",
+      "en": "Bugoye",
+      "slug": "bugoye"
+    },
+    "code": {
+      "id": "UG41150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.311",
+      "lon": "30.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhuhira",
+      "en": "Buhuhira",
+      "slug": "buhuhira"
+    },
+    "code": {
+      "id": "UG41150202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.389",
+      "lon": "30.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwesumbu",
+      "en": "Bwesumbu",
+      "slug": "bwesumbu"
+    },
+    "code": {
+      "id": "UG41150203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.44",
+      "lon": "30.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Hima Town Council",
+      "en": "Hima Town Council",
+      "slug": "hima-town-council"
+    },
+    "code": {
+      "id": "UG41150204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.279",
+      "lon": "30.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karusandara",
+      "en": "Karusandara",
+      "slug": "karusandara"
+    },
+    "code": {
+      "id": "UG41150205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katwe Kabatoro Town Council",
+      "en": "Katwe Kabatoro Town Council",
+      "slug": "katwe-kabatoro-town-council"
+    },
+    "code": {
+      "id": "UG41150206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.131",
+      "lon": "29.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kilembe",
+      "en": "Kilembe",
+      "slug": "kilembe"
+    },
+    "code": {
+      "id": "UG41150207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.241",
+      "lon": "29.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitswamba",
+      "en": "Kitswamba",
+      "slug": "kitswamba"
+    },
+    "code": {
+      "id": "UG41150208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.314",
+      "lon": "30.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyabarungira",
+      "en": "Kyabarungira",
+      "slug": "kyabarungira"
+    },
+    "code": {
+      "id": "UG41150209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.413",
+      "lon": "30.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lake Katwe",
+      "en": "Lake Katwe",
+      "slug": "lake-katwe"
+    },
+    "code": {
+      "id": "UG41150210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.062",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Maliba",
+      "en": "Maliba",
+      "slug": "maliba"
+    },
+    "code": {
+      "id": "UG41150211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.341",
+      "lon": "30.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150212",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muhokya",
+      "en": "Muhokya",
+      "slug": "muhokya"
+    },
+    "code": {
+      "id": "UG41150212",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.096",
+      "lon": "30.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150213",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugendabara",
+      "en": "Rugendabara",
+      "slug": "rugendabara"
+    },
+    "code": {
+      "id": "UG41150213",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.328",
+      "lon": "30.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150214",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rukoki",
+      "en": "Rukoki",
+      "slug": "rukoki"
+    },
+    "code": {
+      "id": "UG41150214",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411502",
+      "level": 3,
+      "name": {
+        "local": "Busongora",
+        "en": "Busongora",
+        "slug": "busongora-ug411502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411502",
+        "level": 3,
+        "name": {
+          "local": "Busongora",
+          "en": "Busongora",
+          "slug": "busongora-ug411502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.226",
+      "lon": "30.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

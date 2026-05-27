@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG41270101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bitereko",
+      "en": "Bitereko",
+      "slug": "bitereko"
+    },
+    "code": {
+      "id": "UG41270101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.525",
+      "lon": "30.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabira",
+      "en": "Kabira",
+      "slug": "kabira"
+    },
+    "code": {
+      "id": "UG41270102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.692",
+      "lon": "30.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanyabwanga",
+      "en": "Kanyabwanga",
+      "slug": "kanyabwanga"
+    },
+    "code": {
+      "id": "UG41270103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.606",
+      "lon": "29.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashenshero",
+      "en": "Kashenshero",
+      "slug": "kashenshero"
+    },
+    "code": {
+      "id": "UG41270104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.647",
+      "lon": "29.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashenshero Town Council",
+      "en": "Kashenshero Town Council",
+      "slug": "kashenshero-town-council"
+    },
+    "code": {
+      "id": "UG41270105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.625",
+      "lon": "29.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katenga",
+      "en": "Katenga",
+      "slug": "katenga"
+    },
+    "code": {
+      "id": "UG41270106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.612",
+      "lon": "30.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiyanga",
+      "en": "Kiyanga",
+      "slug": "kiyanga"
+    },
+    "code": {
+      "id": "UG41270107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.502",
+      "lon": "29.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mayanga",
+      "en": "Mayanga",
+      "slug": "mayanga"
+    },
+    "code": {
+      "id": "UG41270108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.743",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mitooma",
+      "en": "Mitooma",
+      "slug": "mitooma"
+    },
+    "code": {
+      "id": "UG41270109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.609",
+      "lon": "30.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mitooma Town Council",
+      "en": "Mitooma Town Council",
+      "slug": "mitooma-town-council"
+    },
+    "code": {
+      "id": "UG41270110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.613",
+      "lon": "30.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mutara",
+      "en": "Mutara",
+      "slug": "mutara"
+    },
+    "code": {
+      "id": "UG41270111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.704",
+      "lon": "30.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41270112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rurehe",
+      "en": "Rurehe",
+      "slug": "rurehe"
+    },
+    "code": {
+      "id": "UG41270112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412701",
+      "level": 3,
+      "name": {
+        "local": "Ruhinda",
+        "en": "Ruhinda",
+        "slug": "ruhinda-ug412701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4127",
+        "level": 2,
+        "name": {
+          "local": "Mitooma",
+          "en": "Mitooma",
+          "slug": "mitooma-ug4127"
+        }
+      },
+      {
+        "id": "UG412701",
+        "level": 3,
+        "name": {
+          "local": "Ruhinda",
+          "en": "Ruhinda",
+          "slug": "ruhinda-ug412701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.689",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

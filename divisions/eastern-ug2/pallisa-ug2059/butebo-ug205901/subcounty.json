@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20590101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibale",
+      "en": "Kibale",
+      "slug": "kibale"
+    },
+    "code": {
+      "id": "UG20590101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205901",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug205901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205901",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug205901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.213",
+      "lon": "33.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Opwateta",
+      "en": "Opwateta",
+      "slug": "opwateta"
+    },
+    "code": {
+      "id": "UG20590102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205901",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug205901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205901",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug205901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.257",
+      "lon": "33.846"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

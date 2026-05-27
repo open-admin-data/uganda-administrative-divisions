@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10030101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budde",
+      "en": "Budde",
+      "slug": "budde"
+    },
+    "code": {
+      "id": "UG10030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.143",
+      "lon": "32.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10030102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulo",
+      "en": "Bulo",
+      "slug": "bulo"
+    },
+    "code": {
+      "id": "UG10030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.118",
+      "lon": "32.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10030103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gombe Town Council",
+      "en": "Gombe Town Council",
+      "slug": "gombe-town-council"
+    },
+    "code": {
+      "id": "UG10030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.171",
+      "lon": "32.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10030104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalamba",
+      "en": "Kalamba",
+      "slug": "kalamba"
+    },
+    "code": {
+      "id": "UG10030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.254",
+      "lon": "32.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10030105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibibi",
+      "en": "Kibibi",
+      "slug": "kibibi"
+    },
+    "code": {
+      "id": "UG10030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.226",
+      "lon": "32.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10030106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngando",
+      "en": "Ngando",
+      "slug": "ngando"
+    },
+    "code": {
+      "id": "UG10030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100301",
+      "level": 3,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug100301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1003",
+        "level": 2,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug1003"
+        }
+      },
+      {
+        "id": "UG100301",
+        "level": 3,
+        "name": {
+          "local": "Butambala",
+          "en": "Butambala",
+          "slug": "butambala-ug100301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.064",
+      "lon": "31.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

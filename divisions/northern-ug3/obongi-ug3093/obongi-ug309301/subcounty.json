@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30930101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aliba",
+      "en": "Aliba",
+      "slug": "aliba"
+    },
+    "code": {
+      "id": "UG30930101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309301",
+      "level": 3,
+      "name": {
+        "local": "Obongi",
+        "en": "Obongi",
+        "slug": "obongi-ug309301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3093",
+        "level": 2,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug3093"
+        }
+      },
+      {
+        "id": "UG309301",
+        "level": 3,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug309301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.196",
+      "lon": "31.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30930102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gimara",
+      "en": "Gimara",
+      "slug": "gimara"
+    },
+    "code": {
+      "id": "UG30930102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309301",
+      "level": 3,
+      "name": {
+        "local": "Obongi",
+        "en": "Obongi",
+        "slug": "obongi-ug309301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3093",
+        "level": 2,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug3093"
+        }
+      },
+      {
+        "id": "UG309301",
+        "level": 3,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug309301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.301",
+      "lon": "31.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30930103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Itula",
+      "en": "Itula",
+      "slug": "itula"
+    },
+    "code": {
+      "id": "UG30930103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309301",
+      "level": 3,
+      "name": {
+        "local": "Obongi",
+        "en": "Obongi",
+        "slug": "obongi-ug309301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3093",
+        "level": 2,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug3093"
+        }
+      },
+      {
+        "id": "UG309301",
+        "level": 3,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug309301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.465",
+      "lon": "31.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30930104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Obongi Town Council",
+      "en": "Obongi Town Council",
+      "slug": "obongi-town-council"
+    },
+    "code": {
+      "id": "UG30930104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309301",
+      "level": 3,
+      "name": {
+        "local": "Obongi",
+        "en": "Obongi",
+        "slug": "obongi-ug309301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3093",
+        "level": 2,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug3093"
+        }
+      },
+      {
+        "id": "UG309301",
+        "level": 3,
+        "name": {
+          "local": "Obongi",
+          "en": "Obongi",
+          "slug": "obongi-ug309301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.267",
+      "lon": "31.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

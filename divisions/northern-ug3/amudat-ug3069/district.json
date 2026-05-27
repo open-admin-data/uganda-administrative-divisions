@@ -1,0 +1,48 @@
+{
+  "id": "UG3069",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amudat",
+    "en": "Amudat",
+    "slug": "amudat-ug3069"
+  },
+  "code": {
+    "id": "UG3069",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.825",
+    "lon": "34.93"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG204901",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumi",
+      "en": "Kumi",
+      "slug": "kumi-ug204901"
+    },
+    "code": {
+      "id": "UG204901",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2049",
+      "level": 2,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug2049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.456",
+      "lon": "33.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG204902",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumi Municipality",
+      "en": "Kumi Municipality",
+      "slug": "kumi-municipality-ug204902"
+    },
+    "code": {
+      "id": "UG204902",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2049",
+      "level": 2,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug2049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.483",
+      "lon": "33.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

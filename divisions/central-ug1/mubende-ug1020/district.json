@@ -1,0 +1,48 @@
+{
+  "id": "UG1020",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mubende",
+    "en": "Mubende",
+    "slug": "mubende-ug1020"
+  },
+  "code": {
+    "id": "UG1020",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 3,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.514",
+    "lon": "31.411"
+  },
+  "metadata": {},
+  "source": {}
+}

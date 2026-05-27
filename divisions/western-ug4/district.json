@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "UG4101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buhweju",
+      "en": "Buhweju",
+      "slug": "buhweju-ug4101"
+    },
+    "code": {
+      "id": "UG4101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.323",
+      "lon": "30.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buliisa",
+      "en": "Buliisa",
+      "slug": "buliisa-ug4102"
+    },
+    "code": {
+      "id": "UG4102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.974",
+      "lon": "31.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bundibugyo",
+      "en": "Bundibugyo",
+      "slug": "bundibugyo-ug4103"
+    },
+    "code": {
+      "id": "UG4103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.647",
+      "lon": "30.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bunyangabu",
+      "en": "Bunyangabu",
+      "slug": "bunyangabu-ug4104"
+    },
+    "code": {
+      "id": "UG4104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.48",
+      "lon": "30.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bushenyi",
+      "en": "Bushenyi",
+      "slug": "bushenyi-ug4105"
+    },
+    "code": {
+      "id": "UG4105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.475",
+      "lon": "30.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hoima",
+      "en": "Hoima",
+      "slug": "hoima-ug4106"
+    },
+    "code": {
+      "id": "UG4106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.564",
+      "lon": "31.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ibanda",
+      "en": "Ibanda",
+      "slug": "ibanda-ug4107"
+    },
+    "code": {
+      "id": "UG4107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.062",
+      "lon": "30.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4108",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Isingiro",
+      "en": "Isingiro",
+      "slug": "isingiro-ug4108"
+    },
+    "code": {
+      "id": "UG4108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.839",
+      "lon": "30.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4109",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kabale",
+      "en": "Kabale",
+      "slug": "kabale-ug4109"
+    },
+    "code": {
+      "id": "UG4109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.336",
+      "lon": "30.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4110",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kabarole",
+      "en": "Kabarole",
+      "slug": "kabarole-ug4110"
+    },
+    "code": {
+      "id": "UG4110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.621",
+      "lon": "30.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4111",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kagadi",
+      "en": "Kagadi",
+      "slug": "kagadi-ug4111"
+    },
+    "code": {
+      "id": "UG4111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.02",
+      "lon": "30.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4112",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kakumiro",
+      "en": "Kakumiro",
+      "slug": "kakumiro-ug4112"
+    },
+    "code": {
+      "id": "UG4112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.961",
+      "lon": "31.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4113",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamwenge",
+      "en": "Kamwenge",
+      "slug": "kamwenge-ug4113"
+    },
+    "code": {
+      "id": "UG4113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.334",
+      "lon": "30.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4114",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kanungu",
+      "en": "Kanungu",
+      "slug": "kanungu-ug4114"
+    },
+    "code": {
+      "id": "UG4114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.708",
+      "lon": "29.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4115",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasese",
+      "en": "Kasese",
+      "slug": "kasese-ug4115"
+    },
+    "code": {
+      "id": "UG4115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.136",
+      "lon": "30.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4116",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kazo",
+      "en": "Kazo",
+      "slug": "kazo-ug4116"
+    },
+    "code": {
+      "id": "UG4116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.024",
+      "lon": "30.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4117",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kibaale",
+      "en": "Kibaale",
+      "slug": "kibaale-ug4117"
+    },
+    "code": {
+      "id": "UG4117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.821",
+      "lon": "31.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4118",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kikuube",
+      "en": "Kikuube",
+      "slug": "kikuube-ug4118"
+    },
+    "code": {
+      "id": "UG4118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.308",
+      "lon": "31.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4119",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiruhura",
+      "en": "Kiruhura",
+      "slug": "kiruhura-ug4119"
+    },
+    "code": {
+      "id": "UG4119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.327",
+      "lon": "30.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4120",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiryandongo",
+      "en": "Kiryandongo",
+      "slug": "kiryandongo-ug4120"
+    },
+    "code": {
+      "id": "UG4120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.991",
+      "lon": "32.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4121",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kisoro",
+      "en": "Kisoro",
+      "slug": "kisoro-ug4121"
+    },
+    "code": {
+      "id": "UG4121",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.198",
+      "lon": "29.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4122",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kitagwenda",
+      "en": "Kitagwenda",
+      "slug": "kitagwenda-ug4122"
+    },
+    "code": {
+      "id": "UG4122",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.014",
+      "lon": "30.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4123",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyegegwa",
+      "en": "Kyegegwa",
+      "slug": "kyegegwa-ug4123"
+    },
+    "code": {
+      "id": "UG4123",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.478",
+      "lon": "31.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4124",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyenjojo",
+      "en": "Kyenjojo",
+      "slug": "kyenjojo-ug4124"
+    },
+    "code": {
+      "id": "UG4124",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.643",
+      "lon": "30.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4125",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masindi",
+      "en": "Masindi",
+      "slug": "masindi-ug4125"
+    },
+    "code": {
+      "id": "UG4125",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.812",
+      "lon": "31.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4126",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbarara",
+      "en": "Mbarara",
+      "slug": "mbarara-ug4126"
+    },
+    "code": {
+      "id": "UG4126",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.487",
+      "lon": "30.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4127",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mitooma",
+      "en": "Mitooma",
+      "slug": "mitooma-ug4127"
+    },
+    "code": {
+      "id": "UG4127",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.609",
+      "lon": "30.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4128",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntoroko",
+      "en": "Ntoroko",
+      "slug": "ntoroko-ug4128"
+    },
+    "code": {
+      "id": "UG4128",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.99",
+      "lon": "30.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4129",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntungamo",
+      "en": "Ntungamo",
+      "slug": "ntungamo-ug4129"
+    },
+    "code": {
+      "id": "UG4129",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 4,
+      "subcounty": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.956",
+      "lon": "30.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4130",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rubanda",
+      "en": "Rubanda",
+      "slug": "rubanda-ug4130"
+    },
+    "code": {
+      "id": "UG4130",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.175",
+      "lon": "29.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4131",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rubirizi",
+      "en": "Rubirizi",
+      "slug": "rubirizi-ug4131"
+    },
+    "code": {
+      "id": "UG4131",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.261",
+      "lon": "29.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4132",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rukiga",
+      "en": "Rukiga",
+      "slug": "rukiga-ug4132"
+    },
+    "code": {
+      "id": "UG4132",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.147",
+      "lon": "30.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4133",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rukungiri",
+      "en": "Rukungiri",
+      "slug": "rukungiri-ug4133"
+    },
+    "code": {
+      "id": "UG4133",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.699",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4134",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rwampara",
+      "en": "Rwampara",
+      "slug": "rwampara-ug4134"
+    },
+    "code": {
+      "id": "UG4134",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.735",
+      "lon": "30.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG4135",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sheema",
+      "en": "Sheema",
+      "slug": "sheema-ug4135"
+    },
+    "code": {
+      "id": "UG4135",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.595",
+      "lon": "30.373"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

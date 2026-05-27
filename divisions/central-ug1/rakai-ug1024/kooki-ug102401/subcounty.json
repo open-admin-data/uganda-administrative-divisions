@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG10240101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Byakabanda",
+      "en": "Byakabanda",
+      "slug": "byakabanda"
+    },
+    "code": {
+      "id": "UG10240101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.761",
+      "lon": "31.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ddwaniro",
+      "en": "Ddwaniro",
+      "slug": "ddwaniro"
+    },
+    "code": {
+      "id": "UG10240102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.627",
+      "lon": "31.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kacheera",
+      "en": "Kacheera",
+      "slug": "kacheera"
+    },
+    "code": {
+      "id": "UG10240103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.588",
+      "lon": "31.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagamba",
+      "en": "Kagamba",
+      "slug": "kagamba"
+    },
+    "code": {
+      "id": "UG10240104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.619",
+      "lon": "31.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibanda",
+      "en": "Kibanda",
+      "slug": "kibanda"
+    },
+    "code": {
+      "id": "UG10240105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.902",
+      "lon": "31.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kifamba",
+      "en": "Kifamba",
+      "slug": "kifamba"
+    },
+    "code": {
+      "id": "UG10240106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.78",
+      "lon": "31.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiziba",
+      "en": "Kiziba",
+      "slug": "kiziba"
+    },
+    "code": {
+      "id": "UG10240107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.844",
+      "lon": "31.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyalulangira",
+      "en": "Kyalulangira",
+      "slug": "kyalulangira"
+    },
+    "code": {
+      "id": "UG10240108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.739",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwamaggwa",
+      "en": "Lwamaggwa",
+      "slug": "lwamaggwa"
+    },
+    "code": {
+      "id": "UG10240109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.562",
+      "lon": "31.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwanda",
+      "en": "Lwanda",
+      "slug": "lwanda"
+    },
+    "code": {
+      "id": "UG10240110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.659",
+      "lon": "31.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10240111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rakai Town Council",
+      "en": "Rakai Town Council",
+      "slug": "rakai-town-council"
+    },
+    "code": {
+      "id": "UG10240111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102401",
+      "level": 3,
+      "name": {
+        "local": "Kooki",
+        "en": "Kooki",
+        "slug": "kooki-ug102401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1024",
+        "level": 2,
+        "name": {
+          "local": "Rakai",
+          "en": "Rakai",
+          "slug": "rakai-ug1024"
+        }
+      },
+      {
+        "id": "UG102401",
+        "level": 3,
+        "name": {
+          "local": "Kooki",
+          "en": "Kooki",
+          "slug": "kooki-ug102401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.71",
+      "lon": "31.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

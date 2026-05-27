@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG102001,Buwekula,Buwekula,buwekula-ug102001,UG102001,4,0.582,31.517
+UG102002,Kasambya,Kasambya,kasambya-ug102002,UG102002,6,0.383,31.267
+UG102003,Mubende Municipality,Mubende Municipality,mubende-municipality-ug102003,UG102003,3,0.581,31.388

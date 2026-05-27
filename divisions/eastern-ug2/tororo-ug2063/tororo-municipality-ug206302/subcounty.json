@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20630201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG20630201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206302",
+      "level": 3,
+      "name": {
+        "local": "Tororo Municipality",
+        "en": "Tororo Municipality",
+        "slug": "tororo-municipality-ug206302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206302",
+        "level": 3,
+        "name": {
+          "local": "Tororo Municipality",
+          "en": "Tororo Municipality",
+          "slug": "tororo-municipality-ug206302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.682",
+      "lon": "34.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG20630202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206302",
+      "level": 3,
+      "name": {
+        "local": "Tororo Municipality",
+        "en": "Tororo Municipality",
+        "slug": "tororo-municipality-ug206302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206302",
+        "level": 3,
+        "name": {
+          "local": "Tororo Municipality",
+          "en": "Tororo Municipality",
+          "slug": "tororo-municipality-ug206302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.686",
+      "lon": "34.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

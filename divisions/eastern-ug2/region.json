@@ -1,0 +1,31 @@
+{
+  "id": "UG2",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Eastern",
+    "en": "Eastern",
+    "slug": "eastern-ug2"
+  },
+  "code": {
+    "id": "UG2",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 37,
+    "subcounty": 454,
+    "county": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.709",
+    "lon": "33.682"
+  },
+  "metadata": {},
+  "source": {}
+}

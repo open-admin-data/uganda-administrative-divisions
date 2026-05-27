@@ -1,0 +1,56 @@
+{
+  "id": "UG306601",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Agago",
+    "en": "Agago",
+    "slug": "agago-ug306601"
+  },
+  "code": {
+    "id": "UG306601",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3066",
+    "level": 2,
+    "name": {
+      "local": "Agago",
+      "en": "Agago",
+      "slug": "agago-ug3066"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3066",
+      "level": 2,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug3066"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.945",
+    "lon": "33.387"
+  },
+  "metadata": {},
+  "source": {}
+}

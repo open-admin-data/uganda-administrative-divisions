@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "UG30660101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adilang",
+      "en": "Adilang",
+      "slug": "adilang"
+    },
+    "code": {
+      "id": "UG30660101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.701",
+      "lon": "33.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agago Town Council",
+      "en": "Agago Town Council",
+      "slug": "agago-town-council"
+    },
+    "code": {
+      "id": "UG30660102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.843",
+      "lon": "33.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arum",
+      "en": "Arum",
+      "slug": "arum"
+    },
+    "code": {
+      "id": "UG30660103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.662",
+      "lon": "33.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalongo Town Council",
+      "en": "Kalongo Town Council",
+      "slug": "kalongo-town-council"
+    },
+    "code": {
+      "id": "UG30660104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.039",
+      "lon": "33.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kotomol",
+      "en": "Kotomol",
+      "slug": "kotomol"
+    },
+    "code": {
+      "id": "UG30660105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.653",
+      "lon": "33.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lamiyo",
+      "en": "Lamiyo",
+      "slug": "lamiyo"
+    },
+    "code": {
+      "id": "UG30660106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.786",
+      "lon": "33.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lapono",
+      "en": "Lapono",
+      "slug": "lapono"
+    },
+    "code": {
+      "id": "UG30660107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.917",
+      "lon": "33.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lira Palwo",
+      "en": "Lira Palwo",
+      "slug": "lira-palwo"
+    },
+    "code": {
+      "id": "UG30660108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.833",
+      "lon": "33.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lokole",
+      "en": "Lokole",
+      "slug": "lokole"
+    },
+    "code": {
+      "id": "UG30660109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.851",
+      "lon": "33.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omiya Pacwa",
+      "en": "Omiya Pacwa",
+      "slug": "omiya-pacwa"
+    },
+    "code": {
+      "id": "UG30660110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.235",
+      "lon": "33.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omot",
+      "en": "Omot",
+      "slug": "omot"
+    },
+    "code": {
+      "id": "UG30660111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.705",
+      "lon": "33.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paimol",
+      "en": "Paimol",
+      "slug": "paimol"
+    },
+    "code": {
+      "id": "UG30660112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.109",
+      "lon": "33.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Parabongo",
+      "en": "Parabongo",
+      "slug": "parabongo"
+    },
+    "code": {
+      "id": "UG30660113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.028",
+      "lon": "33.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Patongo",
+      "en": "Patongo",
+      "slug": "patongo"
+    },
+    "code": {
+      "id": "UG30660114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.742",
+      "lon": "33.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Patongo Town Council",
+      "en": "Patongo Town Council",
+      "slug": "patongo-town-council"
+    },
+    "code": {
+      "id": "UG30660115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.762",
+      "lon": "33.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30660116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wol",
+      "en": "Wol",
+      "slug": "wol"
+    },
+    "code": {
+      "id": "UG30660116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306601",
+      "level": 3,
+      "name": {
+        "local": "Agago",
+        "en": "Agago",
+        "slug": "agago-ug306601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3066",
+        "level": 2,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug3066"
+        }
+      },
+      {
+        "id": "UG306601",
+        "level": 3,
+        "name": {
+          "local": "Agago",
+          "en": "Agago",
+          "slug": "agago-ug306601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.07",
+      "lon": "33.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

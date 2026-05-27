@@ -1,0 +1,48 @@
+{
+  "id": "UG2029",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bududa",
+    "en": "Bududa",
+    "slug": "bududa-ug2029"
+  },
+  "code": {
+    "id": "UG2029",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.026",
+    "lon": "34.391"
+  },
+  "metadata": {},
+  "source": {}
+}

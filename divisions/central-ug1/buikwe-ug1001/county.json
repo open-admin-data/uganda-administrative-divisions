@@ -1,0 +1,226 @@
+[
+  {
+    "id": "UG100101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Buikwe",
+      "en": "Buikwe",
+      "slug": "buikwe-ug100101"
+    },
+    "code": {
+      "id": "UG100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.209",
+      "lon": "33.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG100102",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "KCCA",
+      "en": "KCCA",
+      "slug": "kcca-ug100102"
+    },
+    "code": {
+      "id": "UG100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "32.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG100103",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lugazi Municipality",
+      "en": "Lugazi Municipality",
+      "slug": "lugazi-municipality-ug100103"
+    },
+    "code": {
+      "id": "UG100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.375",
+      "lon": "33.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG100104",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Njeru Municipality",
+      "en": "Njeru Municipality",
+      "slug": "njeru-municipality-ug100104"
+    },
+    "code": {
+      "id": "UG100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.423",
+      "lon": "33.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

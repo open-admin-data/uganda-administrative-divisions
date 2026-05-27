@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20460101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Acowa",
+      "en": "Acowa",
+      "slug": "acowa"
+    },
+    "code": {
+      "id": "UG20460101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.104",
+      "lon": "33.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20460102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akoromit",
+      "en": "Akoromit",
+      "slug": "akoromit"
+    },
+    "code": {
+      "id": "UG20460102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.072",
+      "lon": "33.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20460103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapelebyong",
+      "en": "Kapelebyong",
+      "slug": "kapelebyong"
+    },
+    "code": {
+      "id": "UG20460103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.244",
+      "lon": "33.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20460104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapelebyong Town Council",
+      "en": "Kapelebyong Town Council",
+      "slug": "kapelebyong-town-council"
+    },
+    "code": {
+      "id": "UG20460104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.263",
+      "lon": "33.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20460105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Obalanga",
+      "en": "Obalanga",
+      "slug": "obalanga"
+    },
+    "code": {
+      "id": "UG20460105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.246",
+      "lon": "33.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20460106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okungur",
+      "en": "Okungur",
+      "slug": "okungur"
+    },
+    "code": {
+      "id": "UG20460106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204601",
+      "level": 3,
+      "name": {
+        "local": "Kapelebyong",
+        "en": "Kapelebyong",
+        "slug": "kapelebyong-ug204601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2046",
+        "level": 2,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug2046"
+        }
+      },
+      {
+        "id": "UG204601",
+        "level": 3,
+        "name": {
+          "local": "Kapelebyong",
+          "en": "Kapelebyong",
+          "slug": "kapelebyong-ug204601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.329",
+      "lon": "33.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

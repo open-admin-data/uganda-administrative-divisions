@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10180101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bbanda",
+      "en": "Bbanda",
+      "slug": "bbanda"
+    },
+    "code": {
+      "id": "UG10180101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101801",
+      "level": 3,
+      "name": {
+        "local": "Busujju",
+        "en": "Busujju",
+        "slug": "busujju-ug101801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101801",
+        "level": 3,
+        "name": {
+          "local": "Busujju",
+          "en": "Busujju",
+          "slug": "busujju-ug101801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.276",
+      "lon": "31.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butayunja",
+      "en": "Butayunja",
+      "slug": "butayunja"
+    },
+    "code": {
+      "id": "UG10180102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101801",
+      "level": 3,
+      "name": {
+        "local": "Busujju",
+        "en": "Busujju",
+        "slug": "busujju-ug101801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101801",
+        "level": 3,
+        "name": {
+          "local": "Busujju",
+          "en": "Busujju",
+          "slug": "busujju-ug101801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.319",
+      "lon": "32.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakindu",
+      "en": "Kakindu",
+      "slug": "kakindu"
+    },
+    "code": {
+      "id": "UG10180103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101801",
+      "level": 3,
+      "name": {
+        "local": "Busujju",
+        "en": "Busujju",
+        "slug": "busujju-ug101801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101801",
+        "level": 3,
+        "name": {
+          "local": "Busujju",
+          "en": "Busujju",
+          "slug": "busujju-ug101801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.305",
+      "lon": "32.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Maanyi",
+      "en": "Maanyi",
+      "slug": "maanyi"
+    },
+    "code": {
+      "id": "UG10180104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101801",
+      "level": 3,
+      "name": {
+        "local": "Busujju",
+        "en": "Busujju",
+        "slug": "busujju-ug101801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101801",
+        "level": 3,
+        "name": {
+          "local": "Busujju",
+          "en": "Busujju",
+          "slug": "busujju-ug101801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.282",
+      "lon": "31.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Malangala",
+      "en": "Malangala",
+      "slug": "malangala"
+    },
+    "code": {
+      "id": "UG10180105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101801",
+      "level": 3,
+      "name": {
+        "local": "Busujju",
+        "en": "Busujju",
+        "slug": "busujju-ug101801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101801",
+        "level": 3,
+        "name": {
+          "local": "Busujju",
+          "en": "Busujju",
+          "slug": "busujju-ug101801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.336",
+      "lon": "32.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

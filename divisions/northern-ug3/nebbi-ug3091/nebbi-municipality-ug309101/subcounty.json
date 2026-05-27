@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG30910101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abindu Division",
+      "en": "Abindu Division",
+      "slug": "abindu-division"
+    },
+    "code": {
+      "id": "UG30910101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309101",
+      "level": 3,
+      "name": {
+        "local": "Nebbi Municipality",
+        "en": "Nebbi Municipality",
+        "slug": "nebbi-municipality-ug309101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309101",
+        "level": 3,
+        "name": {
+          "local": "Nebbi Municipality",
+          "en": "Nebbi Municipality",
+          "slug": "nebbi-municipality-ug309101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.459",
+      "lon": "31.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG30910102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309101",
+      "level": 3,
+      "name": {
+        "local": "Nebbi Municipality",
+        "en": "Nebbi Municipality",
+        "slug": "nebbi-municipality-ug309101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309101",
+        "level": 3,
+        "name": {
+          "local": "Nebbi Municipality",
+          "en": "Nebbi Municipality",
+          "slug": "nebbi-municipality-ug309101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.468",
+      "lon": "31.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Thatha Division",
+      "en": "Thatha Division",
+      "slug": "thatha-division"
+    },
+    "code": {
+      "id": "UG30910103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309101",
+      "level": 3,
+      "name": {
+        "local": "Nebbi Municipality",
+        "en": "Nebbi Municipality",
+        "slug": "nebbi-municipality-ug309101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309101",
+        "level": 3,
+        "name": {
+          "local": "Nebbi Municipality",
+          "en": "Nebbi Municipality",
+          "slug": "nebbi-municipality-ug309101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.502",
+      "lon": "31.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

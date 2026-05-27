@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG41060101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhanika",
+      "en": "Buhanika",
+      "slug": "buhanika"
+    },
+    "code": {
+      "id": "UG41060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.337",
+      "lon": "31.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buseruka",
+      "en": "Buseruka",
+      "slug": "buseruka"
+    },
+    "code": {
+      "id": "UG41060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.586",
+      "lon": "31.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigorobya",
+      "en": "Kigorobya",
+      "slug": "kigorobya"
+    },
+    "code": {
+      "id": "UG41060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.698",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigorobya Town Council",
+      "en": "Kigorobya Town Council",
+      "slug": "kigorobya-town-council"
+    },
+    "code": {
+      "id": "UG41060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.624",
+      "lon": "31.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitoba",
+      "en": "Kitoba",
+      "slug": "kitoba"
+    },
+    "code": {
+      "id": "UG41060105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.546",
+      "lon": "31.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyabigambire",
+      "en": "Kyabigambire",
+      "slug": "kyabigambire"
+    },
+    "code": {
+      "id": "UG41060106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410601",
+      "level": 3,
+      "name": {
+        "local": "Bugahya",
+        "en": "Bugahya",
+        "slug": "bugahya-ug410601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410601",
+        "level": 3,
+        "name": {
+          "local": "Bugahya",
+          "en": "Bugahya",
+          "slug": "bugahya-ug410601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.476",
+      "lon": "31.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

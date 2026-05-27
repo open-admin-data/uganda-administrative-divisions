@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30950101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adwari",
+      "en": "Adwari",
+      "slug": "adwari"
+    },
+    "code": {
+      "id": "UG30950101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.537",
+      "lon": "33.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alango",
+      "en": "Alango",
+      "slug": "alango"
+    },
+    "code": {
+      "id": "UG30950102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.433",
+      "lon": "33.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ogor",
+      "en": "Ogor",
+      "slug": "ogor"
+    },
+    "code": {
+      "id": "UG30950103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.53",
+      "lon": "33.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ogwette",
+      "en": "Ogwette",
+      "slug": "ogwette"
+    },
+    "code": {
+      "id": "UG30950104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.421",
+      "lon": "33.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okwang",
+      "en": "Okwang",
+      "slug": "okwang"
+    },
+    "code": {
+      "id": "UG30950105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.543",
+      "lon": "33.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Olilim",
+      "en": "Olilim",
+      "slug": "olilim"
+    },
+    "code": {
+      "id": "UG30950106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.474",
+      "lon": "33.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Orum",
+      "en": "Orum",
+      "slug": "orum"
+    },
+    "code": {
+      "id": "UG30950107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.393",
+      "lon": "33.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30950108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Otuke Town Council",
+      "en": "Otuke Town Council",
+      "slug": "otuke-town-council"
+    },
+    "code": {
+      "id": "UG30950108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309501",
+      "level": 3,
+      "name": {
+        "local": "Otuke",
+        "en": "Otuke",
+        "slug": "otuke-ug309501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3095",
+        "level": 2,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug3095"
+        }
+      },
+      {
+        "id": "UG309501",
+        "level": 3,
+        "name": {
+          "local": "Otuke",
+          "en": "Otuke",
+          "slug": "otuke-ug309501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.377",
+      "lon": "33.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

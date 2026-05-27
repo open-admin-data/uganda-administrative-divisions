@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41330101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugangari",
+      "en": "Bugangari",
+      "slug": "bugangari"
+    },
+    "code": {
+      "id": "UG41330101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.706",
+      "lon": "29.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhunga",
+      "en": "Buhunga",
+      "slug": "buhunga"
+    },
+    "code": {
+      "id": "UG41330102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.75",
+      "lon": "29.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukurungu Town Council",
+      "en": "Bukurungu Town Council",
+      "slug": "bukurungu-town-council"
+    },
+    "code": {
+      "id": "UG41330103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.643",
+      "lon": "29.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwambara",
+      "en": "Bwambara",
+      "slug": "bwambara"
+    },
+    "code": {
+      "id": "UG41330104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.514",
+      "lon": "29.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakagyeme",
+      "en": "Nyakagyeme",
+      "slug": "nyakagyeme"
+    },
+    "code": {
+      "id": "UG41330105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.799",
+      "lon": "29.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruhinda",
+      "en": "Ruhinda",
+      "slug": "ruhinda"
+    },
+    "code": {
+      "id": "UG41330106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.674",
+      "lon": "29.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwerere Town Council",
+      "en": "Rwerere Town Council",
+      "slug": "rwerere-town-council"
+    },
+    "code": {
+      "id": "UG41330107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413301",
+      "level": 3,
+      "name": {
+        "local": "Bujumbura",
+        "en": "Bujumbura",
+        "slug": "bujumbura-ug413301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413301",
+        "level": 3,
+        "name": {
+          "local": "Bujumbura",
+          "en": "Bujumbura",
+          "slug": "bujumbura-ug413301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.797",
+      "lon": "29.841"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

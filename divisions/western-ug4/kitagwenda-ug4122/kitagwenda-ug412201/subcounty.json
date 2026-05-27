@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41220101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhanda",
+      "en": "Buhanda",
+      "slug": "buhanda"
+    },
+    "code": {
+      "id": "UG41220101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "30.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanara",
+      "en": "Kanara",
+      "slug": "kanara"
+    },
+    "code": {
+      "id": "UG41220102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.125",
+      "lon": "30.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kicheche",
+      "en": "Kicheche",
+      "slug": "kicheche"
+    },
+    "code": {
+      "id": "UG41220103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.114",
+      "lon": "30.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mahyoro",
+      "en": "Mahyoro",
+      "slug": "mahyoro"
+    },
+    "code": {
+      "id": "UG41220104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.03",
+      "lon": "30.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntara",
+      "en": "Ntara",
+      "slug": "ntara"
+    },
+    "code": {
+      "id": "UG41220105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.023",
+      "lon": "30.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntara Kichwamba Town Council",
+      "en": "Ntara Kichwamba Town Council",
+      "slug": "ntara-kichwamba-town-council"
+    },
+    "code": {
+      "id": "UG41220106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.026",
+      "lon": "30.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41220107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabbani",
+      "en": "Nyabbani",
+      "slug": "nyabbani"
+    },
+    "code": {
+      "id": "UG41220107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412201",
+      "level": 3,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug412201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      },
+      {
+        "id": "UG412201",
+        "level": 3,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug412201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.093",
+      "lon": "30.421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,821 @@
+# Northern — Uganda Administrative Divisions
+
+> 37 districts, 48 countys, 339 sub-countys
+> Code: UG3
+> Coordinates: 2.798, 32.822
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Abim
+
+Code: UG3064, Coordinates: 2.746, 33.726
+Countys: 1, Sub-countys: 8
+
+#### Labwor
+
+Code: UG306401, Coordinates: 2.746, 33.726
+
+Sub-countys:
+- Abim [UG30640101]
+- Abim Town Council [UG30640102]
+- Alerek [UG30640103]
+- Awach [UG30640104]
+- Lotukei [UG30640105]
+- Magamaga [UG30640106]
+- Morulem [UG30640107]
+- Nyakwae [UG30640108]
+
+### Adjumani
+
+Code: UG3065, Coordinates: 3.235, 31.787
+Countys: 1, Sub-countys: 10
+
+#### East Moyo
+
+Code: UG306501, Coordinates: 3.235, 31.787
+
+Sub-countys:
+- Adjumani Town Council [UG30650101]
+- Adropi [UG30650102]
+- Arinyapi [UG30650103]
+- Ciforo [UG30650104]
+- Dzaipi [UG30650105]
+- Itirikwa [UG30650106]
+- Ofua [UG30650107]
+- Pacara [UG30650108]
+- Pakele [UG30650109]
+- Ukusijoni [UG30650110]
+
+### Agago
+
+Code: UG3066, Coordinates: 2.945, 33.387
+Countys: 1, Sub-countys: 16
+
+#### Agago
+
+Code: UG306601, Coordinates: 2.945, 33.387
+
+Sub-countys:
+- Adilang [UG30660101]
+- Agago Town Council [UG30660102]
+- Arum [UG30660103]
+- Kalongo Town Council [UG30660104]
+- Kotomol [UG30660105]
+- Lamiyo [UG30660106]
+- Lapono [UG30660107]
+- Lira Palwo [UG30660108]
+- Lokole [UG30660109]
+- Omiya Pacwa [UG30660110]
+- Omot [UG30660111]
+- Paimol [UG30660112]
+- Parabongo [UG30660113]
+- Patongo [UG30660114]
+- Patongo Town Council [UG30660115]
+- Wol [UG30660116]
+
+### Alebtong
+
+Code: UG3067, Coordinates: 2.266, 33.325
+Countys: 1, Sub-countys: 9
+
+#### Moroto
+
+Code: UG306701, Coordinates: 2.266, 33.325
+
+Sub-countys:
+- Abako [UG30670101]
+- Abia [UG30670102]
+- Akura [UG30670103]
+- Alebtong Town Council [UG30670104]
+- Aloi [UG30670105]
+- Amugu [UG30670106]
+- Apala [UG30670107]
+- Awei [UG30670108]
+- Omoro [UG30670109]
+
+### Amolatar
+
+Code: UG3068, Coordinates: 1.636, 32.633
+Countys: 1, Sub-countys: 11
+
+#### Kioga
+
+Code: UG306801, Coordinates: 1.636, 32.633
+
+Sub-countys:
+- Agikdak [UG30680101]
+- Agwingiri [UG30680102]
+- Akwon [UG30680103]
+- Amolatar Town Council [UG30680104]
+- Aputi [UG30680105]
+- Arwotcek [UG30680106]
+- Awelo [UG30680107]
+- Etam [UG30680108]
+- Muntu [UG30680109]
+- Namasale [UG30680110]
+- Namasale Town Council [UG30680111]
+
+### Amudat
+
+Code: UG3069, Coordinates: 1.825, 34.93
+Countys: 1, Sub-countys: 4
+
+#### Pokot
+
+Code: UG306901, Coordinates: 1.825, 34.93
+
+Sub-countys:
+- Amudat [UG30690101]
+- Amudat Town Council [UG30690102]
+- Karita [UG30690103]
+- Loroo [UG30690104]
+
+### Amuru
+
+Code: UG3070, Coordinates: 3.128, 32.105
+Countys: 1, Sub-countys: 5
+
+#### Kilak
+
+Code: UG307001, Coordinates: 3.128, 32.105
+
+Sub-countys:
+- Amuru [UG30700101]
+- Amuru Town Council [UG30700102]
+- Attiak [UG30700103]
+- Lamogi [UG30700104]
+- Pabo [UG30700105]
+
+### Apac
+
+Code: UG3071, Coordinates: 1.931, 32.502
+Countys: 2, Sub-countys: 8
+
+#### Apac Municipality
+
+Code: UG307101, Coordinates: 1.968, 32.543
+
+Sub-countys:
+- Agulu Division [UG30710101]
+- Akere Division [UG30710102]
+- Arocha Division [UG30710103]
+- Atik Division [UG30710104]
+
+#### Maruzi
+
+Code: UG307102, Coordinates: 1.931, 32.422
+
+Sub-countys:
+- Akokoro [UG30710201]
+- Apac [UG30710202]
+- Chegere [UG30710203]
+- Ibuje [UG30710204]
+
+### Arua
+
+Code: UG3072, Coordinates: 2.998, 31.015
+Countys: 4, Sub-countys: 19
+
+#### Arua Municipality
+
+Code: UG307201, Coordinates: 3.019, 30.917
+
+Sub-countys:
+- Arua Hill Division [UG30720101]
+- River Oli Division [UG30720102]
+
+#### Ayivu
+
+Code: UG307202, Coordinates: 3.048, 30.854
+
+Sub-countys:
+- Adumi [UG30720201]
+- Aroi [UG30720202]
+- Ayivuni [UG30720203]
+- Dadamu [UG30720204]
+- Oluko [UG30720205]
+- Pajulu [UG30720206]
+
+#### Terego
+
+Code: UG307203, Coordinates: 3.18, 31.172
+
+Sub-countys:
+- Aii-Vu [UG30720301]
+- Bileafe [UG30720302]
+- Katrini [UG30720303]
+- Manibe [UG30720304]
+- Odupi [UG30720305]
+- Omugo [UG30720306]
+- Uriama [UG30720307]
+
+#### Vurra
+
+Code: UG307204, Coordinates: 2.834, 30.96
+
+Sub-countys:
+- Ajia [UG30720401]
+- Arivu [UG30720402]
+- Logiri [UG30720403]
+- Vurra [UG30720404]
+
+### Dokolo
+
+Code: UG3073, Coordinates: 1.907, 33.076
+Countys: 1, Sub-countys: 11
+
+#### Dokolo
+
+Code: UG307301, Coordinates: 1.907, 33.076
+
+Sub-countys:
+- Adeknino [UG30730101]
+- Adok [UG30730102]
+- Agwata [UG30730103]
+- Amwoma [UG30730104]
+- Batta [UG30730105]
+- Dokolo [UG30730106]
+- Dokolo Tc [UG30730107]
+- Kangai [UG30730108]
+- Kwera [UG30730109]
+- Okwalongwen [UG30730110]
+- Okwongodul [UG30730111]
+
+### Gulu
+
+Code: UG3074, Coordinates: 3.019, 32.388
+Countys: 2, Sub-countys: 10
+
+#### Aswa
+
+Code: UG307401, Coordinates: 3.034, 32.38
+
+Sub-countys:
+- Awach [UG30740101]
+- Bungatira [UG30740102]
+- Paicho [UG30740103]
+- Palaro [UG30740104]
+- Patiko [UG30740105]
+- Unyama [UG30740106]
+
+#### Gulu Municipality
+
+Code: UG307402, Coordinates: 2.781, 32.288
+
+Sub-countys:
+- Bar Dege Division [UG30740201]
+- Laroo Division [UG30740202]
+- Layibi Division [UG30740203]
+- Pece Division [UG30740204]
+
+### Kaabong
+
+Code: UG3075, Coordinates: 3.655, 34.209
+Countys: 1, Sub-countys: 13
+
+#### Dodoth
+
+Code: UG307501, Coordinates: 3.655, 34.209
+
+Sub-countys:
+- Kaabong East [UG30750101]
+- Kaabong Town Council [UG30750102]
+- Kaabong West [UG30750103]
+- Kakamar [UG30750104]
+- Kalapata [UG30750105]
+- Kamion [UG30750106]
+- Kathile [UG30750107]
+- Kathile South [UG30750108]
+- Lodiko [UG30750109]
+- Lolelia [UG30750110]
+- Lotim [UG30750111]
+- Loyoro [UG30750112]
+- Sidok [UG30750113]
+
+### Karenga
+
+Code: UG3076, Coordinates: 3.71, 33.769
+Countys: 1, Sub-countys: 7
+
+#### Dodoth
+
+Code: UG307601, Coordinates: 3.71, 33.769
+
+Sub-countys:
+- Kapedo [UG30760114]
+- Karenga Town Council [UG30760115]
+- Kawalakol [UG30760116]
+- Lobalangit [UG30760117]
+- Lokori [UG30760118]
+- Napore Karenga [UG30760119]
+- Sangar [UG30760120]
+
+### Kitgum
+
+Code: UG3077, Coordinates: 3.417, 33.318
+Countys: 2, Sub-countys: 12
+
+#### Chua
+
+Code: UG307701, Coordinates: 3.417, 33.318
+
+Sub-countys:
+- Kitgum Matidi [UG30770101]
+- Labongo Akwang [UG30770102]
+- Labongo Amida [UG30770103]
+- Labongo Layamo [UG30770104]
+- Lagoro [UG30770105]
+- Mucwini [UG30770106]
+- Namokora [UG30770107]
+- Omiya Anyima [UG30770108]
+- Orom [UG30770109]
+
+#### Kitgum Municipality
+
+Code: UG307702, Coordinates: 3.299, 32.885
+
+Sub-countys:
+- Central Division [UG30770201]
+- Pager Division [UG30770202]
+- Pandwong Division [UG30770203]
+
+### Koboko
+
+Code: UG3078, Coordinates: 3.533, 30.985
+Countys: 2, Sub-countys: 9
+
+#### Koboko
+
+Code: UG307801, Coordinates: 3.533, 30.985
+
+Sub-countys:
+- Abuku [UG30780101]
+- Dranya [UG30780102]
+- Kuluba [UG30780103]
+- Lobule [UG30780104]
+- Ludara [UG30780105]
+- Midia [UG30780106]
+
+#### Koboko Municipality
+
+Code: UG307802, Coordinates: 3.402, 30.952
+
+Sub-countys:
+- Northern Divison [UG30780201]
+- Southern Division [UG30780202]
+- Western Division [UG30780203]
+
+### Kole
+
+Code: UG3079, Coordinates: 2.299, 32.739
+Countys: 1, Sub-countys: 7
+
+#### Kole
+
+Code: UG307901, Coordinates: 2.299, 32.739
+
+Sub-countys:
+- Aboke [UG30790101]
+- Akalo [UG30790102]
+- Alito [UG30790103]
+- Ayer [UG30790104]
+- Bala [UG30790105]
+- Kole Town Council [UG30790106]
+- Okwerodot [UG30790107]
+
+### Kotido
+
+Code: UG3080, Coordinates: 2.989, 34.035
+Countys: 2, Sub-countys: 9
+
+#### Jie
+
+Code: UG308001, Coordinates: 2.989, 33.876
+
+Sub-countys:
+- Kacheri [UG30800101]
+- Kotido [UG30800102]
+- Nakapelimoru [UG30800103]
+- Panyangara [UG30800104]
+- Rengen [UG30800105]
+
+#### Kotido Municipality
+
+Code: UG308002, Coordinates: 2.984, 34.073
+
+Sub-countys:
+- Central Division [UG30800201]
+- North Division [UG30800202]
+- South Division [UG30800203]
+- West Division [UG30800204]
+
+### Kwania
+
+Code: UG3081, Coordinates: 1.901, 32.774
+Countys: 1, Sub-countys: 6
+
+#### Kwania
+
+Code: UG308101, Coordinates: 1.901, 32.774
+
+Sub-countys:
+- Abongomola [UG30810101]
+- Aduku [UG30810102]
+- Aduku Town Council [UG30810103]
+- Chawente [UG30810104]
+- Inomo [UG30810105]
+- Nambieso [UG30810106]
+
+### Lamwo
+
+Code: UG3082, Coordinates: 3.521, 32.623
+Countys: 1, Sub-countys: 11
+
+#### Lamwo
+
+Code: UG308201, Coordinates: 3.521, 32.623
+
+Sub-countys:
+- Agoro [UG30820101]
+- Lamwo Town Council [UG30820102]
+- Lokung [UG30820103]
+- Madi Opei [UG30820104]
+- Padibe East [UG30820105]
+- Padibe Town Council [UG30820106]
+- Padibe West [UG30820107]
+- Palabek Gem [UG30820108]
+- Palabek Kal [UG30820109]
+- Palabek Ogili [UG30820110]
+- Paloga [UG30820111]
+
+### Lira
+
+Code: UG3083, Coordinates: 2.332, 32.95
+Countys: 2, Sub-countys: 13
+
+#### Erute
+
+Code: UG308301, Coordinates: 2.332, 32.95
+
+Sub-countys:
+- Adekokwok [UG30830101]
+- Agali [UG30830102]
+- Agweng [UG30830103]
+- Amach [UG30830104]
+- Aromo [UG30830105]
+- Barr [UG30830106]
+- Lira [UG30830107]
+- Ngetta [UG30830108]
+- Ogur [UG30830109]
+
+#### Lira Municipality
+
+Code: UG308302, Coordinates: 2.249, 32.897
+
+Sub-countys:
+- Adyel Division [UG30830201]
+- Central Division [UG30830202]
+- Ojwina Division [UG30830203]
+- Railway Division [UG30830204]
+
+### Madi Okollo
+
+Code: UG3084, Coordinates: 2.867, 31.238
+Countys: 1, Sub-countys: 10
+
+#### Madi Okollo
+
+Code: UG308401, Coordinates: 2.867, 31.238
+
+Sub-countys:
+- Anyiribu [UG30840101]
+- Ewanga [UG30840102]
+- Inde Town Council [UG30840103]
+- Offaka [UG30840104]
+- Ogoko [UG30840105]
+- Okollo [UG30840106]
+- Pawor [UG30840107]
+- Rhino Camp [UG30840108]
+- Rigbo [UG30840109]
+- Uleppi [UG30840110]
+
+### Maracha
+
+Code: UG3085, Coordinates: 3.244, 30.926
+Countys: 1, Sub-countys: 8
+
+#### Maracha
+
+Code: UG308501, Coordinates: 3.244, 30.926
+
+Sub-countys:
+- Kijomoro [UG30850101]
+- Maracha Town Council [UG30850102]
+- Nyadri [UG30850103]
+- Oleba [UG30850104]
+- Oluffe [UG30850105]
+- Oluvu [UG30850106]
+- Tara [UG30850107]
+- Yivu [UG30850108]
+
+### Moroto
+
+Code: UG3086, Coordinates: 2.613, 34.641
+Countys: 2, Sub-countys: 6
+
+#### Matheniko
+
+Code: UG308601, Coordinates: 2.613, 34.641
+
+Sub-countys:
+- Katikekile [UG30860101]
+- Nadunget [UG30860102]
+- Rupa [UG30860103]
+- Tapac [UG30860104]
+
+#### Moroto Municipality
+
+Code: UG308602, Coordinates: 2.53, 34.66
+
+Sub-countys:
+- Northern Division [UG30860201]
+- Southern Divison [UG30860202]
+
+### Moyo
+
+Code: UG3087, Coordinates: 3.665, 31.747
+Countys: 1, Sub-countys: 6
+
+#### Moyo
+
+Code: UG308701, Coordinates: 3.665, 31.747
+
+Sub-countys:
+- Difule [UG30870101]
+- Laropi [UG30870102]
+- Lefori [UG30870103]
+- Metu [UG30870104]
+- Moyo [UG30870105]
+- Moyo Town Council [UG30870106]
+
+### Nabilatuk
+
+Code: UG3088, Coordinates: 2.038, 34.586
+Countys: 1, Sub-countys: 4
+
+#### Pian
+
+Code: UG308801, Coordinates: 2.038, 34.586
+
+Sub-countys:
+- Lolachat [UG30880101]
+- Lorengedwat [UG30880102]
+- Nabilatuk [UG30880103]
+- Nabilatuk Town Council [UG30880104]
+
+### Nakapiripirit
+
+Code: UG3089, Coordinates: 1.847, 34.639
+Countys: 1, Sub-countys: 5
+
+#### Chekwi
+
+Code: UG308901, Coordinates: 1.847, 34.639
+
+Sub-countys:
+- Kakomongole [UG30890101]
+- Loregae [UG30890102]
+- Moruita [UG30890103]
+- Nakapiripirit Town Council [UG30890104]
+- Namalu [UG30890105]
+
+### Napak
+
+Code: UG3090, Coordinates: 2.395, 34.26
+Countys: 1, Sub-countys: 8
+
+#### Bokora
+
+Code: UG309001, Coordinates: 2.395, 34.26
+
+Sub-countys:
+- Iriiri [UG30900101]
+- Lokopo [UG30900102]
+- Lopeei [UG30900103]
+- Lorengecora [UG30900104]
+- Lotome [UG30900105]
+- Matany [UG30900106]
+- Napak Town Council [UG30900107]
+- Ngoleriet [UG30900108]
+
+### Nebbi
+
+Code: UG3091, Coordinates: 2.433, 31.163
+Countys: 2, Sub-countys: 11
+
+#### Nebbi Municipality
+
+Code: UG309101, Coordinates: 2.477, 31.085
+
+Sub-countys:
+- Abindu Division [UG30910101]
+- Central Division [UG30910102]
+- Thatha Division [UG30910103]
+
+#### Padyere
+
+Code: UG309102, Coordinates: 2.433, 31.191
+
+Sub-countys:
+- Akworo [UG30910201]
+- Atego [UG30910202]
+- Erussi [UG30910203]
+- Kucwiny [UG30910204]
+- Ndhew [UG30910205]
+- Nebbi [UG30910206]
+- Nyaravur [UG30910207]
+- Parombo [UG30910208]
+
+### Nwoya
+
+Code: UG3092, Coordinates: 2.526, 31.872
+Countys: 1, Sub-countys: 8
+
+#### Nwoya
+
+Code: UG309201, Coordinates: 2.526, 31.872
+
+Sub-countys:
+- Alero [UG30920101]
+- Anaka Payira [UG30920102]
+- Anaka Town Council [UG30920103]
+- Got Apwoyo [UG30920104]
+- Koch-Goma [UG30920105]
+- Lii [UG30920106]
+- Lungulu [UG30920107]
+- Purongo [UG30920108]
+
+### Obongi
+
+Code: UG3093, Coordinates: 3.364, 31.537
+Countys: 1, Sub-countys: 4
+
+#### Obongi
+
+Code: UG309301, Coordinates: 3.364, 31.537
+
+Sub-countys:
+- Aliba [UG30930101]
+- Gimara [UG30930102]
+- Itula [UG30930103]
+- Obongi Town Council [UG30930104]
+
+### Omoro
+
+Code: UG3094, Coordinates: 2.645, 32.498
+Countys: 1, Sub-countys: 7
+
+#### Omoro
+
+Code: UG309401, Coordinates: 2.645, 32.498
+
+Sub-countys:
+- Bobi [UG30940101]
+- Koro [UG30940102]
+- Lakwana [UG30940103]
+- Lalogi [UG30940104]
+- Odek [UG30940105]
+- Omoro Town Council [UG30940106]
+- Ongako [UG30940107]
+
+### Otuke
+
+Code: UG3095, Coordinates: 2.476, 33.383
+Countys: 1, Sub-countys: 8
+
+#### Otuke
+
+Code: UG309501, Coordinates: 2.476, 33.383
+
+Sub-countys:
+- Adwari [UG30950101]
+- Alango [UG30950102]
+- Ogor [UG30950103]
+- Ogwette [UG30950104]
+- Okwang [UG30950105]
+- Olilim [UG30950106]
+- Orum [UG30950107]
+- Otuke Town Council [UG30950108]
+
+### Oyam
+
+Code: UG3096, Coordinates: 2.346, 32.424
+Countys: 1, Sub-countys: 12
+
+#### Oyam
+
+Code: UG309601, Coordinates: 2.346, 32.424
+
+Sub-countys:
+- Aber [UG30960101]
+- Abok [UG30960102]
+- Acaba [UG30960103]
+- Aleka [UG30960104]
+- Iceme [UG30960105]
+- Kamdini [UG30960106]
+- Loro [UG30960107]
+- Minakulu [UG30960108]
+- Myene [UG30960109]
+- Ngai [UG30960110]
+- Otwal [UG30960111]
+- Oyam Town Council [UG30960112]
+
+### Pader
+
+Code: UG3097, Coordinates: 2.887, 32.913
+Countys: 1, Sub-countys: 12
+
+#### Aruu
+
+Code: UG309701, Coordinates: 2.887, 32.913
+
+Sub-countys:
+- Acholibur [UG30970101]
+- Angagura [UG30970102]
+- Atanga [UG30970103]
+- Awere [UG30970104]
+- Laguti [UG30970105]
+- Lapul [UG30970106]
+- Latanya [UG30970107]
+- Ogom [UG30970108]
+- Pader [UG30970109]
+- Pader Town Council [UG30970110]
+- Pajule [UG30970111]
+- Puranga [UG30970112]
+
+### Pakwach
+
+Code: UG3098, Coordinates: 2.465, 31.396
+Countys: 1, Sub-countys: 6
+
+#### Jonam
+
+Code: UG309801, Coordinates: 2.465, 31.396
+
+Sub-countys:
+- Alwi [UG30980101]
+- Pakwach [UG30980102]
+- Pakwach Town Council [UG30980103]
+- Panyango [UG30980104]
+- Panyimur [UG30980105]
+- Wadelai [UG30980106]
+
+### Yumbe
+
+Code: UG3099, Coordinates: 3.488, 31.285
+Countys: 1, Sub-countys: 13
+
+#### Aringa
+
+Code: UG309901, Coordinates: 3.488, 31.285
+
+Sub-countys:
+- Apo [UG30990101]
+- Ariwa [UG30990102]
+- Drajini [UG30990103]
+- Kei [UG30990104]
+- Kerwa [UG30990105]
+- Kochi [UG30990106]
+- Kululu [UG30990107]
+- Kuru [UG30990108]
+- Lodonga [UG30990109]
+- Midigo [UG30990110]
+- Odravu [UG30990111]
+- Romogi [UG30990112]
+- Yumbe Town Council [UG30990113]
+
+### Zombo
+
+Code: UG3100, Coordinates: 2.52, 30.875
+Countys: 1, Sub-countys: 13
+
+#### Okoro
+
+Code: UG310001, Coordinates: 2.52, 30.875
+
+Sub-countys:
+- Abanga [UG31000101]
+- Akaa [UG31000102]
+- Alangi [UG31000103]
+- Athuma [UG31000104]
+- Atyak [UG31000105]
+- Jangokoro [UG31000106]
+- Kango [UG31000107]
+- Nyapea [UG31000108]
+- Paidha [UG31000109]
+- Paidha Town Council [UG31000110]
+- Warr [UG31000111]
+- Zeu [UG31000112]
+- Zombo Town Council [UG31000113]
+

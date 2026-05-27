@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG411901",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyabushozi",
+      "en": "Nyabushozi",
+      "slug": "nyabushozi-ug411901"
+    },
+    "code": {
+      "id": "UG411901",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4119",
+      "level": 2,
+      "name": {
+        "local": "Kiruhura",
+        "en": "Kiruhura",
+        "slug": "kiruhura-ug4119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.327",
+      "lon": "30.873"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

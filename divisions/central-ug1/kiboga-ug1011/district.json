@@ -1,0 +1,48 @@
+{
+  "id": "UG1011",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kiboga",
+    "en": "Kiboga",
+    "slug": "kiboga-ug1011"
+  },
+  "code": {
+    "id": "UG1011",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.855",
+    "lon": "31.929"
+  },
+  "metadata": {},
+  "source": {}
+}

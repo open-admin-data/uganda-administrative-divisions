@@ -1,0 +1,48 @@
+{
+  "id": "UG2051",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luuka",
+    "en": "Luuka",
+    "slug": "luuka-ug2051"
+  },
+  "code": {
+    "id": "UG2051",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.818",
+    "lon": "33.328"
+  },
+  "metadata": {},
+  "source": {}
+}

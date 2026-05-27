@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG20590201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agule",
+      "en": "Agule",
+      "slug": "agule"
+    },
+    "code": {
+      "id": "UG20590201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.293",
+      "lon": "33.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akisim",
+      "en": "Akisim",
+      "slug": "akisim"
+    },
+    "code": {
+      "id": "UG20590202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.273",
+      "lon": "33.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apopong",
+      "en": "Apopong",
+      "slug": "apopong"
+    },
+    "code": {
+      "id": "UG20590203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.237",
+      "lon": "33.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chelekura",
+      "en": "Chelekura",
+      "slug": "chelekura"
+    },
+    "code": {
+      "id": "UG20590204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.303",
+      "lon": "33.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gogonyo",
+      "en": "Gogonyo",
+      "slug": "gogonyo"
+    },
+    "code": {
+      "id": "UG20590205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.261",
+      "lon": "33.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kameke",
+      "en": "Kameke",
+      "slug": "kameke"
+    },
+    "code": {
+      "id": "UG20590206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.28",
+      "lon": "33.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamuge",
+      "en": "Kamuge",
+      "slug": "kamuge"
+    },
+    "code": {
+      "id": "UG20590207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.185",
+      "lon": "33.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasodo",
+      "en": "Kasodo",
+      "slug": "kasodo"
+    },
+    "code": {
+      "id": "UG20590208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.138",
+      "lon": "33.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Olok",
+      "en": "Olok",
+      "slug": "olok"
+    },
+    "code": {
+      "id": "UG20590209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.183",
+      "lon": "33.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pallisa",
+      "en": "Pallisa",
+      "slug": "pallisa"
+    },
+    "code": {
+      "id": "UG20590210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.205",
+      "lon": "33.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pallisa Town Council",
+      "en": "Pallisa Town Council",
+      "slug": "pallisa-town-council"
+    },
+    "code": {
+      "id": "UG20590211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.162",
+      "lon": "33.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20590212",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Puti-Puti",
+      "en": "Puti-Puti",
+      "slug": "puti-puti"
+    },
+    "code": {
+      "id": "UG20590212",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205902",
+      "level": 3,
+      "name": {
+        "local": "Pallisa",
+        "en": "Pallisa",
+        "slug": "pallisa-ug205902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2059",
+        "level": 2,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug2059"
+        }
+      },
+      {
+        "id": "UG205902",
+        "level": 3,
+        "name": {
+          "local": "Pallisa",
+          "en": "Pallisa",
+          "slug": "pallisa-ug205902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.135",
+      "lon": "33.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

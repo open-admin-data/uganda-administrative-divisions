@@ -1,0 +1,48 @@
+{
+  "id": "UG4129",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ntungamo",
+    "en": "Ntungamo",
+    "slug": "ntungamo-ug4129"
+  },
+  "code": {
+    "id": "UG4129",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 4,
+    "subcounty": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.956",
+    "lon": "30.3"
+  },
+  "metadata": {},
+  "source": {}
+}

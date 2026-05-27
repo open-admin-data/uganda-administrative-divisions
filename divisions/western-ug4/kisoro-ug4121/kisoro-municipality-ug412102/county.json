@@ -1,0 +1,56 @@
+{
+  "id": "UG412102",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kisoro Municipality",
+    "en": "Kisoro Municipality",
+    "slug": "kisoro-municipality-ug412102"
+  },
+  "code": {
+    "id": "UG412102",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4121",
+    "level": 2,
+    "name": {
+      "local": "Kisoro",
+      "en": "Kisoro",
+      "slug": "kisoro-ug4121"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4121",
+      "level": 2,
+      "name": {
+        "local": "Kisoro",
+        "en": "Kisoro",
+        "slug": "kisoro-ug4121"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.277",
+    "lon": "29.691"
+  },
+  "metadata": {},
+  "source": {}
+}

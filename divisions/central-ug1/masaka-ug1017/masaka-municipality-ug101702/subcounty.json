@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG10170201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katwe-Butego Division",
+      "en": "Katwe-Butego Division",
+      "slug": "katwe-butego-division"
+    },
+    "code": {
+      "id": "UG10170201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101702",
+      "level": 3,
+      "name": {
+        "local": "Masaka Municipality",
+        "en": "Masaka Municipality",
+        "slug": "masaka-municipality-ug101702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101702",
+        "level": 3,
+        "name": {
+          "local": "Masaka Municipality",
+          "en": "Masaka Municipality",
+          "slug": "masaka-municipality-ug101702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.337",
+      "lon": "31.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kimaanya-Kyabakuza Division",
+      "en": "Kimaanya-Kyabakuza Division",
+      "slug": "kimaanya-kyabakuza-division"
+    },
+    "code": {
+      "id": "UG10170202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101702",
+      "level": 3,
+      "name": {
+        "local": "Masaka Municipality",
+        "en": "Masaka Municipality",
+        "slug": "masaka-municipality-ug101702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101702",
+        "level": 3,
+        "name": {
+          "local": "Masaka Municipality",
+          "en": "Masaka Municipality",
+          "slug": "masaka-municipality-ug101702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.334",
+      "lon": "31.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyendo-Ssenyange Division",
+      "en": "Nyendo-Ssenyange Division",
+      "slug": "nyendo-ssenyange-division"
+    },
+    "code": {
+      "id": "UG10170203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101702",
+      "level": 3,
+      "name": {
+        "local": "Masaka Municipality",
+        "en": "Masaka Municipality",
+        "slug": "masaka-municipality-ug101702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101702",
+        "level": 3,
+        "name": {
+          "local": "Masaka Municipality",
+          "en": "Masaka Municipality",
+          "slug": "masaka-municipality-ug101702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.333",
+      "lon": "31.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

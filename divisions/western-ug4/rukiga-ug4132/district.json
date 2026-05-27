@@ -1,0 +1,48 @@
+{
+  "id": "UG4132",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rukiga",
+    "en": "Rukiga",
+    "slug": "rukiga-ug4132"
+  },
+  "code": {
+    "id": "UG4132",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.147",
+    "lon": "30.055"
+  },
+  "metadata": {},
+  "source": {}
+}

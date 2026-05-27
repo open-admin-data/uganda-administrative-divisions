@@ -1,0 +1,947 @@
+[
+  {
+    "id": "UG41150101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwera",
+      "en": "Bwera",
+      "slug": "bwera"
+    },
+    "code": {
+      "id": "UG41150101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.047",
+      "lon": "29.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ihandiro",
+      "en": "Ihandiro",
+      "slug": "ihandiro"
+    },
+    "code": {
+      "id": "UG41150102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.11",
+      "lon": "29.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Isango",
+      "en": "Isango",
+      "slug": "isango"
+    },
+    "code": {
+      "id": "UG41150103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.002",
+      "lon": "29.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "UG41150104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.062",
+      "lon": "29.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinyamasrke Town Council",
+      "en": "Kinyamasrke Town Council",
+      "slug": "kinyamasrke-town-council"
+    },
+    "code": {
+      "id": "UG41150105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.011",
+      "lon": "29.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisinga",
+      "en": "Kisinga",
+      "slug": "kisinga"
+    },
+    "code": {
+      "id": "UG41150106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.071",
+      "lon": "29.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisinga Town Council",
+      "en": "Kisinga Town Council",
+      "slug": "kisinga-town-council"
+    },
+    "code": {
+      "id": "UG41150107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.061",
+      "lon": "29.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitholhu",
+      "en": "Kitholhu",
+      "slug": "kitholhu"
+    },
+    "code": {
+      "id": "UG41150108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.126",
+      "lon": "29.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyarumba",
+      "en": "Kyarumba",
+      "slug": "kyarumba"
+    },
+    "code": {
+      "id": "UG41150109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.202",
+      "lon": "29.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyondo",
+      "en": "Kyondo",
+      "slug": "kyondo"
+    },
+    "code": {
+      "id": "UG41150110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.192",
+      "lon": "29.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mahango",
+      "en": "Mahango",
+      "slug": "mahango"
+    },
+    "code": {
+      "id": "UG41150111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.137",
+      "lon": "29.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpondwe-Lhubiriha",
+      "en": "Mpondwe-Lhubiriha",
+      "slug": "mpondwe-lhubiriha"
+    },
+    "code": {
+      "id": "UG41150112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.013",
+      "lon": "29.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Munkunyu",
+      "en": "Munkunyu",
+      "slug": "munkunyu"
+    },
+    "code": {
+      "id": "UG41150113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "29.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakatonzi",
+      "en": "Nyakatonzi",
+      "slug": "nyakatonzi"
+    },
+    "code": {
+      "id": "UG41150114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.079",
+      "lon": "29.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41150115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakiyumbu",
+      "en": "Nyakiyumbu",
+      "slug": "nyakiyumbu"
+    },
+    "code": {
+      "id": "UG41150115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411501",
+      "level": 3,
+      "name": {
+        "local": "Bukonjo",
+        "en": "Bukonjo",
+        "slug": "bukonjo-ug411501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4115",
+        "level": 2,
+        "name": {
+          "local": "Kasese",
+          "en": "Kasese",
+          "slug": "kasese-ug4115"
+        }
+      },
+      {
+        "id": "UG411501",
+        "level": 3,
+        "name": {
+          "local": "Bukonjo",
+          "en": "Bukonjo",
+          "slug": "bukonjo-ug411501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.063",
+      "lon": "29.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

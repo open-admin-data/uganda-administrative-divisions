@@ -1,0 +1,56 @@
+{
+  "id": "UG413303",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rukungiri Municipality",
+    "en": "Rukungiri Municipality",
+    "slug": "rukungiri-municipality-ug413303"
+  },
+  "code": {
+    "id": "UG413303",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4133",
+    "level": 2,
+    "name": {
+      "local": "Rukungiri",
+      "en": "Rukungiri",
+      "slug": "rukungiri-ug4133"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4133",
+      "level": 2,
+      "name": {
+        "local": "Rukungiri",
+        "en": "Rukungiri",
+        "slug": "rukungiri-ug4133"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.79",
+    "lon": "29.94"
+  },
+  "metadata": {},
+  "source": {}
+}

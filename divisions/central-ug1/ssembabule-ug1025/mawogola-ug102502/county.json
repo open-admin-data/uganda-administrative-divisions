@@ -1,0 +1,56 @@
+{
+  "id": "UG102502",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mawogola",
+    "en": "Mawogola",
+    "slug": "mawogola-ug102502"
+  },
+  "code": {
+    "id": "UG102502",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1025",
+    "level": 2,
+    "name": {
+      "local": "Ssembabule",
+      "en": "Ssembabule",
+      "slug": "ssembabule-ug1025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1025",
+      "level": 2,
+      "name": {
+        "local": "Ssembabule",
+        "en": "Ssembabule",
+        "slug": "ssembabule-ug1025"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.069",
+    "lon": "31.419"
+  },
+  "metadata": {},
+  "source": {}
+}

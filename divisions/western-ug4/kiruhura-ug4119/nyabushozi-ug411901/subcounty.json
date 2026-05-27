@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG41190101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanyaryeru",
+      "en": "Kanyaryeru",
+      "slug": "kanyaryeru"
+    },
+    "code": {
+      "id": "UG41190101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.561",
+      "lon": "30.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashongi",
+      "en": "Kashongi",
+      "slug": "kashongi"
+    },
+    "code": {
+      "id": "UG41190102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.255",
+      "lon": "30.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kenshunga",
+      "en": "Kenshunga",
+      "slug": "kenshunga"
+    },
+    "code": {
+      "id": "UG41190103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.177",
+      "lon": "30.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikaatsi",
+      "en": "Kikaatsi",
+      "slug": "kikaatsi"
+    },
+    "code": {
+      "id": "UG41190104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.363",
+      "lon": "30.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinoni",
+      "en": "Kinoni",
+      "slug": "kinoni"
+    },
+    "code": {
+      "id": "UG41190105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.09",
+      "lon": "31.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiruhura Town Council",
+      "en": "Kiruhura Town Council",
+      "slug": "kiruhura-town-council"
+    },
+    "code": {
+      "id": "UG41190106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.208",
+      "lon": "30.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitura",
+      "en": "Kitura",
+      "slug": "kitura"
+    },
+    "code": {
+      "id": "UG41190107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.197",
+      "lon": "30.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakashashara",
+      "en": "Nyakashashara",
+      "slug": "nyakashashara"
+    },
+    "code": {
+      "id": "UG41190108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.461",
+      "lon": "31.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sanga",
+      "en": "Sanga",
+      "slug": "sanga"
+    },
+    "code": {
+      "id": "UG41190109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.618",
+      "lon": "30.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41190110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sanga Town Council",
+      "en": "Sanga Town Council",
+      "slug": "sanga-town-council"
+    },
+    "code": {
+      "id": "UG41190110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411901",
+      "level": 3,
+      "name": {
+        "local": "Nyabushozi",
+        "en": "Nyabushozi",
+        "slug": "nyabushozi-ug411901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4119",
+        "level": 2,
+        "name": {
+          "local": "Kiruhura",
+          "en": "Kiruhura",
+          "slug": "kiruhura-ug4119"
+        }
+      },
+      {
+        "id": "UG411901",
+        "level": 3,
+        "name": {
+          "local": "Nyabushozi",
+          "en": "Nyabushozi",
+          "slug": "nyabushozi-ug411901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.49",
+      "lon": "30.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

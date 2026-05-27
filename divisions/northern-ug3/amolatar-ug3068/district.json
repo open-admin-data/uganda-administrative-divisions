@@ -1,0 +1,48 @@
+{
+  "id": "UG3068",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amolatar",
+    "en": "Amolatar",
+    "slug": "amolatar-ug3068"
+  },
+  "code": {
+    "id": "UG3068",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.636",
+    "lon": "32.633"
+  },
+  "metadata": {},
+  "source": {}
+}

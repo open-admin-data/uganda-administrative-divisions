@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10210401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasawo",
+      "en": "Kasawo",
+      "slug": "kasawo"
+    },
+    "code": {
+      "id": "UG10210401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.629",
+      "lon": "32.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210402",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kimenyedde",
+      "en": "Kimenyedde",
+      "slug": "kimenyedde"
+    },
+    "code": {
+      "id": "UG10210402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.529",
+      "lon": "32.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210403",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabbaale",
+      "en": "Nabbaale",
+      "slug": "nabbaale"
+    },
+    "code": {
+      "id": "UG10210403",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.57",
+      "lon": "32.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210404",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nagojje",
+      "en": "Nagojje",
+      "slug": "nagojje"
+    },
+    "code": {
+      "id": "UG10210404",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.448",
+      "lon": "32.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210405",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntunda",
+      "en": "Ntunda",
+      "slug": "ntunda"
+    },
+    "code": {
+      "id": "UG10210405",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.582",
+      "lon": "32.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10210406",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Seeta Namuganga",
+      "en": "Seeta Namuganga",
+      "slug": "seeta-namuganga"
+    },
+    "code": {
+      "id": "UG10210406",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102104",
+      "level": 3,
+      "name": {
+        "local": "Nakifuma",
+        "en": "Nakifuma",
+        "slug": "nakifuma-ug102104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102104",
+        "level": 3,
+        "name": {
+          "local": "Nakifuma",
+          "en": "Nakifuma",
+          "slug": "nakifuma-ug102104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.742",
+      "lon": "32.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

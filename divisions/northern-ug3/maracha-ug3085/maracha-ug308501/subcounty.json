@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30850101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kijomoro",
+      "en": "Kijomoro",
+      "slug": "kijomoro"
+    },
+    "code": {
+      "id": "UG30850101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.159",
+      "lon": "30.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Maracha Town Council",
+      "en": "Maracha Town Council",
+      "slug": "maracha-town-council"
+    },
+    "code": {
+      "id": "UG30850102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.267",
+      "lon": "30.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyadri",
+      "en": "Nyadri",
+      "slug": "nyadri"
+    },
+    "code": {
+      "id": "UG30850103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.226",
+      "lon": "30.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Oleba",
+      "en": "Oleba",
+      "slug": "oleba"
+    },
+    "code": {
+      "id": "UG30850104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.308",
+      "lon": "30.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Oluffe",
+      "en": "Oluffe",
+      "slug": "oluffe"
+    },
+    "code": {
+      "id": "UG30850105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.232",
+      "lon": "30.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Oluvu",
+      "en": "Oluvu",
+      "slug": "oluvu"
+    },
+    "code": {
+      "id": "UG30850106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.178",
+      "lon": "30.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tara",
+      "en": "Tara",
+      "slug": "tara"
+    },
+    "code": {
+      "id": "UG30850107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.304",
+      "lon": "31.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30850108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Yivu",
+      "en": "Yivu",
+      "slug": "yivu"
+    },
+    "code": {
+      "id": "UG30850108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308501",
+      "level": 3,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug308501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      },
+      {
+        "id": "UG308501",
+        "level": 3,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug308501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.255",
+      "lon": "30.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "UG102103",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mukono Municipality",
+    "en": "Mukono Municipality",
+    "slug": "mukono-municipality-ug102103"
+  },
+  "code": {
+    "id": "UG102103",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1021",
+    "level": 2,
+    "name": {
+      "local": "Mukono",
+      "en": "Mukono",
+      "slug": "mukono-ug1021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1021",
+      "level": 2,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug1021"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.38",
+    "lon": "32.703"
+  },
+  "metadata": {},
+  "source": {}
+}

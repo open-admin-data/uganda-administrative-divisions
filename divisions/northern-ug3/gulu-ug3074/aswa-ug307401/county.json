@@ -1,0 +1,56 @@
+{
+  "id": "UG307401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Aswa",
+    "en": "Aswa",
+    "slug": "aswa-ug307401"
+  },
+  "code": {
+    "id": "UG307401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3074",
+    "level": 2,
+    "name": {
+      "local": "Gulu",
+      "en": "Gulu",
+      "slug": "gulu-ug3074"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3074",
+      "level": 2,
+      "name": {
+        "local": "Gulu",
+        "en": "Gulu",
+        "slug": "gulu-ug3074"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.034",
+    "lon": "32.38"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30880101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lolachat",
+      "en": "Lolachat",
+      "slug": "lolachat"
+    },
+    "code": {
+      "id": "UG30880101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308801",
+      "level": 3,
+      "name": {
+        "local": "Pian",
+        "en": "Pian",
+        "slug": "pian-ug308801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3088",
+        "level": 2,
+        "name": {
+          "local": "Nabilatuk",
+          "en": "Nabilatuk",
+          "slug": "nabilatuk-ug3088"
+        }
+      },
+      {
+        "id": "UG308801",
+        "level": 3,
+        "name": {
+          "local": "Pian",
+          "en": "Pian",
+          "slug": "pian-ug308801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.854",
+      "lon": "34.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30880102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lorengedwat",
+      "en": "Lorengedwat",
+      "slug": "lorengedwat"
+    },
+    "code": {
+      "id": "UG30880102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308801",
+      "level": 3,
+      "name": {
+        "local": "Pian",
+        "en": "Pian",
+        "slug": "pian-ug308801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3088",
+        "level": 2,
+        "name": {
+          "local": "Nabilatuk",
+          "en": "Nabilatuk",
+          "slug": "nabilatuk-ug3088"
+        }
+      },
+      {
+        "id": "UG308801",
+        "level": 3,
+        "name": {
+          "local": "Pian",
+          "en": "Pian",
+          "slug": "pian-ug308801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.281",
+      "lon": "34.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30880103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabilatuk",
+      "en": "Nabilatuk",
+      "slug": "nabilatuk"
+    },
+    "code": {
+      "id": "UG30880103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308801",
+      "level": 3,
+      "name": {
+        "local": "Pian",
+        "en": "Pian",
+        "slug": "pian-ug308801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3088",
+        "level": 2,
+        "name": {
+          "local": "Nabilatuk",
+          "en": "Nabilatuk",
+          "slug": "nabilatuk-ug3088"
+        }
+      },
+      {
+        "id": "UG308801",
+        "level": 3,
+        "name": {
+          "local": "Pian",
+          "en": "Pian",
+          "slug": "pian-ug308801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.091",
+      "lon": "34.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30880104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabilatuk Town Council",
+      "en": "Nabilatuk Town Council",
+      "slug": "nabilatuk-town-council"
+    },
+    "code": {
+      "id": "UG30880104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308801",
+      "level": 3,
+      "name": {
+        "local": "Pian",
+        "en": "Pian",
+        "slug": "pian-ug308801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3088",
+        "level": 2,
+        "name": {
+          "local": "Nabilatuk",
+          "en": "Nabilatuk",
+          "slug": "nabilatuk-ug3088"
+        }
+      },
+      {
+        "id": "UG308801",
+        "level": 3,
+        "name": {
+          "local": "Pian",
+          "en": "Pian",
+          "slug": "pian-ug308801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.058",
+      "lon": "34.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

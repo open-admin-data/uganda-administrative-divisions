@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41020101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Biiso",
+      "en": "Biiso",
+      "slug": "biiso"
+    },
+    "code": {
+      "id": "UG41020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.799",
+      "lon": "31.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buliisa",
+      "en": "Buliisa",
+      "slug": "buliisa"
+    },
+    "code": {
+      "id": "UG41020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.033",
+      "lon": "31.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buliisa Town Council",
+      "en": "Buliisa Town Council",
+      "slug": "buliisa-town-council"
+    },
+    "code": {
+      "id": "UG41020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.096",
+      "lon": "31.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butiaba",
+      "en": "Butiaba",
+      "slug": "butiaba"
+    },
+    "code": {
+      "id": "UG41020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.871",
+      "lon": "31.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigwera",
+      "en": "Kigwera",
+      "slug": "kigwera"
+    },
+    "code": {
+      "id": "UG41020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "31.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kihungya",
+      "en": "Kihungya",
+      "slug": "kihungya"
+    },
+    "code": {
+      "id": "UG41020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.714",
+      "lon": "31.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41020107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngwedo",
+      "en": "Ngwedo",
+      "slug": "ngwedo"
+    },
+    "code": {
+      "id": "UG41020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410201",
+      "level": 3,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug410201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      },
+      {
+        "id": "UG410201",
+        "level": 3,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug410201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.195",
+      "lon": "31.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

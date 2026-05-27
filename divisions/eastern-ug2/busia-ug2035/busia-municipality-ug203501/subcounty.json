@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20350101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG20350101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203501",
+      "level": 3,
+      "name": {
+        "local": "Busia Municipality",
+        "en": "Busia Municipality",
+        "slug": "busia-municipality-ug203501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203501",
+        "level": 3,
+        "name": {
+          "local": "Busia Municipality",
+          "en": "Busia Municipality",
+          "slug": "busia-municipality-ug203501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.467",
+      "lon": "34.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG20350102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203501",
+      "level": 3,
+      "name": {
+        "local": "Busia Municipality",
+        "en": "Busia Municipality",
+        "slug": "busia-municipality-ug203501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203501",
+        "level": 3,
+        "name": {
+          "local": "Busia Municipality",
+          "en": "Busia Municipality",
+          "slug": "busia-municipality-ug203501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.47",
+      "lon": "34.085"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

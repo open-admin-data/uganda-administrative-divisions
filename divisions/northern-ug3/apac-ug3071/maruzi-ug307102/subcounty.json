@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30710201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akokoro",
+      "en": "Akokoro",
+      "slug": "akokoro"
+    },
+    "code": {
+      "id": "UG30710201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307102",
+      "level": 3,
+      "name": {
+        "local": "Maruzi",
+        "en": "Maruzi",
+        "slug": "maruzi-ug307102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307102",
+        "level": 3,
+        "name": {
+          "local": "Maruzi",
+          "en": "Maruzi",
+          "slug": "maruzi-ug307102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.769",
+      "lon": "32.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apac",
+      "en": "Apac",
+      "slug": "apac"
+    },
+    "code": {
+      "id": "UG30710202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307102",
+      "level": 3,
+      "name": {
+        "local": "Maruzi",
+        "en": "Maruzi",
+        "slug": "maruzi-ug307102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307102",
+        "level": 3,
+        "name": {
+          "local": "Maruzi",
+          "en": "Maruzi",
+          "slug": "maruzi-ug307102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.978",
+      "lon": "32.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chegere",
+      "en": "Chegere",
+      "slug": "chegere"
+    },
+    "code": {
+      "id": "UG30710203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307102",
+      "level": 3,
+      "name": {
+        "local": "Maruzi",
+        "en": "Maruzi",
+        "slug": "maruzi-ug307102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307102",
+        "level": 3,
+        "name": {
+          "local": "Maruzi",
+          "en": "Maruzi",
+          "slug": "maruzi-ug307102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.123",
+      "lon": "32.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ibuje",
+      "en": "Ibuje",
+      "slug": "ibuje"
+    },
+    "code": {
+      "id": "UG30710204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307102",
+      "level": 3,
+      "name": {
+        "local": "Maruzi",
+        "en": "Maruzi",
+        "slug": "maruzi-ug307102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307102",
+        "level": 3,
+        "name": {
+          "local": "Maruzi",
+          "en": "Maruzi",
+          "slug": "maruzi-ug307102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.863",
+      "lon": "32.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

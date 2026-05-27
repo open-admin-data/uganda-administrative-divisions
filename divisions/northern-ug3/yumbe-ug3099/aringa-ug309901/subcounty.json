@@ -1,0 +1,821 @@
+[
+  {
+    "id": "UG30990101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apo",
+      "en": "Apo",
+      "slug": "apo"
+    },
+    "code": {
+      "id": "UG30990101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.48",
+      "lon": "31.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ariwa",
+      "en": "Ariwa",
+      "slug": "ariwa"
+    },
+    "code": {
+      "id": "UG30990102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.265",
+      "lon": "31.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Drajini",
+      "en": "Drajini",
+      "slug": "drajini"
+    },
+    "code": {
+      "id": "UG30990103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.346",
+      "lon": "31.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kei",
+      "en": "Kei",
+      "slug": "kei"
+    },
+    "code": {
+      "id": "UG30990104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.616",
+      "lon": "31.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kerwa",
+      "en": "Kerwa",
+      "slug": "kerwa"
+    },
+    "code": {
+      "id": "UG30990105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.731",
+      "lon": "31.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kochi",
+      "en": "Kochi",
+      "slug": "kochi"
+    },
+    "code": {
+      "id": "UG30990106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.606",
+      "lon": "31.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kululu",
+      "en": "Kululu",
+      "slug": "kululu"
+    },
+    "code": {
+      "id": "UG30990107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.381",
+      "lon": "31.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kuru",
+      "en": "Kuru",
+      "slug": "kuru"
+    },
+    "code": {
+      "id": "UG30990108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.454",
+      "lon": "31.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lodonga",
+      "en": "Lodonga",
+      "slug": "lodonga"
+    },
+    "code": {
+      "id": "UG30990109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.419",
+      "lon": "31.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Midigo",
+      "en": "Midigo",
+      "slug": "midigo"
+    },
+    "code": {
+      "id": "UG30990110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.63",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Odravu",
+      "en": "Odravu",
+      "slug": "odravu"
+    },
+    "code": {
+      "id": "UG30990111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.344",
+      "lon": "31.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Romogi",
+      "en": "Romogi",
+      "slug": "romogi"
+    },
+    "code": {
+      "id": "UG30990112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.463",
+      "lon": "31.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30990113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Yumbe Town Council",
+      "en": "Yumbe Town Council",
+      "slug": "yumbe-town-council"
+    },
+    "code": {
+      "id": "UG30990113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309901",
+      "level": 3,
+      "name": {
+        "local": "Aringa",
+        "en": "Aringa",
+        "slug": "aringa-ug309901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3099",
+        "level": 2,
+        "name": {
+          "local": "Yumbe",
+          "en": "Yumbe",
+          "slug": "yumbe-ug3099"
+        }
+      },
+      {
+        "id": "UG309901",
+        "level": 3,
+        "name": {
+          "local": "Aringa",
+          "en": "Aringa",
+          "slug": "aringa-ug309901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.471",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

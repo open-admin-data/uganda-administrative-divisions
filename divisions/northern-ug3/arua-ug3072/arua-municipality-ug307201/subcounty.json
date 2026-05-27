@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG30720101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arua Hill Division",
+      "en": "Arua Hill Division",
+      "slug": "arua-hill-division"
+    },
+    "code": {
+      "id": "UG30720101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307201",
+      "level": 3,
+      "name": {
+        "local": "Arua Municipality",
+        "en": "Arua Municipality",
+        "slug": "arua-municipality-ug307201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307201",
+        "level": 3,
+        "name": {
+          "local": "Arua Municipality",
+          "en": "Arua Municipality",
+          "slug": "arua-municipality-ug307201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.014",
+      "lon": "30.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "River Oli Division",
+      "en": "River Oli Division",
+      "slug": "river-oli-division"
+    },
+    "code": {
+      "id": "UG30720102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307201",
+      "level": 3,
+      "name": {
+        "local": "Arua Municipality",
+        "en": "Arua Municipality",
+        "slug": "arua-municipality-ug307201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307201",
+        "level": 3,
+        "name": {
+          "local": "Arua Municipality",
+          "en": "Arua Municipality",
+          "slug": "arua-municipality-ug307201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.027",
+      "lon": "30.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

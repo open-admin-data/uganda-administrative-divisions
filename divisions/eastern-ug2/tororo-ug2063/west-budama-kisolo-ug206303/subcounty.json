@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG20630301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Iyolwa",
+      "en": "Iyolwa",
+      "slug": "iyolwa"
+    },
+    "code": {
+      "id": "UG20630301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.625",
+      "lon": "33.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirewa",
+      "en": "Kirewa",
+      "slug": "kirewa"
+    },
+    "code": {
+      "id": "UG20630302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.788",
+      "lon": "33.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisoko",
+      "en": "Kisoko",
+      "slug": "kisoko"
+    },
+    "code": {
+      "id": "UG20630303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.74",
+      "lon": "34.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magola",
+      "en": "Magola",
+      "slug": "magola"
+    },
+    "code": {
+      "id": "UG20630304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.619",
+      "lon": "34.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630305",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mulanda",
+      "en": "Mulanda",
+      "slug": "mulanda"
+    },
+    "code": {
+      "id": "UG20630305",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "34.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630306",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabuyoga",
+      "en": "Nabuyoga",
+      "slug": "nabuyoga"
+    },
+    "code": {
+      "id": "UG20630306",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.699",
+      "lon": "33.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630307",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nagongera",
+      "en": "Nagongera",
+      "slug": "nagongera"
+    },
+    "code": {
+      "id": "UG20630307",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.755",
+      "lon": "34.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630308",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nagongera Town Council",
+      "en": "Nagongera Town Council",
+      "slug": "nagongera-town-council"
+    },
+    "code": {
+      "id": "UG20630308",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "34.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630309",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paya",
+      "en": "Paya",
+      "slug": "paya"
+    },
+    "code": {
+      "id": "UG20630309",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "34.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630310",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Petta",
+      "en": "Petta",
+      "slug": "petta"
+    },
+    "code": {
+      "id": "UG20630310",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.792",
+      "lon": "34.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630311",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubongi",
+      "en": "Rubongi",
+      "slug": "rubongi"
+    },
+    "code": {
+      "id": "UG20630311",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.699",
+      "lon": "34.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630312",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sop-Sop",
+      "en": "Sop-Sop",
+      "slug": "sop-sop"
+    },
+    "code": {
+      "id": "UG20630312",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206303",
+      "level": 3,
+      "name": {
+        "local": "West Budama (Kisolo)",
+        "en": "West Budama (Kisolo)",
+        "slug": "west-budama-kisolo-ug206303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206303",
+        "level": 3,
+        "name": {
+          "local": "West Budama (Kisolo)",
+          "en": "West Budama (Kisolo)",
+          "slug": "west-budama-kisolo-ug206303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.838",
+      "lon": "34.065"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

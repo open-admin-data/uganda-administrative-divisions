@@ -1,0 +1,48 @@
+{
+  "id": "UG2028",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Budaka",
+    "en": "Budaka",
+    "slug": "budaka-ug2028"
+  },
+  "code": {
+    "id": "UG2028",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.064",
+    "lon": "34.005"
+  },
+  "metadata": {},
+  "source": {}
+}

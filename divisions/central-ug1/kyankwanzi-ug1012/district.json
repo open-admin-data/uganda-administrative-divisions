@@ -1,0 +1,48 @@
+{
+  "id": "UG1012",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kyankwanzi",
+    "en": "Kyankwanzi",
+    "slug": "kyankwanzi-ug1012"
+  },
+  "code": {
+    "id": "UG1012",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.091",
+    "lon": "31.682"
+  },
+  "metadata": {},
+  "source": {}
+}

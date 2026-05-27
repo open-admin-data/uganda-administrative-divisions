@@ -1,0 +1,65 @@
+[
+  {
+    "id": "UG10180201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG10180201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101802",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug101802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101802",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug101802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.376",
+      "lon": "31.991"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

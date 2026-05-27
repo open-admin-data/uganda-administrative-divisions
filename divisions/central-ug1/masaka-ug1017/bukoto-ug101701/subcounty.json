@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10170101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukakata",
+      "en": "Bukakata",
+      "slug": "bukakata"
+    },
+    "code": {
+      "id": "UG10170101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.281",
+      "lon": "31.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwunga",
+      "en": "Buwunga",
+      "slug": "buwunga"
+    },
+    "code": {
+      "id": "UG10170102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.414",
+      "lon": "31.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabonera",
+      "en": "Kabonera",
+      "slug": "kabonera"
+    },
+    "code": {
+      "id": "UG10170103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.405",
+      "lon": "31.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyanamukaaka",
+      "en": "Kyanamukaaka",
+      "slug": "kyanamukaaka"
+    },
+    "code": {
+      "id": "UG10170104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.522",
+      "lon": "31.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyesiiga",
+      "en": "Kyesiiga",
+      "slug": "kyesiiga"
+    },
+    "code": {
+      "id": "UG10170105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.676",
+      "lon": "31.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10170106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mukungwe",
+      "en": "Mukungwe",
+      "slug": "mukungwe"
+    },
+    "code": {
+      "id": "UG10170106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101701",
+      "level": 3,
+      "name": {
+        "local": "Bukoto",
+        "en": "Bukoto",
+        "slug": "bukoto-ug101701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1017",
+        "level": 2,
+        "name": {
+          "local": "Masaka",
+          "en": "Masaka",
+          "slug": "masaka-ug1017"
+        }
+      },
+      {
+        "id": "UG101701",
+        "level": 3,
+        "name": {
+          "local": "Bukoto",
+          "en": "Bukoto",
+          "slug": "bukoto-ug101701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.297",
+      "lon": "31.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

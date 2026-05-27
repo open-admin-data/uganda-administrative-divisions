@@ -1,0 +1,56 @@
+{
+  "id": "UG307203",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Terego",
+    "en": "Terego",
+    "slug": "terego-ug307203"
+  },
+  "code": {
+    "id": "UG307203",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3072",
+    "level": 2,
+    "name": {
+      "local": "Arua",
+      "en": "Arua",
+      "slug": "arua-ug3072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3072",
+      "level": 2,
+      "name": {
+        "local": "Arua",
+        "en": "Arua",
+        "slug": "arua-ug3072"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.18",
+    "lon": "31.172"
+  },
+  "metadata": {},
+  "source": {}
+}

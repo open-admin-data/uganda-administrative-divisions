@@ -1,0 +1,56 @@
+{
+  "id": "UG308801",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pian",
+    "en": "Pian",
+    "slug": "pian-ug308801"
+  },
+  "code": {
+    "id": "UG308801",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3088",
+    "level": 2,
+    "name": {
+      "local": "Nabilatuk",
+      "en": "Nabilatuk",
+      "slug": "nabilatuk-ug3088"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3088",
+      "level": 2,
+      "name": {
+        "local": "Nabilatuk",
+        "en": "Nabilatuk",
+        "slug": "nabilatuk-ug3088"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.038",
+    "lon": "34.586"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20600101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugondo",
+      "en": "Bugondo",
+      "slug": "bugondo"
+    },
+    "code": {
+      "id": "UG20600101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.581",
+      "lon": "33.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kadungulu",
+      "en": "Kadungulu",
+      "slug": "kadungulu"
+    },
+    "code": {
+      "id": "UG20600102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.512",
+      "lon": "33.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kadungulu Town Council",
+      "en": "Kadungulu Town Council",
+      "slug": "kadungulu-town-council"
+    },
+    "code": {
+      "id": "UG20600103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.505",
+      "lon": "33.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasilo Town Council",
+      "en": "Kasilo Town Council",
+      "slug": "kasilo-town-council"
+    },
+    "code": {
+      "id": "UG20600104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.566",
+      "lon": "33.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kidetok Town Council",
+      "en": "Kidetok Town Council",
+      "slug": "kidetok-town-council"
+    },
+    "code": {
+      "id": "UG20600105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.479",
+      "lon": "33.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Labori",
+      "en": "Labori",
+      "slug": "labori"
+    },
+    "code": {
+      "id": "UG20600106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.417",
+      "lon": "33.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pingire",
+      "en": "Pingire",
+      "slug": "pingire"
+    },
+    "code": {
+      "id": "UG20600107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206001",
+      "level": 3,
+      "name": {
+        "local": "Kasilo",
+        "en": "Kasilo",
+        "slug": "kasilo-ug206001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206001",
+        "level": 3,
+        "name": {
+          "local": "Kasilo",
+          "en": "Kasilo",
+          "slug": "kasilo-ug206001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.428",
+      "lon": "33.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

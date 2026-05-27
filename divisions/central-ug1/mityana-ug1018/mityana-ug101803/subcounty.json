@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10180301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulera",
+      "en": "Bulera",
+      "slug": "bulera"
+    },
+    "code": {
+      "id": "UG10180301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.494",
+      "lon": "32.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busunju Town Council",
+      "en": "Busunju Town Council",
+      "slug": "busunju-town-council"
+    },
+    "code": {
+      "id": "UG10180302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.579",
+      "lon": "32.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalangaalo",
+      "en": "Kalangaalo",
+      "slug": "kalangaalo"
+    },
+    "code": {
+      "id": "UG10180303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.544",
+      "lon": "31.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikandwa",
+      "en": "Kikandwa",
+      "slug": "kikandwa"
+    },
+    "code": {
+      "id": "UG10180304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "32.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180305",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namungo",
+      "en": "Namungo",
+      "slug": "namungo"
+    },
+    "code": {
+      "id": "UG10180305",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "32.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180306",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ssekanyonyi",
+      "en": "Ssekanyonyi",
+      "slug": "ssekanyonyi"
+    },
+    "code": {
+      "id": "UG10180306",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101803",
+      "level": 3,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug101803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101803",
+        "level": 3,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug101803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "32.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

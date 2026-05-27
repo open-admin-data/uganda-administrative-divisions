@@ -1,0 +1,48 @@
+{
+  "id": "UG2039",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Iganga",
+    "en": "Iganga",
+    "slug": "iganga-ug2039"
+  },
+  "code": {
+    "id": "UG2039",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.722",
+    "lon": "33.502"
+  },
+  "metadata": {},
+  "source": {}
+}

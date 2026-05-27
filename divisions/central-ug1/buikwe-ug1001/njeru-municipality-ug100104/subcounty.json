@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG10010401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Njeru Division",
+      "en": "Njeru Division",
+      "slug": "njeru-division"
+    },
+    "code": {
+      "id": "UG10010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100104",
+      "level": 3,
+      "name": {
+        "local": "Njeru Municipality",
+        "en": "Njeru Municipality",
+        "slug": "njeru-municipality-ug100104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100104",
+        "level": 3,
+        "name": {
+          "local": "Njeru Municipality",
+          "en": "Njeru Municipality",
+          "slug": "njeru-municipality-ug100104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.424",
+      "lon": "33.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10010402",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyenga Division",
+      "en": "Nyenga Division",
+      "slug": "nyenga-division"
+    },
+    "code": {
+      "id": "UG10010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100104",
+      "level": 3,
+      "name": {
+        "local": "Njeru Municipality",
+        "en": "Njeru Municipality",
+        "slug": "njeru-municipality-ug100104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100104",
+        "level": 3,
+        "name": {
+          "local": "Njeru Municipality",
+          "en": "Njeru Municipality",
+          "slug": "njeru-municipality-ug100104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.36",
+      "lon": "33.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10010403",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wakisi Division",
+      "en": "Wakisi Division",
+      "slug": "wakisi-division"
+    },
+    "code": {
+      "id": "UG10010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100104",
+      "level": 3,
+      "name": {
+        "local": "Njeru Municipality",
+        "en": "Njeru Municipality",
+        "slug": "njeru-municipality-ug100104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100104",
+        "level": 3,
+        "name": {
+          "local": "Njeru Municipality",
+          "en": "Njeru Municipality",
+          "slug": "njeru-municipality-ug100104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.485",
+      "lon": "33.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

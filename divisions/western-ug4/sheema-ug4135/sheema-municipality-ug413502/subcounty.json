@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG41350201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabwohe Division",
+      "en": "Kabwohe Division",
+      "slug": "kabwohe-division"
+    },
+    "code": {
+      "id": "UG41350201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413502",
+      "level": 3,
+      "name": {
+        "local": "Sheema Municipality",
+        "en": "Sheema Municipality",
+        "slug": "sheema-municipality-ug413502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413502",
+        "level": 3,
+        "name": {
+          "local": "Sheema Municipality",
+          "en": "Sheema Municipality",
+          "slug": "sheema-municipality-ug413502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.562",
+      "lon": "30.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagango Division",
+      "en": "Kagango Division",
+      "slug": "kagango-division"
+    },
+    "code": {
+      "id": "UG41350202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413502",
+      "level": 3,
+      "name": {
+        "local": "Sheema Municipality",
+        "en": "Sheema Municipality",
+        "slug": "sheema-municipality-ug413502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413502",
+        "level": 3,
+        "name": {
+          "local": "Sheema Municipality",
+          "en": "Sheema Municipality",
+          "slug": "sheema-municipality-ug413502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.603",
+      "lon": "30.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashozi Division",
+      "en": "Kashozi Division",
+      "slug": "kashozi-division"
+    },
+    "code": {
+      "id": "UG41350203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413502",
+      "level": 3,
+      "name": {
+        "local": "Sheema Municipality",
+        "en": "Sheema Municipality",
+        "slug": "sheema-municipality-ug413502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413502",
+        "level": 3,
+        "name": {
+          "local": "Sheema Municipality",
+          "en": "Sheema Municipality",
+          "slug": "sheema-municipality-ug413502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.642",
+      "lon": "30.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sheema Central Division",
+      "en": "Sheema Central Division",
+      "slug": "sheema-central-division"
+    },
+    "code": {
+      "id": "UG41350204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413502",
+      "level": 3,
+      "name": {
+        "local": "Sheema Municipality",
+        "en": "Sheema Municipality",
+        "slug": "sheema-municipality-ug413502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413502",
+        "level": 3,
+        "name": {
+          "local": "Sheema Municipality",
+          "en": "Sheema Municipality",
+          "slug": "sheema-municipality-ug413502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.575",
+      "lon": "30.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

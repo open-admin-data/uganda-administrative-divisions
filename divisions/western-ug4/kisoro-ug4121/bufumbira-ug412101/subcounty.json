@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG41210101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukimbiri",
+      "en": "Bukimbiri",
+      "slug": "bukimbiri"
+    },
+    "code": {
+      "id": "UG41210101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.182",
+      "lon": "29.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busanza",
+      "en": "Busanza",
+      "slug": "busanza"
+    },
+    "code": {
+      "id": "UG41210102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.198",
+      "lon": "29.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chahi",
+      "en": "Chahi",
+      "slug": "chahi"
+    },
+    "code": {
+      "id": "UG41210103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.313",
+      "lon": "29.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanaba",
+      "en": "Kanaba",
+      "slug": "kanaba"
+    },
+    "code": {
+      "id": "UG41210104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.275",
+      "lon": "29.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo"
+    },
+    "code": {
+      "id": "UG41210105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.189",
+      "lon": "29.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "UG41210106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.332",
+      "lon": "29.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Murora",
+      "en": "Murora",
+      "slug": "murora"
+    },
+    "code": {
+      "id": "UG41210107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.334",
+      "lon": "29.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabwishenya",
+      "en": "Nyabwishenya",
+      "slug": "nyabwishenya"
+    },
+    "code": {
+      "id": "UG41210108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "29.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakabande",
+      "en": "Nyakabande",
+      "slug": "nyakabande"
+    },
+    "code": {
+      "id": "UG41210109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.259",
+      "lon": "29.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakinama",
+      "en": "Nyakinama",
+      "slug": "nyakinama"
+    },
+    "code": {
+      "id": "UG41210110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.26",
+      "lon": "29.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyarubuye",
+      "en": "Nyarubuye",
+      "slug": "nyarubuye"
+    },
+    "code": {
+      "id": "UG41210111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.249",
+      "lon": "29.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyarusiza",
+      "en": "Nyarusiza",
+      "slug": "nyarusiza"
+    },
+    "code": {
+      "id": "UG41210112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.34",
+      "lon": "29.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyundo",
+      "en": "Nyundo",
+      "slug": "nyundo"
+    },
+    "code": {
+      "id": "UG41210113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.192",
+      "lon": "29.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubuguri Town Council",
+      "en": "Rubuguri Town Council",
+      "slug": "rubuguri-town-council"
+    },
+    "code": {
+      "id": "UG41210114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412101",
+      "level": 3,
+      "name": {
+        "local": "Bufumbira",
+        "en": "Bufumbira",
+        "slug": "bufumbira-ug412101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412101",
+        "level": 3,
+        "name": {
+          "local": "Bufumbira",
+          "en": "Bufumbira",
+          "slug": "bufumbira-ug412101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.096",
+      "lon": "29.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

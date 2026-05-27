@@ -1,0 +1,56 @@
+{
+  "id": "UG411503",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kasese Municipality",
+    "en": "Kasese Municipality",
+    "slug": "kasese-municipality-ug411503"
+  },
+  "code": {
+    "id": "UG411503",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4115",
+    "level": 2,
+    "name": {
+      "local": "Kasese",
+      "en": "Kasese",
+      "slug": "kasese-ug4115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4115",
+      "level": 2,
+      "name": {
+        "local": "Kasese",
+        "en": "Kasese",
+        "slug": "kasese-ug4115"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.218",
+    "lon": "30.112"
+  },
+  "metadata": {},
+  "source": {}
+}

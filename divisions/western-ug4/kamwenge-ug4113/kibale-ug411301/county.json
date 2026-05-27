@@ -1,0 +1,56 @@
+{
+  "id": "UG411301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kibale",
+    "en": "Kibale",
+    "slug": "kibale-ug411301"
+  },
+  "code": {
+    "id": "UG411301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4113",
+    "level": 2,
+    "name": {
+      "local": "Kamwenge",
+      "en": "Kamwenge",
+      "slug": "kamwenge-ug4113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4113",
+      "level": 2,
+      "name": {
+        "local": "Kamwenge",
+        "en": "Kamwenge",
+        "slug": "kamwenge-ug4113"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.334",
+    "lon": "30.614"
+  },
+  "metadata": {},
+  "source": {}
+}

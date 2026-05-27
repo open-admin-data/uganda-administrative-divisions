@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG30650101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adjumani Town Council",
+      "en": "Adjumani Town Council",
+      "slug": "adjumani-town-council"
+    },
+    "code": {
+      "id": "UG30650101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.371",
+      "lon": "31.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adropi",
+      "en": "Adropi",
+      "slug": "adropi"
+    },
+    "code": {
+      "id": "UG30650102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.304",
+      "lon": "31.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arinyapi",
+      "en": "Arinyapi",
+      "slug": "arinyapi"
+    },
+    "code": {
+      "id": "UG30650103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.514",
+      "lon": "31.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ciforo",
+      "en": "Ciforo",
+      "slug": "ciforo"
+    },
+    "code": {
+      "id": "UG30650104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.4",
+      "lon": "31.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dzaipi",
+      "en": "Dzaipi",
+      "slug": "dzaipi"
+    },
+    "code": {
+      "id": "UG30650105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.371",
+      "lon": "31.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Itirikwa",
+      "en": "Itirikwa",
+      "slug": "itirikwa"
+    },
+    "code": {
+      "id": "UG30650106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.096",
+      "lon": "31.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ofua",
+      "en": "Ofua",
+      "slug": "ofua"
+    },
+    "code": {
+      "id": "UG30650107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.292",
+      "lon": "31.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pacara",
+      "en": "Pacara",
+      "slug": "pacara"
+    },
+    "code": {
+      "id": "UG30650108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.463",
+      "lon": "31.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pakele",
+      "en": "Pakele",
+      "slug": "pakele"
+    },
+    "code": {
+      "id": "UG30650109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.187",
+      "lon": "31.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30650110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ukusijoni",
+      "en": "Ukusijoni",
+      "slug": "ukusijoni"
+    },
+    "code": {
+      "id": "UG30650110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306501",
+      "level": 3,
+      "name": {
+        "local": "East Moyo",
+        "en": "East Moyo",
+        "slug": "east-moyo-ug306501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3065",
+        "level": 2,
+        "name": {
+          "local": "Adjumani",
+          "en": "Adjumani",
+          "slug": "adjumani-ug3065"
+        }
+      },
+      {
+        "id": "UG306501",
+        "level": 3,
+        "name": {
+          "local": "East Moyo",
+          "en": "East Moyo",
+          "slug": "east-moyo-ug306501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.102",
+      "lon": "31.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

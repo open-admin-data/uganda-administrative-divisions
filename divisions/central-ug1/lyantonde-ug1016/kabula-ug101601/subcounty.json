@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG10160101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaliiro",
+      "en": "Kaliiro",
+      "slug": "kaliiro"
+    },
+    "code": {
+      "id": "UG10160101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.272",
+      "lon": "31.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasagama",
+      "en": "Kasagama",
+      "slug": "kasagama"
+    },
+    "code": {
+      "id": "UG10160102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.115",
+      "lon": "31.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinuuka",
+      "en": "Kinuuka",
+      "slug": "kinuuka"
+    },
+    "code": {
+      "id": "UG10160103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.226",
+      "lon": "31.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lyakajura",
+      "en": "Lyakajura",
+      "slug": "lyakajura"
+    },
+    "code": {
+      "id": "UG10160104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.171",
+      "lon": "31.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lyantonde",
+      "en": "Lyantonde",
+      "slug": "lyantonde"
+    },
+    "code": {
+      "id": "UG10160105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.403",
+      "lon": "31.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lyantonde Town Council",
+      "en": "Lyantonde Town Council",
+      "slug": "lyantonde-town-council"
+    },
+    "code": {
+      "id": "UG10160106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "31.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10160107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpumudde",
+      "en": "Mpumudde",
+      "slug": "mpumudde"
+    },
+    "code": {
+      "id": "UG10160107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101601",
+      "level": 3,
+      "name": {
+        "local": "Kabula",
+        "en": "Kabula",
+        "slug": "kabula-ug101601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1016",
+        "level": 2,
+        "name": {
+          "local": "Lyantonde",
+          "en": "Lyantonde",
+          "slug": "lyantonde-ug1016"
+        }
+      },
+      {
+        "id": "UG101601",
+        "level": 3,
+        "name": {
+          "local": "Kabula",
+          "en": "Kabula",
+          "slug": "kabula-ug101601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.273",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

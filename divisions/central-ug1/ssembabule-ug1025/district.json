@@ -1,0 +1,48 @@
+{
+  "id": "UG1025",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ssembabule",
+    "en": "Ssembabule",
+    "slug": "ssembabule-ug1025"
+  },
+  "code": {
+    "id": "UG1025",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.055",
+    "lon": "31.374"
+  },
+  "metadata": {},
+  "source": {}
+}

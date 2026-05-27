@@ -1,0 +1,967 @@
+# Western — Uganda Administrative Divisions
+
+> 35 districts, 54 countys, 459 sub-countys
+> Code: UG4
+> Coordinates: 0.444, 30.526
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Buhweju
+
+Code: UG4101, Coordinates: -0.323, 30.348
+Countys: 1, Sub-countys: 8
+
+#### Buhweju
+
+Code: UG410101, Coordinates: -0.323, 30.348
+
+Sub-countys:
+- Bihanga [UG41010101]
+- Bitsya [UG41010102]
+- Burere [UG41010103]
+- Engaju [UG41010104]
+- Karungu [UG41010105]
+- Nsiika Town Council [UG41010106]
+- Nyakishana [UG41010107]
+- Rwengwe [UG41010108]
+
+### Buliisa
+
+Code: UG4102, Coordinates: 1.974, 31.383
+Countys: 1, Sub-countys: 7
+
+#### Buliisa
+
+Code: UG410201, Coordinates: 1.974, 31.383
+
+Sub-countys:
+- Biiso [UG41020101]
+- Buliisa [UG41020102]
+- Buliisa Town Council [UG41020103]
+- Butiaba [UG41020104]
+- Kigwera [UG41020105]
+- Kihungya [UG41020106]
+- Ngwedo [UG41020107]
+
+### Bundibugyo
+
+Code: UG4103, Coordinates: 0.647, 30.042
+Countys: 2, Sub-countys: 24
+
+#### Bughendera
+
+Code: UG410301, Coordinates: 0.647, 30.084
+
+Sub-countys:
+- Bukonzo [UG41030101]
+- Burondo [UG41030102]
+- Butama-Mitunda Town Council [UG41030103]
+- Harugale [UG41030104]
+- Kagugu [UG41030105]
+- Kasitu [UG41030106]
+- Mabere [UG41030107]
+- Nduguto [UG41030108]
+- Ngamba [UG41030109]
+- Ntandi Town Council [UG41030110]
+- Ntotoro [UG41030111]
+- Sindila [UG41030112]
+
+#### Bwamba
+
+Code: UG410302, Coordinates: 0.739, 30.043
+
+Sub-countys:
+- Bubandi [UG41030201]
+- Bubukwanga [UG41030202]
+- Buganikire Town Councili [UG41030203]
+- Bundibugyo Town Council [UG41030204]
+- Bundingoma [UG41030205]
+- Busaru [UG41030206]
+- Busunga Twon Council [UG41030207]
+- Kirumya [UG41030208]
+- Kisubba [UG41030209]
+- Mirambi [UG41030210]
+- Nyahuka Town Council [UG41030211]
+- Tokwe [UG41030212]
+
+### Bunyangabu
+
+Code: UG4104, Coordinates: 0.48, 30.202
+Countys: 1, Sub-countys: 12
+
+#### Bunyangabu
+
+Code: UG410401, Coordinates: 0.48, 30.202
+
+Sub-countys:
+- Buheesi [UG41040101]
+- Buheesi Town Council [UG41040102]
+- Kabonero [UG41040103]
+- Katebwa [UG41040104]
+- Kibiito [UG41040105]
+- Kibiito Town Council [UG41040106]
+- Kisomoro [UG41040107]
+- Kiyombya [UG41040108]
+- Kyamukube Town Council [UG41040109]
+- Rubona Town Council [UG41040110]
+- Rwimi [UG41040111]
+- Rwimi Town Council [UG41040112]
+
+### Bushenyi
+
+Code: UG4105, Coordinates: -0.475, 30.171
+Countys: 2, Sub-countys: 14
+
+#### Bushenyi Municipality
+
+Code: UG410501, Coordinates: -0.54, 30.176
+
+Sub-countys:
+- Central Divison [UG41050101]
+- Ishaka Divison [UG41050102]
+- Nyakabirizi Division [UG41050103]
+
+#### Igara
+
+Code: UG410502, Coordinates: -0.475, 30.171
+
+Sub-countys:
+- Bitooma [UG41050201]
+- Bumbaire [UG41050202]
+- Ibaare [UG41050203]
+- Kakanju [UG41050204]
+- Kyabugimbi [UG41050205]
+- Kyamuhunga [UG41050206]
+- Kyamuhunga Town Council [UG41050207]
+- Kyeizooba [UG41050208]
+- Nyabubare [UG41050209]
+- Ruhumuro [UG41050210]
+- Rwentuha Town Council [UG41050211]
+
+### Hoima
+
+Code: UG4106, Coordinates: 1.564, 31.149
+Countys: 2, Sub-countys: 10
+
+#### Bugahya
+
+Code: UG410601, Coordinates: 1.564, 31.149
+
+Sub-countys:
+- Buhanika [UG41060101]
+- Buseruka [UG41060102]
+- Kigorobya [UG41060103]
+- Kigorobya Town Council [UG41060104]
+- Kitoba [UG41060105]
+- Kyabigambire [UG41060106]
+
+#### Hoima Municipality
+
+Code: UG410602, Coordinates: 1.436, 31.355
+
+Sub-countys:
+- Bujumbura Division [UG41060201]
+- Busiisi Division [UG41060202]
+- Kahoora Divison [UG41060203]
+- Mparo Divison [UG41060204]
+
+### Ibanda
+
+Code: UG4107, Coordinates: -0.062, 30.492
+Countys: 2, Sub-countys: 15
+
+#### Ibanda
+
+Code: UG410701, Coordinates: -0.201, 30.412
+
+Sub-countys:
+- Igorora Town Council [UG41070101]
+- Ishongororo [UG41070102]
+- Ishongororo Town Council [UG41070103]
+- Keihangara [UG41070104]
+- Kicuzi [UG41070105]
+- Kijongo [UG41070106]
+- Kikyenkye [UG41070107]
+- Nyabuhikye [UG41070108]
+- Nyamarebe [UG41070109]
+- Rukiri [UG41070110]
+- Rushango Town Council [UG41070111]
+- Rwenkoba Town Council [UG41070112]
+
+#### Ibanda Municipality
+
+Code: UG410702, Coordinates: -0.11, 30.496
+
+Sub-countys:
+- Bisheshe Division [UG41070201]
+- Bufunda Division [UG41070202]
+- Kagango Division [UG41070203]
+
+### Isingiro
+
+Code: UG4108, Coordinates: -0.839, 30.931
+Countys: 2, Sub-countys: 19
+
+#### Bukanga
+
+Code: UG410801, Coordinates: -0.836, 31.05
+
+Sub-countys:
+- Endiinzi [UG41080101]
+- Endiinzi Town Council [UG41080102]
+- Kakamba [UG41080103]
+- Kashumba [UG41080104]
+- Mbaare [UG41080105]
+- Ngarama [UG41080106]
+- Rugaaga [UG41080107]
+- Rushasha [UG41080108]
+
+#### Isingiro
+
+Code: UG410802, Coordinates: -0.839, 30.724
+
+Sub-countys:
+- Birere [UG41080201]
+- Isingiro Town Council [UG41080202]
+- Kaberebere Town Council [UG41080203]
+- Kabingo [UG41080204]
+- Kabuyanda [UG41080205]
+- Kabuyanda Town Council [UG41080206]
+- Kikagate [UG41080207]
+- Masha [UG41080208]
+- Nyakitunda [UG41080209]
+- Nyamuyanja [UG41080210]
+- Ruborogota [UG41080211]
+
+### Kabale
+
+Code: UG4109, Coordinates: -1.336, 30.037
+Countys: 2, Sub-countys: 13
+
+#### Kabale Municipality
+
+Code: UG410901, Coordinates: -1.267, 29.989
+
+Sub-countys:
+- Central Division [UG41090101]
+- Northern Division [UG41090102]
+- Southern Division [UG41090103]
+
+#### Ndorwa
+
+Code: UG410902, Coordinates: -1.336, 30.037
+
+Sub-countys:
+- Buhara [UG41090201]
+- Butanda [UG41090202]
+- Kaharo [UG41090203]
+- Kamuganguzi [UG41090204]
+- Katuna Town Council [UG41090205]
+- Kitumba [UG41090206]
+- Kyanamira [UG41090207]
+- Maziba [UG41090208]
+- Rubaya [UG41090209]
+- Ryakirimira Town Council [UG41090210]
+
+### Kabarole
+
+Code: UG4110, Coordinates: 0.621, 30.268
+Countys: 2, Sub-countys: 18
+
+#### Burahya
+
+Code: UG411001, Coordinates: 0.621, 30.188
+
+Sub-countys:
+- Bukuuku [UG41100101]
+- Busoro [UG41100102]
+- Hakibaale [UG41100103]
+- Harugogo [UG41100104]
+- Karago Town Council [UG41100105]
+- Karambi [UG41100106]
+- Karangura [UG41100107]
+- Kasenda [UG41100108]
+- Kicwamba [UG41100109]
+- Kijura Town Council [UG41100110]
+- Kiko Town Council [UG41100111]
+- Mabende [UG41100112]
+- Mugusu [UG41100113]
+- Mugusu Town Council [UG41100114]
+- Ruteete [UG41100115]
+
+#### Fort Portal Municipality
+
+Code: UG411002, Coordinates: 0.654, 30.285
+
+Sub-countys:
+- Eastern Division [UG41100201]
+- Southern Division [UG41100202]
+- Western Division [UG41100203]
+
+### Kagadi
+
+Code: UG4111, Coordinates: 1.02, 30.832
+Countys: 1, Sub-countys: 19
+
+#### Buyaga
+
+Code: UG411101, Coordinates: 1.02, 30.832
+
+Sub-countys:
+- Burora [UG41110101]
+- Bwikara [UG41110102]
+- Kabamba [UG41110103]
+- Kagadi [UG41110104]
+- Kagadi Town Council [UG41110105]
+- Kiryanga [UG41110106]
+- Kyakabadiima [UG41110107]
+- Kyanaisoke [UG41110108]
+- Kyaterekera [UG41110109]
+- Kyenzige [UG41110110]
+- Mabaale [UG41110111]
+- Mabaale Town Council [UG41110112]
+- Mpeefu [UG41110113]
+- Muhorro [UG41110114]
+- Muhorro Town Council [UG41110115]
+- Ndaiga [UG41110116]
+- Paacwa [UG41110117]
+- Rugashari [UG41110118]
+- Ruteete [UG41110119]
+
+### Kakumiro
+
+Code: UG4112, Coordinates: 0.961, 31.291
+Countys: 1, Sub-countys: 14
+
+#### Bugangaizi
+
+Code: UG411201, Coordinates: 0.961, 31.291
+
+Sub-countys:
+- Birembo [UG41120101]
+- Bwanswa [UG41120102]
+- Kakindo [UG41120103]
+- Kakumiro Town Council [UG41120104]
+- Kasambya [UG41120105]
+- Katikara [UG41120106]
+- Kijangi [UG41120107]
+- Kikwaya [UG41120108]
+- Kisiita [UG41120109]
+- Kisiita Town Council [UG41120110]
+- Kitaihuka [UG41120111]
+- Mpasaana [UG41120112]
+- Nalweyo [UG41120113]
+- Nkooko [UG41120114]
+
+### Kamwenge
+
+Code: UG4113, Coordinates: 0.334, 30.614
+Countys: 1, Sub-countys: 11
+
+#### Kibale
+
+Code: UG411301, Coordinates: 0.334, 30.614
+
+Sub-countys:
+- Biguli [UG41130101]
+- Bihanga [UG41130102]
+- Busiriba [UG41130103]
+- Bwizi [UG41130104]
+- Kabambiro [UG41130105]
+- Kahunge [UG41130106]
+- Kahunge Town Council [UG41130107]
+- Kamwenge [UG41130108]
+- Kamwenge Town Council [UG41130109]
+- Nkoma [UG41130110]
+- Nkoma Town Council [UG41130111]
+
+### Kanungu
+
+Code: UG4114, Coordinates: -0.708, 29.714
+Countys: 1, Sub-countys: 17
+
+#### Kinkizi
+
+Code: UG411401, Coordinates: -0.708, 29.714
+
+Sub-countys:
+- Butogota Town Council [UG41140101]
+- Kambuga [UG41140102]
+- Kambuga Town Council [UG41140103]
+- Kanungu Town Council [UG41140104]
+- Kanyantorogo [UG41140105]
+- Katete [UG41140106]
+- Kayonza [UG41140107]
+- Kihihi [UG41140108]
+- Kihiihi Town Council [UG41140109]
+- Kinaaba [UG41140110]
+- Kirima [UG41140111]
+- Mpungu [UG41140112]
+- Nyakinoni [UG41140113]
+- Nyamirama [UG41140114]
+- Nyanga [UG41140115]
+- Rugyeyo [UG41140116]
+- Rutenga [UG41140117]
+
+### Kasese
+
+Code: UG4115, Coordinates: 0.136, 30.008
+Countys: 3, Sub-countys: 32
+
+#### Bukonjo
+
+Code: UG411501, Coordinates: 0.07, 29.832
+
+Sub-countys:
+- Bwera [UG41150101]
+- Ihandiro [UG41150102]
+- Isango [UG41150103]
+- Karambi [UG41150104]
+- Kinyamasrke Town Council [UG41150105]
+- Kisinga [UG41150106]
+- Kisinga Town Council [UG41150107]
+- Kitholhu [UG41150108]
+- Kyarumba [UG41150109]
+- Kyondo [UG41150110]
+- Mahango [UG41150111]
+- Mpondwe-Lhubiriha [UG41150112]
+- Munkunyu [UG41150113]
+- Nyakatonzi [UG41150114]
+- Nyakiyumbu [UG41150115]
+
+#### Busongora
+
+Code: UG411502, Coordinates: 0.136, 30.166
+
+Sub-countys:
+- Bugoye [UG41150201]
+- Buhuhira [UG41150202]
+- Bwesumbu [UG41150203]
+- Hima Town Council [UG41150204]
+- Karusandara [UG41150205]
+- Katwe Kabatoro Town Council [UG41150206]
+- Kilembe [UG41150207]
+- Kitswamba [UG41150208]
+- Kyabarungira [UG41150209]
+- Lake Katwe [UG41150210]
+- Maliba [UG41150211]
+- Muhokya [UG41150212]
+- Rugendabara [UG41150213]
+- Rukoki [UG41150214]
+
+#### Kasese Municipality
+
+Code: UG411503, Coordinates: 0.218, 30.112
+
+Sub-countys:
+- Bulembia Division [UG41150301]
+- Central Division [UG41150302]
+- Nyamwamba Division [UG41150303]
+
+### Kazo
+
+Code: UG4116, Coordinates: 0.024, 30.752
+Countys: 1, Sub-countys: 8
+
+#### Kazo
+
+Code: UG411601, Coordinates: 0.024, 30.752
+
+Sub-countys:
+- Buremba [UG41160101]
+- Burunga [UG41160102]
+- Engari [UG41160103]
+- Kanoni [UG41160104]
+- Kazo [UG41160105]
+- Kazo Town Council [UG41160106]
+- Nkungu [UG41160107]
+- Rwemikoma [UG41160108]
+
+### Kibaale
+
+Code: UG4117, Coordinates: 0.821, 31.027
+Countys: 1, Sub-countys: 11
+
+#### Buyanja
+
+Code: UG411701, Coordinates: 0.821, 31.027
+
+Sub-countys:
+- Bubango [UG41170101]
+- Bwamiramira [UG41170102]
+- Kabasekende [UG41170103]
+- Karama [UG41170104]
+- Kasimbi [UG41170105]
+- Kibaale Town Council [UG41170106]
+- Kyebando [UG41170107]
+- Matale [UG41170108]
+- Mugarama [UG41170109]
+- Nyamarunda [UG41170110]
+- Nyamarwa [UG41170111]
+
+### Kikuube
+
+Code: UG4118, Coordinates: 1.308, 31.001
+Countys: 1, Sub-countys: 7
+
+#### Buhaguzi
+
+Code: UG411801, Coordinates: 1.308, 31.001
+
+Sub-countys:
+- Bugambe [UG41180101]
+- Buhimba [UG41180102]
+- Buhimba Town Council [UG41180103]
+- Kabwoya [UG41180104]
+- Kikuube Town Council [UG41180105]
+- Kiziranfumbi [UG41180106]
+- Kyangwali [UG41180107]
+
+### Kiruhura
+
+Code: UG4119, Coordinates: -0.327, 30.873
+Countys: 1, Sub-countys: 10
+
+#### Nyabushozi
+
+Code: UG411901, Coordinates: -0.327, 30.873
+
+Sub-countys:
+- Kanyaryeru [UG41190101]
+- Kashongi [UG41190102]
+- Kenshunga [UG41190103]
+- Kikaatsi [UG41190104]
+- Kinoni [UG41190105]
+- Kiruhura Town Council [UG41190106]
+- Kitura [UG41190107]
+- Nyakashashara [UG41190108]
+- Sanga [UG41190109]
+- Sanga Town Council [UG41190110]
+
+### Kiryandongo
+
+Code: UG4120, Coordinates: 1.991, 32.051
+Countys: 1, Sub-countys: 7
+
+#### Kibanda
+
+Code: UG412001, Coordinates: 1.991, 32.051
+
+Sub-countys:
+- Bweyale Town Council [UG41200101]
+- Kigumba [UG41200102]
+- Kigumba Town Council [UG41200103]
+- Kiryandongo [UG41200104]
+- Kiryandongo Town Council [UG41200105]
+- Masindi Port [UG41200106]
+- Mutunda [UG41200107]
+
+### Kisoro
+
+Code: UG4121, Coordinates: -1.198, 29.669
+Countys: 2, Sub-countys: 17
+
+#### Bufumbira
+
+Code: UG412101, Coordinates: -1.198, 29.669
+
+Sub-countys:
+- Bukimbiri [UG41210101]
+- Busanza [UG41210102]
+- Chahi [UG41210103]
+- Kanaba [UG41210104]
+- Kirundo [UG41210105]
+- Muramba [UG41210106]
+- Murora [UG41210107]
+- Nyabwishenya [UG41210108]
+- Nyakabande [UG41210109]
+- Nyakinama [UG41210110]
+- Nyarubuye [UG41210111]
+- Nyarusiza [UG41210112]
+- Nyundo [UG41210113]
+- Rubuguri Town Council [UG41210114]
+
+#### Kisoro Municipality
+
+Code: UG412102, Coordinates: -1.277, 29.691
+
+Sub-countys:
+- Central [UG41210201]
+- Northern [UG41210202]
+- Southern [UG41210203]
+
+### Kitagwenda
+
+Code: UG4122, Coordinates: 0.014, 30.324
+Countys: 1, Sub-countys: 7
+
+#### Kitagwenda
+
+Code: UG412201, Coordinates: 0.014, 30.324
+
+Sub-countys:
+- Buhanda [UG41220101]
+- Kanara [UG41220102]
+- Kicheche [UG41220103]
+- Mahyoro [UG41220104]
+- Ntara [UG41220105]
+- Ntara Kichwamba Town Council [UG41220106]
+- Nyabbani [UG41220107]
+
+### Kyegegwa
+
+Code: UG4123, Coordinates: 0.478, 31.001
+Countys: 1, Sub-countys: 9
+
+#### Kyaka
+
+Code: UG412301, Coordinates: 0.478, 31.001
+
+Sub-countys:
+- Hapuuyo [UG41230101]
+- Kabweza Kyegegwa [UG41230102]
+- Kakabara [UG41230103]
+- Kasule [UG41230104]
+- Kigambo [UG41230105]
+- Kyegegwa Town Council [UG41230106]
+- Mpara [UG41230107]
+- Ruyonza [UG41230108]
+- Rwentuha [UG41230109]
+
+### Kyenjojo
+
+Code: UG4124, Coordinates: 0.643, 30.659
+Countys: 1, Sub-countys: 20
+
+#### Mwenge
+
+Code: UG412401, Coordinates: 0.643, 30.659
+
+Sub-countys:
+- Bufunjo [UG41240101]
+- Bugaaki [UG41240102]
+- Butiiti [UG41240103]
+- Butunduzi [UG41240104]
+- Butunduzi Town Council [UG41240105]
+- Kanyegaramire [UG41240106]
+- Katooke [UG41240107]
+- Katooke Town Council [UG41240108]
+- Kigaraale [UG41240109]
+- Kihuura [UG41240110]
+- Kisojo [UG41240111]
+- Kyamutunzi Town Council [UG41240112]
+- Kyarusozi [UG41240113]
+- Kyarusozi Town Council [UG41240114]
+- Kyembogo [UG41240115]
+- Kyenjojo Town Council [UG41240116]
+- Nyabiringo [UG41240117]
+- Nyabuharwa [UG41240118]
+- Nyankwanzi [UG41240119]
+- Nyantungo [UG41240120]
+
+### Masindi
+
+Code: UG4125, Coordinates: 1.812, 31.737
+Countys: 3, Sub-countys: 9
+
+#### Bujenje
+
+Code: UG412501, Coordinates: 1.52, 31.592
+
+Sub-countys:
+- Budongo [UG41250101]
+- Bwijanga [UG41250102]
+- Pakanyi [UG41250103]
+
+#### Buruuli
+
+Code: UG412502, Coordinates: 1.551, 31.876
+
+Sub-countys:
+- Kimengo [UG41250201]
+- Miirya [UG41250202]
+
+#### Masindi Municipality
+
+Code: UG412503, Coordinates: 1.678, 31.703
+
+Sub-countys:
+- Central Division [UG41250301]
+- Karujubu Division [UG41250302]
+- Kigulya Division [UG41250303]
+- Nyangahya Division [UG41250304]
+
+### Mbarara
+
+Code: UG4126, Coordinates: -0.487, 30.628
+Countys: 2, Sub-countys: 13
+
+#### Kashari
+
+Code: UG412601, Coordinates: -0.487, 30.628
+
+Sub-countys:
+- Biharwe Division [UG41260101]
+- Bubaare [UG41260102]
+- Bukiro [UG41260103]
+- Kagongi [UG41260104]
+- Kakiika Division [UG41260105]
+- Kashare [UG41260106]
+- Nyakayojo Division [UG41260107]
+- Rubaya [UG41260108]
+- Rubindi [UG41260109]
+- Rwanyamahembe [UG41260110]
+
+#### Mbarara Municipality
+
+Code: UG412602, Coordinates: -0.612, 30.658
+
+Sub-countys:
+- Kakoba Division [UG41260201]
+- Kamukuzi Division [UG41260202]
+- Nyamitanga Division [UG41260203]
+
+### Mitooma
+
+Code: UG4127, Coordinates: -0.609, 30.008
+Countys: 1, Sub-countys: 12
+
+#### Ruhinda
+
+Code: UG412701, Coordinates: -0.609, 30.008
+
+Sub-countys:
+- Bitereko [UG41270101]
+- Kabira [UG41270102]
+- Kanyabwanga [UG41270103]
+- Kashenshero [UG41270104]
+- Kashenshero Town Council [UG41270105]
+- Katenga [UG41270106]
+- Kiyanga [UG41270107]
+- Mayanga [UG41270108]
+- Mitooma [UG41270109]
+- Mitooma Town Council [UG41270110]
+- Mutara [UG41270111]
+- Rurehe [UG41270112]
+
+### Ntoroko
+
+Code: UG4128, Coordinates: 0.99, 30.387
+Countys: 1, Sub-countys: 10
+
+#### Ntoroko
+
+Code: UG412801, Coordinates: 0.99, 30.387
+
+Sub-countys:
+- Butungama [UG41280101]
+- Bweramule [UG41280102]
+- Kanara [UG41280103]
+- Kanara Town Council [UG41280104]
+- Karugutu [UG41280105]
+- Karugutu Town Council [UG41280106]
+- Kibuuku Town Council [UG41280107]
+- Nombe [UG41280108]
+- Rwebisengo [UG41280109]
+- Rwebisengo Town Council [UG41280110]
+
+### Ntungamo
+
+Code: UG4129, Coordinates: -0.956, 30.3
+Countys: 4, Sub-countys: 24
+
+#### Kajara
+
+Code: UG412901, Coordinates: -0.831, 30.13
+
+Sub-countys:
+- Bwongyera [UG41290101]
+- Ihunga [UG41290102]
+- Kagarama Town Council [UG41290103]
+- Kibatsi [UG41290104]
+- Nyabihoko [UG41290105]
+- Nyamunuka Town Council [UG41290106]
+- Rwashamaire Town Council [UG41290107]
+
+#### Ntungamo Municipality
+
+Code: UG412902, Coordinates: -0.873, 30.274
+
+Sub-countys:
+- Central Division [UG41290201]
+- Eastern Division [UG41290202]
+- Western Division [UG41290203]
+
+#### Ruhaama
+
+Code: UG412903, Coordinates: -0.893, 30.448
+
+Sub-countys:
+- Itojo [UG41290301]
+- Kafunjo-Mirama Town Council [UG41290302]
+- Kitwe Town Council [UG41290303]
+- Ntungamo [UG41290304]
+- Nyakyera [UG41290305]
+- Ruhaama [UG41290306]
+- Rukoni East [UG41290307]
+- Rukoni West [UG41290308]
+- Rweikiniro [UG41290309]
+
+#### Rushenyi
+
+Code: UG412904, Coordinates: -1.04, 30.169
+
+Sub-countys:
+- Kayonza [UG41290401]
+- Ngoma [UG41290402]
+- Rubaare [UG41290403]
+- Rubaare Town Council [UG41290404]
+- Rugarama [UG41290405]
+
+### Rubanda
+
+Code: UG4130, Coordinates: -1.175, 29.9
+Countys: 1, Sub-countys: 9
+
+#### Rubanda
+
+Code: UG413001, Coordinates: -1.175, 29.9
+
+Sub-countys:
+- Bubaare [UG41300101]
+- Bufundi [UG41300102]
+- Hamurwa [UG41300103]
+- Hamurwa Town Council [UG41300104]
+- Ikumba [UG41300105]
+- Muko [UG41300106]
+- Nyamweru [UG41300107]
+- Rubanda Town Council [UG41300108]
+- Ruhija [UG41300109]
+
+### Rubirizi
+
+Code: UG4131, Coordinates: -0.261, 29.952
+Countys: 1, Sub-countys: 11
+
+#### Bunyaruguru
+
+Code: UG413101, Coordinates: -0.261, 29.952
+
+Sub-countys:
+- Katanda [UG41310101]
+- Katerera [UG41310102]
+- Katerera Town Council [UG41310103]
+- Katunguru [UG41310104]
+- Kichwamba [UG41310105]
+- Kirugu [UG41310106]
+- Kyabakara [UG41310107]
+- Magambo [UG41310108]
+- Rubiriziri Town Council [UG41310109]
+- Rutoto [UG41310110]
+- Ryeru [UG41310111]
+
+### Rukiga
+
+Code: UG4132, Coordinates: -1.147, 30.055
+Countys: 1, Sub-countys: 6
+
+#### Rukiga
+
+Code: UG413201, Coordinates: -1.147, 30.055
+
+Sub-countys:
+- Bukinda [UG41320101]
+- Kamwezi [UG41320102]
+- Kashambya [UG41320103]
+- Mparo Twon Council [UG41320104]
+- Muhanga Town Council [UG41320105]
+- Rwamucucu [UG41320106]
+
+### Rukungiri
+
+Code: UG4133, Coordinates: -0.699, 29.891
+Countys: 3, Sub-countys: 16
+
+#### Bujumbura
+
+Code: UG413301, Coordinates: -0.611, 29.812
+
+Sub-countys:
+- Bugangari [UG41330101]
+- Buhunga [UG41330102]
+- Bukurungu Town Council [UG41330103]
+- Bwambara [UG41330104]
+- Nyakagyeme [UG41330105]
+- Ruhinda [UG41330106]
+- Rwerere Town Council [UG41330107]
+
+#### Rubabo
+
+Code: UG413302, Coordinates: -0.918, 29.949
+
+Sub-countys:
+- Buyanja [UG41330201]
+- Buyanja Town Council [UG41330202]
+- Kebisoni [UG41330203]
+- Kebisoni Town Council [UG41330204]
+- Nyakishenyi [UG41330205]
+- Nyarushanje [UG41330206]
+
+#### Rukungiri Municipality
+
+Code: UG413303, Coordinates: -0.79, 29.94
+
+Sub-countys:
+- Eastern Divison [UG41330301]
+- Southern Division [UG41330302]
+- Western Division [UG41330303]
+
+### Rwampara
+
+Code: UG4134, Coordinates: -0.735, 30.461
+Countys: 1, Sub-countys: 5
+
+#### Rwampara
+
+Code: UG413401, Coordinates: -0.735, 30.461
+
+Sub-countys:
+- Bugamba [UG41340101]
+- Kinoni Town Council [UG41340102]
+- Mwizi [UG41340103]
+- Ndeija [UG41340104]
+- Rugando [UG41340105]
+
+### Sheema
+
+Code: UG4135, Coordinates: -0.595, 30.373
+Countys: 2, Sub-countys: 15
+
+#### Sheema
+
+Code: UG413501, Coordinates: -0.691, 30.251
+
+Sub-countys:
+- Bugongi Town Council [UG41350101]
+- Kakindo Town Council [UG41350102]
+- Kasaana [UG41350103]
+- Kigarama [UG41350104]
+- Kitagata [UG41350105]
+- Kitagata Town Council [UG41350106]
+- Kyangyenyi [UG41350107]
+- Masheruka [UG41350108]
+- Masheruka Twon Council [UG41350109]
+- Rugarama [UG41350110]
+- Shuuku Town Council [UG41350111]
+
+#### Sheema Municipality
+
+Code: UG413502, Coordinates: -0.604, 30.37
+
+Sub-countys:
+- Kabwohe Division [UG41350201]
+- Kagango Division [UG41350202]
+- Kashozi Division [UG41350203]
+- Sheema Central Division [UG41350204]
+

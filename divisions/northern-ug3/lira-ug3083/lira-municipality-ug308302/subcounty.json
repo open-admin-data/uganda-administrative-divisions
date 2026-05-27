@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30830201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adyel Division",
+      "en": "Adyel Division",
+      "slug": "adyel-division"
+    },
+    "code": {
+      "id": "UG30830201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308302",
+      "level": 3,
+      "name": {
+        "local": "Lira Municipality",
+        "en": "Lira Municipality",
+        "slug": "lira-municipality-ug308302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3083",
+        "level": 2,
+        "name": {
+          "local": "Lira",
+          "en": "Lira",
+          "slug": "lira-ug3083"
+        }
+      },
+      {
+        "id": "UG308302",
+        "level": 3,
+        "name": {
+          "local": "Lira Municipality",
+          "en": "Lira Municipality",
+          "slug": "lira-municipality-ug308302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.267",
+      "lon": "32.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30830202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG30830202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308302",
+      "level": 3,
+      "name": {
+        "local": "Lira Municipality",
+        "en": "Lira Municipality",
+        "slug": "lira-municipality-ug308302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3083",
+        "level": 2,
+        "name": {
+          "local": "Lira",
+          "en": "Lira",
+          "slug": "lira-ug3083"
+        }
+      },
+      {
+        "id": "UG308302",
+        "level": 3,
+        "name": {
+          "local": "Lira Municipality",
+          "en": "Lira Municipality",
+          "slug": "lira-municipality-ug308302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.233",
+      "lon": "32.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30830203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ojwina Division",
+      "en": "Ojwina Division",
+      "slug": "ojwina-division"
+    },
+    "code": {
+      "id": "UG30830203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308302",
+      "level": 3,
+      "name": {
+        "local": "Lira Municipality",
+        "en": "Lira Municipality",
+        "slug": "lira-municipality-ug308302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3083",
+        "level": 2,
+        "name": {
+          "local": "Lira",
+          "en": "Lira",
+          "slug": "lira-ug3083"
+        }
+      },
+      {
+        "id": "UG308302",
+        "level": 3,
+        "name": {
+          "local": "Lira Municipality",
+          "en": "Lira Municipality",
+          "slug": "lira-municipality-ug308302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.244",
+      "lon": "32.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30830204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Railway Division",
+      "en": "Railway Division",
+      "slug": "railway-division"
+    },
+    "code": {
+      "id": "UG30830204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308302",
+      "level": 3,
+      "name": {
+        "local": "Lira Municipality",
+        "en": "Lira Municipality",
+        "slug": "lira-municipality-ug308302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3083",
+        "level": 2,
+        "name": {
+          "local": "Lira",
+          "en": "Lira",
+          "slug": "lira-ug3083"
+        }
+      },
+      {
+        "id": "UG308302",
+        "level": 3,
+        "name": {
+          "local": "Lira Municipality",
+          "en": "Lira Municipality",
+          "slug": "lira-municipality-ug308302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.258",
+      "lon": "32.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

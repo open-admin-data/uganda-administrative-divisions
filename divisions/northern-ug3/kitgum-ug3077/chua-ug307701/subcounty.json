@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG30770101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitgum Matidi",
+      "en": "Kitgum Matidi",
+      "slug": "kitgum-matidi"
+    },
+    "code": {
+      "id": "UG30770101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.287",
+      "lon": "33.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Labongo Akwang",
+      "en": "Labongo Akwang",
+      "slug": "labongo-akwang"
+    },
+    "code": {
+      "id": "UG30770102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.288",
+      "lon": "32.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Labongo Amida",
+      "en": "Labongo Amida",
+      "slug": "labongo-amida"
+    },
+    "code": {
+      "id": "UG30770103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.259",
+      "lon": "32.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Labongo Layamo",
+      "en": "Labongo Layamo",
+      "slug": "labongo-layamo"
+    },
+    "code": {
+      "id": "UG30770104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.369",
+      "lon": "32.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lagoro",
+      "en": "Lagoro",
+      "slug": "lagoro"
+    },
+    "code": {
+      "id": "UG30770105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.191",
+      "lon": "33.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mucwini",
+      "en": "Mucwini",
+      "slug": "mucwini"
+    },
+    "code": {
+      "id": "UG30770106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.414",
+      "lon": "33.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namokora",
+      "en": "Namokora",
+      "slug": "namokora"
+    },
+    "code": {
+      "id": "UG30770107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.347",
+      "lon": "33.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omiya Anyima",
+      "en": "Omiya Anyima",
+      "slug": "omiya-anyima"
+    },
+    "code": {
+      "id": "UG30770108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.265",
+      "lon": "33.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Orom",
+      "en": "Orom",
+      "slug": "orom"
+    },
+    "code": {
+      "id": "UG30770109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307701",
+      "level": 3,
+      "name": {
+        "local": "Chua",
+        "en": "Chua",
+        "slug": "chua-ug307701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307701",
+        "level": 3,
+        "name": {
+          "local": "Chua",
+          "en": "Chua",
+          "slug": "chua-ug307701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.502",
+      "lon": "33.457"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

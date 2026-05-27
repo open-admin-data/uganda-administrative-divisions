@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41290101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwongyera",
+      "en": "Bwongyera",
+      "slug": "bwongyera"
+    },
+    "code": {
+      "id": "UG41290101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.82",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ihunga",
+      "en": "Ihunga",
+      "slug": "ihunga"
+    },
+    "code": {
+      "id": "UG41290102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.806",
+      "lon": "30.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagarama Town Council",
+      "en": "Kagarama Town Council",
+      "slug": "kagarama-town-council"
+    },
+    "code": {
+      "id": "UG41290103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.861",
+      "lon": "30.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibatsi",
+      "en": "Kibatsi",
+      "slug": "kibatsi"
+    },
+    "code": {
+      "id": "UG41290104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.768",
+      "lon": "30.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabihoko",
+      "en": "Nyabihoko",
+      "slug": "nyabihoko"
+    },
+    "code": {
+      "id": "UG41290105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.884",
+      "lon": "30.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamunuka Town Council",
+      "en": "Nyamunuka Town Council",
+      "slug": "nyamunuka-town-council"
+    },
+    "code": {
+      "id": "UG41290106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.843",
+      "lon": "30.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwashamaire Town Council",
+      "en": "Rwashamaire Town Council",
+      "slug": "rwashamaire-town-council"
+    },
+    "code": {
+      "id": "UG41290107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412901",
+      "level": 3,
+      "name": {
+        "local": "Kajara",
+        "en": "Kajara",
+        "slug": "kajara-ug412901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412901",
+        "level": 3,
+        "name": {
+          "local": "Kajara",
+          "en": "Kajara",
+          "slug": "kajara-ug412901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.839",
+      "lon": "30.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

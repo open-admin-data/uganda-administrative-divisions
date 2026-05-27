@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20630101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kwapa",
+      "en": "Kwapa",
+      "slug": "kwapa"
+    },
+    "code": {
+      "id": "UG20630101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.743",
+      "lon": "34.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Malaba Town Council",
+      "en": "Malaba Town Council",
+      "slug": "malaba-town-council"
+    },
+    "code": {
+      "id": "UG20630102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.646",
+      "lon": "34.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mella",
+      "en": "Mella",
+      "slug": "mella"
+    },
+    "code": {
+      "id": "UG20630103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.697",
+      "lon": "34.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Merikit",
+      "en": "Merikit",
+      "slug": "merikit"
+    },
+    "code": {
+      "id": "UG20630104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.842",
+      "lon": "34.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Molo",
+      "en": "Molo",
+      "slug": "molo"
+    },
+    "code": {
+      "id": "UG20630105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.84",
+      "lon": "34.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mukuju",
+      "en": "Mukuju",
+      "slug": "mukuju"
+    },
+    "code": {
+      "id": "UG20630106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "34.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20630107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Osukuru",
+      "en": "Osukuru",
+      "slug": "osukuru"
+    },
+    "code": {
+      "id": "UG20630107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206301",
+      "level": 3,
+      "name": {
+        "local": "Tororo",
+        "en": "Tororo",
+        "slug": "tororo-ug206301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2063",
+        "level": 2,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug2063"
+        }
+      },
+      {
+        "id": "UG206301",
+        "level": 3,
+        "name": {
+          "local": "Tororo",
+          "en": "Tororo",
+          "slug": "tororo-ug206301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.651",
+      "lon": "34.19"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

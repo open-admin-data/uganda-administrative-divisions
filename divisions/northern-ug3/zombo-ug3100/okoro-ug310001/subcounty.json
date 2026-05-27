@@ -1,0 +1,821 @@
+[
+  {
+    "id": "UG31000101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abanga",
+      "en": "Abanga",
+      "slug": "abanga"
+    },
+    "code": {
+      "id": "UG31000101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.384",
+      "lon": "30.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akaa",
+      "en": "Akaa",
+      "slug": "akaa"
+    },
+    "code": {
+      "id": "UG31000102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.459",
+      "lon": "30.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alangi",
+      "en": "Alangi",
+      "slug": "alangi"
+    },
+    "code": {
+      "id": "UG31000103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.584",
+      "lon": "30.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Athuma",
+      "en": "Athuma",
+      "slug": "athuma"
+    },
+    "code": {
+      "id": "UG31000104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.431",
+      "lon": "30.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atyak",
+      "en": "Atyak",
+      "slug": "atyak"
+    },
+    "code": {
+      "id": "UG31000105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.616",
+      "lon": "30.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Jangokoro",
+      "en": "Jangokoro",
+      "slug": "jangokoro"
+    },
+    "code": {
+      "id": "UG31000106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.377",
+      "lon": "30.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kango",
+      "en": "Kango",
+      "slug": "kango"
+    },
+    "code": {
+      "id": "UG31000107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.631",
+      "lon": "30.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyapea",
+      "en": "Nyapea",
+      "slug": "nyapea"
+    },
+    "code": {
+      "id": "UG31000108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.488",
+      "lon": "30.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paidha",
+      "en": "Paidha",
+      "slug": "paidha"
+    },
+    "code": {
+      "id": "UG31000109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.454",
+      "lon": "31.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paidha Town Council",
+      "en": "Paidha Town Council",
+      "slug": "paidha-town-council"
+    },
+    "code": {
+      "id": "UG31000110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.419",
+      "lon": "30.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Warr",
+      "en": "Warr",
+      "slug": "warr"
+    },
+    "code": {
+      "id": "UG31000111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.585",
+      "lon": "30.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Zeu",
+      "en": "Zeu",
+      "slug": "zeu"
+    },
+    "code": {
+      "id": "UG31000112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.506",
+      "lon": "30.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG31000113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Zombo Town Council",
+      "en": "Zombo Town Council",
+      "slug": "zombo-town-council"
+    },
+    "code": {
+      "id": "UG31000113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG310001",
+      "level": 3,
+      "name": {
+        "local": "Okoro",
+        "en": "Okoro",
+        "slug": "okoro-ug310001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3100",
+        "level": 2,
+        "name": {
+          "local": "Zombo",
+          "en": "Zombo",
+          "slug": "zombo-ug3100"
+        }
+      },
+      {
+        "id": "UG310001",
+        "level": 3,
+        "name": {
+          "local": "Okoro",
+          "en": "Okoro",
+          "slug": "okoro-ug310001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.519",
+      "lon": "30.903"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

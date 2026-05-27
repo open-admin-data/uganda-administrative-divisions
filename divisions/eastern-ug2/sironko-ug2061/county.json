@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG206101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Budadiri",
+      "en": "Budadiri",
+      "slug": "budadiri-ug206101"
+    },
+    "code": {
+      "id": "UG206101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2061",
+      "level": 2,
+      "name": {
+        "local": "Sironko",
+        "en": "Sironko",
+        "slug": "sironko-ug2061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.188",
+      "lon": "34.292"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

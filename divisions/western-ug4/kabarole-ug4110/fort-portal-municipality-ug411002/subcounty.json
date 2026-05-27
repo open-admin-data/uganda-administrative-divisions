@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41100201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG41100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411002",
+      "level": 3,
+      "name": {
+        "local": "Fort Portal Municipality",
+        "en": "Fort Portal Municipality",
+        "slug": "fort-portal-municipality-ug411002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411002",
+        "level": 3,
+        "name": {
+          "local": "Fort Portal Municipality",
+          "en": "Fort Portal Municipality",
+          "slug": "fort-portal-municipality-ug411002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.648",
+      "lon": "30.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG41100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411002",
+      "level": 3,
+      "name": {
+        "local": "Fort Portal Municipality",
+        "en": "Fort Portal Municipality",
+        "slug": "fort-portal-municipality-ug411002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411002",
+        "level": 3,
+        "name": {
+          "local": "Fort Portal Municipality",
+          "en": "Fort Portal Municipality",
+          "slug": "fort-portal-municipality-ug411002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.635",
+      "lon": "30.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG41100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411002",
+      "level": 3,
+      "name": {
+        "local": "Fort Portal Municipality",
+        "en": "Fort Portal Municipality",
+        "slug": "fort-portal-municipality-ug411002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411002",
+        "level": 3,
+        "name": {
+          "local": "Fort Portal Municipality",
+          "en": "Fort Portal Municipality",
+          "slug": "fort-portal-municipality-ug411002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.674",
+      "lon": "30.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

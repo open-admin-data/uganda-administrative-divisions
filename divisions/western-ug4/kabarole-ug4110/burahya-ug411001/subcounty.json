@@ -1,0 +1,947 @@
+[
+  {
+    "id": "UG41100101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukuuku",
+      "en": "Bukuuku",
+      "slug": "bukuuku"
+    },
+    "code": {
+      "id": "UG41100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.654",
+      "lon": "30.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busoro",
+      "en": "Busoro",
+      "slug": "busoro"
+    },
+    "code": {
+      "id": "UG41100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.66",
+      "lon": "30.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Hakibaale",
+      "en": "Hakibaale",
+      "slug": "hakibaale"
+    },
+    "code": {
+      "id": "UG41100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.754",
+      "lon": "30.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Harugogo",
+      "en": "Harugogo",
+      "slug": "harugogo"
+    },
+    "code": {
+      "id": "UG41100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.727",
+      "lon": "30.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karago Town Council",
+      "en": "Karago Town Council",
+      "slug": "karago-town-council"
+    },
+    "code": {
+      "id": "UG41100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.678",
+      "lon": "30.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "UG41100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.638",
+      "lon": "30.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karangura",
+      "en": "Karangura",
+      "slug": "karangura"
+    },
+    "code": {
+      "id": "UG41100107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.673",
+      "lon": "30.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasenda",
+      "en": "Kasenda",
+      "slug": "kasenda"
+    },
+    "code": {
+      "id": "UG41100108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.388",
+      "lon": "30.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kicwamba",
+      "en": "Kicwamba",
+      "slug": "kicwamba"
+    },
+    "code": {
+      "id": "UG41100109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.713",
+      "lon": "30.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kijura Town Council",
+      "en": "Kijura Town Council",
+      "slug": "kijura-town-council"
+    },
+    "code": {
+      "id": "UG41100110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.839",
+      "lon": "30.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiko Town Council",
+      "en": "Kiko Town Council",
+      "slug": "kiko-town-council"
+    },
+    "code": {
+      "id": "UG41100111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.584",
+      "lon": "30.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mabende",
+      "en": "Mabende",
+      "slug": "mabende"
+    },
+    "code": {
+      "id": "UG41100112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.899",
+      "lon": "30.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mugusu",
+      "en": "Mugusu",
+      "slug": "mugusu"
+    },
+    "code": {
+      "id": "UG41100113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.618",
+      "lon": "30.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mugusu Town Council",
+      "en": "Mugusu Town Council",
+      "slug": "mugusu-town-council"
+    },
+    "code": {
+      "id": "UG41100114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.616",
+      "lon": "30.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41100115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruteete",
+      "en": "Ruteete",
+      "slug": "ruteete"
+    },
+    "code": {
+      "id": "UG41100115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411001",
+      "level": 3,
+      "name": {
+        "local": "Burahya",
+        "en": "Burahya",
+        "slug": "burahya-ug411001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4110",
+        "level": 2,
+        "name": {
+          "local": "Kabarole",
+          "en": "Kabarole",
+          "slug": "kabarole-ug4110"
+        }
+      },
+      {
+        "id": "UG411001",
+        "level": 3,
+        "name": {
+          "local": "Burahya",
+          "en": "Burahya",
+          "slug": "burahya-ug411001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.546",
+      "lon": "30.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

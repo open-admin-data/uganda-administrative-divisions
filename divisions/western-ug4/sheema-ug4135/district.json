@@ -1,0 +1,48 @@
+{
+  "id": "UG4135",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sheema",
+    "en": "Sheema",
+    "slug": "sheema-ug4135"
+  },
+  "code": {
+    "id": "UG4135",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.595",
+    "lon": "30.373"
+  },
+  "metadata": {},
+  "source": {}
+}

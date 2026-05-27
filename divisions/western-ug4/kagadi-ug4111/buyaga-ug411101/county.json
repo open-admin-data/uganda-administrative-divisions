@@ -1,0 +1,56 @@
+{
+  "id": "UG411101",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Buyaga",
+    "en": "Buyaga",
+    "slug": "buyaga-ug411101"
+  },
+  "code": {
+    "id": "UG411101",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4111",
+    "level": 2,
+    "name": {
+      "local": "Kagadi",
+      "en": "Kagadi",
+      "slug": "kagadi-ug4111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4111",
+      "level": 2,
+      "name": {
+        "local": "Kagadi",
+        "en": "Kagadi",
+        "slug": "kagadi-ug4111"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.02",
+    "lon": "30.832"
+  },
+  "metadata": {},
+  "source": {}
+}

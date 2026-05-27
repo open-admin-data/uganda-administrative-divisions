@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG30680101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agikdak",
+      "en": "Agikdak",
+      "slug": "agikdak"
+    },
+    "code": {
+      "id": "UG30680101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.686",
+      "lon": "32.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agwingiri",
+      "en": "Agwingiri",
+      "slug": "agwingiri"
+    },
+    "code": {
+      "id": "UG30680102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.562",
+      "lon": "32.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akwon",
+      "en": "Akwon",
+      "slug": "akwon"
+    },
+    "code": {
+      "id": "UG30680103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.742",
+      "lon": "32.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amolatar Town Council",
+      "en": "Amolatar Town Council",
+      "slug": "amolatar-town-council"
+    },
+    "code": {
+      "id": "UG30680104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.632",
+      "lon": "32.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aputi",
+      "en": "Aputi",
+      "slug": "aputi"
+    },
+    "code": {
+      "id": "UG30680105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.745",
+      "lon": "32.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arwotcek",
+      "en": "Arwotcek",
+      "slug": "arwotcek"
+    },
+    "code": {
+      "id": "UG30680106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.751",
+      "lon": "32.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Awelo",
+      "en": "Awelo",
+      "slug": "awelo"
+    },
+    "code": {
+      "id": "UG30680107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.711",
+      "lon": "32.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Etam",
+      "en": "Etam",
+      "slug": "etam"
+    },
+    "code": {
+      "id": "UG30680108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.674",
+      "lon": "32.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muntu",
+      "en": "Muntu",
+      "slug": "muntu"
+    },
+    "code": {
+      "id": "UG30680109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.57",
+      "lon": "32.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namasale",
+      "en": "Namasale",
+      "slug": "namasale"
+    },
+    "code": {
+      "id": "UG30680110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.565",
+      "lon": "32.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30680111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namasale Town Council",
+      "en": "Namasale Town Council",
+      "slug": "namasale-town-council"
+    },
+    "code": {
+      "id": "UG30680111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306801",
+      "level": 3,
+      "name": {
+        "local": "Kioga",
+        "en": "Kioga",
+        "slug": "kioga-ug306801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3068",
+        "level": 2,
+        "name": {
+          "local": "Amolatar",
+          "en": "Amolatar",
+          "slug": "amolatar-ug3068"
+        }
+      },
+      {
+        "id": "UG306801",
+        "level": 3,
+        "name": {
+          "local": "Kioga",
+          "en": "Kioga",
+          "slug": "kioga-ug306801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.492",
+      "lon": "32.62"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

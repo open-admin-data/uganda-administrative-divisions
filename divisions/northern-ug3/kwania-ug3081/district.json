@@ -1,0 +1,48 @@
+{
+  "id": "UG3081",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kwania",
+    "en": "Kwania",
+    "slug": "kwania-ug3081"
+  },
+  "code": {
+    "id": "UG3081",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.901",
+    "lon": "32.774"
+  },
+  "metadata": {},
+  "source": {}
+}

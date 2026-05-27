@@ -1,0 +1,56 @@
+{
+  "id": "UG309401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Omoro",
+    "en": "Omoro",
+    "slug": "omoro-ug309401"
+  },
+  "code": {
+    "id": "UG309401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3094",
+    "level": 2,
+    "name": {
+      "local": "Omoro",
+      "en": "Omoro",
+      "slug": "omoro-ug3094"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3094",
+      "level": 2,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug3094"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.645",
+    "lon": "32.498"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30710101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agulu Division",
+      "en": "Agulu Division",
+      "slug": "agulu-division"
+    },
+    "code": {
+      "id": "UG30710101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307101",
+      "level": 3,
+      "name": {
+        "local": "Apac Municipality",
+        "en": "Apac Municipality",
+        "slug": "apac-municipality-ug307101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307101",
+        "level": 3,
+        "name": {
+          "local": "Apac Municipality",
+          "en": "Apac Municipality",
+          "slug": "apac-municipality-ug307101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.937",
+      "lon": "32.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akere Division",
+      "en": "Akere Division",
+      "slug": "akere-division"
+    },
+    "code": {
+      "id": "UG30710102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307101",
+      "level": 3,
+      "name": {
+        "local": "Apac Municipality",
+        "en": "Apac Municipality",
+        "slug": "apac-municipality-ug307101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307101",
+        "level": 3,
+        "name": {
+          "local": "Apac Municipality",
+          "en": "Apac Municipality",
+          "slug": "apac-municipality-ug307101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.941",
+      "lon": "32.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arocha Division",
+      "en": "Arocha Division",
+      "slug": "arocha-division"
+    },
+    "code": {
+      "id": "UG30710103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307101",
+      "level": 3,
+      "name": {
+        "local": "Apac Municipality",
+        "en": "Apac Municipality",
+        "slug": "apac-municipality-ug307101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307101",
+        "level": 3,
+        "name": {
+          "local": "Apac Municipality",
+          "en": "Apac Municipality",
+          "slug": "apac-municipality-ug307101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.011",
+      "lon": "32.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30710104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atik Division",
+      "en": "Atik Division",
+      "slug": "atik-division"
+    },
+    "code": {
+      "id": "UG30710104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307101",
+      "level": 3,
+      "name": {
+        "local": "Apac Municipality",
+        "en": "Apac Municipality",
+        "slug": "apac-municipality-ug307101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3071",
+        "level": 2,
+        "name": {
+          "local": "Apac",
+          "en": "Apac",
+          "slug": "apac-ug3071"
+        }
+      },
+      {
+        "id": "UG307101",
+        "level": 3,
+        "name": {
+          "local": "Apac Municipality",
+          "en": "Apac Municipality",
+          "slug": "apac-municipality-ug307101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.022",
+      "lon": "32.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

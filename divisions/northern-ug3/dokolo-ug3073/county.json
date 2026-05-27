@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG307301",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Dokolo",
+      "en": "Dokolo",
+      "slug": "dokolo-ug307301"
+    },
+    "code": {
+      "id": "UG307301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3073",
+      "level": 2,
+      "name": {
+        "local": "Dokolo",
+        "en": "Dokolo",
+        "slug": "dokolo-ug3073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3073",
+        "level": 2,
+        "name": {
+          "local": "Dokolo",
+          "en": "Dokolo",
+          "slug": "dokolo-ug3073"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.907",
+      "lon": "33.076"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

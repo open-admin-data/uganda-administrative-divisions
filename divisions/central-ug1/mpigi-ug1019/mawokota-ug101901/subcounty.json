@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG10190101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwama",
+      "en": "Buwama",
+      "slug": "buwama"
+    },
+    "code": {
+      "id": "UG10190101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.003",
+      "lon": "32.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kammengo",
+      "en": "Kammengo",
+      "slug": "kammengo"
+    },
+    "code": {
+      "id": "UG10190102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.115",
+      "lon": "32.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiringente",
+      "en": "Kiringente",
+      "slug": "kiringente"
+    },
+    "code": {
+      "id": "UG10190103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.261",
+      "lon": "32.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kituntu",
+      "en": "Kituntu",
+      "slug": "kituntu"
+    },
+    "code": {
+      "id": "UG10190104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.039",
+      "lon": "31.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpigi Town Council",
+      "en": "Mpigi Town Council",
+      "slug": "mpigi-town-council"
+    },
+    "code": {
+      "id": "UG10190105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.192",
+      "lon": "32.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muduuma",
+      "en": "Muduuma",
+      "slug": "muduuma"
+    },
+    "code": {
+      "id": "UG10190106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.341",
+      "lon": "32.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10190107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkozi",
+      "en": "Nkozi",
+      "slug": "nkozi"
+    },
+    "code": {
+      "id": "UG10190107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101901",
+      "level": 3,
+      "name": {
+        "local": "Mawokota",
+        "en": "Mawokota",
+        "slug": "mawokota-ug101901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      },
+      {
+        "id": "UG101901",
+        "level": 3,
+        "name": {
+          "local": "Mawokota",
+          "en": "Mawokota",
+          "slug": "mawokota-ug101901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.053",
+      "lon": "31.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

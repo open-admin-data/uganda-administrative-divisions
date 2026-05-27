@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41090101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG41090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410901",
+      "level": 3,
+      "name": {
+        "local": "Kabale Municipality",
+        "en": "Kabale Municipality",
+        "slug": "kabale-municipality-ug410901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410901",
+        "level": 3,
+        "name": {
+          "local": "Kabale Municipality",
+          "en": "Kabale Municipality",
+          "slug": "kabale-municipality-ug410901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.245",
+      "lon": "30.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG41090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410901",
+      "level": 3,
+      "name": {
+        "local": "Kabale Municipality",
+        "en": "Kabale Municipality",
+        "slug": "kabale-municipality-ug410901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410901",
+        "level": 3,
+        "name": {
+          "local": "Kabale Municipality",
+          "en": "Kabale Municipality",
+          "slug": "kabale-municipality-ug410901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.239",
+      "lon": "29.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41090103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG41090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410901",
+      "level": 3,
+      "name": {
+        "local": "Kabale Municipality",
+        "en": "Kabale Municipality",
+        "slug": "kabale-municipality-ug410901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4109",
+        "level": 2,
+        "name": {
+          "local": "Kabale",
+          "en": "Kabale",
+          "slug": "kabale-ug4109"
+        }
+      },
+      {
+        "id": "UG410901",
+        "level": 3,
+        "name": {
+          "local": "Kabale Municipality",
+          "en": "Kabale Municipality",
+          "slug": "kabale-municipality-ug410901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.281",
+      "lon": "29.983"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

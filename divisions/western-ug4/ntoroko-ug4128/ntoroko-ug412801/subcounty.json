@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG41280101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butungama",
+      "en": "Butungama",
+      "slug": "butungama"
+    },
+    "code": {
+      "id": "UG41280101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.13",
+      "lon": "30.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bweramule",
+      "en": "Bweramule",
+      "slug": "bweramule"
+    },
+    "code": {
+      "id": "UG41280102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.959",
+      "lon": "30.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanara",
+      "en": "Kanara",
+      "slug": "kanara"
+    },
+    "code": {
+      "id": "UG41280103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.14",
+      "lon": "30.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanara Town Council",
+      "en": "Kanara Town Council",
+      "slug": "kanara-town-council"
+    },
+    "code": {
+      "id": "UG41280104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.016",
+      "lon": "30.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karugutu",
+      "en": "Karugutu",
+      "slug": "karugutu"
+    },
+    "code": {
+      "id": "UG41280105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.827",
+      "lon": "30.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karugutu Town Council",
+      "en": "Karugutu Town Council",
+      "slug": "karugutu-town-council"
+    },
+    "code": {
+      "id": "UG41280106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.788",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibuuku Town Council",
+      "en": "Kibuuku Town Council",
+      "slug": "kibuuku-town-council"
+    },
+    "code": {
+      "id": "UG41280107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.909",
+      "lon": "30.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nombe",
+      "en": "Nombe",
+      "slug": "nombe"
+    },
+    "code": {
+      "id": "UG41280108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.029",
+      "lon": "30.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwebisengo",
+      "en": "Rwebisengo",
+      "slug": "rwebisengo"
+    },
+    "code": {
+      "id": "UG41280109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.005",
+      "lon": "30.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41280110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwebisengo Town Council",
+      "en": "Rwebisengo Town Council",
+      "slug": "rwebisengo-town-council"
+    },
+    "code": {
+      "id": "UG41280110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412801",
+      "level": 3,
+      "name": {
+        "local": "Ntoroko",
+        "en": "Ntoroko",
+        "slug": "ntoroko-ug412801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4128",
+        "level": 2,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug4128"
+        }
+      },
+      {
+        "id": "UG412801",
+        "level": 3,
+        "name": {
+          "local": "Ntoroko",
+          "en": "Ntoroko",
+          "slug": "ntoroko-ug412801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.04",
+      "lon": "30.271"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

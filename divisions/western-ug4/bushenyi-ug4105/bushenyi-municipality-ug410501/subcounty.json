@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41050101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Divison",
+      "en": "Central Divison",
+      "slug": "central-divison"
+    },
+    "code": {
+      "id": "UG41050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410501",
+      "level": 3,
+      "name": {
+        "local": "Bushenyi Municipality",
+        "en": "Bushenyi Municipality",
+        "slug": "bushenyi-municipality-ug410501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410501",
+        "level": 3,
+        "name": {
+          "local": "Bushenyi Municipality",
+          "en": "Bushenyi Municipality",
+          "slug": "bushenyi-municipality-ug410501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.551",
+      "lon": "30.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ishaka Divison",
+      "en": "Ishaka Divison",
+      "slug": "ishaka-divison"
+    },
+    "code": {
+      "id": "UG41050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410501",
+      "level": 3,
+      "name": {
+        "local": "Bushenyi Municipality",
+        "en": "Bushenyi Municipality",
+        "slug": "bushenyi-municipality-ug410501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410501",
+        "level": 3,
+        "name": {
+          "local": "Bushenyi Municipality",
+          "en": "Bushenyi Municipality",
+          "slug": "bushenyi-municipality-ug410501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.552",
+      "lon": "30.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41050103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakabirizi Division",
+      "en": "Nyakabirizi Division",
+      "slug": "nyakabirizi-division"
+    },
+    "code": {
+      "id": "UG41050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410501",
+      "level": 3,
+      "name": {
+        "local": "Bushenyi Municipality",
+        "en": "Bushenyi Municipality",
+        "slug": "bushenyi-municipality-ug410501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4105",
+        "level": 2,
+        "name": {
+          "local": "Bushenyi",
+          "en": "Bushenyi",
+          "slug": "bushenyi-ug4105"
+        }
+      },
+      {
+        "id": "UG410501",
+        "level": 3,
+        "name": {
+          "local": "Bushenyi Municipality",
+          "en": "Bushenyi Municipality",
+          "slug": "bushenyi-municipality-ug410501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.53",
+      "lon": "30.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

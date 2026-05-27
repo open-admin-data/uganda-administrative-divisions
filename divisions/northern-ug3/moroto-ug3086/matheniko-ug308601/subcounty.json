@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30860101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katikekile",
+      "en": "Katikekile",
+      "slug": "katikekile"
+    },
+    "code": {
+      "id": "UG30860101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308601",
+      "level": 3,
+      "name": {
+        "local": "Matheniko",
+        "en": "Matheniko",
+        "slug": "matheniko-ug308601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308601",
+        "level": 3,
+        "name": {
+          "local": "Matheniko",
+          "en": "Matheniko",
+          "slug": "matheniko-ug308601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.567",
+      "lon": "34.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30860102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nadunget",
+      "en": "Nadunget",
+      "slug": "nadunget"
+    },
+    "code": {
+      "id": "UG30860102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308601",
+      "level": 3,
+      "name": {
+        "local": "Matheniko",
+        "en": "Matheniko",
+        "slug": "matheniko-ug308601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308601",
+        "level": 3,
+        "name": {
+          "local": "Matheniko",
+          "en": "Matheniko",
+          "slug": "matheniko-ug308601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.615",
+      "lon": "34.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30860103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rupa",
+      "en": "Rupa",
+      "slug": "rupa"
+    },
+    "code": {
+      "id": "UG30860103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308601",
+      "level": 3,
+      "name": {
+        "local": "Matheniko",
+        "en": "Matheniko",
+        "slug": "matheniko-ug308601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308601",
+        "level": 3,
+        "name": {
+          "local": "Matheniko",
+          "en": "Matheniko",
+          "slug": "matheniko-ug308601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.755",
+      "lon": "34.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30860104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tapac",
+      "en": "Tapac",
+      "slug": "tapac"
+    },
+    "code": {
+      "id": "UG30860104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308601",
+      "level": 3,
+      "name": {
+        "local": "Matheniko",
+        "en": "Matheniko",
+        "slug": "matheniko-ug308601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3086",
+        "level": 2,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug3086"
+        }
+      },
+      {
+        "id": "UG308601",
+        "level": 3,
+        "name": {
+          "local": "Matheniko",
+          "en": "Matheniko",
+          "slug": "matheniko-ug308601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.359",
+      "lon": "34.867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

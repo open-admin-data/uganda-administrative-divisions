@@ -1,0 +1,56 @@
+{
+  "id": "UG100104",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Njeru Municipality",
+    "en": "Njeru Municipality",
+    "slug": "njeru-municipality-ug100104"
+  },
+  "code": {
+    "id": "UG100104",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1001",
+    "level": 2,
+    "name": {
+      "local": "Buikwe",
+      "en": "Buikwe",
+      "slug": "buikwe-ug1001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.423",
+    "lon": "33.148"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30920101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alero",
+      "en": "Alero",
+      "slug": "alero"
+    },
+    "code": {
+      "id": "UG30920101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.731",
+      "lon": "32.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Anaka Payira",
+      "en": "Anaka Payira",
+      "slug": "anaka-payira"
+    },
+    "code": {
+      "id": "UG30920102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.524",
+      "lon": "31.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Anaka Town Council",
+      "en": "Anaka Town Council",
+      "slug": "anaka-town-council"
+    },
+    "code": {
+      "id": "UG30920103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.609",
+      "lon": "31.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Got Apwoyo",
+      "en": "Got Apwoyo",
+      "slug": "got-apwoyo"
+    },
+    "code": {
+      "id": "UG30920104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.435",
+      "lon": "31.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Koch-Goma",
+      "en": "Koch-Goma",
+      "slug": "koch-goma"
+    },
+    "code": {
+      "id": "UG30920105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.558",
+      "lon": "32.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lii",
+      "en": "Lii",
+      "slug": "lii"
+    },
+    "code": {
+      "id": "UG30920106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.42",
+      "lon": "32.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lungulu",
+      "en": "Lungulu",
+      "slug": "lungulu"
+    },
+    "code": {
+      "id": "UG30920107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.699",
+      "lon": "31.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30920108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Purongo",
+      "en": "Purongo",
+      "slug": "purongo"
+    },
+    "code": {
+      "id": "UG30920108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309201",
+      "level": 3,
+      "name": {
+        "local": "Nwoya",
+        "en": "Nwoya",
+        "slug": "nwoya-ug309201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3092",
+        "level": 2,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug3092"
+        }
+      },
+      {
+        "id": "UG309201",
+        "level": 3,
+        "name": {
+          "local": "Nwoya",
+          "en": "Nwoya",
+          "slug": "nwoya-ug309201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.544",
+      "lon": "31.846"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

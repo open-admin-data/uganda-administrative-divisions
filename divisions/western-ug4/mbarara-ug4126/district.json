@@ -1,0 +1,48 @@
+{
+  "id": "UG4126",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbarara",
+    "en": "Mbarara",
+    "slug": "mbarara-ug4126"
+  },
+  "code": {
+    "id": "UG4126",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.487",
+    "lon": "30.628"
+  },
+  "metadata": {},
+  "source": {}
+}

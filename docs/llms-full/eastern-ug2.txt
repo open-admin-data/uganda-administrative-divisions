@@ -1,0 +1,972 @@
+# Eastern — Uganda Administrative Divisions
+
+> 37 districts, 54 countys, 454 sub-countys
+> Code: UG2
+> Coordinates: 0.709, 33.682
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Amuria
+
+Code: UG2027, Coordinates: 1.981, 33.658
+Countys: 1, Sub-countys: 11
+
+#### Amuria
+
+Code: UG202701, Coordinates: 1.981, 33.658
+
+Sub-countys:
+- Abarilela [UG20270101]
+- Akeriau [UG20270102]
+- Amuria Town Council [UG20270103]
+- Apeduru [UG20270104]
+- Asamuk [UG20270105]
+- Kuju [UG20270106]
+- Morungatuny [UG20270107]
+- Ogolai [UG20270108]
+- Orungo [UG20270109]
+- Wera [UG20270110]
+- Willa [UG20270111]
+
+### Budaka
+
+Code: UG2028, Coordinates: 1.064, 34.005
+Countys: 2, Sub-countys: 13
+
+#### Budaka
+
+Code: UG202801, Coordinates: 1.022, 33.981
+
+Sub-countys:
+- Budaka [UG20280101]
+- Budaka Town Council [UG20280102]
+- Kaderuna [UG20280103]
+- Kakule [UG20280104]
+- Lyama [UG20280105]
+- Naboa [UG20280106]
+- Nansanga [UG20280107]
+
+#### Iki-Iki
+
+Code: UG202802, Coordinates: 1.114, 34.021
+
+Sub-countys:
+- Iki-Iki [UG20280201]
+- Kachomo [UG20280202]
+- Kameruka [UG20280203]
+- Kamonkoli [UG20280204]
+- Katiira [UG20280205]
+- Mugiti [UG20280206]
+
+### Bududa
+
+Code: UG2029, Coordinates: 1.026, 34.391
+Countys: 1, Sub-countys: 17
+
+#### Manjiya
+
+Code: UG202901, Coordinates: 1.026, 34.391
+
+Sub-countys:
+- Bubiita [UG20290101]
+- Bududa [UG20290102]
+- Bududa Town Council [UG20290103]
+- Bukalasi [UG20290104]
+- Bukibokolo [UG20290105]
+- Bukigai [UG20290106]
+- Bulucheke [UG20290107]
+- Bumasheti [UG20290108]
+- Bumayoka [UG20290109]
+- Bushika [UG20290110]
+- Bushiribo [UG20290111]
+- Bushiyi [UG20290112]
+- Buwali [UG20290113]
+- Nabweya [UG20290114]
+- Nakatsi [UG20290115]
+- Nalwanza [UG20290116]
+- Nangako Town Council [UG20290117]
+
+### Bugiri
+
+Code: UG2030, Coordinates: 0.519, 33.773
+Countys: 2, Sub-countys: 12
+
+#### Bugiri Municipality
+
+Code: UG203001, Coordinates: 0.563, 33.753
+
+Sub-countys:
+- Eastern Division [UG20300101]
+- Western Division [UG20300102]
+
+#### Bukooli
+
+Code: UG203002, Coordinates: 0.519, 33.773
+
+Sub-countys:
+- Budhaya [UG20300201]
+- Bulesa [UG20300202]
+- Bulidha [UG20300203]
+- Buluguyi [UG20300204]
+- Buwunga [UG20300205]
+- Iwemba [UG20300206]
+- Kapyanga [UG20300207]
+- Muterere [UG20300208]
+- Nabukalu [UG20300209]
+- Nankoma [UG20300210]
+
+### Bugweri
+
+Code: UG2031, Coordinates: 0.622, 33.616
+Countys: 1, Sub-countys: 7
+
+#### Bugweri
+
+Code: UG203101, Coordinates: 0.622, 33.616
+
+Sub-countys:
+- Bugweri Town Council [UG20310101]
+- Busembatia Town Council [UG20310102]
+- Buyanga [UG20310103]
+- Ibulanku [UG20310104]
+- Igombe [UG20310105]
+- Makuutu [UG20310106]
+- Namalemba [UG20310107]
+
+### Bukedea
+
+Code: UG2032, Coordinates: 1.369, 34.142
+Countys: 1, Sub-countys: 6
+
+#### Bukedea
+
+Code: UG203201, Coordinates: 1.369, 34.142
+
+Sub-countys:
+- Bukedea [UG20320101]
+- Bukedea Town Council [UG20320102]
+- Kachumbala [UG20320103]
+- Kidongole [UG20320104]
+- Kolir [UG20320105]
+- Malera [UG20320106]
+
+### Bukwo
+
+Code: UG2033, Coordinates: 1.27, 34.698
+Countys: 1, Sub-countys: 12
+
+#### Kongasis
+
+Code: UG203301, Coordinates: 1.27, 34.698
+
+Sub-countys:
+- Bukwo [UG20330101]
+- Bukwo Town Council [UG20330102]
+- Chepkwasta [UG20330103]
+- Chesower [UG20330104]
+- Kabei [UG20330105]
+- Kamet [UG20330106]
+- Kaptererwo [UG20330107]
+- Kortek [UG20330108]
+- Riwo [UG20330109]
+- Senendet [UG20330110]
+- Suam [UG20330111]
+- Tulel [UG20330112]
+
+### Bulambuli
+
+Code: UG2034, Coordinates: 1.348, 34.279
+Countys: 1, Sub-countys: 20
+
+#### Bulambuli
+
+Code: UG203401, Coordinates: 1.348, 34.279
+
+Sub-countys:
+- Buginyanya [UG20340101]
+- Bukhalu [UG20340102]
+- Bulaago [UG20340103]
+- Bulambuli Town Council [UG20340104]
+- Bulegeni [UG20340105]
+- Bulegeni Town Council [UG20340106]
+- Buluganya [UG20340107]
+- Bumasobo [UG20340108]
+- Bumugibole [UG20340109]
+- Bunambutye [UG20340110]
+- Buyaga Town Council [UG20340111]
+- Bwikhonge [UG20340112]
+- Kamu [UG20340113]
+- Lusha [UG20340114]
+- Masiira [UG20340115]
+- Muyembe [UG20340116]
+- Nabbongo [UG20340117]
+- Namisuni [UG20340118]
+- Simu [UG20340119]
+- Sisiyi [UG20340120]
+
+### Busia
+
+Code: UG2035, Coordinates: 0.391, 34.016
+Countys: 2, Sub-countys: 16
+
+#### Busia Municipality
+
+Code: UG203501, Coordinates: 0.468, 34.091
+
+Sub-countys:
+- Eastern Division [UG20350101]
+- Western Division [UG20350102]
+
+#### Samia-Bugwe
+
+Code: UG203502, Coordinates: 0.391, 34.016
+
+Sub-countys:
+- Buhehe [UG20350201]
+- Bulumbi [UG20350202]
+- Busime [UG20350203]
+- Busitema [UG20350204]
+- Buteba [UG20350205]
+- Buyanga [UG20350206]
+- Dabani [UG20350207]
+- Lumino [UG20350208]
+- Lunyo [UG20350209]
+- Majanji [UG20350210]
+- Masaba [UG20350211]
+- Masafu [UG20350212]
+- Masinya [UG20350213]
+- Sikuda [UG20350214]
+
+### Butaleja
+
+Code: UG2036, Coordinates: 0.866, 33.885
+Countys: 1, Sub-countys: 12
+
+#### Bunyole
+
+Code: UG203601, Coordinates: 0.866, 33.885
+
+Sub-countys:
+- Budumba [UG20360101]
+- Busaba [UG20360102]
+- Busabi [UG20360103]
+- Busolwe [UG20360104]
+- Busolwe Town Council [UG20360105]
+- Butaleja [UG20360106]
+- Butaleja Town Council [UG20360107]
+- Himutu [UG20360108]
+- Kachonga [UG20360109]
+- Mazimasa [UG20360110]
+- Nawanjofu [UG20360111]
+- Naweyo [UG20360112]
+
+### Butebo
+
+Code: UG2037, Coordinates: 1.172, 34.06
+Countys: 1, Sub-countys: 6
+
+#### Butebo
+
+Code: UG203701, Coordinates: 1.172, 34.06
+
+Sub-countys:
+- Butebo [UG20370101]
+- Butebo Town Council [UG20370102]
+- Kabwangasi [UG20370103]
+- Kakoro [UG20370104]
+- Kanginima [UG20370105]
+- Petete [UG20370106]
+
+### Buyende
+
+Code: UG2038, Coordinates: 1.233, 33.176
+Countys: 1, Sub-countys: 6
+
+#### Budiope
+
+Code: UG203801, Coordinates: 1.233, 33.176
+
+Sub-countys:
+- Bugaya [UG20380101]
+- Buyende [UG20380102]
+- Buyende Town Council [UG20380103]
+- Kagulu [UG20380104]
+- Kidera [UG20380105]
+- Nkondo [UG20380106]
+
+### Iganga
+
+Code: UG2039, Coordinates: 0.722, 33.502
+Countys: 2, Sub-countys: 10
+
+#### Iganga Municipality
+
+Code: UG203901, Coordinates: 0.613, 33.477
+
+Sub-countys:
+- Central Division [UG20390101]
+- Northern Division [UG20390102]
+
+#### Kigulu
+
+Code: UG203902, Coordinates: 0.722, 33.502
+
+Sub-countys:
+- Bulamogi [UG20390201]
+- Nabitende [UG20390202]
+- Nakalama [UG20390203]
+- Nakigo [UG20390204]
+- Nambale [UG20390205]
+- Namungalwe [UG20390206]
+- Nawandala [UG20390207]
+- Nawanyingi [UG20390208]
+
+### Jinja
+
+Code: UG2040, Coordinates: 0.544, 33.229
+Countys: 3, Sub-countys: 12
+
+#### Butembe
+
+Code: UG204001, Coordinates: 0.554, 33.295
+
+Sub-countys:
+- Bugembe Town Council [UG20400101]
+- Busedde [UG20400102]
+- Kakira Town Council [UG20400103]
+- Mafubira [UG20400104]
+
+#### Jinja Municipality
+
+Code: UG204002, Coordinates: 0.428, 33.238
+
+Sub-countys:
+- Central Division [UG20400201]
+- Masese Walukuba [UG20400202]
+- Mpumudde Division [UG20400203]
+
+#### Kagoma
+
+Code: UG204003, Coordinates: 0.588, 33.164
+
+Sub-countys:
+- Budondo [UG20400301]
+- Butagaya [UG20400302]
+- Buwenge [UG20400303]
+- Buwenge Town Council [UG20400304]
+- Buyengo [UG20400305]
+
+### Kaberamaido
+
+Code: UG2041, Coordinates: 1.685, 33.117
+Countys: 1, Sub-countys: 6
+
+#### Kaberamaido
+
+Code: UG204101, Coordinates: 1.685, 33.117
+
+Sub-countys:
+- Alwa [UG20410101]
+- Aperkira [UG20410102]
+- Kaberamaido [UG20410103]
+- Kaberamaido Town Council [UG20410104]
+- Kobulubulu [UG20410105]
+- Ochero [UG20410106]
+
+### Kalaki
+
+Code: UG2042, Coordinates: 1.83, 33.356
+Countys: 1, Sub-countys: 7
+
+#### Kalaki
+
+Code: UG204201, Coordinates: 1.83, 33.356
+
+Sub-countys:
+- Anyara [UG20420101]
+- Apapai [UG20420102]
+- Bululu [UG20420103]
+- Kakure [UG20420104]
+- Kalaki [UG20420105]
+- Kalaki Town Council [UG20420106]
+- Otuboi [UG20420107]
+
+### Kaliro
+
+Code: UG2043, Coordinates: 1.08, 33.482
+Countys: 1, Sub-countys: 12
+
+#### Bulamogi
+
+Code: UG204301, Coordinates: 1.08, 33.482
+
+Sub-countys:
+- Budomero [UG20430101]
+- Bukamba [UG20430102]
+- Bumanya [UG20430103]
+- Buyinda [UG20430104]
+- Gadumire [UG20430105]
+- Kaliro Town Council [UG20430106]
+- Kasokwe [UG20430107]
+- Kisinda [UG20430108]
+- Namugongo [UG20430109]
+- Namwiwa [UG20430110]
+- Nansololo [UG20430111]
+- Nawaikoke [UG20430112]
+
+### Kamuli
+
+Code: UG2044, Coordinates: 0.94, 33.128
+Countys: 3, Sub-countys: 16
+
+#### Bugabula
+
+Code: UG204401, Coordinates: 1.003, 33.077
+
+Sub-countys:
+- Balawoli [UG20440101]
+- Bulopa [UG20440102]
+- Butansi [UG20440103]
+- Kagumba [UG20440104]
+- Kitayunjwa [UG20440105]
+- Nabwigulu [UG20440106]
+- Namasagali [UG20440107]
+- Namwendwa [UG20440108]
+
+#### Buzaaya
+
+Code: UG204402, Coordinates: 0.776, 33.146
+
+Sub-countys:
+- Bugulumbya [UG20440201]
+- Kisozi [UG20440202]
+- Magogo [UG20440203]
+- Mbulamuti [UG20440204]
+- Nawanyago [UG20440205]
+- Wankole [UG20440206]
+
+#### Kamuli Municipality
+
+Code: UG204403, Coordinates: 0.926, 33.118
+
+Sub-countys:
+- Northern Division [UG20440301]
+- Southern Division [UG20440302]
+
+### Kapchorwa
+
+Code: UG2045, Coordinates: 1.328, 34.407
+Countys: 2, Sub-countys: 14
+
+#### Kapchorwa Municipality
+
+Code: UG204501, Coordinates: 1.336, 34.46
+
+Sub-countys:
+- Central Division [UG20450101]
+- Eastern Division [UG20450102]
+- Western Division [UG20450103]
+
+#### Tingey
+
+Code: UG204502, Coordinates: 1.29, 34.446
+
+Sub-countys:
+- Amukol [UG20450201]
+- Chema [UG20450202]
+- Chepterech [UG20450203]
+- Gamogo [UG20450204]
+- Kabeywa [UG20450205]
+- Kapsinda [UG20450206]
+- Kaptanya [UG20450207]
+- Kaserem [UG20450208]
+- Kawowo [UG20450209]
+- Munarya [UG20450210]
+- Sipi [UG20450211]
+
+### Kapelebyong
+
+Code: UG2046, Coordinates: 2.195, 33.777
+Countys: 1, Sub-countys: 6
+
+#### Kapelebyong
+
+Code: UG204601, Coordinates: 2.195, 33.777
+
+Sub-countys:
+- Acowa [UG20460101]
+- Akoromit [UG20460102]
+- Kapelebyong [UG20460103]
+- Kapelebyong Town Council [UG20460104]
+- Obalanga [UG20460105]
+- Okungur [UG20460106]
+
+### Katakwi
+
+Code: UG2047, Coordinates: 1.971, 34.058
+Countys: 2, Sub-countys: 10
+
+#### Katakwi
+
+Code: UG204701, Coordinates: 2.035, 34.058
+
+Sub-countys:
+- Katakwi [UG20470101]
+- Katakwi Town Council [UG20470102]
+- Ngariam [UG20470103]
+- Ongongoja [UG20470104]
+- Palam [UG20470105]
+- Usuk [UG20470106]
+
+#### Toroma
+
+Code: UG204702, Coordinates: 1.745, 34.034
+
+Sub-countys:
+- Kapujan [UG20470201]
+- Magoro [UG20470202]
+- Omodoi [UG20470203]
+- Toroma [UG20470204]
+
+### Kibuku
+
+Code: UG2048, Coordinates: 1.055, 33.806
+Countys: 1, Sub-countys: 17
+
+#### Kibuku
+
+Code: UG204801, Coordinates: 1.055, 33.806
+
+Sub-countys:
+- Bulangira [UG20480101]
+- Buseta [UG20480102]
+- Goli Goli [UG20480103]
+- Kabweri [UG20480104]
+- Kadama [UG20480105]
+- Kagumu [UG20480106]
+- Kakutu [UG20480107]
+- Kasasira [UG20480108]
+- Kibuku [UG20480109]
+- Kibuku Town Council [UG20480110]
+- Kirika [UG20480111]
+- Kituti [UG20480112]
+- Lwamata [UG20480113]
+- Nabiswa [UG20480114]
+- Nandere [UG20480115]
+- Nankondo [UG20480116]
+- Tirinyi [UG20480117]
+
+### Kumi
+
+Code: UG2049, Coordinates: 1.456, 33.925
+Countys: 2, Sub-countys: 8
+
+#### Kumi
+
+Code: UG204901, Coordinates: 1.456, 33.878
+
+Sub-countys:
+- Atutur [UG20490101]
+- Kanyum [UG20490102]
+- Kumi [UG20490103]
+- Mukongoro [UG20490104]
+- Nyero [UG20490105]
+- Ongino [UG20490106]
+
+#### Kumi Municipality
+
+Code: UG204902, Coordinates: 1.483, 33.94
+
+Sub-countys:
+- Northern Divison [UG20490201]
+- Southern Division [UG20490202]
+
+### Kween
+
+Code: UG2050, Coordinates: 1.351, 34.561
+Countys: 1, Sub-countys: 13
+
+#### Kween
+
+Code: UG205001, Coordinates: 1.351, 34.561
+
+Sub-countys:
+- Benet [UG20500101]
+- Binyiny [UG20500102]
+- Binyiny Town Council [UG20500103]
+- Kaproron [UG20500104]
+- Kaproron Town Council [UG20500105]
+- Kaptoyoy [UG20500106]
+- Kaptum [UG20500107]
+- Kiriki [UG20500108]
+- Kitawoi [UG20500109]
+- Kwanyiy [UG20500110]
+- Kwosir [UG20500111]
+- Moyok [UG20500112]
+- Ngenge [UG20500113]
+
+### Luuka
+
+Code: UG2051, Coordinates: 0.818, 33.328
+Countys: 1, Sub-countys: 8
+
+#### Luuka
+
+Code: UG205101, Coordinates: 0.818, 33.328
+
+Sub-countys:
+- Bukanga [UG20510101]
+- Bukooma [UG20510102]
+- Bulongo [UG20510103]
+- Ikumbya [UG20510104]
+- Irongo [UG20510105]
+- Luuka Town Council [UG20510106]
+- Nawampiti [UG20510107]
+- Waibuga [UG20510108]
+
+### Manafwa
+
+Code: UG2052, Coordinates: 0.883, 34.27
+Countys: 1, Sub-countys: 17
+
+#### Bubulo
+
+Code: UG205201, Coordinates: 0.883, 34.27
+
+Sub-countys:
+- Bugobero [UG20520101]
+- Bukhofu [UG20520102]
+- Bukusu [UG20520103]
+- Bunabwana [UG20520104]
+- Bunyinza Town Council [UG20520105]
+- Busukuya [UG20520106]
+- Butiru [UG20520107]
+- Butta [UG20520108]
+- Buwagogo [UG20520109]
+- Buwangani Town Council [UG20520110]
+- Kaato [UG20520111]
+- Khabutoola [UG20520112]
+- Manafwa Town Council [UG20520113]
+- Nalondo [UG20520114]
+- Sibanga [UG20520115]
+- Sisuni [UG20520116]
+- Weswa [UG20520117]
+
+### Mayuge
+
+Code: UG2053, Coordinates: -0.193, 33.59
+Countys: 1, Sub-countys: 14
+
+#### Bunya
+
+Code: UG205301, Coordinates: -0.193, 33.59
+
+Sub-countys:
+- Baitambogwe [UG20530101]
+- Bukabooli [UG20530102]
+- Bukatube [UG20530103]
+- Busakira [UG20530104]
+- Buwaaya [UG20530105]
+- Imanyiro [UG20530106]
+- Jaguzi [UG20530107]
+- Kigandalo [UG20530108]
+- Kityerera [UG20530109]
+- Magamaga Town Council [UG20530110]
+- Malongo [UG20530111]
+- Mayuge Town Council [UG20530112]
+- Mpungwe [UG20530113]
+- Wairasa [UG20530114]
+
+### Mbale
+
+Code: UG2054, Coordinates: 1.002, 34.197
+Countys: 2, Sub-countys: 27
+
+#### Bungokho
+
+Code: UG205401, Coordinates: 1.002, 34.197
+
+Sub-countys:
+- Bubyangu [UG20540101]
+- Budwale [UG20540102]
+- Bufumbo [UG20540103]
+- Bukasakya [UG20540104]
+- Bukiende [UG20540105]
+- Bukonde [UG20540106]
+- Bumasikye [UG20540107]
+- Bumbobi [UG20540108]
+- Bungokho [UG20540109]
+- Bungokho Mutoto [UG20540110]
+- Busano [UG20540111]
+- Busiu [UG20540112]
+- Busiu Town Council [UG20540113]
+- Busoba [UG20540114]
+- Lukhonge [UG20540115]
+- Lwasso [UG20540116]
+- Nabumali Town Council [UG20540117]
+- Nakaloke [UG20540118]
+- Nakaloke Town Council [UG20540119]
+- Namambasa [UG20540120]
+- Namanyonyi [UG20540121]
+- Nawuyo Town Council [UG20540122]
+- Nyondo [UG20540123]
+- Wanale [UG20540124]
+
+#### Mbale Municipality
+
+Code: UG205402, Coordinates: 1.079, 34.173
+
+Sub-countys:
+- Industrial Divison [UG20540201]
+- Northern Division [UG20540202]
+- Wanale Division [UG20540203]
+
+### Namayingo
+
+Code: UG2055, Coordinates: -0.27, 33.814
+Countys: 1, Sub-countys: 9
+
+#### Bukooli
+
+Code: UG205501, Coordinates: -0.27, 33.814
+
+Sub-countys:
+- Banda [UG20550101]
+- Buhemba [UG20550102]
+- Bukana [UG20550103]
+- Buswale [UG20550104]
+- Buyinja [UG20550105]
+- Lolwe [UG20550106]
+- Mutumba [UG20550107]
+- Namayingo Town Council [UG20550108]
+- Sigulu Island [UG20550109]
+
+### Namisindwa
+
+Code: UG2056, Coordinates: 0.864, 34.384
+Countys: 1, Sub-countys: 17
+
+#### Bubulo
+
+Code: UG205601, Coordinates: 0.864, 34.384
+
+Sub-countys:
+- Bubutu [UG20560101]
+- Bukhabusi [UG20560102]
+- Bukhaweka [UG20560103]
+- Bukiabi [UG20560104]
+- Bukokho [UG20560105]
+- Bumbo [UG20560106]
+- Bumwoni [UG20560107]
+- Bupoto [UG20560108]
+- Buwabwala [UG20560109]
+- Lwakhakha Town Council [UG20560110]
+- Magale [UG20560111]
+- Magale Town Council [UG20560112]
+- Mukoto [UG20560113]
+- Namabya [UG20560114]
+- Namboko [UG20560115]
+- Namisindwa Town Council [UG20560116]
+- Tsekululu [UG20560117]
+
+### Namutumba
+
+Code: UG2057, Coordinates: 0.887, 33.666
+Countys: 1, Sub-countys: 10
+
+#### Busiki
+
+Code: UG205701, Coordinates: 0.887, 33.666
+
+Sub-countys:
+- Bulange [UG20570101]
+- Ivukula [UG20570102]
+- Kibaale [UG20570103]
+- Magada [UG20570104]
+- Mazuba [UG20570105]
+- Nabweyo [UG20570106]
+- Namutumba [UG20570107]
+- Namutumba Town Council [UG20570108]
+- Nangonde [UG20570109]
+- Nsinze [UG20570110]
+
+### Ngora
+
+Code: UG2058, Coordinates: 1.496, 33.774
+Countys: 1, Sub-countys: 5
+
+#### Ngora
+
+Code: UG205801, Coordinates: 1.496, 33.774
+
+Sub-countys:
+- Kapir [UG20580101]
+- Kobwin [UG20580102]
+- Mukura [UG20580103]
+- Ngora [UG20580104]
+- Ngora Town Council [UG20580105]
+
+### Pallisa
+
+Code: UG2059, Coordinates: 1.217, 33.691
+Countys: 2, Sub-countys: 14
+
+#### Butebo
+
+Code: UG205901, Coordinates: 1.236, 33.819
+
+Sub-countys:
+- Kibale [UG20590101]
+- Opwateta [UG20590102]
+
+#### Pallisa
+
+Code: UG205902, Coordinates: 1.217, 33.624
+
+Sub-countys:
+- Agule [UG20590201]
+- Akisim [UG20590202]
+- Apopong [UG20590203]
+- Chelekura [UG20590204]
+- Gogonyo [UG20590205]
+- Kameke [UG20590206]
+- Kamuge [UG20590207]
+- Kasodo [UG20590208]
+- Olok [UG20590209]
+- Pallisa [UG20590210]
+- Pallisa Town Council [UG20590211]
+- Puti-Puti [UG20590212]
+
+### Serere
+
+Code: UG2060, Coordinates: 1.492, 33.359
+Countys: 2, Sub-countys: 12
+
+#### Kasilo
+
+Code: UG206001, Coordinates: 1.503, 33.23
+
+Sub-countys:
+- Bugondo [UG20600101]
+- Kadungulu [UG20600102]
+- Kadungulu Town Council [UG20600103]
+- Kasilo Town Council [UG20600104]
+- Kidetok Town Council [UG20600105]
+- Labori [UG20600106]
+- Pingire [UG20600107]
+
+#### Serere
+
+Code: UG206002, Coordinates: 1.491, 33.566
+
+Sub-countys:
+- Atiira [UG20600201]
+- Kateta [UG20600202]
+- Kyere [UG20600203]
+- Olio [UG20600204]
+- Serere Town Council [UG20600205]
+
+### Sironko
+
+Code: UG2061, Coordinates: 1.188, 34.292
+Countys: 1, Sub-countys: 21
+
+#### Budadiri
+
+Code: UG206101, Coordinates: 1.188, 34.292
+
+Sub-countys:
+- Budadiri Town Council [UG20610101]
+- Bugitimwa [UG20610102]
+- Buhugu [UG20610103]
+- Bukhulo [UG20610104]
+- Bukiise [UG20610105]
+- Bukiyi [UG20610106]
+- Bukyabo [UG20610107]
+- Bukyambi [UG20610108]
+- Bumalimba [UG20610109]
+- Bumasifwa [UG20610110]
+- Bunyafa [UG20610111]
+- Busulani [UG20610112]
+- Butandiga [UG20610113]
+- Buteza [UG20610114]
+- Buwalasi [UG20610115]
+- Buwasa [UG20610116]
+- Buyobo [UG20610117]
+- Masaba [UG20610118]
+- Nalusala [UG20610119]
+- Sironko Town Council [UG20610120]
+- Zesui [UG20610121]
+
+### Soroti
+
+Code: UG2062, Coordinates: 1.788, 33.607
+Countys: 2, Sub-countys: 10
+
+#### Soroti
+
+Code: UG206201, Coordinates: 1.788, 33.607
+
+Sub-countys:
+- Arapai [UG20620101]
+- Asuret [UG20620102]
+- Gweri [UG20620103]
+- Kamuda [UG20620104]
+- Katine [UG20620105]
+- Soroti [UG20620106]
+- Tubur [UG20620107]
+
+#### Soroti Municipality
+
+Code: UG206202, Coordinates: 1.726, 33.621
+
+Sub-countys:
+- Eastern Division [UG20620201]
+- Northern Division [UG20620202]
+- Western Division [UG20620203]
+
+### Tororo
+
+Code: UG2063, Coordinates: 0.739, 34.103
+Countys: 3, Sub-countys: 21
+
+#### Tororo
+
+Code: UG206301, Coordinates: 0.742, 34.248
+
+Sub-countys:
+- Kwapa [UG20630101]
+- Malaba Town Council [UG20630102]
+- Mella [UG20630103]
+- Merikit [UG20630104]
+- Molo [UG20630105]
+- Mukuju [UG20630106]
+- Osukuru [UG20630107]
+
+#### Tororo Municipality
+
+Code: UG206302, Coordinates: 0.682, 34.18
+
+Sub-countys:
+- Eastern Division [UG20630201]
+- Western Division [UG20630202]
+
+#### West Budama (Kisolo)
+
+Code: UG206303, Coordinates: 0.73, 34.037
+
+Sub-countys:
+- Iyolwa [UG20630301]
+- Kirewa [UG20630302]
+- Kisoko [UG20630303]
+- Magola [UG20630304]
+- Mulanda [UG20630305]
+- Nabuyoga [UG20630306]
+- Nagongera [UG20630307]
+- Nagongera Town Council [UG20630308]
+- Paya [UG20630309]
+- Petta [UG20630310]
+- Rubongi [UG20630311]
+- Sop-Sop [UG20630312]
+

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20410101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alwa",
+      "en": "Alwa",
+      "slug": "alwa"
+    },
+    "code": {
+      "id": "UG20410101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.848",
+      "lon": "33.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20410102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aperkira",
+      "en": "Aperkira",
+      "slug": "aperkira"
+    },
+    "code": {
+      "id": "UG20410102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.716",
+      "lon": "33.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20410103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaberamaido",
+      "en": "Kaberamaido",
+      "slug": "kaberamaido"
+    },
+    "code": {
+      "id": "UG20410103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.754",
+      "lon": "33.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20410104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaberamaido Town Council",
+      "en": "Kaberamaido Town Council",
+      "slug": "kaberamaido-town-council"
+    },
+    "code": {
+      "id": "UG20410104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.767",
+      "lon": "33.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20410105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kobulubulu",
+      "en": "Kobulubulu",
+      "slug": "kobulubulu"
+    },
+    "code": {
+      "id": "UG20410105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.67",
+      "lon": "33.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20410106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ochero",
+      "en": "Ochero",
+      "slug": "ochero"
+    },
+    "code": {
+      "id": "UG20410106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204101",
+      "level": 3,
+      "name": {
+        "local": "Kaberamaido",
+        "en": "Kaberamaido",
+        "slug": "kaberamaido-ug204101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2041",
+        "level": 2,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug2041"
+        }
+      },
+      {
+        "id": "UG204101",
+        "level": 3,
+        "name": {
+          "local": "Kaberamaido",
+          "en": "Kaberamaido",
+          "slug": "kaberamaido-ug204101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.589",
+      "lon": "33.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

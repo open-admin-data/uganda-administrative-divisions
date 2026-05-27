@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG20550101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "UG20550101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.195",
+      "lon": "33.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhemba",
+      "en": "Buhemba",
+      "slug": "buhemba"
+    },
+    "code": {
+      "id": "UG20550102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.273",
+      "lon": "33.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukana",
+      "en": "Bukana",
+      "slug": "bukana"
+    },
+    "code": {
+      "id": "UG20550103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.174",
+      "lon": "33.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buswale",
+      "en": "Buswale",
+      "slug": "buswale"
+    },
+    "code": {
+      "id": "UG20550104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.423",
+      "lon": "33.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyinja",
+      "en": "Buyinja",
+      "slug": "buyinja"
+    },
+    "code": {
+      "id": "UG20550105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.338",
+      "lon": "33.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lolwe",
+      "en": "Lolwe",
+      "slug": "lolwe"
+    },
+    "code": {
+      "id": "UG20550106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.491",
+      "lon": "33.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mutumba",
+      "en": "Mutumba",
+      "slug": "mutumba"
+    },
+    "code": {
+      "id": "UG20550107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.235",
+      "lon": "33.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namayingo Town Council",
+      "en": "Namayingo Town Council",
+      "slug": "namayingo-town-council"
+    },
+    "code": {
+      "id": "UG20550108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.343",
+      "lon": "33.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20550109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sigulu Island",
+      "en": "Sigulu Island",
+      "slug": "sigulu-island"
+    },
+    "code": {
+      "id": "UG20550109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205501",
+      "level": 3,
+      "name": {
+        "local": "Bukooli",
+        "en": "Bukooli",
+        "slug": "bukooli-ug205501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2055",
+        "level": 2,
+        "name": {
+          "local": "Namayingo",
+          "en": "Namayingo",
+          "slug": "namayingo-ug2055"
+        }
+      },
+      {
+        "id": "UG205501",
+        "level": 3,
+        "name": {
+          "local": "Bukooli",
+          "en": "Bukooli",
+          "slug": "bukooli-ug205501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.078",
+      "lon": "33.789"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

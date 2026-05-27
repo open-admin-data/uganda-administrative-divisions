@@ -1,0 +1,65 @@
+[
+  {
+    "id": "UG10210101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG10210101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102101",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug102101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102101",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug102101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.344",
+      "lon": "32.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

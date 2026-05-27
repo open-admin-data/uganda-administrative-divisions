@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG102601,Busiro,Busiro,busiro-ug102601,UG102601,14,0.213,32.468
+UG102602,Entebbe Municipality,Entebbe Municipality,entebbe-municipality-ug102602,UG102602,2,-0.025,32.447
+UG102603,Kira Municipality,Kira Municipality,kira-municipality-ug102603,UG102603,3,0.385,32.646
+UG102604,Kyadondo,Kyadondo,kyadondo-ug102604,UG102604,1,0.455,32.583
+UG102605,Makindye Ssabagabo Municipality,Makindye Ssabagabo Municipality,makindye-ssabagabo-municipality-ug102605,UG102605,3,0.231,32.578
+UG102606,Nansana Municipality,Nansana Municipality,nansana-municipality-ug102606,UG102606,4,0.465,32.509

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG20270101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abarilela",
+      "en": "Abarilela",
+      "slug": "abarilela"
+    },
+    "code": {
+      "id": "UG20270101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.951",
+      "lon": "33.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akeriau",
+      "en": "Akeriau",
+      "slug": "akeriau"
+    },
+    "code": {
+      "id": "UG20270102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.046",
+      "lon": "33.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amuria Town Council",
+      "en": "Amuria Town Council",
+      "slug": "amuria-town-council"
+    },
+    "code": {
+      "id": "UG20270103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.04",
+      "lon": "33.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apeduru",
+      "en": "Apeduru",
+      "slug": "apeduru"
+    },
+    "code": {
+      "id": "UG20270104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.064",
+      "lon": "33.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Asamuk",
+      "en": "Asamuk",
+      "slug": "asamuk"
+    },
+    "code": {
+      "id": "UG20270105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.943",
+      "lon": "33.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kuju",
+      "en": "Kuju",
+      "slug": "kuju"
+    },
+    "code": {
+      "id": "UG20270106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.071",
+      "lon": "33.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Morungatuny",
+      "en": "Morungatuny",
+      "slug": "morungatuny"
+    },
+    "code": {
+      "id": "UG20270107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.159",
+      "lon": "33.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ogolai",
+      "en": "Ogolai",
+      "slug": "ogolai"
+    },
+    "code": {
+      "id": "UG20270108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.054",
+      "lon": "33.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Orungo",
+      "en": "Orungo",
+      "slug": "orungo"
+    },
+    "code": {
+      "id": "UG20270109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.007",
+      "lon": "33.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wera",
+      "en": "Wera",
+      "slug": "wera"
+    },
+    "code": {
+      "id": "UG20270110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.818",
+      "lon": "33.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20270111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Willa",
+      "en": "Willa",
+      "slug": "willa"
+    },
+    "code": {
+      "id": "UG20270111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202701",
+      "level": 3,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug202701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      },
+      {
+        "id": "UG202701",
+        "level": 3,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug202701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.139",
+      "lon": "33.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

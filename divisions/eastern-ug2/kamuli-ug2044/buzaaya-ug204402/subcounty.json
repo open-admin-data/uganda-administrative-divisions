@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20440201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugulumbya",
+      "en": "Bugulumbya",
+      "slug": "bugulumbya"
+    },
+    "code": {
+      "id": "UG20440201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.801",
+      "lon": "33.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisozi",
+      "en": "Kisozi",
+      "slug": "kisozi"
+    },
+    "code": {
+      "id": "UG20440202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.771",
+      "lon": "33.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magogo",
+      "en": "Magogo",
+      "slug": "magogo"
+    },
+    "code": {
+      "id": "UG20440203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.691",
+      "lon": "33.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mbulamuti",
+      "en": "Mbulamuti",
+      "slug": "mbulamuti"
+    },
+    "code": {
+      "id": "UG20440204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.845",
+      "lon": "33.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawanyago",
+      "en": "Nawanyago",
+      "slug": "nawanyago"
+    },
+    "code": {
+      "id": "UG20440205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.741",
+      "lon": "33.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wankole",
+      "en": "Wankole",
+      "slug": "wankole"
+    },
+    "code": {
+      "id": "UG20440206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204402",
+      "level": 3,
+      "name": {
+        "local": "Buzaaya",
+        "en": "Buzaaya",
+        "slug": "buzaaya-ug204402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204402",
+        "level": 3,
+        "name": {
+          "local": "Buzaaya",
+          "en": "Buzaaya",
+          "slug": "buzaaya-ug204402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "33.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

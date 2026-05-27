@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UG20290101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubiita",
+      "en": "Bubiita",
+      "slug": "bubiita"
+    },
+    "code": {
+      "id": "UG20290101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.994",
+      "lon": "34.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bududa",
+      "en": "Bududa",
+      "slug": "bududa"
+    },
+    "code": {
+      "id": "UG20290102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.024",
+      "lon": "34.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bududa Town Council",
+      "en": "Bududa Town Council",
+      "slug": "bududa-town-council"
+    },
+    "code": {
+      "id": "UG20290103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.011",
+      "lon": "34.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukalasi",
+      "en": "Bukalasi",
+      "slug": "bukalasi"
+    },
+    "code": {
+      "id": "UG20290104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.054",
+      "lon": "34.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukibokolo",
+      "en": "Bukibokolo",
+      "slug": "bukibokolo"
+    },
+    "code": {
+      "id": "UG20290105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.988",
+      "lon": "34.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukigai",
+      "en": "Bukigai",
+      "slug": "bukigai"
+    },
+    "code": {
+      "id": "UG20290106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.014",
+      "lon": "34.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulucheke",
+      "en": "Bulucheke",
+      "slug": "bulucheke"
+    },
+    "code": {
+      "id": "UG20290107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.061",
+      "lon": "34.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumasheti",
+      "en": "Bumasheti",
+      "slug": "bumasheti"
+    },
+    "code": {
+      "id": "UG20290108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.008",
+      "lon": "34.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumayoka",
+      "en": "Bumayoka",
+      "slug": "bumayoka"
+    },
+    "code": {
+      "id": "UG20290109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.067",
+      "lon": "34.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bushika",
+      "en": "Bushika",
+      "slug": "bushika"
+    },
+    "code": {
+      "id": "UG20290110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.064",
+      "lon": "34.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bushiribo",
+      "en": "Bushiribo",
+      "slug": "bushiribo"
+    },
+    "code": {
+      "id": "UG20290111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.032",
+      "lon": "34.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bushiyi",
+      "en": "Bushiyi",
+      "slug": "bushiyi"
+    },
+    "code": {
+      "id": "UG20290112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.076",
+      "lon": "34.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwali",
+      "en": "Buwali",
+      "slug": "buwali"
+    },
+    "code": {
+      "id": "UG20290113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.013",
+      "lon": "34.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabweya",
+      "en": "Nabweya",
+      "slug": "nabweya"
+    },
+    "code": {
+      "id": "UG20290114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.04",
+      "lon": "34.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakatsi",
+      "en": "Nakatsi",
+      "slug": "nakatsi"
+    },
+    "code": {
+      "id": "UG20290115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.068",
+      "lon": "34.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nalwanza",
+      "en": "Nalwanza",
+      "slug": "nalwanza"
+    },
+    "code": {
+      "id": "UG20290116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "34.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20290117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nangako Town Council",
+      "en": "Nangako Town Council",
+      "slug": "nangako-town-council"
+    },
+    "code": {
+      "id": "UG20290117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202901",
+      "level": 3,
+      "name": {
+        "local": "Manjiya",
+        "en": "Manjiya",
+        "slug": "manjiya-ug202901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2029",
+        "level": 2,
+        "name": {
+          "local": "Bududa",
+          "en": "Bududa",
+          "slug": "bududa-ug2029"
+        }
+      },
+      {
+        "id": "UG202901",
+        "level": 3,
+        "name": {
+          "local": "Manjiya",
+          "en": "Manjiya",
+          "slug": "manjiya-ug202901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.051",
+      "lon": "34.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

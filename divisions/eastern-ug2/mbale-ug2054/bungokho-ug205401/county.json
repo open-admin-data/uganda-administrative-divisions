@@ -1,0 +1,56 @@
+{
+  "id": "UG205401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bungokho",
+    "en": "Bungokho",
+    "slug": "bungokho-ug205401"
+  },
+  "code": {
+    "id": "UG205401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2054",
+    "level": 2,
+    "name": {
+      "local": "Mbale",
+      "en": "Mbale",
+      "slug": "mbale-ug2054"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2054",
+      "level": 2,
+      "name": {
+        "local": "Mbale",
+        "en": "Mbale",
+        "slug": "mbale-ug2054"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.002",
+    "lon": "34.197"
+  },
+  "metadata": {},
+  "source": {}
+}

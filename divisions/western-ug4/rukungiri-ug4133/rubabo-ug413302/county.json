@@ -1,0 +1,56 @@
+{
+  "id": "UG413302",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rubabo",
+    "en": "Rubabo",
+    "slug": "rubabo-ug413302"
+  },
+  "code": {
+    "id": "UG413302",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4133",
+    "level": 2,
+    "name": {
+      "local": "Rukungiri",
+      "en": "Rukungiri",
+      "slug": "rukungiri-ug4133"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4133",
+      "level": 2,
+      "name": {
+        "local": "Rukungiri",
+        "en": "Rukungiri",
+        "slug": "rukungiri-ug4133"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.918",
+    "lon": "29.949"
+  },
+  "metadata": {},
+  "source": {}
+}

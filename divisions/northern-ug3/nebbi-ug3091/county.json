@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG309101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nebbi Municipality",
+      "en": "Nebbi Municipality",
+      "slug": "nebbi-municipality-ug309101"
+    },
+    "code": {
+      "id": "UG309101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3091",
+      "level": 2,
+      "name": {
+        "local": "Nebbi",
+        "en": "Nebbi",
+        "slug": "nebbi-ug3091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.477",
+      "lon": "31.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG309102",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Padyere",
+      "en": "Padyere",
+      "slug": "padyere-ug309102"
+    },
+    "code": {
+      "id": "UG309102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3091",
+      "level": 2,
+      "name": {
+        "local": "Nebbi",
+        "en": "Nebbi",
+        "slug": "nebbi-ug3091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.433",
+      "lon": "31.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

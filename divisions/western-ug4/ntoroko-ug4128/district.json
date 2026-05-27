@@ -1,0 +1,48 @@
+{
+  "id": "UG4128",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ntoroko",
+    "en": "Ntoroko",
+    "slug": "ntoroko-ug4128"
+  },
+  "code": {
+    "id": "UG4128",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.99",
+    "lon": "30.387"
+  },
+  "metadata": {},
+  "source": {}
+}

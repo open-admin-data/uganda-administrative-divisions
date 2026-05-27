@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG10260601",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busukuma Division",
+      "en": "Busukuma Division",
+      "slug": "busukuma-division"
+    },
+    "code": {
+      "id": "UG10260601",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102606",
+      "level": 3,
+      "name": {
+        "local": "Nansana Municipality",
+        "en": "Nansana Municipality",
+        "slug": "nansana-municipality-ug102606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102606",
+        "level": 3,
+        "name": {
+          "local": "Nansana Municipality",
+          "en": "Nansana Municipality",
+          "slug": "nansana-municipality-ug102606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.521",
+      "lon": "32.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260602",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gombe Division",
+      "en": "Gombe Division",
+      "slug": "gombe-division"
+    },
+    "code": {
+      "id": "UG10260602",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102606",
+      "level": 3,
+      "name": {
+        "local": "Nansana Municipality",
+        "en": "Nansana Municipality",
+        "slug": "nansana-municipality-ug102606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102606",
+        "level": 3,
+        "name": {
+          "local": "Nansana Municipality",
+          "en": "Nansana Municipality",
+          "slug": "nansana-municipality-ug102606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.503",
+      "lon": "32.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260603",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabweru Division",
+      "en": "Nabweru Division",
+      "slug": "nabweru-division"
+    },
+    "code": {
+      "id": "UG10260603",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102606",
+      "level": 3,
+      "name": {
+        "local": "Nansana Municipality",
+        "en": "Nansana Municipality",
+        "slug": "nansana-municipality-ug102606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102606",
+        "level": 3,
+        "name": {
+          "local": "Nansana Municipality",
+          "en": "Nansana Municipality",
+          "slug": "nansana-municipality-ug102606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.406",
+      "lon": "32.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260604",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nansana Division",
+      "en": "Nansana Division",
+      "slug": "nansana-division"
+    },
+    "code": {
+      "id": "UG10260604",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102606",
+      "level": 3,
+      "name": {
+        "local": "Nansana Municipality",
+        "en": "Nansana Municipality",
+        "slug": "nansana-municipality-ug102606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102606",
+        "level": 3,
+        "name": {
+          "local": "Nansana Municipality",
+          "en": "Nansana Municipality",
+          "slug": "nansana-municipality-ug102606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.369",
+      "lon": "32.535"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

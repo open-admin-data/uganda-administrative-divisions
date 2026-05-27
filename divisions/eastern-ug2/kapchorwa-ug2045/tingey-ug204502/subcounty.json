@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG20450201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amukol",
+      "en": "Amukol",
+      "slug": "amukol"
+    },
+    "code": {
+      "id": "UG20450201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.326",
+      "lon": "34.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chema",
+      "en": "Chema",
+      "slug": "chema"
+    },
+    "code": {
+      "id": "UG20450202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.287",
+      "lon": "34.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chepterech",
+      "en": "Chepterech",
+      "slug": "chepterech"
+    },
+    "code": {
+      "id": "UG20450203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.309",
+      "lon": "34.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gamogo",
+      "en": "Gamogo",
+      "slug": "gamogo"
+    },
+    "code": {
+      "id": "UG20450204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.306",
+      "lon": "34.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabeywa",
+      "en": "Kabeywa",
+      "slug": "kabeywa"
+    },
+    "code": {
+      "id": "UG20450205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.306",
+      "lon": "34.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapsinda",
+      "en": "Kapsinda",
+      "slug": "kapsinda"
+    },
+    "code": {
+      "id": "UG20450206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.366",
+      "lon": "34.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaptanya",
+      "en": "Kaptanya",
+      "slug": "kaptanya"
+    },
+    "code": {
+      "id": "UG20450207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.435",
+      "lon": "34.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaserem",
+      "en": "Kaserem",
+      "slug": "kaserem"
+    },
+    "code": {
+      "id": "UG20450208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.32",
+      "lon": "34.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kawowo",
+      "en": "Kawowo",
+      "slug": "kawowo"
+    },
+    "code": {
+      "id": "UG20450209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.35",
+      "lon": "34.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Munarya",
+      "en": "Munarya",
+      "slug": "munarya"
+    },
+    "code": {
+      "id": "UG20450210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.27",
+      "lon": "34.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sipi",
+      "en": "Sipi",
+      "slug": "sipi"
+    },
+    "code": {
+      "id": "UG20450211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204502",
+      "level": 3,
+      "name": {
+        "local": "Tingey",
+        "en": "Tingey",
+        "slug": "tingey-ug204502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204502",
+        "level": 3,
+        "name": {
+          "local": "Tingey",
+          "en": "Tingey",
+          "slug": "tingey-ug204502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.26",
+      "lon": "34.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

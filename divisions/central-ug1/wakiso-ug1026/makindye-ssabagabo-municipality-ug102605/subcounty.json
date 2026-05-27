@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG10260501",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bunamwaya Division",
+      "en": "Bunamwaya Division",
+      "slug": "bunamwaya-division"
+    },
+    "code": {
+      "id": "UG10260501",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102605",
+      "level": 3,
+      "name": {
+        "local": "Makindye Ssabagabo Municipality",
+        "en": "Makindye Ssabagabo Municipality",
+        "slug": "makindye-ssabagabo-municipality-ug102605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102605",
+        "level": 3,
+        "name": {
+          "local": "Makindye Ssabagabo Municipality",
+          "en": "Makindye Ssabagabo Municipality",
+          "slug": "makindye-ssabagabo-municipality-ug102605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "32.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260502",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masajja Division",
+      "en": "Masajja Division",
+      "slug": "masajja-division"
+    },
+    "code": {
+      "id": "UG10260502",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102605",
+      "level": 3,
+      "name": {
+        "local": "Makindye Ssabagabo Municipality",
+        "en": "Makindye Ssabagabo Municipality",
+        "slug": "makindye-ssabagabo-municipality-ug102605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102605",
+        "level": 3,
+        "name": {
+          "local": "Makindye Ssabagabo Municipality",
+          "en": "Makindye Ssabagabo Municipality",
+          "slug": "makindye-ssabagabo-municipality-ug102605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "32.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260503",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ndejje Division",
+      "en": "Ndejje Division",
+      "slug": "ndejje-division"
+    },
+    "code": {
+      "id": "UG10260503",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102605",
+      "level": 3,
+      "name": {
+        "local": "Makindye Ssabagabo Municipality",
+        "en": "Makindye Ssabagabo Municipality",
+        "slug": "makindye-ssabagabo-municipality-ug102605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102605",
+        "level": 3,
+        "name": {
+          "local": "Makindye Ssabagabo Municipality",
+          "en": "Makindye Ssabagabo Municipality",
+          "slug": "makindye-ssabagabo-municipality-ug102605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.212",
+      "lon": "32.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

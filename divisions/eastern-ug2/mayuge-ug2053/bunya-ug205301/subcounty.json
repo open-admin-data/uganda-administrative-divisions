@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG20530101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Baitambogwe",
+      "en": "Baitambogwe",
+      "slug": "baitambogwe"
+    },
+    "code": {
+      "id": "UG20530101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.539",
+      "lon": "33.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukabooli",
+      "en": "Bukabooli",
+      "slug": "bukabooli"
+    },
+    "code": {
+      "id": "UG20530102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.319",
+      "lon": "33.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukatube",
+      "en": "Bukatube",
+      "slug": "bukatube"
+    },
+    "code": {
+      "id": "UG20530103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.384",
+      "lon": "33.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busakira",
+      "en": "Busakira",
+      "slug": "busakira"
+    },
+    "code": {
+      "id": "UG20530104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.394",
+      "lon": "33.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwaaya",
+      "en": "Buwaaya",
+      "slug": "buwaaya"
+    },
+    "code": {
+      "id": "UG20530105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.506",
+      "lon": "33.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Imanyiro",
+      "en": "Imanyiro",
+      "slug": "imanyiro"
+    },
+    "code": {
+      "id": "UG20530106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.491",
+      "lon": "33.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Jaguzi",
+      "en": "Jaguzi",
+      "slug": "jaguzi"
+    },
+    "code": {
+      "id": "UG20530107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.386",
+      "lon": "33.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigandalo",
+      "en": "Kigandalo",
+      "slug": "kigandalo"
+    },
+    "code": {
+      "id": "UG20530108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.415",
+      "lon": "33.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kityerera",
+      "en": "Kityerera",
+      "slug": "kityerera"
+    },
+    "code": {
+      "id": "UG20530109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.33",
+      "lon": "33.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magamaga Town Council",
+      "en": "Magamaga Town Council",
+      "slug": "magamaga-town-council"
+    },
+    "code": {
+      "id": "UG20530110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.516",
+      "lon": "33.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Malongo",
+      "en": "Malongo",
+      "slug": "malongo"
+    },
+    "code": {
+      "id": "UG20530111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.232",
+      "lon": "33.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mayuge Town Council",
+      "en": "Mayuge Town Council",
+      "slug": "mayuge-town-council"
+    },
+    "code": {
+      "id": "UG20530112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.451",
+      "lon": "33.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpungwe",
+      "en": "Mpungwe",
+      "slug": "mpungwe"
+    },
+    "code": {
+      "id": "UG20530113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.466",
+      "lon": "33.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20530114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wairasa",
+      "en": "Wairasa",
+      "slug": "wairasa"
+    },
+    "code": {
+      "id": "UG20530114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205301",
+      "level": 3,
+      "name": {
+        "local": "Bunya",
+        "en": "Bunya",
+        "slug": "bunya-ug205301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2053",
+        "level": 2,
+        "name": {
+          "local": "Mayuge",
+          "en": "Mayuge",
+          "slug": "mayuge-ug2053"
+        }
+      },
+      {
+        "id": "UG205301",
+        "level": 3,
+        "name": {
+          "local": "Bunya",
+          "en": "Bunya",
+          "slug": "bunya-ug205301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.445",
+      "lon": "33.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

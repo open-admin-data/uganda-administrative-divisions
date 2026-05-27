@@ -1,0 +1,48 @@
+{
+  "id": "UG1021",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mukono",
+    "en": "Mukono",
+    "slug": "mukono-ug1021"
+  },
+  "code": {
+    "id": "UG1021",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 4,
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.351",
+    "lon": "32.775"
+  },
+  "metadata": {},
+  "source": {}
+}

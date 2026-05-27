@@ -1,0 +1,48 @@
+{
+  "id": "UG3091",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nebbi",
+    "en": "Nebbi",
+    "slug": "nebbi-ug3091"
+  },
+  "code": {
+    "id": "UG3091",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.433",
+    "lon": "31.163"
+  },
+  "metadata": {},
+  "source": {}
+}

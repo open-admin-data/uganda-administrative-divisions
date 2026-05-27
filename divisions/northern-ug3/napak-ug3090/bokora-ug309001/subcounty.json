@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30900101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Iriiri",
+      "en": "Iriiri",
+      "slug": "iriiri"
+    },
+    "code": {
+      "id": "UG30900101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.053",
+      "lon": "34.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lokopo",
+      "en": "Lokopo",
+      "slug": "lokopo"
+    },
+    "code": {
+      "id": "UG30900102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.475",
+      "lon": "34.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lopeei",
+      "en": "Lopeei",
+      "slug": "lopeei"
+    },
+    "code": {
+      "id": "UG30900103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.69",
+      "lon": "34.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lorengecora",
+      "en": "Lorengecora",
+      "slug": "lorengecora"
+    },
+    "code": {
+      "id": "UG30900104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.265",
+      "lon": "34.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lotome",
+      "en": "Lotome",
+      "slug": "lotome"
+    },
+    "code": {
+      "id": "UG30900105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.255",
+      "lon": "34.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Matany",
+      "en": "Matany",
+      "slug": "matany"
+    },
+    "code": {
+      "id": "UG30900106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.334",
+      "lon": "34.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Napak Town Council",
+      "en": "Napak Town Council",
+      "slug": "napak-town-council"
+    },
+    "code": {
+      "id": "UG30900107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.213",
+      "lon": "34.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30900108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngoleriet",
+      "en": "Ngoleriet",
+      "slug": "ngoleriet"
+    },
+    "code": {
+      "id": "UG30900108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309001",
+      "level": 3,
+      "name": {
+        "local": "Bokora",
+        "en": "Bokora",
+        "slug": "bokora-ug309001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      },
+      {
+        "id": "UG309001",
+        "level": 3,
+        "name": {
+          "local": "Bokora",
+          "en": "Bokora",
+          "slug": "bokora-ug309001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.494",
+      "lon": "34.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

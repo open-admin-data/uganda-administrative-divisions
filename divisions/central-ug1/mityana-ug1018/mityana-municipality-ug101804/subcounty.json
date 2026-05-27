@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG10180401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busimbi Division",
+      "en": "Busimbi Division",
+      "slug": "busimbi-division"
+    },
+    "code": {
+      "id": "UG10180401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101804",
+      "level": 3,
+      "name": {
+        "local": "Mityana Municipality",
+        "en": "Mityana Municipality",
+        "slug": "mityana-municipality-ug101804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101804",
+        "level": 3,
+        "name": {
+          "local": "Mityana Municipality",
+          "en": "Mityana Municipality",
+          "slug": "mityana-municipality-ug101804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.42",
+      "lon": "31.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10180402",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ttamu Division",
+      "en": "Ttamu Division",
+      "slug": "ttamu-division"
+    },
+    "code": {
+      "id": "UG10180402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101804",
+      "level": 3,
+      "name": {
+        "local": "Mityana Municipality",
+        "en": "Mityana Municipality",
+        "slug": "mityana-municipality-ug101804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1018",
+        "level": 2,
+        "name": {
+          "local": "Mityana",
+          "en": "Mityana",
+          "slug": "mityana-ug1018"
+        }
+      },
+      {
+        "id": "UG101804",
+        "level": 3,
+        "name": {
+          "local": "Mityana Municipality",
+          "en": "Mityana Municipality",
+          "slug": "mityana-municipality-ug101804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.378",
+      "lon": "32.097"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

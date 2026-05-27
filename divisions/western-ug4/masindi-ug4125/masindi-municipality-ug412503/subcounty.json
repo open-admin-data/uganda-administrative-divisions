@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG41250301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG41250301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412503",
+      "level": 3,
+      "name": {
+        "local": "Masindi Municipality",
+        "en": "Masindi Municipality",
+        "slug": "masindi-municipality-ug412503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412503",
+        "level": 3,
+        "name": {
+          "local": "Masindi Municipality",
+          "en": "Masindi Municipality",
+          "slug": "masindi-municipality-ug412503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.679",
+      "lon": "31.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41250302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karujubu Division",
+      "en": "Karujubu Division",
+      "slug": "karujubu-division"
+    },
+    "code": {
+      "id": "UG41250302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412503",
+      "level": 3,
+      "name": {
+        "local": "Masindi Municipality",
+        "en": "Masindi Municipality",
+        "slug": "masindi-municipality-ug412503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412503",
+        "level": 3,
+        "name": {
+          "local": "Masindi Municipality",
+          "en": "Masindi Municipality",
+          "slug": "masindi-municipality-ug412503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.711",
+      "lon": "31.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41250303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigulya Division",
+      "en": "Kigulya Division",
+      "slug": "kigulya-division"
+    },
+    "code": {
+      "id": "UG41250303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412503",
+      "level": 3,
+      "name": {
+        "local": "Masindi Municipality",
+        "en": "Masindi Municipality",
+        "slug": "masindi-municipality-ug412503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412503",
+        "level": 3,
+        "name": {
+          "local": "Masindi Municipality",
+          "en": "Masindi Municipality",
+          "slug": "masindi-municipality-ug412503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.694",
+      "lon": "31.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41250304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyangahya Division",
+      "en": "Nyangahya Division",
+      "slug": "nyangahya-division"
+    },
+    "code": {
+      "id": "UG41250304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412503",
+      "level": 3,
+      "name": {
+        "local": "Masindi Municipality",
+        "en": "Masindi Municipality",
+        "slug": "masindi-municipality-ug412503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412503",
+        "level": 3,
+        "name": {
+          "local": "Masindi Municipality",
+          "en": "Masindi Municipality",
+          "slug": "masindi-municipality-ug412503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.63",
+      "lon": "31.723"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

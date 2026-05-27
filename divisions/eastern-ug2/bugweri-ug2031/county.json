@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG203101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bugweri",
+      "en": "Bugweri",
+      "slug": "bugweri-ug203101"
+    },
+    "code": {
+      "id": "UG203101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2031",
+      "level": 2,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug2031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.622",
+      "lon": "33.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

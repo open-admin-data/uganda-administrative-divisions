@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20440301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG20440301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204403",
+      "level": 3,
+      "name": {
+        "local": "Kamuli Municipality",
+        "en": "Kamuli Municipality",
+        "slug": "kamuli-municipality-ug204403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204403",
+        "level": 3,
+        "name": {
+          "local": "Kamuli Municipality",
+          "en": "Kamuli Municipality",
+          "slug": "kamuli-municipality-ug204403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.931",
+      "lon": "33.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG20440302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204403",
+      "level": 3,
+      "name": {
+        "local": "Kamuli Municipality",
+        "en": "Kamuli Municipality",
+        "slug": "kamuli-municipality-ug204403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204403",
+        "level": 3,
+        "name": {
+          "local": "Kamuli Municipality",
+          "en": "Kamuli Municipality",
+          "slug": "kamuli-municipality-ug204403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.927",
+      "lon": "33.095"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

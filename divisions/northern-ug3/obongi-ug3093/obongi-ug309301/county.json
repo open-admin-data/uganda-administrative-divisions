@@ -1,0 +1,56 @@
+{
+  "id": "UG309301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Obongi",
+    "en": "Obongi",
+    "slug": "obongi-ug309301"
+  },
+  "code": {
+    "id": "UG309301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3093",
+    "level": 2,
+    "name": {
+      "local": "Obongi",
+      "en": "Obongi",
+      "slug": "obongi-ug3093"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3093",
+      "level": 2,
+      "name": {
+        "local": "Obongi",
+        "en": "Obongi",
+        "slug": "obongi-ug3093"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.364",
+    "lon": "31.537"
+  },
+  "metadata": {},
+  "source": {}
+}

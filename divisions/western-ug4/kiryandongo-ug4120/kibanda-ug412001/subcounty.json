@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41200101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bweyale Town Council",
+      "en": "Bweyale Town Council",
+      "slug": "bweyale-town-council"
+    },
+    "code": {
+      "id": "UG41200101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.942",
+      "lon": "32.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigumba",
+      "en": "Kigumba",
+      "slug": "kigumba"
+    },
+    "code": {
+      "id": "UG41200102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.843",
+      "lon": "31.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigumba Town Council",
+      "en": "Kigumba Town Council",
+      "slug": "kigumba-town-council"
+    },
+    "code": {
+      "id": "UG41200103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.808",
+      "lon": "32.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiryandongo",
+      "en": "Kiryandongo",
+      "slug": "kiryandongo"
+    },
+    "code": {
+      "id": "UG41200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.054",
+      "lon": "31.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiryandongo Town Council",
+      "en": "Kiryandongo Town Council",
+      "slug": "kiryandongo-town-council"
+    },
+    "code": {
+      "id": "UG41200105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.88",
+      "lon": "32.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masindi Port",
+      "en": "Masindi Port",
+      "slug": "masindi-port"
+    },
+    "code": {
+      "id": "UG41200106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.691",
+      "lon": "32.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41200107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mutunda",
+      "en": "Mutunda",
+      "slug": "mutunda"
+    },
+    "code": {
+      "id": "UG41200107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412001",
+      "level": 3,
+      "name": {
+        "local": "Kibanda",
+        "en": "Kibanda",
+        "slug": "kibanda-ug412001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      },
+      {
+        "id": "UG412001",
+        "level": 3,
+        "name": {
+          "local": "Kibanda",
+          "en": "Kibanda",
+          "slug": "kibanda-ug412001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.051",
+      "lon": "32.257"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "UG102601",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Busiro",
+      "en": "Busiro",
+      "slug": "busiro-ug102601"
+    },
+    "code": {
+      "id": "UG102601",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.213",
+      "lon": "32.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102602",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Entebbe Municipality",
+      "en": "Entebbe Municipality",
+      "slug": "entebbe-municipality-ug102602"
+    },
+    "code": {
+      "id": "UG102602",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.025",
+      "lon": "32.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102603",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kira Municipality",
+      "en": "Kira Municipality",
+      "slug": "kira-municipality-ug102603"
+    },
+    "code": {
+      "id": "UG102603",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.385",
+      "lon": "32.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102604",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kyadondo",
+      "en": "Kyadondo",
+      "slug": "kyadondo-ug102604"
+    },
+    "code": {
+      "id": "UG102604",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.455",
+      "lon": "32.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102605",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Makindye Ssabagabo Municipality",
+      "en": "Makindye Ssabagabo Municipality",
+      "slug": "makindye-ssabagabo-municipality-ug102605"
+    },
+    "code": {
+      "id": "UG102605",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.231",
+      "lon": "32.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102606",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nansana Municipality",
+      "en": "Nansana Municipality",
+      "slug": "nansana-municipality-ug102606"
+    },
+    "code": {
+      "id": "UG102606",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1026",
+      "level": 2,
+      "name": {
+        "local": "Wakiso",
+        "en": "Wakiso",
+        "slug": "wakiso-ug1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.465",
+      "lon": "32.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

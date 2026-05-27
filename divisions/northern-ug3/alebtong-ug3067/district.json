@@ -1,0 +1,48 @@
+{
+  "id": "UG3067",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alebtong",
+    "en": "Alebtong",
+    "slug": "alebtong-ug3067"
+  },
+  "code": {
+    "id": "UG3067",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.266",
+    "lon": "33.325"
+  },
+  "metadata": {},
+  "source": {}
+}

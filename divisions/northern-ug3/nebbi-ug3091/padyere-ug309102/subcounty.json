@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30910201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akworo",
+      "en": "Akworo",
+      "slug": "akworo"
+    },
+    "code": {
+      "id": "UG30910201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.265",
+      "lon": "31.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atego",
+      "en": "Atego",
+      "slug": "atego"
+    },
+    "code": {
+      "id": "UG30910202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.436",
+      "lon": "31.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Erussi",
+      "en": "Erussi",
+      "slug": "erussi"
+    },
+    "code": {
+      "id": "UG30910203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.339",
+      "lon": "31.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kucwiny",
+      "en": "Kucwiny",
+      "slug": "kucwiny"
+    },
+    "code": {
+      "id": "UG30910204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.562",
+      "lon": "31.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ndhew",
+      "en": "Ndhew",
+      "slug": "ndhew"
+    },
+    "code": {
+      "id": "UG30910205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.393",
+      "lon": "31.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nebbi",
+      "en": "Nebbi",
+      "slug": "nebbi"
+    },
+    "code": {
+      "id": "UG30910206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.536",
+      "lon": "31.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyaravur",
+      "en": "Nyaravur",
+      "slug": "nyaravur"
+    },
+    "code": {
+      "id": "UG30910207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.412",
+      "lon": "31.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30910208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Parombo",
+      "en": "Parombo",
+      "slug": "parombo"
+    },
+    "code": {
+      "id": "UG30910208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309102",
+      "level": 3,
+      "name": {
+        "local": "Padyere",
+        "en": "Padyere",
+        "slug": "padyere-ug309102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3091",
+        "level": 2,
+        "name": {
+          "local": "Nebbi",
+          "en": "Nebbi",
+          "slug": "nebbi-ug3091"
+        }
+      },
+      {
+        "id": "UG309102",
+        "level": 3,
+        "name": {
+          "local": "Padyere",
+          "en": "Padyere",
+          "slug": "padyere-ug309102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.336",
+      "lon": "31.186"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

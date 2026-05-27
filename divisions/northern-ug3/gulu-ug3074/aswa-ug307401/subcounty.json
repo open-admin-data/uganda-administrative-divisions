@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30740101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Awach",
+      "en": "Awach",
+      "slug": "awach"
+    },
+    "code": {
+      "id": "UG30740101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.004",
+      "lon": "32.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bungatira",
+      "en": "Bungatira",
+      "slug": "bungatira"
+    },
+    "code": {
+      "id": "UG30740102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.862",
+      "lon": "32.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paicho",
+      "en": "Paicho",
+      "slug": "paicho"
+    },
+    "code": {
+      "id": "UG30740103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.891",
+      "lon": "32.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Palaro",
+      "en": "Palaro",
+      "slug": "palaro"
+    },
+    "code": {
+      "id": "UG30740104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.151",
+      "lon": "32.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Patiko",
+      "en": "Patiko",
+      "slug": "patiko"
+    },
+    "code": {
+      "id": "UG30740105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.026",
+      "lon": "32.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Unyama",
+      "en": "Unyama",
+      "slug": "unyama"
+    },
+    "code": {
+      "id": "UG30740106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307401",
+      "level": 3,
+      "name": {
+        "local": "Aswa",
+        "en": "Aswa",
+        "slug": "aswa-ug307401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307401",
+        "level": 3,
+        "name": {
+          "local": "Aswa",
+          "en": "Aswa",
+          "slug": "aswa-ug307401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.844",
+      "lon": "32.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

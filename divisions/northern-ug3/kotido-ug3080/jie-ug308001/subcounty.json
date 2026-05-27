@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG30800101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kacheri",
+      "en": "Kacheri",
+      "slug": "kacheri"
+    },
+    "code": {
+      "id": "UG30800101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308001",
+      "level": 3,
+      "name": {
+        "local": "Jie",
+        "en": "Jie",
+        "slug": "jie-ug308001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308001",
+        "level": 3,
+        "name": {
+          "local": "Jie",
+          "en": "Jie",
+          "slug": "jie-ug308001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.207",
+      "lon": "33.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kotido",
+      "en": "Kotido",
+      "slug": "kotido"
+    },
+    "code": {
+      "id": "UG30800102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308001",
+      "level": 3,
+      "name": {
+        "local": "Jie",
+        "en": "Jie",
+        "slug": "jie-ug308001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308001",
+        "level": 3,
+        "name": {
+          "local": "Jie",
+          "en": "Jie",
+          "slug": "jie-ug308001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.906",
+      "lon": "33.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakapelimoru",
+      "en": "Nakapelimoru",
+      "slug": "nakapelimoru"
+    },
+    "code": {
+      "id": "UG30800103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308001",
+      "level": 3,
+      "name": {
+        "local": "Jie",
+        "en": "Jie",
+        "slug": "jie-ug308001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308001",
+        "level": 3,
+        "name": {
+          "local": "Jie",
+          "en": "Jie",
+          "slug": "jie-ug308001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.034",
+      "lon": "34.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Panyangara",
+      "en": "Panyangara",
+      "slug": "panyangara"
+    },
+    "code": {
+      "id": "UG30800104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308001",
+      "level": 3,
+      "name": {
+        "local": "Jie",
+        "en": "Jie",
+        "slug": "jie-ug308001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308001",
+        "level": 3,
+        "name": {
+          "local": "Jie",
+          "en": "Jie",
+          "slug": "jie-ug308001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.796",
+      "lon": "34.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rengen",
+      "en": "Rengen",
+      "slug": "rengen"
+    },
+    "code": {
+      "id": "UG30800105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308001",
+      "level": 3,
+      "name": {
+        "local": "Jie",
+        "en": "Jie",
+        "slug": "jie-ug308001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308001",
+        "level": 3,
+        "name": {
+          "local": "Jie",
+          "en": "Jie",
+          "slug": "jie-ug308001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.1",
+      "lon": "34.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "UG411801",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Buhaguzi",
+    "en": "Buhaguzi",
+    "slug": "buhaguzi-ug411801"
+  },
+  "code": {
+    "id": "UG411801",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4118",
+    "level": 2,
+    "name": {
+      "local": "Kikuube",
+      "en": "Kikuube",
+      "slug": "kikuube-ug4118"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4118",
+      "level": 2,
+      "name": {
+        "local": "Kikuube",
+        "en": "Kikuube",
+        "slug": "kikuube-ug4118"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.308",
+    "lon": "31.001"
+  },
+  "metadata": {},
+  "source": {}
+}

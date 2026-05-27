@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG20440101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Balawoli",
+      "en": "Balawoli",
+      "slug": "balawoli"
+    },
+    "code": {
+      "id": "UG20440101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.039",
+      "lon": "33.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulopa",
+      "en": "Bulopa",
+      "slug": "bulopa"
+    },
+    "code": {
+      "id": "UG20440102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.825",
+      "lon": "33.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butansi",
+      "en": "Butansi",
+      "slug": "butansi"
+    },
+    "code": {
+      "id": "UG20440103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.914",
+      "lon": "33.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagumba",
+      "en": "Kagumba",
+      "slug": "kagumba"
+    },
+    "code": {
+      "id": "UG20440104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.147",
+      "lon": "33.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitayunjwa",
+      "en": "Kitayunjwa",
+      "slug": "kitayunjwa"
+    },
+    "code": {
+      "id": "UG20440105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.891",
+      "lon": "33.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabwigulu",
+      "en": "Nabwigulu",
+      "slug": "nabwigulu"
+    },
+    "code": {
+      "id": "UG20440106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "33.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namasagali",
+      "en": "Namasagali",
+      "slug": "namasagali"
+    },
+    "code": {
+      "id": "UG20440107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.008",
+      "lon": "33.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20440108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namwendwa",
+      "en": "Namwendwa",
+      "slug": "namwendwa"
+    },
+    "code": {
+      "id": "UG20440108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204401",
+      "level": 3,
+      "name": {
+        "local": "Bugabula",
+        "en": "Bugabula",
+        "slug": "bugabula-ug204401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2044",
+        "level": 2,
+        "name": {
+          "local": "Kamuli",
+          "en": "Kamuli",
+          "slug": "kamuli-ug2044"
+        }
+      },
+      {
+        "id": "UG204401",
+        "level": 3,
+        "name": {
+          "local": "Bugabula",
+          "en": "Bugabula",
+          "slug": "bugabula-ug204401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.928",
+      "lon": "33.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

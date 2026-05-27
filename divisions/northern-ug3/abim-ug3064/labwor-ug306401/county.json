@@ -1,0 +1,56 @@
+{
+  "id": "UG306401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Labwor",
+    "en": "Labwor",
+    "slug": "labwor-ug306401"
+  },
+  "code": {
+    "id": "UG306401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3064",
+    "level": 2,
+    "name": {
+      "local": "Abim",
+      "en": "Abim",
+      "slug": "abim-ug3064"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3064",
+      "level": 2,
+      "name": {
+        "local": "Abim",
+        "en": "Abim",
+        "slug": "abim-ug3064"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.746",
+    "lon": "33.726"
+  },
+  "metadata": {},
+  "source": {}
+}

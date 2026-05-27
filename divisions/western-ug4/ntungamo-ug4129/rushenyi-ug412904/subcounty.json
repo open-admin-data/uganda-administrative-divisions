@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG41290401",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kayonza",
+      "en": "Kayonza",
+      "slug": "kayonza"
+    },
+    "code": {
+      "id": "UG41290401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412904",
+      "level": 3,
+      "name": {
+        "local": "Rushenyi",
+        "en": "Rushenyi",
+        "slug": "rushenyi-ug412904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412904",
+        "level": 3,
+        "name": {
+          "local": "Rushenyi",
+          "en": "Rushenyi",
+          "slug": "rushenyi-ug412904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.104",
+      "lon": "30.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290402",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "UG41290402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412904",
+      "level": 3,
+      "name": {
+        "local": "Rushenyi",
+        "en": "Rushenyi",
+        "slug": "rushenyi-ug412904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412904",
+        "level": 3,
+        "name": {
+          "local": "Rushenyi",
+          "en": "Rushenyi",
+          "slug": "rushenyi-ug412904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.095",
+      "lon": "30.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290403",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubaare",
+      "en": "Rubaare",
+      "slug": "rubaare"
+    },
+    "code": {
+      "id": "UG41290403",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412904",
+      "level": 3,
+      "name": {
+        "local": "Rushenyi",
+        "en": "Rushenyi",
+        "slug": "rushenyi-ug412904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412904",
+        "level": 3,
+        "name": {
+          "local": "Rushenyi",
+          "en": "Rushenyi",
+          "slug": "rushenyi-ug412904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.994",
+      "lon": "30.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290404",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubaare Town Council",
+      "en": "Rubaare Town Council",
+      "slug": "rubaare-town-council"
+    },
+    "code": {
+      "id": "UG41290404",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412904",
+      "level": 3,
+      "name": {
+        "local": "Rushenyi",
+        "en": "Rushenyi",
+        "slug": "rushenyi-ug412904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412904",
+        "level": 3,
+        "name": {
+          "local": "Rushenyi",
+          "en": "Rushenyi",
+          "slug": "rushenyi-ug412904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "30.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41290405",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugarama",
+      "en": "Rugarama",
+      "slug": "rugarama"
+    },
+    "code": {
+      "id": "UG41290405",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412904",
+      "level": 3,
+      "name": {
+        "local": "Rushenyi",
+        "en": "Rushenyi",
+        "slug": "rushenyi-ug412904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4129",
+        "level": 2,
+        "name": {
+          "local": "Ntungamo",
+          "en": "Ntungamo",
+          "slug": "ntungamo-ug4129"
+        }
+      },
+      {
+        "id": "UG412904",
+        "level": 3,
+        "name": {
+          "local": "Rushenyi",
+          "en": "Rushenyi",
+          "slug": "rushenyi-ug412904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.987",
+      "lon": "30.095"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG102301",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Buruli",
+      "en": "Buruli",
+      "slug": "buruli-ug102301"
+    },
+    "code": {
+      "id": "UG102301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1023",
+      "level": 2,
+      "name": {
+        "local": "Nakasongola",
+        "en": "Nakasongola",
+        "slug": "nakasongola-ug1023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.316",
+      "lon": "32.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

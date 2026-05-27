@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30720201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Adumi",
+      "en": "Adumi",
+      "slug": "adumi"
+    },
+    "code": {
+      "id": "UG30720201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.035",
+      "lon": "30.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aroi",
+      "en": "Aroi",
+      "slug": "aroi"
+    },
+    "code": {
+      "id": "UG30720202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.103",
+      "lon": "30.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ayivuni",
+      "en": "Ayivuni",
+      "slug": "ayivuni"
+    },
+    "code": {
+      "id": "UG30720203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.094",
+      "lon": "30.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dadamu",
+      "en": "Dadamu",
+      "slug": "dadamu"
+    },
+    "code": {
+      "id": "UG30720204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.039",
+      "lon": "30.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Oluko",
+      "en": "Oluko",
+      "slug": "oluko"
+    },
+    "code": {
+      "id": "UG30720205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.012",
+      "lon": "31.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pajulu",
+      "en": "Pajulu",
+      "slug": "pajulu"
+    },
+    "code": {
+      "id": "UG30720206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307202",
+      "level": 3,
+      "name": {
+        "local": "Ayivu",
+        "en": "Ayivu",
+        "slug": "ayivu-ug307202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307202",
+        "level": 3,
+        "name": {
+          "local": "Ayivu",
+          "en": "Ayivu",
+          "slug": "ayivu-ug307202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.008",
+      "lon": "30.876"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

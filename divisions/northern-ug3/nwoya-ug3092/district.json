@@ -1,0 +1,48 @@
+{
+  "id": "UG3092",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nwoya",
+    "en": "Nwoya",
+    "slug": "nwoya-ug3092"
+  },
+  "code": {
+    "id": "UG3092",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.526",
+    "lon": "31.872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG308701",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Moyo",
+      "en": "Moyo",
+      "slug": "moyo-ug308701"
+    },
+    "code": {
+      "id": "UG308701",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3087",
+      "level": 2,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug3087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.665",
+      "lon": "31.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

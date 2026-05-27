@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG41030101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukonzo",
+      "en": "Bukonzo",
+      "slug": "bukonzo"
+    },
+    "code": {
+      "id": "UG41030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.696",
+      "lon": "30.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Burondo",
+      "en": "Burondo",
+      "slug": "burondo"
+    },
+    "code": {
+      "id": "UG41030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.858",
+      "lon": "30.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butama-Mitunda Town Council",
+      "en": "Butama-Mitunda Town Council",
+      "slug": "butama-mitunda-town-council"
+    },
+    "code": {
+      "id": "UG41030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.581",
+      "lon": "30.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Harugale",
+      "en": "Harugale",
+      "slug": "harugale"
+    },
+    "code": {
+      "id": "UG41030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.635",
+      "lon": "30.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagugu",
+      "en": "Kagugu",
+      "slug": "kagugu"
+    },
+    "code": {
+      "id": "UG41030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.554",
+      "lon": "30.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasitu",
+      "en": "Kasitu",
+      "slug": "kasitu"
+    },
+    "code": {
+      "id": "UG41030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.807",
+      "lon": "30.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mabere",
+      "en": "Mabere",
+      "slug": "mabere"
+    },
+    "code": {
+      "id": "UG41030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.768",
+      "lon": "30.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nduguto",
+      "en": "Nduguto",
+      "slug": "nduguto"
+    },
+    "code": {
+      "id": "UG41030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.604",
+      "lon": "30.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngamba",
+      "en": "Ngamba",
+      "slug": "ngamba"
+    },
+    "code": {
+      "id": "UG41030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.74",
+      "lon": "30.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntandi Town Council",
+      "en": "Ntandi Town Council",
+      "slug": "ntandi-town-council"
+    },
+    "code": {
+      "id": "UG41030110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.806",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntotoro",
+      "en": "Ntotoro",
+      "slug": "ntotoro"
+    },
+    "code": {
+      "id": "UG41030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.827",
+      "lon": "30.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41030112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sindila",
+      "en": "Sindila",
+      "slug": "sindila"
+    },
+    "code": {
+      "id": "UG41030112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410301",
+      "level": 3,
+      "name": {
+        "local": "Bughendera",
+        "en": "Bughendera",
+        "slug": "bughendera-ug410301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4103",
+        "level": 2,
+        "name": {
+          "local": "Bundibugyo",
+          "en": "Bundibugyo",
+          "slug": "bundibugyo-ug4103"
+        }
+      },
+      {
+        "id": "UG410301",
+        "level": 3,
+        "name": {
+          "local": "Bughendera",
+          "en": "Bughendera",
+          "slug": "bughendera-ug410301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.509",
+      "lon": "29.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "UG411001",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Burahya",
+    "en": "Burahya",
+    "slug": "burahya-ug411001"
+  },
+  "code": {
+    "id": "UG411001",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4110",
+    "level": 2,
+    "name": {
+      "local": "Kabarole",
+      "en": "Kabarole",
+      "slug": "kabarole-ug4110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4110",
+      "level": 2,
+      "name": {
+        "local": "Kabarole",
+        "en": "Kabarole",
+        "slug": "kabarole-ug4110"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.621",
+    "lon": "30.188"
+  },
+  "metadata": {},
+  "source": {}
+}

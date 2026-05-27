@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG30780201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Divison",
+      "en": "Northern Divison",
+      "slug": "northern-divison"
+    },
+    "code": {
+      "id": "UG30780201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307802",
+      "level": 3,
+      "name": {
+        "local": "Koboko Municipality",
+        "en": "Koboko Municipality",
+        "slug": "koboko-municipality-ug307802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307802",
+        "level": 3,
+        "name": {
+          "local": "Koboko Municipality",
+          "en": "Koboko Municipality",
+          "slug": "koboko-municipality-ug307802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.421",
+      "lon": "30.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG30780202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307802",
+      "level": 3,
+      "name": {
+        "local": "Koboko Municipality",
+        "en": "Koboko Municipality",
+        "slug": "koboko-municipality-ug307802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307802",
+        "level": 3,
+        "name": {
+          "local": "Koboko Municipality",
+          "en": "Koboko Municipality",
+          "slug": "koboko-municipality-ug307802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.394",
+      "lon": "30.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG30780203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307802",
+      "level": 3,
+      "name": {
+        "local": "Koboko Municipality",
+        "en": "Koboko Municipality",
+        "slug": "koboko-municipality-ug307802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307802",
+        "level": 3,
+        "name": {
+          "local": "Koboko Municipality",
+          "en": "Koboko Municipality",
+          "slug": "koboko-municipality-ug307802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.401",
+      "lon": "30.946"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

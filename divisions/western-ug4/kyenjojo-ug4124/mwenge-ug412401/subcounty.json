@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "UG41240101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bufunjo",
+      "en": "Bufunjo",
+      "slug": "bufunjo"
+    },
+    "code": {
+      "id": "UG41240101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.759",
+      "lon": "30.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugaaki",
+      "en": "Bugaaki",
+      "slug": "bugaaki"
+    },
+    "code": {
+      "id": "UG41240102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.684",
+      "lon": "30.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butiiti",
+      "en": "Butiiti",
+      "slug": "butiiti"
+    },
+    "code": {
+      "id": "UG41240103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "30.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butunduzi",
+      "en": "Butunduzi",
+      "slug": "butunduzi"
+    },
+    "code": {
+      "id": "UG41240104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.44",
+      "lon": "30.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butunduzi Town Council",
+      "en": "Butunduzi Town Council",
+      "slug": "butunduzi-town-council"
+    },
+    "code": {
+      "id": "UG41240105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.525",
+      "lon": "30.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanyegaramire",
+      "en": "Kanyegaramire",
+      "slug": "kanyegaramire"
+    },
+    "code": {
+      "id": "UG41240106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.689",
+      "lon": "30.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katooke",
+      "en": "Katooke",
+      "slug": "katooke"
+    },
+    "code": {
+      "id": "UG41240107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.749",
+      "lon": "30.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katooke Town Council",
+      "en": "Katooke Town Council",
+      "slug": "katooke-town-council"
+    },
+    "code": {
+      "id": "UG41240108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.754",
+      "lon": "30.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigaraale",
+      "en": "Kigaraale",
+      "slug": "kigaraale"
+    },
+    "code": {
+      "id": "UG41240109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.429",
+      "lon": "30.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kihuura",
+      "en": "Kihuura",
+      "slug": "kihuura"
+    },
+    "code": {
+      "id": "UG41240110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.56",
+      "lon": "30.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisojo",
+      "en": "Kisojo",
+      "slug": "kisojo"
+    },
+    "code": {
+      "id": "UG41240111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.475",
+      "lon": "30.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamutunzi Town Council",
+      "en": "Kyamutunzi Town Council",
+      "slug": "kyamutunzi-town-council"
+    },
+    "code": {
+      "id": "UG41240112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.858",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyarusozi",
+      "en": "Kyarusozi",
+      "slug": "kyarusozi"
+    },
+    "code": {
+      "id": "UG41240113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.844",
+      "lon": "30.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyarusozi Town Council",
+      "en": "Kyarusozi Town Council",
+      "slug": "kyarusozi-town-council"
+    },
+    "code": {
+      "id": "UG41240114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.782",
+      "lon": "30.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyembogo",
+      "en": "Kyembogo",
+      "slug": "kyembogo"
+    },
+    "code": {
+      "id": "UG41240115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.842",
+      "lon": "30.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyenjojo Town Council",
+      "en": "Kyenjojo Town Council",
+      "slug": "kyenjojo-town-council"
+    },
+    "code": {
+      "id": "UG41240116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.631",
+      "lon": "30.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabiringo",
+      "en": "Nyabiringo",
+      "slug": "nyabiringo"
+    },
+    "code": {
+      "id": "UG41240117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.723",
+      "lon": "30.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabuharwa",
+      "en": "Nyabuharwa",
+      "slug": "nyabuharwa"
+    },
+    "code": {
+      "id": "UG41240118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.558",
+      "lon": "30.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyankwanzi",
+      "en": "Nyankwanzi",
+      "slug": "nyankwanzi"
+    },
+    "code": {
+      "id": "UG41240119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "30.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41240120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyantungo",
+      "en": "Nyantungo",
+      "slug": "nyantungo"
+    },
+    "code": {
+      "id": "UG41240120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412401",
+      "level": 3,
+      "name": {
+        "local": "Mwenge",
+        "en": "Mwenge",
+        "slug": "mwenge-ug412401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4124",
+        "level": 2,
+        "name": {
+          "local": "Kyenjojo",
+          "en": "Kyenjojo",
+          "slug": "kyenjojo-ug4124"
+        }
+      },
+      {
+        "id": "UG412401",
+        "level": 3,
+        "name": {
+          "local": "Mwenge",
+          "en": "Mwenge",
+          "slug": "mwenge-ug412401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.534",
+      "lon": "30.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG202701",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Amuria",
+      "en": "Amuria",
+      "slug": "amuria-ug202701"
+    },
+    "code": {
+      "id": "UG202701",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2027",
+      "level": 2,
+      "name": {
+        "local": "Amuria",
+        "en": "Amuria",
+        "slug": "amuria-ug2027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2027",
+        "level": 2,
+        "name": {
+          "local": "Amuria",
+          "en": "Amuria",
+          "slug": "amuria-ug2027"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.981",
+      "lon": "33.658"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG30820101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Agoro",
+      "en": "Agoro",
+      "slug": "agoro"
+    },
+    "code": {
+      "id": "UG30820101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.771",
+      "lon": "32.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lamwo Town Council",
+      "en": "Lamwo Town Council",
+      "slug": "lamwo-town-council"
+    },
+    "code": {
+      "id": "UG30820102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.555",
+      "lon": "32.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lokung",
+      "en": "Lokung",
+      "slug": "lokung"
+    },
+    "code": {
+      "id": "UG30820103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.67",
+      "lon": "32.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Madi Opei",
+      "en": "Madi Opei",
+      "slug": "madi-opei"
+    },
+    "code": {
+      "id": "UG30820104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.639",
+      "lon": "33.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Padibe East",
+      "en": "Padibe East",
+      "slug": "padibe-east"
+    },
+    "code": {
+      "id": "UG30820105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.516",
+      "lon": "32.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Padibe Town Council",
+      "en": "Padibe Town Council",
+      "slug": "padibe-town-council"
+    },
+    "code": {
+      "id": "UG30820106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.5",
+      "lon": "32.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Padibe West",
+      "en": "Padibe West",
+      "slug": "padibe-west"
+    },
+    "code": {
+      "id": "UG30820107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.482",
+      "lon": "32.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Palabek Gem",
+      "en": "Palabek Gem",
+      "slug": "palabek-gem"
+    },
+    "code": {
+      "id": "UG30820108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.299",
+      "lon": "32.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Palabek Kal",
+      "en": "Palabek Kal",
+      "slug": "palabek-kal"
+    },
+    "code": {
+      "id": "UG30820109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.557",
+      "lon": "32.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Palabek Ogili",
+      "en": "Palabek Ogili",
+      "slug": "palabek-ogili"
+    },
+    "code": {
+      "id": "UG30820110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.496",
+      "lon": "32.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30820111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Paloga",
+      "en": "Paloga",
+      "slug": "paloga"
+    },
+    "code": {
+      "id": "UG30820111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308201",
+      "level": 3,
+      "name": {
+        "local": "Lamwo",
+        "en": "Lamwo",
+        "slug": "lamwo-ug308201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3082",
+        "level": 2,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug3082"
+        }
+      },
+      {
+        "id": "UG308201",
+        "level": 3,
+        "name": {
+          "local": "Lamwo",
+          "en": "Lamwo",
+          "slug": "lamwo-ug308201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.573",
+      "lon": "32.934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

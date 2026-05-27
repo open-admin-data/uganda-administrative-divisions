@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG41180101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugambe",
+      "en": "Bugambe",
+      "slug": "bugambe"
+    },
+    "code": {
+      "id": "UG41180101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.438",
+      "lon": "31.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhimba",
+      "en": "Buhimba",
+      "slug": "buhimba"
+    },
+    "code": {
+      "id": "UG41180102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.293",
+      "lon": "31.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhimba Town Council",
+      "en": "Buhimba Town Council",
+      "slug": "buhimba-town-council"
+    },
+    "code": {
+      "id": "UG41180103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.341",
+      "lon": "31.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabwoya",
+      "en": "Kabwoya",
+      "slug": "kabwoya"
+    },
+    "code": {
+      "id": "UG41180104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.333",
+      "lon": "31.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikuube Town Council",
+      "en": "Kikuube Town Council",
+      "slug": "kikuube-town-council"
+    },
+    "code": {
+      "id": "UG41180105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.298",
+      "lon": "31.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiziranfumbi",
+      "en": "Kiziranfumbi",
+      "slug": "kiziranfumbi"
+    },
+    "code": {
+      "id": "UG41180106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.332",
+      "lon": "31.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41180107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyangwali",
+      "en": "Kyangwali",
+      "slug": "kyangwali"
+    },
+    "code": {
+      "id": "UG41180107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411801",
+      "level": 3,
+      "name": {
+        "local": "Buhaguzi",
+        "en": "Buhaguzi",
+        "slug": "buhaguzi-ug411801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4118",
+        "level": 2,
+        "name": {
+          "local": "Kikuube",
+          "en": "Kikuube",
+          "slug": "kikuube-ug4118"
+        }
+      },
+      {
+        "id": "UG411801",
+        "level": 3,
+        "name": {
+          "local": "Buhaguzi",
+          "en": "Buhaguzi",
+          "slug": "buhaguzi-ug411801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.229",
+      "lon": "30.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

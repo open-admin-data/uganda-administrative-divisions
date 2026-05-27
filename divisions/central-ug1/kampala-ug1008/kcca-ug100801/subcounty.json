@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10080101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG10080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100801",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1008",
+        "level": 2,
+        "name": {
+          "local": "Kampala",
+          "en": "Kampala",
+          "slug": "kampala-ug1008"
+        }
+      },
+      {
+        "id": "UG100801",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.325",
+      "lon": "32.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10080102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kawempe Division",
+      "en": "Kawempe Division",
+      "slug": "kawempe-division"
+    },
+    "code": {
+      "id": "UG10080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100801",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1008",
+        "level": 2,
+        "name": {
+          "local": "Kampala",
+          "en": "Kampala",
+          "slug": "kampala-ug1008"
+        }
+      },
+      {
+        "id": "UG100801",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.365",
+      "lon": "32.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10080103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Makindye Division",
+      "en": "Makindye Division",
+      "slug": "makindye-division"
+    },
+    "code": {
+      "id": "UG10080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100801",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1008",
+        "level": 2,
+        "name": {
+          "local": "Kampala",
+          "en": "Kampala",
+          "slug": "kampala-ug1008"
+        }
+      },
+      {
+        "id": "UG100801",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.265",
+      "lon": "32.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10080104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakawa Division",
+      "en": "Nakawa Division",
+      "slug": "nakawa-division"
+    },
+    "code": {
+      "id": "UG10080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100801",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1008",
+        "level": 2,
+        "name": {
+          "local": "Kampala",
+          "en": "Kampala",
+          "slug": "kampala-ug1008"
+        }
+      },
+      {
+        "id": "UG100801",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.335",
+      "lon": "32.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10080105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubaga Division",
+      "en": "Rubaga Division",
+      "slug": "rubaga-division"
+    },
+    "code": {
+      "id": "UG10080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100801",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1008",
+        "level": 2,
+        "name": {
+          "local": "Kampala",
+          "en": "Kampala",
+          "slug": "kampala-ug1008"
+        }
+      },
+      {
+        "id": "UG100801",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.31",
+      "lon": "32.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

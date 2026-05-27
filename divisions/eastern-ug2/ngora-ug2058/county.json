@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG205801",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ngora",
+      "en": "Ngora",
+      "slug": "ngora-ug205801"
+    },
+    "code": {
+      "id": "UG205801",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2058",
+      "level": 2,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug2058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.496",
+      "lon": "33.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "UG10210301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Goma Division",
+      "en": "Goma Division",
+      "slug": "goma-division"
+    },
+    "code": {
+      "id": "UG10210301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102103",
+      "level": 3,
+      "name": {
+        "local": "Mukono Municipality",
+        "en": "Mukono Municipality",
+        "slug": "mukono-municipality-ug102103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1021",
+        "level": 2,
+        "name": {
+          "local": "Mukono",
+          "en": "Mukono",
+          "slug": "mukono-ug1021"
+        }
+      },
+      {
+        "id": "UG102103",
+        "level": 3,
+        "name": {
+          "local": "Mukono Municipality",
+          "en": "Mukono Municipality",
+          "slug": "mukono-municipality-ug102103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.38",
+      "lon": "32.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

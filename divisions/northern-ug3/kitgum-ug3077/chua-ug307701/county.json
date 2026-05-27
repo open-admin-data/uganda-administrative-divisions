@@ -1,0 +1,56 @@
+{
+  "id": "UG307701",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Chua",
+    "en": "Chua",
+    "slug": "chua-ug307701"
+  },
+  "code": {
+    "id": "UG307701",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3077",
+    "level": 2,
+    "name": {
+      "local": "Kitgum",
+      "en": "Kitgum",
+      "slug": "kitgum-ug3077"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3077",
+      "level": 2,
+      "name": {
+        "local": "Kitgum",
+        "en": "Kitgum",
+        "slug": "kitgum-ug3077"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.417",
+    "lon": "33.318"
+  },
+  "metadata": {},
+  "source": {}
+}

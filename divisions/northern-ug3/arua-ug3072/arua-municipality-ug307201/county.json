@@ -1,0 +1,56 @@
+{
+  "id": "UG307201",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Arua Municipality",
+    "en": "Arua Municipality",
+    "slug": "arua-municipality-ug307201"
+  },
+  "code": {
+    "id": "UG307201",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3072",
+    "level": 2,
+    "name": {
+      "local": "Arua",
+      "en": "Arua",
+      "slug": "arua-ug3072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3072",
+      "level": 2,
+      "name": {
+        "local": "Arua",
+        "en": "Arua",
+        "slug": "arua-ug3072"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.019",
+    "lon": "30.917"
+  },
+  "metadata": {},
+  "source": {}
+}

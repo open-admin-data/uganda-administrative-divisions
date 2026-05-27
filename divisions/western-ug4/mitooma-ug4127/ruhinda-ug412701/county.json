@@ -1,0 +1,56 @@
+{
+  "id": "UG412701",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ruhinda",
+    "en": "Ruhinda",
+    "slug": "ruhinda-ug412701"
+  },
+  "code": {
+    "id": "UG412701",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4127",
+    "level": 2,
+    "name": {
+      "local": "Mitooma",
+      "en": "Mitooma",
+      "slug": "mitooma-ug4127"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4127",
+      "level": 2,
+      "name": {
+        "local": "Mitooma",
+        "en": "Mitooma",
+        "slug": "mitooma-ug4127"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.609",
+    "lon": "30.008"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10050101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabulasoke",
+      "en": "Kabulasoke",
+      "slug": "kabulasoke"
+    },
+    "code": {
+      "id": "UG10050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100501",
+      "level": 3,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug100501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1005",
+        "level": 2,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug1005"
+        }
+      },
+      {
+        "id": "UG100501",
+        "level": 3,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug100501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.155",
+      "lon": "31.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10050102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanoni Town Council",
+      "en": "Kanoni Town Council",
+      "slug": "kanoni-town-council"
+    },
+    "code": {
+      "id": "UG10050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100501",
+      "level": 3,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug100501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1005",
+        "level": 2,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug1005"
+        }
+      },
+      {
+        "id": "UG100501",
+        "level": 3,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug100501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.173",
+      "lon": "31.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10050103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyegonza",
+      "en": "Kyegonza",
+      "slug": "kyegonza"
+    },
+    "code": {
+      "id": "UG10050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100501",
+      "level": 3,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug100501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1005",
+        "level": 2,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug1005"
+        }
+      },
+      {
+        "id": "UG100501",
+        "level": 3,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug100501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.221",
+      "lon": "31.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10050104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Maddu",
+      "en": "Maddu",
+      "slug": "maddu"
+    },
+    "code": {
+      "id": "UG10050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100501",
+      "level": 3,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug100501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1005",
+        "level": 2,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug1005"
+        }
+      },
+      {
+        "id": "UG100501",
+        "level": 3,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug100501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.221",
+      "lon": "31.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10050105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpenja",
+      "en": "Mpenja",
+      "slug": "mpenja"
+    },
+    "code": {
+      "id": "UG10050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100501",
+      "level": 3,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug100501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1005",
+        "level": 2,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug1005"
+        }
+      },
+      {
+        "id": "UG100501",
+        "level": 3,
+        "name": {
+          "local": "Gomba",
+          "en": "Gomba",
+          "slug": "gomba-ug100501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.214",
+      "lon": "32.042"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

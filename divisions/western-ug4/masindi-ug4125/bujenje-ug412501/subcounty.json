@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41250101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budongo",
+      "en": "Budongo",
+      "slug": "budongo"
+    },
+    "code": {
+      "id": "UG41250101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412501",
+      "level": 3,
+      "name": {
+        "local": "Bujenje",
+        "en": "Bujenje",
+        "slug": "bujenje-ug412501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412501",
+        "level": 3,
+        "name": {
+          "local": "Bujenje",
+          "en": "Bujenje",
+          "slug": "bujenje-ug412501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.618",
+      "lon": "31.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41250102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwijanga",
+      "en": "Bwijanga",
+      "slug": "bwijanga"
+    },
+    "code": {
+      "id": "UG41250102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412501",
+      "level": 3,
+      "name": {
+        "local": "Bujenje",
+        "en": "Bujenje",
+        "slug": "bujenje-ug412501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412501",
+        "level": 3,
+        "name": {
+          "local": "Bujenje",
+          "en": "Bujenje",
+          "slug": "bujenje-ug412501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.493",
+      "lon": "31.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41250103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pakanyi",
+      "en": "Pakanyi",
+      "slug": "pakanyi"
+    },
+    "code": {
+      "id": "UG41250103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412501",
+      "level": 3,
+      "name": {
+        "local": "Bujenje",
+        "en": "Bujenje",
+        "slug": "bujenje-ug412501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4125",
+        "level": 2,
+        "name": {
+          "local": "Masindi",
+          "en": "Masindi",
+          "slug": "masindi-ug4125"
+        }
+      },
+      {
+        "id": "UG412501",
+        "level": 3,
+        "name": {
+          "local": "Bujenje",
+          "en": "Bujenje",
+          "slug": "bujenje-ug412501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.014",
+      "lon": "31.647"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

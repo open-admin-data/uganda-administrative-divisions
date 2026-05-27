@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10200201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bagezza",
+      "en": "Bagezza",
+      "slug": "bagezza"
+    },
+    "code": {
+      "id": "UG10200201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.454",
+      "lon": "31.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasambya",
+      "en": "Kasambya",
+      "slug": "kasambya"
+    },
+    "code": {
+      "id": "UG10200202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.32",
+      "lon": "31.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasambya Town Council",
+      "en": "Kasambya Town Council",
+      "slug": "kasambya-town-council"
+    },
+    "code": {
+      "id": "UG10200203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.372",
+      "lon": "31.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibalinga",
+      "en": "Kibalinga",
+      "slug": "kibalinga"
+    },
+    "code": {
+      "id": "UG10200204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.518",
+      "lon": "31.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigando",
+      "en": "Kigando",
+      "slug": "kigando"
+    },
+    "code": {
+      "id": "UG10200205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.303",
+      "lon": "31.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabingoola",
+      "en": "Nabingoola",
+      "slug": "nabingoola"
+    },
+    "code": {
+      "id": "UG10200206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102002",
+      "level": 3,
+      "name": {
+        "local": "Kasambya",
+        "en": "Kasambya",
+        "slug": "kasambya-ug102002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102002",
+        "level": 3,
+        "name": {
+          "local": "Kasambya",
+          "en": "Kasambya",
+          "slug": "kasambya-ug102002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.428",
+      "lon": "31.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

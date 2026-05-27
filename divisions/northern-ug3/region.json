@@ -1,0 +1,31 @@
+{
+  "id": "UG3",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Northern",
+    "en": "Northern",
+    "slug": "northern-ug3"
+  },
+  "code": {
+    "id": "UG3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 37,
+    "subcounty": 339,
+    "county": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.798",
+    "lon": "32.822"
+  },
+  "metadata": {},
+  "source": {}
+}

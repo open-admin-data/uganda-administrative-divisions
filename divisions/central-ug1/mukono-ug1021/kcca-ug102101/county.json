@@ -1,0 +1,56 @@
+{
+  "id": "UG102101",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "KCCA",
+    "en": "KCCA",
+    "slug": "kcca-ug102101"
+  },
+  "code": {
+    "id": "UG102101",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1021",
+    "level": 2,
+    "name": {
+      "local": "Mukono",
+      "en": "Mukono",
+      "slug": "mukono-ug1021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1021",
+      "level": 2,
+      "name": {
+        "local": "Mukono",
+        "en": "Mukono",
+        "slug": "mukono-ug1021"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.344",
+    "lon": "32.758"
+  },
+  "metadata": {},
+  "source": {}
+}

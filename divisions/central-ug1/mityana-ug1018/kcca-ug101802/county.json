@@ -1,0 +1,56 @@
+{
+  "id": "UG101802",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "KCCA",
+    "en": "KCCA",
+    "slug": "kcca-ug101802"
+  },
+  "code": {
+    "id": "UG101802",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1018",
+    "level": 2,
+    "name": {
+      "local": "Mityana",
+      "en": "Mityana",
+      "slug": "mityana-ug1018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1018",
+      "level": 2,
+      "name": {
+        "local": "Mityana",
+        "en": "Mityana",
+        "slug": "mityana-ug1018"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.376",
+    "lon": "31.991"
+  },
+  "metadata": {},
+  "source": {}
+}

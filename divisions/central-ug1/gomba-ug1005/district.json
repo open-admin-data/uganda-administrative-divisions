@@ -1,0 +1,48 @@
+{
+  "id": "UG1005",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gomba",
+    "en": "Gomba",
+    "slug": "gomba-ug1005"
+  },
+  "code": {
+    "id": "UG1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.203",
+    "lon": "31.737"
+  },
+  "metadata": {},
+  "source": {}
+}

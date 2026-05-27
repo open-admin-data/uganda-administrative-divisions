@@ -1,0 +1,48 @@
+{
+  "id": "UG3093",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Obongi",
+    "en": "Obongi",
+    "slug": "obongi-ug3093"
+  },
+  "code": {
+    "id": "UG3093",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.364",
+    "lon": "31.537"
+  },
+  "metadata": {},
+  "source": {}
+}

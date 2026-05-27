@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UG20480101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulangira",
+      "en": "Bulangira",
+      "slug": "bulangira"
+    },
+    "code": {
+      "id": "UG20480101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.133",
+      "lon": "33.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buseta",
+      "en": "Buseta",
+      "slug": "buseta"
+    },
+    "code": {
+      "id": "UG20480102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.087",
+      "lon": "33.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Goli Goli",
+      "en": "Goli Goli",
+      "slug": "goli-goli"
+    },
+    "code": {
+      "id": "UG20480103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.142",
+      "lon": "33.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabweri",
+      "en": "Kabweri",
+      "slug": "kabweri"
+    },
+    "code": {
+      "id": "UG20480104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.041",
+      "lon": "33.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kadama",
+      "en": "Kadama",
+      "slug": "kadama"
+    },
+    "code": {
+      "id": "UG20480105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.049",
+      "lon": "33.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagumu",
+      "en": "Kagumu",
+      "slug": "kagumu"
+    },
+    "code": {
+      "id": "UG20480106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.102",
+      "lon": "33.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakutu",
+      "en": "Kakutu",
+      "slug": "kakutu"
+    },
+    "code": {
+      "id": "UG20480107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.093",
+      "lon": "33.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasasira",
+      "en": "Kasasira",
+      "slug": "kasasira"
+    },
+    "code": {
+      "id": "UG20480108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.08",
+      "lon": "33.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibuku",
+      "en": "Kibuku",
+      "slug": "kibuku"
+    },
+    "code": {
+      "id": "UG20480109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.063",
+      "lon": "33.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibuku Town Council",
+      "en": "Kibuku Town Council",
+      "slug": "kibuku-town-council"
+    },
+    "code": {
+      "id": "UG20480110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.047",
+      "lon": "33.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirika",
+      "en": "Kirika",
+      "slug": "kirika"
+    },
+    "code": {
+      "id": "UG20480111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.981",
+      "lon": "33.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kituti",
+      "en": "Kituti",
+      "slug": "kituti"
+    },
+    "code": {
+      "id": "UG20480112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.064",
+      "lon": "33.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwamata",
+      "en": "Lwamata",
+      "slug": "lwamata"
+    },
+    "code": {
+      "id": "UG20480113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "33.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabiswa",
+      "en": "Nabiswa",
+      "slug": "nabiswa"
+    },
+    "code": {
+      "id": "UG20480114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.022",
+      "lon": "33.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nandere",
+      "en": "Nandere",
+      "slug": "nandere"
+    },
+    "code": {
+      "id": "UG20480115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.985",
+      "lon": "33.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nankondo",
+      "en": "Nankondo",
+      "slug": "nankondo"
+    },
+    "code": {
+      "id": "UG20480116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.09",
+      "lon": "33.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20480117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tirinyi",
+      "en": "Tirinyi",
+      "slug": "tirinyi"
+    },
+    "code": {
+      "id": "UG20480117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204801",
+      "level": 3,
+      "name": {
+        "local": "Kibuku",
+        "en": "Kibuku",
+        "slug": "kibuku-ug204801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2048",
+        "level": 2,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug2048"
+        }
+      },
+      {
+        "id": "UG204801",
+        "level": 3,
+        "name": {
+          "local": "Kibuku",
+          "en": "Kibuku",
+          "slug": "kibuku-ug204801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.996",
+      "lon": "33.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

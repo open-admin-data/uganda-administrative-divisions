@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30740201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bar Dege Division",
+      "en": "Bar Dege Division",
+      "slug": "bar-dege-division"
+    },
+    "code": {
+      "id": "UG30740201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307402",
+      "level": 3,
+      "name": {
+        "local": "Gulu Municipality",
+        "en": "Gulu Municipality",
+        "slug": "gulu-municipality-ug307402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307402",
+        "level": 3,
+        "name": {
+          "local": "Gulu Municipality",
+          "en": "Gulu Municipality",
+          "slug": "gulu-municipality-ug307402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.793",
+      "lon": "32.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Laroo Division",
+      "en": "Laroo Division",
+      "slug": "laroo-division"
+    },
+    "code": {
+      "id": "UG30740202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307402",
+      "level": 3,
+      "name": {
+        "local": "Gulu Municipality",
+        "en": "Gulu Municipality",
+        "slug": "gulu-municipality-ug307402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307402",
+        "level": 3,
+        "name": {
+          "local": "Gulu Municipality",
+          "en": "Gulu Municipality",
+          "slug": "gulu-municipality-ug307402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.788",
+      "lon": "32.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Layibi Division",
+      "en": "Layibi Division",
+      "slug": "layibi-division"
+    },
+    "code": {
+      "id": "UG30740203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307402",
+      "level": 3,
+      "name": {
+        "local": "Gulu Municipality",
+        "en": "Gulu Municipality",
+        "slug": "gulu-municipality-ug307402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307402",
+        "level": 3,
+        "name": {
+          "local": "Gulu Municipality",
+          "en": "Gulu Municipality",
+          "slug": "gulu-municipality-ug307402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.754",
+      "lon": "32.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30740204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pece Division",
+      "en": "Pece Division",
+      "slug": "pece-division"
+    },
+    "code": {
+      "id": "UG30740204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307402",
+      "level": 3,
+      "name": {
+        "local": "Gulu Municipality",
+        "en": "Gulu Municipality",
+        "slug": "gulu-municipality-ug307402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3074",
+        "level": 2,
+        "name": {
+          "local": "Gulu",
+          "en": "Gulu",
+          "slug": "gulu-ug3074"
+        }
+      },
+      {
+        "id": "UG307402",
+        "level": 3,
+        "name": {
+          "local": "Gulu Municipality",
+          "en": "Gulu Municipality",
+          "slug": "gulu-municipality-ug307402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.757",
+      "lon": "32.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

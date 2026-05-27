@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG101401",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bamunanika",
+      "en": "Bamunanika",
+      "slug": "bamunanika-ug101401"
+    },
+    "code": {
+      "id": "UG101401",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1014",
+      "level": 2,
+      "name": {
+        "local": "Luwero",
+        "en": "Luwero",
+        "slug": "luwero-ug1014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "32.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG101402",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Katikamu",
+      "en": "Katikamu",
+      "slug": "katikamu-ug101402"
+    },
+    "code": {
+      "id": "UG101402",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1014",
+      "level": 2,
+      "name": {
+        "local": "Luwero",
+        "en": "Luwero",
+        "slug": "luwero-ug1014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.842",
+      "lon": "32.522"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

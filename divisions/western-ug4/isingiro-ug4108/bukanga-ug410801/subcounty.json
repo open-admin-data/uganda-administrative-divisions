@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG41080101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Endiinzi",
+      "en": "Endiinzi",
+      "slug": "endiinzi"
+    },
+    "code": {
+      "id": "UG41080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.887",
+      "lon": "31.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Endiinzi Town Council",
+      "en": "Endiinzi Town Council",
+      "slug": "endiinzi-town-council"
+    },
+    "code": {
+      "id": "UG41080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.88",
+      "lon": "31.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakamba",
+      "en": "Kakamba",
+      "slug": "kakamba"
+    },
+    "code": {
+      "id": "UG41080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.964",
+      "lon": "30.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kashumba",
+      "en": "Kashumba",
+      "slug": "kashumba"
+    },
+    "code": {
+      "id": "UG41080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "30.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mbaare",
+      "en": "Mbaare",
+      "slug": "mbaare"
+    },
+    "code": {
+      "id": "UG41080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.898",
+      "lon": "31.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngarama",
+      "en": "Ngarama",
+      "slug": "ngarama"
+    },
+    "code": {
+      "id": "UG41080106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.898",
+      "lon": "30.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugaaga",
+      "en": "Rugaaga",
+      "slug": "rugaaga"
+    },
+    "code": {
+      "id": "UG41080107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.789",
+      "lon": "31.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41080108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rushasha",
+      "en": "Rushasha",
+      "slug": "rushasha"
+    },
+    "code": {
+      "id": "UG41080108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410801",
+      "level": 3,
+      "name": {
+        "local": "Bukanga",
+        "en": "Bukanga",
+        "slug": "bukanga-ug410801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4108",
+        "level": 2,
+        "name": {
+          "local": "Isingiro",
+          "en": "Isingiro",
+          "slug": "isingiro-ug4108"
+        }
+      },
+      {
+        "id": "UG410801",
+        "level": 3,
+        "name": {
+          "local": "Bukanga",
+          "en": "Bukanga",
+          "slug": "bukanga-ug410801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.732",
+      "lon": "31.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

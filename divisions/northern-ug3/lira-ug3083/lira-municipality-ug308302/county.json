@@ -1,0 +1,56 @@
+{
+  "id": "UG308302",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lira Municipality",
+    "en": "Lira Municipality",
+    "slug": "lira-municipality-ug308302"
+  },
+  "code": {
+    "id": "UG308302",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3083",
+    "level": 2,
+    "name": {
+      "local": "Lira",
+      "en": "Lira",
+      "slug": "lira-ug3083"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3083",
+      "level": 2,
+      "name": {
+        "local": "Lira",
+        "en": "Lira",
+        "slug": "lira-ug3083"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.249",
+    "lon": "32.897"
+  },
+  "metadata": {},
+  "source": {}
+}

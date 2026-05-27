@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG10200301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG10200301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102003",
+      "level": 3,
+      "name": {
+        "local": "Mubende Municipality",
+        "en": "Mubende Municipality",
+        "slug": "mubende-municipality-ug102003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102003",
+        "level": 3,
+        "name": {
+          "local": "Mubende Municipality",
+          "en": "Mubende Municipality",
+          "slug": "mubende-municipality-ug102003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.624",
+      "lon": "31.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG10200302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102003",
+      "level": 3,
+      "name": {
+        "local": "Mubende Municipality",
+        "en": "Mubende Municipality",
+        "slug": "mubende-municipality-ug102003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102003",
+        "level": 3,
+        "name": {
+          "local": "Mubende Municipality",
+          "en": "Mubende Municipality",
+          "slug": "mubende-municipality-ug102003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.553",
+      "lon": "31.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10200303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG10200303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102003",
+      "level": 3,
+      "name": {
+        "local": "Mubende Municipality",
+        "en": "Mubende Municipality",
+        "slug": "mubende-municipality-ug102003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      },
+      {
+        "id": "UG102003",
+        "level": 3,
+        "name": {
+          "local": "Mubende Municipality",
+          "en": "Mubende Municipality",
+          "slug": "mubende-municipality-ug102003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.554",
+      "lon": "31.356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

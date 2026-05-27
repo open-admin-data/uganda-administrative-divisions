@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20620101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Arapai",
+      "en": "Arapai",
+      "slug": "arapai"
+    },
+    "code": {
+      "id": "UG20620101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.841",
+      "lon": "33.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Asuret",
+      "en": "Asuret",
+      "slug": "asuret"
+    },
+    "code": {
+      "id": "UG20620102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.619",
+      "lon": "33.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gweri",
+      "en": "Gweri",
+      "slug": "gweri"
+    },
+    "code": {
+      "id": "UG20620103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.71",
+      "lon": "33.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamuda",
+      "en": "Kamuda",
+      "slug": "kamuda"
+    },
+    "code": {
+      "id": "UG20620104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.721",
+      "lon": "33.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katine",
+      "en": "Katine",
+      "slug": "katine"
+    },
+    "code": {
+      "id": "UG20620105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.849",
+      "lon": "33.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Soroti",
+      "en": "Soroti",
+      "slug": "soroti"
+    },
+    "code": {
+      "id": "UG20620106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.697",
+      "lon": "33.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20620107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tubur",
+      "en": "Tubur",
+      "slug": "tubur"
+    },
+    "code": {
+      "id": "UG20620107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206201",
+      "level": 3,
+      "name": {
+        "local": "Soroti",
+        "en": "Soroti",
+        "slug": "soroti-ug206201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2062",
+        "level": 2,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug2062"
+        }
+      },
+      {
+        "id": "UG206201",
+        "level": 3,
+        "name": {
+          "local": "Soroti",
+          "en": "Soroti",
+          "slug": "soroti-ug206201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.956",
+      "lon": "33.513"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG206301,Tororo,Tororo,tororo-ug206301,UG206301,7,0.742,34.248
+UG206302,Tororo Municipality,Tororo Municipality,tororo-municipality-ug206302,UG206302,2,0.682,34.18
+UG206303,West Budama (Kisolo),West Budama (Kisolo),west-budama-kisolo-ug206303,UG206303,12,0.73,34.037

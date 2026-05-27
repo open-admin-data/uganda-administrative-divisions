@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "UG1001",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buikwe",
+      "en": "Buikwe",
+      "slug": "buikwe-ug1001"
+    },
+    "code": {
+      "id": "UG1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 4,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.302",
+      "lon": "33.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1002",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukomansimbi",
+      "en": "Bukomansimbi",
+      "slug": "bukomansimbi-ug1002"
+    },
+    "code": {
+      "id": "UG1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.128",
+      "lon": "31.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1003",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Butambala",
+      "en": "Butambala",
+      "slug": "butambala-ug1003"
+    },
+    "code": {
+      "id": "UG1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.162",
+      "lon": "32.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1004",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buvuma",
+      "en": "Buvuma",
+      "slug": "buvuma-ug1004"
+    },
+    "code": {
+      "id": "UG1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.347",
+      "lon": "33.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1005",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomba",
+      "en": "Gomba",
+      "slug": "gomba-ug1005"
+    },
+    "code": {
+      "id": "UG1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.203",
+      "lon": "31.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1006",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalangala",
+      "en": "Kalangala",
+      "slug": "kalangala-ug1006"
+    },
+    "code": {
+      "id": "UG1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.572",
+      "lon": "32.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1007",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalungu",
+      "en": "Kalungu",
+      "slug": "kalungu-ug1007"
+    },
+    "code": {
+      "id": "UG1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "31.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1008",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampala",
+      "en": "Kampala",
+      "slug": "kampala-ug1008"
+    },
+    "code": {
+      "id": "UG1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.31",
+      "lon": "32.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1009",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kassanda",
+      "en": "Kassanda",
+      "slug": "kassanda-ug1009"
+    },
+    "code": {
+      "id": "UG1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.531",
+      "lon": "31.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1010",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayunga",
+      "en": "Kayunga",
+      "slug": "kayunga-ug1010"
+    },
+    "code": {
+      "id": "UG1010",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.99",
+      "lon": "32.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1011",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiboga",
+      "en": "Kiboga",
+      "slug": "kiboga-ug1011"
+    },
+    "code": {
+      "id": "UG1011",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.855",
+      "lon": "31.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1012",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyankwanzi",
+      "en": "Kyankwanzi",
+      "slug": "kyankwanzi-ug1012"
+    },
+    "code": {
+      "id": "UG1012",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.091",
+      "lon": "31.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1013",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyotera",
+      "en": "Kyotera",
+      "slug": "kyotera-ug1013"
+    },
+    "code": {
+      "id": "UG1013",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "31.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1014",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luwero",
+      "en": "Luwero",
+      "slug": "luwero-ug1014"
+    },
+    "code": {
+      "id": "UG1014",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.846",
+      "lon": "32.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1015",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lwengo",
+      "en": "Lwengo",
+      "slug": "lwengo-ug1015"
+    },
+    "code": {
+      "id": "UG1015",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.447",
+      "lon": "31.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1016",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lyantonde",
+      "en": "Lyantonde",
+      "slug": "lyantonde-ug1016"
+    },
+    "code": {
+      "id": "UG1016",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.262",
+      "lon": "31.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1017",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masaka",
+      "en": "Masaka",
+      "slug": "masaka-ug1017"
+    },
+    "code": {
+      "id": "UG1017",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.486",
+      "lon": "31.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1018",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mityana",
+      "en": "Mityana",
+      "slug": "mityana-ug1018"
+    },
+    "code": {
+      "id": "UG1018",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 4,
+      "subcounty": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.453",
+      "lon": "32.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1019",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mpigi",
+      "en": "Mpigi",
+      "slug": "mpigi-ug1019"
+    },
+    "code": {
+      "id": "UG1019",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.126",
+      "lon": "32.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1020",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mubende",
+      "en": "Mubende",
+      "slug": "mubende-ug1020"
+    },
+    "code": {
+      "id": "UG1020",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 3,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.514",
+      "lon": "31.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1021",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mukono",
+      "en": "Mukono",
+      "slug": "mukono-ug1021"
+    },
+    "code": {
+      "id": "UG1021",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 4,
+      "subcounty": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.351",
+      "lon": "32.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1022",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nakaseke",
+      "en": "Nakaseke",
+      "slug": "nakaseke-ug1022"
+    },
+    "code": {
+      "id": "UG1022",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "32.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1023",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nakasongola",
+      "en": "Nakasongola",
+      "slug": "nakasongola-ug1023"
+    },
+    "code": {
+      "id": "UG1023",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.316",
+      "lon": "32.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1024",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rakai",
+      "en": "Rakai",
+      "slug": "rakai-ug1024"
+    },
+    "code": {
+      "id": "UG1024",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.727",
+      "lon": "31.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1025",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ssembabule",
+      "en": "Ssembabule",
+      "slug": "ssembabule-ug1025"
+    },
+    "code": {
+      "id": "UG1025",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.055",
+      "lon": "31.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG1026",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wakiso",
+      "en": "Wakiso",
+      "slug": "wakiso-ug1026"
+    },
+    "code": {
+      "id": "UG1026",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 6,
+      "subcounty": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.216",
+      "lon": "32.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

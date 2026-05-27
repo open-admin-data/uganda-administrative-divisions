@@ -1,0 +1,56 @@
+{
+  "id": "UG308602",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Moroto Municipality",
+    "en": "Moroto Municipality",
+    "slug": "moroto-municipality-ug308602"
+  },
+  "code": {
+    "id": "UG308602",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3086",
+    "level": 2,
+    "name": {
+      "local": "Moroto",
+      "en": "Moroto",
+      "slug": "moroto-ug3086"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3086",
+      "level": 2,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug3086"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.53",
+    "lon": "34.66"
+  },
+  "metadata": {},
+  "source": {}
+}

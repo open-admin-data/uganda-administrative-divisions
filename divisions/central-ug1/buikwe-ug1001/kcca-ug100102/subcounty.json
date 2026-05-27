@@ -1,0 +1,65 @@
+[
+  {
+    "id": "UG10010201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG10010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100102",
+      "level": 3,
+      "name": {
+        "local": "KCCA",
+        "en": "KCCA",
+        "slug": "kcca-ug100102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100102",
+        "level": 3,
+        "name": {
+          "local": "KCCA",
+          "en": "KCCA",
+          "slug": "kcca-ug100102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "32.933"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

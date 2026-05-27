@@ -1,0 +1,56 @@
+{
+  "id": "UG410801",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bukanga",
+    "en": "Bukanga",
+    "slug": "bukanga-ug410801"
+  },
+  "code": {
+    "id": "UG410801",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4108",
+    "level": 2,
+    "name": {
+      "local": "Isingiro",
+      "en": "Isingiro",
+      "slug": "isingiro-ug4108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4108",
+      "level": 2,
+      "name": {
+        "local": "Isingiro",
+        "en": "Isingiro",
+        "slug": "isingiro-ug4108"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.836",
+    "lon": "31.05"
+  },
+  "metadata": {},
+  "source": {}
+}

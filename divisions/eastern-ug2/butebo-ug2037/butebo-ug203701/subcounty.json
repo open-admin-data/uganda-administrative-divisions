@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20370101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butebo",
+      "en": "Butebo",
+      "slug": "butebo"
+    },
+    "code": {
+      "id": "UG20370101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.226",
+      "lon": "33.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20370102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butebo Town Council",
+      "en": "Butebo Town Council",
+      "slug": "butebo-town-council"
+    },
+    "code": {
+      "id": "UG20370102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.202",
+      "lon": "33.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20370103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabwangasi",
+      "en": "Kabwangasi",
+      "slug": "kabwangasi"
+    },
+    "code": {
+      "id": "UG20370103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.134",
+      "lon": "34.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20370104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakoro",
+      "en": "Kakoro",
+      "slug": "kakoro"
+    },
+    "code": {
+      "id": "UG20370104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.178",
+      "lon": "34.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20370105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanginima",
+      "en": "Kanginima",
+      "slug": "kanginima"
+    },
+    "code": {
+      "id": "UG20370105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.191",
+      "lon": "33.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20370106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Petete",
+      "en": "Petete",
+      "slug": "petete"
+    },
+    "code": {
+      "id": "UG20370106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203701",
+      "level": 3,
+      "name": {
+        "local": "Butebo",
+        "en": "Butebo",
+        "slug": "butebo-ug203701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2037",
+        "level": 2,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug2037"
+        }
+      },
+      {
+        "id": "UG203701",
+        "level": 3,
+        "name": {
+          "local": "Butebo",
+          "en": "Butebo",
+          "slug": "butebo-ug203701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.174",
+      "lon": "33.911"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "UG102001",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Buwekula",
+      "en": "Buwekula",
+      "slug": "buwekula-ug102001"
+    },
+    "code": {
+      "id": "UG102001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1020",
+      "level": 2,
+      "name": {
+        "local": "Mubende",
+        "en": "Mubende",
+        "slug": "mubende-ug1020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.582",
+      "lon": "31.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102002",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kasambya",
+      "en": "Kasambya",
+      "slug": "kasambya-ug102002"
+    },
+    "code": {
+      "id": "UG102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1020",
+      "level": 2,
+      "name": {
+        "local": "Mubende",
+        "en": "Mubende",
+        "slug": "mubende-ug1020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "31.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG102003",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mubende Municipality",
+      "en": "Mubende Municipality",
+      "slug": "mubende-municipality-ug102003"
+    },
+    "code": {
+      "id": "UG102003",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1020",
+      "level": 2,
+      "name": {
+        "local": "Mubende",
+        "en": "Mubende",
+        "slug": "mubende-ug1020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1020",
+        "level": 2,
+        "name": {
+          "local": "Mubende",
+          "en": "Mubende",
+          "slug": "mubende-ug1020"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.581",
+      "lon": "31.388"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

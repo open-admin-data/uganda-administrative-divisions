@@ -1,0 +1,56 @@
+{
+  "id": "UG204301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bulamogi",
+    "en": "Bulamogi",
+    "slug": "bulamogi-ug204301"
+  },
+  "code": {
+    "id": "UG204301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2043",
+    "level": 2,
+    "name": {
+      "local": "Kaliro",
+      "en": "Kaliro",
+      "slug": "kaliro-ug2043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2043",
+      "level": 2,
+      "name": {
+        "local": "Kaliro",
+        "en": "Kaliro",
+        "slug": "kaliro-ug2043"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.08",
+    "lon": "33.482"
+  },
+  "metadata": {},
+  "source": {}
+}

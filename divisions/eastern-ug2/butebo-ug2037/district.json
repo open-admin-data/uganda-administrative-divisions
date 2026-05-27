@@ -1,0 +1,48 @@
+{
+  "id": "UG2037",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Butebo",
+    "en": "Butebo",
+    "slug": "butebo-ug2037"
+  },
+  "code": {
+    "id": "UG2037",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.172",
+    "lon": "34.06"
+  },
+  "metadata": {},
+  "source": {}
+}

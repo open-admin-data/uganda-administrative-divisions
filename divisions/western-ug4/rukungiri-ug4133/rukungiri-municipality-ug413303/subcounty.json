@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41330301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Divison",
+      "en": "Eastern Divison",
+      "slug": "eastern-divison"
+    },
+    "code": {
+      "id": "UG41330301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413303",
+      "level": 3,
+      "name": {
+        "local": "Rukungiri Municipality",
+        "en": "Rukungiri Municipality",
+        "slug": "rukungiri-municipality-ug413303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413303",
+        "level": 3,
+        "name": {
+          "local": "Rukungiri Municipality",
+          "en": "Rukungiri Municipality",
+          "slug": "rukungiri-municipality-ug413303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.784",
+      "lon": "29.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern Division",
+      "en": "Southern Division",
+      "slug": "southern-division"
+    },
+    "code": {
+      "id": "UG41330302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413303",
+      "level": 3,
+      "name": {
+        "local": "Rukungiri Municipality",
+        "en": "Rukungiri Municipality",
+        "slug": "rukungiri-municipality-ug413303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413303",
+        "level": 3,
+        "name": {
+          "local": "Rukungiri Municipality",
+          "en": "Rukungiri Municipality",
+          "slug": "rukungiri-municipality-ug413303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.818",
+      "lon": "29.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41330303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG41330303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413303",
+      "level": 3,
+      "name": {
+        "local": "Rukungiri Municipality",
+        "en": "Rukungiri Municipality",
+        "slug": "rukungiri-municipality-ug413303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4133",
+        "level": 2,
+        "name": {
+          "local": "Rukungiri",
+          "en": "Rukungiri",
+          "slug": "rukungiri-ug4133"
+        }
+      },
+      {
+        "id": "UG413303",
+        "level": 3,
+        "name": {
+          "local": "Rukungiri Municipality",
+          "en": "Rukungiri Municipality",
+          "slug": "rukungiri-municipality-ug413303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.766",
+      "lon": "29.914"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

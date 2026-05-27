@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "UG20610101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budadiri Town Council",
+      "en": "Budadiri Town Council",
+      "slug": "budadiri-town-council"
+    },
+    "code": {
+      "id": "UG20610101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.171",
+      "lon": "34.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugitimwa",
+      "en": "Bugitimwa",
+      "slug": "bugitimwa"
+    },
+    "code": {
+      "id": "UG20610102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.131",
+      "lon": "34.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhugu",
+      "en": "Buhugu",
+      "slug": "buhugu"
+    },
+    "code": {
+      "id": "UG20610103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.197",
+      "lon": "34.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukhulo",
+      "en": "Bukhulo",
+      "slug": "bukhulo"
+    },
+    "code": {
+      "id": "UG20610104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.213",
+      "lon": "34.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukiise",
+      "en": "Bukiise",
+      "slug": "bukiise"
+    },
+    "code": {
+      "id": "UG20610105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.25",
+      "lon": "34.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukiyi",
+      "en": "Bukiyi",
+      "slug": "bukiyi"
+    },
+    "code": {
+      "id": "UG20610106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.185",
+      "lon": "34.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukyabo",
+      "en": "Bukyabo",
+      "slug": "bukyabo"
+    },
+    "code": {
+      "id": "UG20610107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.199",
+      "lon": "34.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukyambi",
+      "en": "Bukyambi",
+      "slug": "bukyambi"
+    },
+    "code": {
+      "id": "UG20610108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.145",
+      "lon": "34.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumalimba",
+      "en": "Bumalimba",
+      "slug": "bumalimba"
+    },
+    "code": {
+      "id": "UG20610109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.214",
+      "lon": "34.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumasifwa",
+      "en": "Bumasifwa",
+      "slug": "bumasifwa"
+    },
+    "code": {
+      "id": "UG20610110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.179",
+      "lon": "34.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bunyafa",
+      "en": "Bunyafa",
+      "slug": "bunyafa"
+    },
+    "code": {
+      "id": "UG20610111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.122",
+      "lon": "34.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busulani",
+      "en": "Busulani",
+      "slug": "busulani"
+    },
+    "code": {
+      "id": "UG20610112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.148",
+      "lon": "34.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butandiga",
+      "en": "Butandiga",
+      "slug": "butandiga"
+    },
+    "code": {
+      "id": "UG20610113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.237",
+      "lon": "34.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buteza",
+      "en": "Buteza",
+      "slug": "buteza"
+    },
+    "code": {
+      "id": "UG20610114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.125",
+      "lon": "34.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwalasi",
+      "en": "Buwalasi",
+      "slug": "buwalasi"
+    },
+    "code": {
+      "id": "UG20610115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.152",
+      "lon": "34.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwasa",
+      "en": "Buwasa",
+      "slug": "buwasa"
+    },
+    "code": {
+      "id": "UG20610116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.155",
+      "lon": "34.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyobo",
+      "en": "Buyobo",
+      "slug": "buyobo"
+    },
+    "code": {
+      "id": "UG20610117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.17",
+      "lon": "34.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masaba",
+      "en": "Masaba",
+      "slug": "masaba"
+    },
+    "code": {
+      "id": "UG20610118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.126",
+      "lon": "34.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nalusala",
+      "en": "Nalusala",
+      "slug": "nalusala"
+    },
+    "code": {
+      "id": "UG20610119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.186",
+      "lon": "34.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sironko Town Council",
+      "en": "Sironko Town Council",
+      "slug": "sironko-town-council"
+    },
+    "code": {
+      "id": "UG20610120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.245",
+      "lon": "34.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20610121",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Zesui",
+      "en": "Zesui",
+      "slug": "zesui"
+    },
+    "code": {
+      "id": "UG20610121",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206101",
+      "level": 3,
+      "name": {
+        "local": "Budadiri",
+        "en": "Budadiri",
+        "slug": "budadiri-ug206101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2061",
+        "level": 2,
+        "name": {
+          "local": "Sironko",
+          "en": "Sironko",
+          "slug": "sironko-ug2061"
+        }
+      },
+      {
+        "id": "UG206101",
+        "level": 3,
+        "name": {
+          "local": "Budadiri",
+          "en": "Budadiri",
+          "slug": "budadiri-ug206101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.112",
+      "lon": "34.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

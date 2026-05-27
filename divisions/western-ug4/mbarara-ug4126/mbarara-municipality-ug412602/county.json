@@ -1,0 +1,56 @@
+{
+  "id": "UG412602",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mbarara Municipality",
+    "en": "Mbarara Municipality",
+    "slug": "mbarara-municipality-ug412602"
+  },
+  "code": {
+    "id": "UG412602",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4126",
+    "level": 2,
+    "name": {
+      "local": "Mbarara",
+      "en": "Mbarara",
+      "slug": "mbarara-ug4126"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4126",
+      "level": 2,
+      "name": {
+        "local": "Mbarara",
+        "en": "Mbarara",
+        "slug": "mbarara-ug4126"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.612",
+    "lon": "30.658"
+  },
+  "metadata": {},
+  "source": {}
+}

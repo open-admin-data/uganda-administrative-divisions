@@ -1,0 +1,48 @@
+{
+  "id": "UG2044",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamuli",
+    "en": "Kamuli",
+    "slug": "kamuli-ug2044"
+  },
+  "code": {
+    "id": "UG2044",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 3,
+    "subcounty": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.94",
+    "lon": "33.128"
+  },
+  "metadata": {},
+  "source": {}
+}

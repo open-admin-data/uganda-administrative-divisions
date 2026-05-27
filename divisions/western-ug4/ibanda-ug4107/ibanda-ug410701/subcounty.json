@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG41070101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Igorora Town Council",
+      "en": "Igorora Town Council",
+      "slug": "igorora-town-council"
+    },
+    "code": {
+      "id": "UG41070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.225",
+      "lon": "30.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ishongororo",
+      "en": "Ishongororo",
+      "slug": "ishongororo"
+    },
+    "code": {
+      "id": "UG41070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.003",
+      "lon": "30.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ishongororo Town Council",
+      "en": "Ishongororo Town Council",
+      "slug": "ishongororo-town-council"
+    },
+    "code": {
+      "id": "UG41070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.058",
+      "lon": "30.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Keihangara",
+      "en": "Keihangara",
+      "slug": "keihangara"
+    },
+    "code": {
+      "id": "UG41070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.194",
+      "lon": "30.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kicuzi",
+      "en": "Kicuzi",
+      "slug": "kicuzi"
+    },
+    "code": {
+      "id": "UG41070105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.175",
+      "lon": "30.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kijongo",
+      "en": "Kijongo",
+      "slug": "kijongo"
+    },
+    "code": {
+      "id": "UG41070106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.007",
+      "lon": "30.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikyenkye",
+      "en": "Kikyenkye",
+      "slug": "kikyenkye"
+    },
+    "code": {
+      "id": "UG41070107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.158",
+      "lon": "30.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyabuhikye",
+      "en": "Nyabuhikye",
+      "slug": "nyabuhikye"
+    },
+    "code": {
+      "id": "UG41070108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.236",
+      "lon": "30.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamarebe",
+      "en": "Nyamarebe",
+      "slug": "nyamarebe"
+    },
+    "code": {
+      "id": "UG41070109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.093",
+      "lon": "30.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rukiri",
+      "en": "Rukiri",
+      "slug": "rukiri"
+    },
+    "code": {
+      "id": "UG41070110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.225",
+      "lon": "30.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rushango Town Council",
+      "en": "Rushango Town Council",
+      "slug": "rushango-town-council"
+    },
+    "code": {
+      "id": "UG41070111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.115",
+      "lon": "30.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41070112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwenkoba Town Council",
+      "en": "Rwenkoba Town Council",
+      "slug": "rwenkoba-town-council"
+    },
+    "code": {
+      "id": "UG41070112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410701",
+      "level": 3,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug410701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      },
+      {
+        "id": "UG410701",
+        "level": 3,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug410701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.002",
+      "lon": "30.425"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

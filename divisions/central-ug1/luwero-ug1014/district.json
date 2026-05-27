@@ -1,0 +1,48 @@
+{
+  "id": "UG1014",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luwero",
+    "en": "Luwero",
+    "slug": "luwero-ug1014"
+  },
+  "code": {
+    "id": "UG1014",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.846",
+    "lon": "32.603"
+  },
+  "metadata": {},
+  "source": {}
+}

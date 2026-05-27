@@ -1,0 +1,56 @@
+{
+  "id": "UG100301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Butambala",
+    "en": "Butambala",
+    "slug": "butambala-ug100301"
+  },
+  "code": {
+    "id": "UG100301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1003",
+    "level": 2,
+    "name": {
+      "local": "Butambala",
+      "en": "Butambala",
+      "slug": "butambala-ug1003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1003",
+      "level": 2,
+      "name": {
+        "local": "Butambala",
+        "en": "Butambala",
+        "slug": "butambala-ug1003"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.162",
+    "lon": "32.136"
+  },
+  "metadata": {},
+  "source": {}
+}

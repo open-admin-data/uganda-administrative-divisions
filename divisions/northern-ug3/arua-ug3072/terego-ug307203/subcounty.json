@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG30720301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aii-Vu",
+      "en": "Aii-Vu",
+      "slug": "aii-vu"
+    },
+    "code": {
+      "id": "UG30720301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.192",
+      "lon": "31.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bileafe",
+      "en": "Bileafe",
+      "slug": "bileafe"
+    },
+    "code": {
+      "id": "UG30720302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.08",
+      "lon": "31.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katrini",
+      "en": "Katrini",
+      "slug": "katrini"
+    },
+    "code": {
+      "id": "UG30720303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.136",
+      "lon": "30.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Manibe",
+      "en": "Manibe",
+      "slug": "manibe"
+    },
+    "code": {
+      "id": "UG30720304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.075",
+      "lon": "30.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720305",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Odupi",
+      "en": "Odupi",
+      "slug": "odupi"
+    },
+    "code": {
+      "id": "UG30720305",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.233",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720306",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omugo",
+      "en": "Omugo",
+      "slug": "omugo"
+    },
+    "code": {
+      "id": "UG30720306",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.24",
+      "lon": "31.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30720307",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Uriama",
+      "en": "Uriama",
+      "slug": "uriama"
+    },
+    "code": {
+      "id": "UG30720307",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307203",
+      "level": 3,
+      "name": {
+        "local": "Terego",
+        "en": "Terego",
+        "slug": "terego-ug307203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3072",
+        "level": 2,
+        "name": {
+          "local": "Arua",
+          "en": "Arua",
+          "slug": "arua-ug3072"
+        }
+      },
+      {
+        "id": "UG307203",
+        "level": 3,
+        "name": {
+          "local": "Terego",
+          "en": "Terego",
+          "slug": "terego-ug307203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.137",
+      "lon": "31.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

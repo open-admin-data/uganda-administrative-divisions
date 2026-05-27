@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10140101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bamunanika",
+      "en": "Bamunanika",
+      "slug": "bamunanika"
+    },
+    "code": {
+      "id": "UG10140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101401",
+      "level": 3,
+      "name": {
+        "local": "Bamunanika",
+        "en": "Bamunanika",
+        "slug": "bamunanika-ug101401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      },
+      {
+        "id": "UG101401",
+        "level": 3,
+        "name": {
+          "local": "Bamunanika",
+          "en": "Bamunanika",
+          "slug": "bamunanika-ug101401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.713",
+      "lon": "32.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10140102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalagala",
+      "en": "Kalagala",
+      "slug": "kalagala"
+    },
+    "code": {
+      "id": "UG10140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101401",
+      "level": 3,
+      "name": {
+        "local": "Bamunanika",
+        "en": "Bamunanika",
+        "slug": "bamunanika-ug101401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      },
+      {
+        "id": "UG101401",
+        "level": 3,
+        "name": {
+          "local": "Bamunanika",
+          "en": "Bamunanika",
+          "slug": "bamunanika-ug101401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.61",
+      "lon": "32.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10140103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamira",
+      "en": "Kamira",
+      "slug": "kamira"
+    },
+    "code": {
+      "id": "UG10140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101401",
+      "level": 3,
+      "name": {
+        "local": "Bamunanika",
+        "en": "Bamunanika",
+        "slug": "bamunanika-ug101401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      },
+      {
+        "id": "UG101401",
+        "level": 3,
+        "name": {
+          "local": "Bamunanika",
+          "en": "Bamunanika",
+          "slug": "bamunanika-ug101401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.021",
+      "lon": "32.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10140104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikyusa",
+      "en": "Kikyusa",
+      "slug": "kikyusa"
+    },
+    "code": {
+      "id": "UG10140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101401",
+      "level": 3,
+      "name": {
+        "local": "Bamunanika",
+        "en": "Bamunanika",
+        "slug": "bamunanika-ug101401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      },
+      {
+        "id": "UG101401",
+        "level": 3,
+        "name": {
+          "local": "Bamunanika",
+          "en": "Bamunanika",
+          "slug": "bamunanika-ug101401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "32.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10140105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Zirobwe",
+      "en": "Zirobwe",
+      "slug": "zirobwe"
+    },
+    "code": {
+      "id": "UG10140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101401",
+      "level": 3,
+      "name": {
+        "local": "Bamunanika",
+        "en": "Bamunanika",
+        "slug": "bamunanika-ug101401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1014",
+        "level": 2,
+        "name": {
+          "local": "Luwero",
+          "en": "Luwero",
+          "slug": "luwero-ug1014"
+        }
+      },
+      {
+        "id": "UG101401",
+        "level": 3,
+        "name": {
+          "local": "Bamunanika",
+          "en": "Bamunanika",
+          "slug": "bamunanika-ug101401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.718",
+      "lon": "32.71"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

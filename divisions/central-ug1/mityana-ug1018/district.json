@@ -1,0 +1,48 @@
+{
+  "id": "UG1018",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mityana",
+    "en": "Mityana",
+    "slug": "mityana-ug1018"
+  },
+  "code": {
+    "id": "UG1018",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 4,
+    "subcounty": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.453",
+    "lon": "32.078"
+  },
+  "metadata": {},
+  "source": {}
+}

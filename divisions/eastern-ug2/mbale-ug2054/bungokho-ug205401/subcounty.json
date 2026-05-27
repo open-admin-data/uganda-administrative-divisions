@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "UG20540101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubyangu",
+      "en": "Bubyangu",
+      "slug": "bubyangu"
+    },
+    "code": {
+      "id": "UG20540101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.079",
+      "lon": "34.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budwale",
+      "en": "Budwale",
+      "slug": "budwale"
+    },
+    "code": {
+      "id": "UG20540102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.06",
+      "lon": "34.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bufumbo",
+      "en": "Bufumbo",
+      "slug": "bufumbo"
+    },
+    "code": {
+      "id": "UG20540103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.101",
+      "lon": "34.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukasakya",
+      "en": "Bukasakya",
+      "slug": "bukasakya"
+    },
+    "code": {
+      "id": "UG20540104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.06",
+      "lon": "34.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukiende",
+      "en": "Bukiende",
+      "slug": "bukiende"
+    },
+    "code": {
+      "id": "UG20540105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.958",
+      "lon": "34.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukonde",
+      "en": "Bukonde",
+      "slug": "bukonde"
+    },
+    "code": {
+      "id": "UG20540106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.099",
+      "lon": "34.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumasikye",
+      "en": "Bumasikye",
+      "slug": "bumasikye"
+    },
+    "code": {
+      "id": "UG20540107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.879",
+      "lon": "34.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumbobi",
+      "en": "Bumbobi",
+      "slug": "bumbobi"
+    },
+    "code": {
+      "id": "UG20540108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.005",
+      "lon": "34.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bungokho",
+      "en": "Bungokho",
+      "slug": "bungokho"
+    },
+    "code": {
+      "id": "UG20540109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.03",
+      "lon": "34.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bungokho Mutoto",
+      "en": "Bungokho Mutoto",
+      "slug": "bungokho-mutoto"
+    },
+    "code": {
+      "id": "UG20540110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.058",
+      "lon": "34.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busano",
+      "en": "Busano",
+      "slug": "busano"
+    },
+    "code": {
+      "id": "UG20540111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "34.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busiu",
+      "en": "Busiu",
+      "slug": "busiu"
+    },
+    "code": {
+      "id": "UG20540112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.92",
+      "lon": "34.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busiu Town Council",
+      "en": "Busiu Town Council",
+      "slug": "busiu-town-council"
+    },
+    "code": {
+      "id": "UG20540113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.92",
+      "lon": "34.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busoba",
+      "en": "Busoba",
+      "slug": "busoba"
+    },
+    "code": {
+      "id": "UG20540114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.959",
+      "lon": "34.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lukhonge",
+      "en": "Lukhonge",
+      "slug": "lukhonge"
+    },
+    "code": {
+      "id": "UG20540115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.893",
+      "lon": "34.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwasso",
+      "en": "Lwasso",
+      "slug": "lwasso"
+    },
+    "code": {
+      "id": "UG20540116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.08",
+      "lon": "34.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabumali Town Council",
+      "en": "Nabumali Town Council",
+      "slug": "nabumali-town-council"
+    },
+    "code": {
+      "id": "UG20540117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.978",
+      "lon": "34.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakaloke",
+      "en": "Nakaloke",
+      "slug": "nakaloke"
+    },
+    "code": {
+      "id": "UG20540118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.132",
+      "lon": "34.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakaloke Town Council",
+      "en": "Nakaloke Town Council",
+      "slug": "nakaloke-town-council"
+    },
+    "code": {
+      "id": "UG20540119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.135",
+      "lon": "34.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namambasa",
+      "en": "Namambasa",
+      "slug": "namambasa"
+    },
+    "code": {
+      "id": "UG20540120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.128",
+      "lon": "34.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540121",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namanyonyi",
+      "en": "Namanyonyi",
+      "slug": "namanyonyi"
+    },
+    "code": {
+      "id": "UG20540121",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.123",
+      "lon": "34.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540122",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawuyo Town Council",
+      "en": "Nawuyo Town Council",
+      "slug": "nawuyo-town-council"
+    },
+    "code": {
+      "id": "UG20540122",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.044",
+      "lon": "34.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540123",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyondo",
+      "en": "Nyondo",
+      "slug": "nyondo"
+    },
+    "code": {
+      "id": "UG20540123",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.99",
+      "lon": "34.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540124",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wanale",
+      "en": "Wanale",
+      "slug": "wanale"
+    },
+    "code": {
+      "id": "UG20540124",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205401",
+      "level": 3,
+      "name": {
+        "local": "Bungokho",
+        "en": "Bungokho",
+        "slug": "bungokho-ug205401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205401",
+        "level": 3,
+        "name": {
+          "local": "Bungokho",
+          "en": "Bungokho",
+          "slug": "bungokho-ug205401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.035",
+      "lon": "34.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG413101",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bunyaruguru",
+      "en": "Bunyaruguru",
+      "slug": "bunyaruguru-ug413101"
+    },
+    "code": {
+      "id": "UG413101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4131",
+      "level": 2,
+      "name": {
+        "local": "Rubirizi",
+        "en": "Rubirizi",
+        "slug": "rubirizi-ug4131"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.261",
+      "lon": "29.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

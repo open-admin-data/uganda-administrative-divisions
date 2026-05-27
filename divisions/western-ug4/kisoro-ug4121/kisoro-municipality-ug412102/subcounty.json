@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41210201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central"
+    },
+    "code": {
+      "id": "UG41210201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412102",
+      "level": 3,
+      "name": {
+        "local": "Kisoro Municipality",
+        "en": "Kisoro Municipality",
+        "slug": "kisoro-municipality-ug412102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412102",
+        "level": 3,
+        "name": {
+          "local": "Kisoro Municipality",
+          "en": "Kisoro Municipality",
+          "slug": "kisoro-municipality-ug412102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.281",
+      "lon": "29.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "code": {
+      "id": "UG41210202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412102",
+      "level": 3,
+      "name": {
+        "local": "Kisoro Municipality",
+        "en": "Kisoro Municipality",
+        "slug": "kisoro-municipality-ug412102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412102",
+        "level": 3,
+        "name": {
+          "local": "Kisoro Municipality",
+          "en": "Kisoro Municipality",
+          "slug": "kisoro-municipality-ug412102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "29.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41210203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "code": {
+      "id": "UG41210203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412102",
+      "level": 3,
+      "name": {
+        "local": "Kisoro Municipality",
+        "en": "Kisoro Municipality",
+        "slug": "kisoro-municipality-ug412102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4121",
+        "level": 2,
+        "name": {
+          "local": "Kisoro",
+          "en": "Kisoro",
+          "slug": "kisoro-ug4121"
+        }
+      },
+      {
+        "id": "UG412102",
+        "level": 3,
+        "name": {
+          "local": "Kisoro Municipality",
+          "en": "Kisoro Municipality",
+          "slug": "kisoro-municipality-ug412102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.29",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

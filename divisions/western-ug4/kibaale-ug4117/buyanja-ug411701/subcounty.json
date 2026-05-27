@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41170101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubango",
+      "en": "Bubango",
+      "slug": "bubango"
+    },
+    "code": {
+      "id": "UG41170101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "30.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwamiramira",
+      "en": "Bwamiramira",
+      "slug": "bwamiramira"
+    },
+    "code": {
+      "id": "UG41170102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.781",
+      "lon": "31.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabasekende",
+      "en": "Kabasekende",
+      "slug": "kabasekende"
+    },
+    "code": {
+      "id": "UG41170103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.804",
+      "lon": "30.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karama",
+      "en": "Karama",
+      "slug": "karama"
+    },
+    "code": {
+      "id": "UG41170104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.688",
+      "lon": "31.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasimbi",
+      "en": "Kasimbi",
+      "slug": "kasimbi"
+    },
+    "code": {
+      "id": "UG41170105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.936",
+      "lon": "31.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibaale Town Council",
+      "en": "Kibaale Town Council",
+      "slug": "kibaale-town-council"
+    },
+    "code": {
+      "id": "UG41170106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.78",
+      "lon": "31.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyebando",
+      "en": "Kyebando",
+      "slug": "kyebando"
+    },
+    "code": {
+      "id": "UG41170107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.863",
+      "lon": "31.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Matale",
+      "en": "Matale",
+      "slug": "matale"
+    },
+    "code": {
+      "id": "UG41170108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.777",
+      "lon": "31.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mugarama",
+      "en": "Mugarama",
+      "slug": "mugarama"
+    },
+    "code": {
+      "id": "UG41170109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.895",
+      "lon": "31.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamarunda",
+      "en": "Nyamarunda",
+      "slug": "nyamarunda"
+    },
+    "code": {
+      "id": "UG41170110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "30.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41170111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamarwa",
+      "en": "Nyamarwa",
+      "slug": "nyamarwa"
+    },
+    "code": {
+      "id": "UG41170111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411701",
+      "level": 3,
+      "name": {
+        "local": "Buyanja",
+        "en": "Buyanja",
+        "slug": "buyanja-ug411701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4117",
+        "level": 2,
+        "name": {
+          "local": "Kibaale",
+          "en": "Kibaale",
+          "slug": "kibaale-ug4117"
+        }
+      },
+      {
+        "id": "UG411701",
+        "level": 3,
+        "name": {
+          "local": "Buyanja",
+          "en": "Buyanja",
+          "slug": "buyanja-ug411701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.701",
+      "lon": "31.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

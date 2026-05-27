@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG10230101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakooge",
+      "en": "Kakooge",
+      "slug": "kakooge"
+    },
+    "code": {
+      "id": "UG10230101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.125",
+      "lon": "32.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakooge Town Council",
+      "en": "Kakooge Town Council",
+      "slug": "kakooge-town-council"
+    },
+    "code": {
+      "id": "UG10230102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.044",
+      "lon": "32.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalongo",
+      "en": "Kalongo",
+      "slug": "kalongo"
+    },
+    "code": {
+      "id": "UG10230103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.184",
+      "lon": "32.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalungi",
+      "en": "Kalungi",
+      "slug": "kalungi"
+    },
+    "code": {
+      "id": "UG10230104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.35",
+      "lon": "32.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwabiyata",
+      "en": "Lwabiyata",
+      "slug": "lwabiyata"
+    },
+    "code": {
+      "id": "UG10230105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.538",
+      "lon": "32.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwampanga",
+      "en": "Lwampanga",
+      "slug": "lwampanga"
+    },
+    "code": {
+      "id": "UG10230106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.47",
+      "lon": "32.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Migeera Town Council",
+      "en": "Migeera Town Council",
+      "slug": "migeera-town-council"
+    },
+    "code": {
+      "id": "UG10230107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.399",
+      "lon": "32.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabisweera",
+      "en": "Nabisweera",
+      "slug": "nabisweera"
+    },
+    "code": {
+      "id": "UG10230108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.467",
+      "lon": "32.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakasongola Town Council",
+      "en": "Nakasongola Town Council",
+      "slug": "nakasongola-town-council"
+    },
+    "code": {
+      "id": "UG10230109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.313",
+      "lon": "32.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakitoma",
+      "en": "Nakitoma",
+      "slug": "nakitoma"
+    },
+    "code": {
+      "id": "UG10230110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.534",
+      "lon": "32.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10230111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wabinyonyi",
+      "en": "Wabinyonyi",
+      "slug": "wabinyonyi"
+    },
+    "code": {
+      "id": "UG10230111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102301",
+      "level": 3,
+      "name": {
+        "local": "Buruli",
+        "en": "Buruli",
+        "slug": "buruli-ug102301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1023",
+        "level": 2,
+        "name": {
+          "local": "Nakasongola",
+          "en": "Nakasongola",
+          "slug": "nakasongola-ug1023"
+        }
+      },
+      {
+        "id": "UG102301",
+        "level": 3,
+        "name": {
+          "local": "Buruli",
+          "en": "Buruli",
+          "slug": "buruli-ug102301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.28",
+      "lon": "32.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

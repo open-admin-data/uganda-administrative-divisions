@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG10130101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabira",
+      "en": "Kabira",
+      "slug": "kabira"
+    },
+    "code": {
+      "id": "UG10130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.715",
+      "lon": "31.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakuuto",
+      "en": "Kakuuto",
+      "slug": "kakuuto"
+    },
+    "code": {
+      "id": "UG10130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.888",
+      "lon": "31.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalisizo",
+      "en": "Kalisizo",
+      "slug": "kalisizo"
+    },
+    "code": {
+      "id": "UG10130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.511",
+      "lon": "31.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalisizo Town Council",
+      "en": "Kalisizo Town Council",
+      "slug": "kalisizo-town-council"
+    },
+    "code": {
+      "id": "UG10130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.532",
+      "lon": "31.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasaali Town Council",
+      "en": "Kasaali Town Council",
+      "slug": "kasaali-town-council"
+    },
+    "code": {
+      "id": "UG10130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.628",
+      "lon": "31.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasasa",
+      "en": "Kasasa",
+      "slug": "kasasa"
+    },
+    "code": {
+      "id": "UG10130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.729",
+      "lon": "31.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirumba",
+      "en": "Kirumba",
+      "slug": "kirumba"
+    },
+    "code": {
+      "id": "UG10130107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.483",
+      "lon": "31.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyebe",
+      "en": "Kyebe",
+      "slug": "kyebe"
+    },
+    "code": {
+      "id": "UG10130108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.9",
+      "lon": "31.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyotera Town Council",
+      "en": "Kyotera Town Council",
+      "slug": "kyotera-town-council"
+    },
+    "code": {
+      "id": "UG10130109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.629",
+      "lon": "31.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwankoni",
+      "en": "Lwankoni",
+      "slug": "lwankoni"
+    },
+    "code": {
+      "id": "UG10130110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.562",
+      "lon": "31.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabigasa",
+      "en": "Nabigasa",
+      "slug": "nabigasa"
+    },
+    "code": {
+      "id": "UG10130111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.548",
+      "lon": "31.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10130112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nangoma",
+      "en": "Nangoma",
+      "slug": "nangoma"
+    },
+    "code": {
+      "id": "UG10130112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101301",
+      "level": 3,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug101301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1013",
+        "level": 2,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug1013"
+        }
+      },
+      {
+        "id": "UG101301",
+        "level": 3,
+        "name": {
+          "local": "Kyotera",
+          "en": "Kyotera",
+          "slug": "kyotera-ug101301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.968",
+      "lon": "31.755"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

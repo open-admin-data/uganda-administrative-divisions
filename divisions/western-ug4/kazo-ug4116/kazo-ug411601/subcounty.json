@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG41160101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buremba",
+      "en": "Buremba",
+      "slug": "buremba"
+    },
+    "code": {
+      "id": "UG41160101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.129",
+      "lon": "30.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Burunga",
+      "en": "Burunga",
+      "slug": "burunga"
+    },
+    "code": {
+      "id": "UG41160102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.11",
+      "lon": "30.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Engari",
+      "en": "Engari",
+      "slug": "engari"
+    },
+    "code": {
+      "id": "UG41160103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.03",
+      "lon": "30.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanoni",
+      "en": "Kanoni",
+      "slug": "kanoni"
+    },
+    "code": {
+      "id": "UG41160104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.084",
+      "lon": "30.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kazo",
+      "en": "Kazo",
+      "slug": "kazo"
+    },
+    "code": {
+      "id": "UG41160105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.036",
+      "lon": "30.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kazo Town Council",
+      "en": "Kazo Town Council",
+      "slug": "kazo-town-council"
+    },
+    "code": {
+      "id": "UG41160106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.054",
+      "lon": "30.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkungu",
+      "en": "Nkungu",
+      "slug": "nkungu"
+    },
+    "code": {
+      "id": "UG41160107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.132",
+      "lon": "30.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41160108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwemikoma",
+      "en": "Rwemikoma",
+      "slug": "rwemikoma"
+    },
+    "code": {
+      "id": "UG41160108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411601",
+      "level": 3,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug411601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4116",
+        "level": 2,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug4116"
+        }
+      },
+      {
+        "id": "UG411601",
+        "level": 3,
+        "name": {
+          "local": "Kazo",
+          "en": "Kazo",
+          "slug": "kazo-ug411601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.026",
+      "lon": "30.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

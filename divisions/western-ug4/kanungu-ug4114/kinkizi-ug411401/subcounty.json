@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UG41140101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butogota Town Council",
+      "en": "Butogota Town Council",
+      "slug": "butogota-town-council"
+    },
+    "code": {
+      "id": "UG41140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.875",
+      "lon": "29.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kambuga",
+      "en": "Kambuga",
+      "slug": "kambuga"
+    },
+    "code": {
+      "id": "UG41140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.797",
+      "lon": "29.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kambuga Town Council",
+      "en": "Kambuga Town Council",
+      "slug": "kambuga-town-council"
+    },
+    "code": {
+      "id": "UG41140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.806",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanungu Town Council",
+      "en": "Kanungu Town Council",
+      "slug": "kanungu-town-council"
+    },
+    "code": {
+      "id": "UG41140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.903",
+      "lon": "29.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanyantorogo",
+      "en": "Kanyantorogo",
+      "slug": "kanyantorogo"
+    },
+    "code": {
+      "id": "UG41140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.828",
+      "lon": "29.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katete",
+      "en": "Katete",
+      "slug": "katete"
+    },
+    "code": {
+      "id": "UG41140106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.787",
+      "lon": "29.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kayonza",
+      "en": "Kayonza",
+      "slug": "kayonza"
+    },
+    "code": {
+      "id": "UG41140107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.984",
+      "lon": "29.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kihihi",
+      "en": "Kihihi",
+      "slug": "kihihi"
+    },
+    "code": {
+      "id": "UG41140108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.536",
+      "lon": "29.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kihiihi Town Council",
+      "en": "Kihiihi Town Council",
+      "slug": "kihiihi-town-council"
+    },
+    "code": {
+      "id": "UG41140109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.759",
+      "lon": "29.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinaaba",
+      "en": "Kinaaba",
+      "slug": "kinaaba"
+    },
+    "code": {
+      "id": "UG41140110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.99",
+      "lon": "29.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirima",
+      "en": "Kirima",
+      "slug": "kirima"
+    },
+    "code": {
+      "id": "UG41140111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.875",
+      "lon": "29.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpungu",
+      "en": "Mpungu",
+      "slug": "mpungu"
+    },
+    "code": {
+      "id": "UG41140112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.946",
+      "lon": "29.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakinoni",
+      "en": "Nyakinoni",
+      "slug": "nyakinoni"
+    },
+    "code": {
+      "id": "UG41140113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.734",
+      "lon": "29.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamirama",
+      "en": "Nyamirama",
+      "slug": "nyamirama"
+    },
+    "code": {
+      "id": "UG41140114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.69",
+      "lon": "29.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "UG41140115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.75",
+      "lon": "29.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugyeyo",
+      "en": "Rugyeyo",
+      "slug": "rugyeyo"
+    },
+    "code": {
+      "id": "UG41140116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.89",
+      "lon": "29.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41140117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rutenga",
+      "en": "Rutenga",
+      "slug": "rutenga"
+    },
+    "code": {
+      "id": "UG41140117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411401",
+      "level": 3,
+      "name": {
+        "local": "Kinkizi",
+        "en": "Kinkizi",
+        "slug": "kinkizi-ug411401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4114",
+        "level": 2,
+        "name": {
+          "local": "Kanungu",
+          "en": "Kanungu",
+          "slug": "kanungu-ug4114"
+        }
+      },
+      {
+        "id": "UG411401",
+        "level": 3,
+        "name": {
+          "local": "Kinkizi",
+          "en": "Kinkizi",
+          "slug": "kinkizi-ug411401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.997",
+      "lon": "29.852"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

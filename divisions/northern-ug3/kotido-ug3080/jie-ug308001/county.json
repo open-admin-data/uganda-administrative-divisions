@@ -1,0 +1,56 @@
+{
+  "id": "UG308001",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jie",
+    "en": "Jie",
+    "slug": "jie-ug308001"
+  },
+  "code": {
+    "id": "UG308001",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3080",
+    "level": 2,
+    "name": {
+      "local": "Kotido",
+      "en": "Kotido",
+      "slug": "kotido-ug3080"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3080",
+      "level": 2,
+      "name": {
+        "local": "Kotido",
+        "en": "Kotido",
+        "slug": "kotido-ug3080"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.989",
+    "lon": "33.876"
+  },
+  "metadata": {},
+  "source": {}
+}

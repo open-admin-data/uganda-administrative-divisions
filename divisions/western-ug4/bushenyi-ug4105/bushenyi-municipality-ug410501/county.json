@@ -1,0 +1,56 @@
+{
+  "id": "UG410501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bushenyi Municipality",
+    "en": "Bushenyi Municipality",
+    "slug": "bushenyi-municipality-ug410501"
+  },
+  "code": {
+    "id": "UG410501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4105",
+    "level": 2,
+    "name": {
+      "local": "Bushenyi",
+      "en": "Bushenyi",
+      "slug": "bushenyi-ug4105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4105",
+      "level": 2,
+      "name": {
+        "local": "Bushenyi",
+        "en": "Bushenyi",
+        "slug": "bushenyi-ug4105"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.54",
+    "lon": "30.176"
+  },
+  "metadata": {},
+  "source": {}
+}

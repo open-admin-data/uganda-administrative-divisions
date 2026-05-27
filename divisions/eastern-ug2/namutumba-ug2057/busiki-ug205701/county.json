@@ -1,0 +1,56 @@
+{
+  "id": "UG205701",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Busiki",
+    "en": "Busiki",
+    "slug": "busiki-ug205701"
+  },
+  "code": {
+    "id": "UG205701",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2057",
+    "level": 2,
+    "name": {
+      "local": "Namutumba",
+      "en": "Namutumba",
+      "slug": "namutumba-ug2057"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2057",
+      "level": 2,
+      "name": {
+        "local": "Namutumba",
+        "en": "Namutumba",
+        "slug": "namutumba-ug2057"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.887",
+    "lon": "33.666"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "UG4114",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kanungu",
+    "en": "Kanungu",
+    "slug": "kanungu-ug4114"
+  },
+  "code": {
+    "id": "UG4114",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.708",
+    "lon": "29.714"
+  },
+  "metadata": {},
+  "source": {}
+}

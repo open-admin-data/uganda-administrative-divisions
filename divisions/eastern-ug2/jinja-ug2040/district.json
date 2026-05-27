@@ -1,0 +1,48 @@
+{
+  "id": "UG2040",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jinja",
+    "en": "Jinja",
+    "slug": "jinja-ug2040"
+  },
+  "code": {
+    "id": "UG2040",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 3,
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.544",
+    "lon": "33.229"
+  },
+  "metadata": {},
+  "source": {}
+}

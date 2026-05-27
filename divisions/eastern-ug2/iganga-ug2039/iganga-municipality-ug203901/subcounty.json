@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20390101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG20390101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203901",
+      "level": 3,
+      "name": {
+        "local": "Iganga Municipality",
+        "en": "Iganga Municipality",
+        "slug": "iganga-municipality-ug203901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203901",
+        "level": 3,
+        "name": {
+          "local": "Iganga Municipality",
+          "en": "Iganga Municipality",
+          "slug": "iganga-municipality-ug203901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.608",
+      "lon": "33.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20390102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG20390102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203901",
+      "level": 3,
+      "name": {
+        "local": "Iganga Municipality",
+        "en": "Iganga Municipality",
+        "slug": "iganga-municipality-ug203901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2039",
+        "level": 2,
+        "name": {
+          "local": "Iganga",
+          "en": "Iganga",
+          "slug": "iganga-ug2039"
+        }
+      },
+      {
+        "id": "UG203901",
+        "level": 3,
+        "name": {
+          "local": "Iganga Municipality",
+          "en": "Iganga Municipality",
+          "slug": "iganga-municipality-ug203901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.618",
+      "lon": "33.473"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

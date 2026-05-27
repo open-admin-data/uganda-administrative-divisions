@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20280101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budaka",
+      "en": "Budaka",
+      "slug": "budaka"
+    },
+    "code": {
+      "id": "UG20280101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.008",
+      "lon": "33.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budaka Town Council",
+      "en": "Budaka Town Council",
+      "slug": "budaka-town-council"
+    },
+    "code": {
+      "id": "UG20280102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.016",
+      "lon": "33.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaderuna",
+      "en": "Kaderuna",
+      "slug": "kaderuna"
+    },
+    "code": {
+      "id": "UG20280103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.077",
+      "lon": "33.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakule",
+      "en": "Kakule",
+      "slug": "kakule"
+    },
+    "code": {
+      "id": "UG20280104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.065",
+      "lon": "34.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lyama",
+      "en": "Lyama",
+      "slug": "lyama"
+    },
+    "code": {
+      "id": "UG20280105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.968",
+      "lon": "33.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Naboa",
+      "en": "Naboa",
+      "slug": "naboa"
+    },
+    "code": {
+      "id": "UG20280106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.03",
+      "lon": "34.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20280107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nansanga",
+      "en": "Nansanga",
+      "slug": "nansanga"
+    },
+    "code": {
+      "id": "UG20280107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG202801",
+      "level": 3,
+      "name": {
+        "local": "Budaka",
+        "en": "Budaka",
+        "slug": "budaka-ug202801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2028",
+        "level": 2,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug2028"
+        }
+      },
+      {
+        "id": "UG202801",
+        "level": 3,
+        "name": {
+          "local": "Budaka",
+          "en": "Budaka",
+          "slug": "budaka-ug202801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.976",
+      "lon": "33.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UG20520101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugobero",
+      "en": "Bugobero",
+      "slug": "bugobero"
+    },
+    "code": {
+      "id": "UG20520101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.851",
+      "lon": "34.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukhofu",
+      "en": "Bukhofu",
+      "slug": "bukhofu"
+    },
+    "code": {
+      "id": "UG20520102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.869",
+      "lon": "34.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukusu",
+      "en": "Bukusu",
+      "slug": "bukusu"
+    },
+    "code": {
+      "id": "UG20520103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "34.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bunabwana",
+      "en": "Bunabwana",
+      "slug": "bunabwana"
+    },
+    "code": {
+      "id": "UG20520104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.789",
+      "lon": "34.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bunyinza Town Council",
+      "en": "Bunyinza Town Council",
+      "slug": "bunyinza-town-council"
+    },
+    "code": {
+      "id": "UG20520105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.782",
+      "lon": "34.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busukuya",
+      "en": "Busukuya",
+      "slug": "busukuya"
+    },
+    "code": {
+      "id": "UG20520106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.845",
+      "lon": "34.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butiru",
+      "en": "Butiru",
+      "slug": "butiru"
+    },
+    "code": {
+      "id": "UG20520107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.808",
+      "lon": "34.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butta",
+      "en": "Butta",
+      "slug": "butta"
+    },
+    "code": {
+      "id": "UG20520108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.928",
+      "lon": "34.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwagogo",
+      "en": "Buwagogo",
+      "slug": "buwagogo"
+    },
+    "code": {
+      "id": "UG20520109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.969",
+      "lon": "34.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwangani Town Council",
+      "en": "Buwangani Town Council",
+      "slug": "buwangani-town-council"
+    },
+    "code": {
+      "id": "UG20520110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.993",
+      "lon": "34.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaato",
+      "en": "Kaato",
+      "slug": "kaato"
+    },
+    "code": {
+      "id": "UG20520111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.989",
+      "lon": "34.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Khabutoola",
+      "en": "Khabutoola",
+      "slug": "khabutoola"
+    },
+    "code": {
+      "id": "UG20520112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.908",
+      "lon": "34.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Manafwa Town Council",
+      "en": "Manafwa Town Council",
+      "slug": "manafwa-town-council"
+    },
+    "code": {
+      "id": "UG20520113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.947",
+      "lon": "34.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nalondo",
+      "en": "Nalondo",
+      "slug": "nalondo"
+    },
+    "code": {
+      "id": "UG20520114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.895",
+      "lon": "34.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sibanga",
+      "en": "Sibanga",
+      "slug": "sibanga"
+    },
+    "code": {
+      "id": "UG20520115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.904",
+      "lon": "34.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sisuni",
+      "en": "Sisuni",
+      "slug": "sisuni"
+    },
+    "code": {
+      "id": "UG20520116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.854",
+      "lon": "34.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20520117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Weswa",
+      "en": "Weswa",
+      "slug": "weswa"
+    },
+    "code": {
+      "id": "UG20520117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205201",
+      "level": 3,
+      "name": {
+        "local": "Bubulo",
+        "en": "Bubulo",
+        "slug": "bubulo-ug205201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2052",
+        "level": 2,
+        "name": {
+          "local": "Manafwa",
+          "en": "Manafwa",
+          "slug": "manafwa-ug2052"
+        }
+      },
+      {
+        "id": "UG205201",
+        "level": 3,
+        "name": {
+          "local": "Bubulo",
+          "en": "Bubulo",
+          "slug": "bubulo-ug205201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.975",
+      "lon": "34.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

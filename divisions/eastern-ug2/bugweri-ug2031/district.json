@@ -1,0 +1,48 @@
+{
+  "id": "UG2031",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bugweri",
+    "en": "Bugweri",
+    "slug": "bugweri-ug2031"
+  },
+  "code": {
+    "id": "UG2031",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.622",
+    "lon": "33.616"
+  },
+  "metadata": {},
+  "source": {}
+}

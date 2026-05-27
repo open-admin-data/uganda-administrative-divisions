@@ -1,0 +1,56 @@
+{
+  "id": "UG412503",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Masindi Municipality",
+    "en": "Masindi Municipality",
+    "slug": "masindi-municipality-ug412503"
+  },
+  "code": {
+    "id": "UG412503",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4125",
+    "level": 2,
+    "name": {
+      "local": "Masindi",
+      "en": "Masindi",
+      "slug": "masindi-ug4125"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4125",
+      "level": 2,
+      "name": {
+        "local": "Masindi",
+        "en": "Masindi",
+        "slug": "masindi-ug4125"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.678",
+    "lon": "31.703"
+  },
+  "metadata": {},
+  "source": {}
+}

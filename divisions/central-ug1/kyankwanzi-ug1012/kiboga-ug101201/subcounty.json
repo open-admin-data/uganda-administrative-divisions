@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG10120110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bananywa",
+      "en": "Bananywa",
+      "slug": "bananywa"
+    },
+    "code": {
+      "id": "UG10120110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.214",
+      "lon": "31.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "UG10120111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.096",
+      "lon": "31.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butemba",
+      "en": "Butemba",
+      "slug": "butemba"
+    },
+    "code": {
+      "id": "UG10120112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.069",
+      "lon": "31.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butemba Town Council",
+      "en": "Butemba Town Council",
+      "slug": "butemba-town-council"
+    },
+    "code": {
+      "id": "UG10120113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.174",
+      "lon": "31.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Byerima",
+      "en": "Byerima",
+      "slug": "byerima"
+    },
+    "code": {
+      "id": "UG10120114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.083",
+      "lon": "31.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gayaza",
+      "en": "Gayaza",
+      "slug": "gayaza"
+    },
+    "code": {
+      "id": "UG10120115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.94",
+      "lon": "31.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120116",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyankwanzi",
+      "en": "Kyankwanzi",
+      "slug": "kyankwanzi"
+    },
+    "code": {
+      "id": "UG10120116",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.199",
+      "lon": "31.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120117",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyankwanzi Town Council",
+      "en": "Kyankwanzi Town Council",
+      "slug": "kyankwanzi-town-council"
+    },
+    "code": {
+      "id": "UG10120117",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.231",
+      "lon": "31.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120118",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mulagi",
+      "en": "Mulagi",
+      "slug": "mulagi"
+    },
+    "code": {
+      "id": "UG10120118",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.919",
+      "lon": "31.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120119",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkandwa",
+      "en": "Nkandwa",
+      "slug": "nkandwa"
+    },
+    "code": {
+      "id": "UG10120119",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.974",
+      "lon": "31.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120120",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nsambya",
+      "en": "Nsambya",
+      "slug": "nsambya"
+    },
+    "code": {
+      "id": "UG10120120",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.24",
+      "lon": "31.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120121",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntwetwe",
+      "en": "Ntwetwe",
+      "slug": "ntwetwe"
+    },
+    "code": {
+      "id": "UG10120121",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.876",
+      "lon": "31.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120122",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ntwetwe Town Council",
+      "en": "Ntwetwe Town Council",
+      "slug": "ntwetwe-town-council"
+    },
+    "code": {
+      "id": "UG10120122",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.948",
+      "lon": "31.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10120123",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wattuba",
+      "en": "Wattuba",
+      "slug": "wattuba"
+    },
+    "code": {
+      "id": "UG10120123",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101201",
+      "level": 3,
+      "name": {
+        "local": "Kiboga",
+        "en": "Kiboga",
+        "slug": "kiboga-ug101201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1012",
+        "level": 2,
+        "name": {
+          "local": "Kyankwanzi",
+          "en": "Kyankwanzi",
+          "slug": "kyankwanzi-ug1012"
+        }
+      },
+      {
+        "id": "UG101201",
+        "level": 3,
+        "name": {
+          "local": "Kiboga",
+          "en": "Kiboga",
+          "slug": "kiboga-ug101201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.002",
+      "lon": "31.725"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG308501",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maracha",
+      "en": "Maracha",
+      "slug": "maracha-ug308501"
+    },
+    "code": {
+      "id": "UG308501",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3085",
+      "level": 2,
+      "name": {
+        "local": "Maracha",
+        "en": "Maracha",
+        "slug": "maracha-ug3085"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3085",
+        "level": 2,
+        "name": {
+          "local": "Maracha",
+          "en": "Maracha",
+          "slug": "maracha-ug3085"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.244",
+      "lon": "30.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

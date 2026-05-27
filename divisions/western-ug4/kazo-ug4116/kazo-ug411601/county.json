@@ -1,0 +1,56 @@
+{
+  "id": "UG411601",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kazo",
+    "en": "Kazo",
+    "slug": "kazo-ug411601"
+  },
+  "code": {
+    "id": "UG411601",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4116",
+    "level": 2,
+    "name": {
+      "local": "Kazo",
+      "en": "Kazo",
+      "slug": "kazo-ug4116"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4116",
+      "level": 2,
+      "name": {
+        "local": "Kazo",
+        "en": "Kazo",
+        "slug": "kazo-ug4116"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.024",
+    "lon": "30.752"
+  },
+  "metadata": {},
+  "source": {}
+}

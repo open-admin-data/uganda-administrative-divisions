@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30780101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abuku",
+      "en": "Abuku",
+      "slug": "abuku"
+    },
+    "code": {
+      "id": "UG30780101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.436",
+      "lon": "31.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dranya",
+      "en": "Dranya",
+      "slug": "dranya"
+    },
+    "code": {
+      "id": "UG30780102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.365",
+      "lon": "30.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kuluba",
+      "en": "Kuluba",
+      "slug": "kuluba"
+    },
+    "code": {
+      "id": "UG30780103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "30.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lobule",
+      "en": "Lobule",
+      "slug": "lobule"
+    },
+    "code": {
+      "id": "UG30780104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.376",
+      "lon": "31.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ludara",
+      "en": "Ludara",
+      "slug": "ludara"
+    },
+    "code": {
+      "id": "UG30780105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "31.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30780106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Midia",
+      "en": "Midia",
+      "slug": "midia"
+    },
+    "code": {
+      "id": "UG30780106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307801",
+      "level": 3,
+      "name": {
+        "local": "Koboko",
+        "en": "Koboko",
+        "slug": "koboko-ug307801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3078",
+        "level": 2,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug3078"
+        }
+      },
+      {
+        "id": "UG307801",
+        "level": 3,
+        "name": {
+          "local": "Koboko",
+          "en": "Koboko",
+          "slug": "koboko-ug307801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.45",
+      "lon": "30.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

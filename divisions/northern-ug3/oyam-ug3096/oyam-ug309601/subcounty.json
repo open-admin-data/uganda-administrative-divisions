@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG30960101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aber",
+      "en": "Aber",
+      "slug": "aber"
+    },
+    "code": {
+      "id": "UG30960101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.164",
+      "lon": "32.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abok",
+      "en": "Abok",
+      "slug": "abok"
+    },
+    "code": {
+      "id": "UG30960102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.535",
+      "lon": "32.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Acaba",
+      "en": "Acaba",
+      "slug": "acaba"
+    },
+    "code": {
+      "id": "UG30960103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.342",
+      "lon": "32.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aleka",
+      "en": "Aleka",
+      "slug": "aleka"
+    },
+    "code": {
+      "id": "UG30960104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.538",
+      "lon": "32.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Iceme",
+      "en": "Iceme",
+      "slug": "iceme"
+    },
+    "code": {
+      "id": "UG30960105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.433",
+      "lon": "32.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamdini",
+      "en": "Kamdini",
+      "slug": "kamdini"
+    },
+    "code": {
+      "id": "UG30960106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.256",
+      "lon": "32.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Loro",
+      "en": "Loro",
+      "slug": "loro"
+    },
+    "code": {
+      "id": "UG30960107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.204",
+      "lon": "32.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Minakulu",
+      "en": "Minakulu",
+      "slug": "minakulu"
+    },
+    "code": {
+      "id": "UG30960108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.429",
+      "lon": "32.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Myene",
+      "en": "Myene",
+      "slug": "myene"
+    },
+    "code": {
+      "id": "UG30960109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.356",
+      "lon": "32.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngai",
+      "en": "Ngai",
+      "slug": "ngai"
+    },
+    "code": {
+      "id": "UG30960110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.517",
+      "lon": "32.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Otwal",
+      "en": "Otwal",
+      "slug": "otwal"
+    },
+    "code": {
+      "id": "UG30960111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.539",
+      "lon": "32.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30960112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Oyam Town Council",
+      "en": "Oyam Town Council",
+      "slug": "oyam-town-council"
+    },
+    "code": {
+      "id": "UG30960112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309601",
+      "level": 3,
+      "name": {
+        "local": "Oyam",
+        "en": "Oyam",
+        "slug": "oyam-ug309601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3096",
+        "level": 2,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug3096"
+        }
+      },
+      {
+        "id": "UG309601",
+        "level": 3,
+        "name": {
+          "local": "Oyam",
+          "en": "Oyam",
+          "slug": "oyam-ug309601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.388",
+      "lon": "32.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

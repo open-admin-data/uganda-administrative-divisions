@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG30670101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abako",
+      "en": "Abako",
+      "slug": "abako"
+    },
+    "code": {
+      "id": "UG30670101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.131",
+      "lon": "33.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia"
+    },
+    "code": {
+      "id": "UG30670102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.431",
+      "lon": "33.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akura",
+      "en": "Akura",
+      "slug": "akura"
+    },
+    "code": {
+      "id": "UG30670103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.325",
+      "lon": "33.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alebtong Town Council",
+      "en": "Alebtong Town Council",
+      "slug": "alebtong-town-council"
+    },
+    "code": {
+      "id": "UG30670104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.262",
+      "lon": "33.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aloi",
+      "en": "Aloi",
+      "slug": "aloi"
+    },
+    "code": {
+      "id": "UG30670105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.304",
+      "lon": "33.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amugu",
+      "en": "Amugu",
+      "slug": "amugu"
+    },
+    "code": {
+      "id": "UG30670106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.116",
+      "lon": "33.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Apala",
+      "en": "Apala",
+      "slug": "apala"
+    },
+    "code": {
+      "id": "UG30670107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.375",
+      "lon": "33.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Awei",
+      "en": "Awei",
+      "slug": "awei"
+    },
+    "code": {
+      "id": "UG30670108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.172",
+      "lon": "33.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30670109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omoro",
+      "en": "Omoro",
+      "slug": "omoro"
+    },
+    "code": {
+      "id": "UG30670109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306701",
+      "level": 3,
+      "name": {
+        "local": "Moroto",
+        "en": "Moroto",
+        "slug": "moroto-ug306701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3067",
+        "level": 2,
+        "name": {
+          "local": "Alebtong",
+          "en": "Alebtong",
+          "slug": "alebtong-ug3067"
+        }
+      },
+      {
+        "id": "UG306701",
+        "level": 3,
+        "name": {
+          "local": "Moroto",
+          "en": "Moroto",
+          "slug": "moroto-ug306701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.238",
+      "lon": "33.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

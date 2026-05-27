@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG20580101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapir",
+      "en": "Kapir",
+      "slug": "kapir"
+    },
+    "code": {
+      "id": "UG20580101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205801",
+      "level": 3,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug205801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      },
+      {
+        "id": "UG205801",
+        "level": 3,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug205801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.594",
+      "lon": "33.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20580102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kobwin",
+      "en": "Kobwin",
+      "slug": "kobwin"
+    },
+    "code": {
+      "id": "UG20580102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205801",
+      "level": 3,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug205801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      },
+      {
+        "id": "UG205801",
+        "level": 3,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug205801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.383",
+      "lon": "33.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20580103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mukura",
+      "en": "Mukura",
+      "slug": "mukura"
+    },
+    "code": {
+      "id": "UG20580103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205801",
+      "level": 3,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug205801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      },
+      {
+        "id": "UG205801",
+        "level": 3,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug205801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.586",
+      "lon": "33.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20580104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngora",
+      "en": "Ngora",
+      "slug": "ngora"
+    },
+    "code": {
+      "id": "UG20580104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205801",
+      "level": 3,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug205801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      },
+      {
+        "id": "UG205801",
+        "level": 3,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug205801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.477",
+      "lon": "33.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20580105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngora Town Council",
+      "en": "Ngora Town Council",
+      "slug": "ngora-town-council"
+    },
+    "code": {
+      "id": "UG20580105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205801",
+      "level": 3,
+      "name": {
+        "local": "Ngora",
+        "en": "Ngora",
+        "slug": "ngora-ug205801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2058",
+        "level": 2,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug2058"
+        }
+      },
+      {
+        "id": "UG205801",
+        "level": 3,
+        "name": {
+          "local": "Ngora",
+          "en": "Ngora",
+          "slug": "ngora-ug205801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.466",
+      "lon": "33.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

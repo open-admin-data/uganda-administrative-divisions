@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG10260301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bweyogerere Division",
+      "en": "Bweyogerere Division",
+      "slug": "bweyogerere-division"
+    },
+    "code": {
+      "id": "UG10260301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102603",
+      "level": 3,
+      "name": {
+        "local": "Kira Municipality",
+        "en": "Kira Municipality",
+        "slug": "kira-municipality-ug102603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102603",
+        "level": 3,
+        "name": {
+          "local": "Kira Municipality",
+          "en": "Kira Municipality",
+          "slug": "kira-municipality-ug102603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.33",
+      "lon": "32.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kira Division",
+      "en": "Kira Division",
+      "slug": "kira-division"
+    },
+    "code": {
+      "id": "UG10260302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102603",
+      "level": 3,
+      "name": {
+        "local": "Kira Municipality",
+        "en": "Kira Municipality",
+        "slug": "kira-municipality-ug102603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102603",
+        "level": 3,
+        "name": {
+          "local": "Kira Municipality",
+          "en": "Kira Municipality",
+          "slug": "kira-municipality-ug102603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.436",
+      "lon": "32.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namugongo Division",
+      "en": "Namugongo Division",
+      "slug": "namugongo-division"
+    },
+    "code": {
+      "id": "UG10260303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102603",
+      "level": 3,
+      "name": {
+        "local": "Kira Municipality",
+        "en": "Kira Municipality",
+        "slug": "kira-municipality-ug102603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102603",
+        "level": 3,
+        "name": {
+          "local": "Kira Municipality",
+          "en": "Kira Municipality",
+          "slug": "kira-municipality-ug102603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "32.647"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

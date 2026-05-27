@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20380101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugaya",
+      "en": "Bugaya",
+      "slug": "bugaya"
+    },
+    "code": {
+      "id": "UG20380101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.081",
+      "lon": "33.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20380102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyende",
+      "en": "Buyende",
+      "slug": "buyende"
+    },
+    "code": {
+      "id": "UG20380102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.259",
+      "lon": "33.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20380103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyende Town Council",
+      "en": "Buyende Town Council",
+      "slug": "buyende-town-council"
+    },
+    "code": {
+      "id": "UG20380103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.162",
+      "lon": "33.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20380104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kagulu",
+      "en": "Kagulu",
+      "slug": "kagulu"
+    },
+    "code": {
+      "id": "UG20380104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.25",
+      "lon": "33.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20380105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kidera",
+      "en": "Kidera",
+      "slug": "kidera"
+    },
+    "code": {
+      "id": "UG20380105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.371",
+      "lon": "32.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20380106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkondo",
+      "en": "Nkondo",
+      "slug": "nkondo"
+    },
+    "code": {
+      "id": "UG20380106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203801",
+      "level": 3,
+      "name": {
+        "local": "Budiope",
+        "en": "Budiope",
+        "slug": "budiope-ug203801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2038",
+        "level": 2,
+        "name": {
+          "local": "Buyende",
+          "en": "Buyende",
+          "slug": "buyende-ug2038"
+        }
+      },
+      {
+        "id": "UG203801",
+        "level": 3,
+        "name": {
+          "local": "Budiope",
+          "en": "Budiope",
+          "slug": "budiope-ug203801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.328",
+      "lon": "33.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

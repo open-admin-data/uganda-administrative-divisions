@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG41010101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bihanga",
+      "en": "Bihanga",
+      "slug": "bihanga"
+    },
+    "code": {
+      "id": "UG41010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.249",
+      "lon": "30.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bitsya",
+      "en": "Bitsya",
+      "slug": "bitsya"
+    },
+    "code": {
+      "id": "UG41010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "30.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Burere",
+      "en": "Burere",
+      "slug": "burere"
+    },
+    "code": {
+      "id": "UG41010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.389",
+      "lon": "30.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Engaju",
+      "en": "Engaju",
+      "slug": "engaju"
+    },
+    "code": {
+      "id": "UG41010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.281",
+      "lon": "30.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karungu",
+      "en": "Karungu",
+      "slug": "karungu"
+    },
+    "code": {
+      "id": "UG41010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.374",
+      "lon": "30.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nsiika Town Council",
+      "en": "Nsiika Town Council",
+      "slug": "nsiika-town-council"
+    },
+    "code": {
+      "id": "UG41010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.361",
+      "lon": "30.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakishana",
+      "en": "Nyakishana",
+      "slug": "nyakishana"
+    },
+    "code": {
+      "id": "UG41010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.386",
+      "lon": "30.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41010108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwengwe",
+      "en": "Rwengwe",
+      "slug": "rwengwe"
+    },
+    "code": {
+      "id": "UG41010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410101",
+      "level": 3,
+      "name": {
+        "local": "Buhweju",
+        "en": "Buhweju",
+        "slug": "buhweju-ug410101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4101",
+        "level": 2,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug4101"
+        }
+      },
+      {
+        "id": "UG410101",
+        "level": 3,
+        "name": {
+          "local": "Buhweju",
+          "en": "Buhweju",
+          "slug": "buhweju-ug410101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.358",
+      "lon": "30.406"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

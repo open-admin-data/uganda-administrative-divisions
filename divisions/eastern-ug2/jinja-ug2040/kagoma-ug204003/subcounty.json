@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG20400301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budondo",
+      "en": "Budondo",
+      "slug": "budondo"
+    },
+    "code": {
+      "id": "UG20400301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204003",
+      "level": 3,
+      "name": {
+        "local": "Kagoma",
+        "en": "Kagoma",
+        "slug": "kagoma-ug204003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2040",
+        "level": 2,
+        "name": {
+          "local": "Jinja",
+          "en": "Jinja",
+          "slug": "jinja-ug2040"
+        }
+      },
+      {
+        "id": "UG204003",
+        "level": 3,
+        "name": {
+          "local": "Kagoma",
+          "en": "Kagoma",
+          "slug": "kagoma-ug204003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.528",
+      "lon": "33.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20400302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butagaya",
+      "en": "Butagaya",
+      "slug": "butagaya"
+    },
+    "code": {
+      "id": "UG20400302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204003",
+      "level": 3,
+      "name": {
+        "local": "Kagoma",
+        "en": "Kagoma",
+        "slug": "kagoma-ug204003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2040",
+        "level": 2,
+        "name": {
+          "local": "Jinja",
+          "en": "Jinja",
+          "slug": "jinja-ug2040"
+        }
+      },
+      {
+        "id": "UG204003",
+        "level": 3,
+        "name": {
+          "local": "Kagoma",
+          "en": "Kagoma",
+          "slug": "kagoma-ug204003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.611",
+      "lon": "33.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20400303",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwenge",
+      "en": "Buwenge",
+      "slug": "buwenge"
+    },
+    "code": {
+      "id": "UG20400303",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204003",
+      "level": 3,
+      "name": {
+        "local": "Kagoma",
+        "en": "Kagoma",
+        "slug": "kagoma-ug204003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2040",
+        "level": 2,
+        "name": {
+          "local": "Jinja",
+          "en": "Jinja",
+          "slug": "jinja-ug2040"
+        }
+      },
+      {
+        "id": "UG204003",
+        "level": 3,
+        "name": {
+          "local": "Kagoma",
+          "en": "Kagoma",
+          "slug": "kagoma-ug204003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.626",
+      "lon": "33.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20400304",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buwenge Town Council",
+      "en": "Buwenge Town Council",
+      "slug": "buwenge-town-council"
+    },
+    "code": {
+      "id": "UG20400304",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204003",
+      "level": 3,
+      "name": {
+        "local": "Kagoma",
+        "en": "Kagoma",
+        "slug": "kagoma-ug204003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2040",
+        "level": 2,
+        "name": {
+          "local": "Jinja",
+          "en": "Jinja",
+          "slug": "jinja-ug2040"
+        }
+      },
+      {
+        "id": "UG204003",
+        "level": 3,
+        "name": {
+          "local": "Kagoma",
+          "en": "Kagoma",
+          "slug": "kagoma-ug204003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.651",
+      "lon": "33.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20400305",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyengo",
+      "en": "Buyengo",
+      "slug": "buyengo"
+    },
+    "code": {
+      "id": "UG20400305",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204003",
+      "level": 3,
+      "name": {
+        "local": "Kagoma",
+        "en": "Kagoma",
+        "slug": "kagoma-ug204003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2040",
+        "level": 2,
+        "name": {
+          "local": "Jinja",
+          "en": "Jinja",
+          "slug": "jinja-ug2040"
+        }
+      },
+      {
+        "id": "UG204003",
+        "level": 3,
+        "name": {
+          "local": "Kagoma",
+          "en": "Kagoma",
+          "slug": "kagoma-ug204003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "33.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

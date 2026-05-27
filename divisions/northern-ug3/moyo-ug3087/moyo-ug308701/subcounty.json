@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30870101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Difule",
+      "en": "Difule",
+      "slug": "difule"
+    },
+    "code": {
+      "id": "UG30870101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.591",
+      "lon": "31.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30870102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Laropi",
+      "en": "Laropi",
+      "slug": "laropi"
+    },
+    "code": {
+      "id": "UG30870102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.558",
+      "lon": "31.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30870103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lefori",
+      "en": "Lefori",
+      "slug": "lefori"
+    },
+    "code": {
+      "id": "UG30870103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.636",
+      "lon": "31.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30870104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Metu",
+      "en": "Metu",
+      "slug": "metu"
+    },
+    "code": {
+      "id": "UG30870104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.704",
+      "lon": "31.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30870105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Moyo",
+      "en": "Moyo",
+      "slug": "moyo"
+    },
+    "code": {
+      "id": "UG30870105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.645",
+      "lon": "31.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30870106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Moyo Town Council",
+      "en": "Moyo Town Council",
+      "slug": "moyo-town-council"
+    },
+    "code": {
+      "id": "UG30870106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308701",
+      "level": 3,
+      "name": {
+        "local": "Moyo",
+        "en": "Moyo",
+        "slug": "moyo-ug308701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3087",
+        "level": 2,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug3087"
+        }
+      },
+      {
+        "id": "UG308701",
+        "level": 3,
+        "name": {
+          "local": "Moyo",
+          "en": "Moyo",
+          "slug": "moyo-ug308701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.651",
+      "lon": "31.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

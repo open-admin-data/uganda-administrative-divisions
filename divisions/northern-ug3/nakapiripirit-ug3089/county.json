@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG308901",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chekwi",
+      "en": "Chekwi",
+      "slug": "chekwi-ug308901"
+    },
+    "code": {
+      "id": "UG308901",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3089",
+      "level": 2,
+      "name": {
+        "local": "Nakapiripirit",
+        "en": "Nakapiripirit",
+        "slug": "nakapiripirit-ug3089"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3089",
+        "level": 2,
+        "name": {
+          "local": "Nakapiripirit",
+          "en": "Nakapiripirit",
+          "slug": "nakapiripirit-ug3089"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.847",
+      "lon": "34.639"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

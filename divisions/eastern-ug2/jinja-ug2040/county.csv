@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG204001,Butembe,Butembe,butembe-ug204001,UG204001,4,0.554,33.295
+UG204002,Jinja Municipality,Jinja Municipality,jinja-municipality-ug204002,UG204002,3,0.428,33.238
+UG204003,Kagoma,Kagoma,kagoma-ug204003,UG204003,5,0.588,33.164

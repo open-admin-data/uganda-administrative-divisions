@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG410201",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Buliisa",
+      "en": "Buliisa",
+      "slug": "buliisa-ug410201"
+    },
+    "code": {
+      "id": "UG410201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4102",
+      "level": 2,
+      "name": {
+        "local": "Buliisa",
+        "en": "Buliisa",
+        "slug": "buliisa-ug4102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4102",
+        "level": 2,
+        "name": {
+          "local": "Buliisa",
+          "en": "Buliisa",
+          "slug": "buliisa-ug4102"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.974",
+      "lon": "31.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

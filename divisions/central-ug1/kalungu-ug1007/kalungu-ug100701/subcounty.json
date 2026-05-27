@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG10070101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukulula",
+      "en": "Bukulula",
+      "slug": "bukulula"
+    },
+    "code": {
+      "id": "UG10070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.14",
+      "lon": "31.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalungu",
+      "en": "Kalungu",
+      "slug": "kalungu"
+    },
+    "code": {
+      "id": "UG10070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.189",
+      "lon": "31.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalungu Town Council",
+      "en": "Kalungu Town Council",
+      "slug": "kalungu-town-council"
+    },
+    "code": {
+      "id": "UG10070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.164",
+      "lon": "31.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamulibwa",
+      "en": "Kyamulibwa",
+      "slug": "kyamulibwa"
+    },
+    "code": {
+      "id": "UG10070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.08",
+      "lon": "31.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamulibwa Town Council",
+      "en": "Kyamulibwa Town Council",
+      "slug": "kyamulibwa-town-council"
+    },
+    "code": {
+      "id": "UG10070105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.074",
+      "lon": "31.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lukaya Town Council",
+      "en": "Lukaya Town Council",
+      "slug": "lukaya-town-council"
+    },
+    "code": {
+      "id": "UG10070106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "31.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10070107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwabenge",
+      "en": "Lwabenge",
+      "slug": "lwabenge"
+    },
+    "code": {
+      "id": "UG10070107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100701",
+      "level": 3,
+      "name": {
+        "local": "Kalungu",
+        "en": "Kalungu",
+        "slug": "kalungu-ug100701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1007",
+        "level": 2,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug1007"
+        }
+      },
+      {
+        "id": "UG100701",
+        "level": 3,
+        "name": {
+          "local": "Kalungu",
+          "en": "Kalungu",
+          "slug": "kalungu-ug100701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.003",
+      "lon": "31.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

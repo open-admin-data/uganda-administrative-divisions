@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG102101,KCCA,KCCA,kcca-ug102101,UG102101,1,0.344,32.758
+UG102102,Mukono,Mukono,mukono-ug102102,UG102102,7,0.211,32.764
+UG102103,Mukono Municipality,Mukono Municipality,mukono-municipality-ug102103,UG102103,1,0.38,32.703
+UG102104,Nakifuma,Nakifuma,nakifuma-ug102104,UG102104,6,0.611,32.842

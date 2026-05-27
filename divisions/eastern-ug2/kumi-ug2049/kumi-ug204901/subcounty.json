@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG20490101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atutur",
+      "en": "Atutur",
+      "slug": "atutur"
+    },
+    "code": {
+      "id": "UG20490101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.407",
+      "lon": "33.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kanyum",
+      "en": "Kanyum",
+      "slug": "kanyum"
+    },
+    "code": {
+      "id": "UG20490102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.358",
+      "lon": "33.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kumi",
+      "en": "Kumi",
+      "slug": "kumi"
+    },
+    "code": {
+      "id": "UG20490103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.579",
+      "lon": "33.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mukongoro",
+      "en": "Mukongoro",
+      "slug": "mukongoro"
+    },
+    "code": {
+      "id": "UG20490104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.315",
+      "lon": "33.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyero",
+      "en": "Nyero",
+      "slug": "nyero"
+    },
+    "code": {
+      "id": "UG20490105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.438",
+      "lon": "33.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20490106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ongino",
+      "en": "Ongino",
+      "slug": "ongino"
+    },
+    "code": {
+      "id": "UG20490106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204901",
+      "level": 3,
+      "name": {
+        "local": "Kumi",
+        "en": "Kumi",
+        "slug": "kumi-ug204901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2049",
+        "level": 2,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug2049"
+        }
+      },
+      {
+        "id": "UG204901",
+        "level": 3,
+        "name": {
+          "local": "Kumi",
+          "en": "Kumi",
+          "slug": "kumi-ug204901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.55",
+      "lon": "34.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

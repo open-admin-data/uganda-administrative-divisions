@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30690101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amudat",
+      "en": "Amudat",
+      "slug": "amudat"
+    },
+    "code": {
+      "id": "UG30690101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306901",
+      "level": 3,
+      "name": {
+        "local": "Pokot",
+        "en": "Pokot",
+        "slug": "pokot-ug306901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3069",
+        "level": 2,
+        "name": {
+          "local": "Amudat",
+          "en": "Amudat",
+          "slug": "amudat-ug3069"
+        }
+      },
+      {
+        "id": "UG306901",
+        "level": 3,
+        "name": {
+          "local": "Pokot",
+          "en": "Pokot",
+          "slug": "pokot-ug306901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.857",
+      "lon": "34.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30690102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Amudat Town Council",
+      "en": "Amudat Town Council",
+      "slug": "amudat-town-council"
+    },
+    "code": {
+      "id": "UG30690102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306901",
+      "level": 3,
+      "name": {
+        "local": "Pokot",
+        "en": "Pokot",
+        "slug": "pokot-ug306901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3069",
+        "level": 2,
+        "name": {
+          "local": "Amudat",
+          "en": "Amudat",
+          "slug": "amudat-ug3069"
+        }
+      },
+      {
+        "id": "UG306901",
+        "level": 3,
+        "name": {
+          "local": "Pokot",
+          "en": "Pokot",
+          "slug": "pokot-ug306901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.953",
+      "lon": "34.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30690103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Karita",
+      "en": "Karita",
+      "slug": "karita"
+    },
+    "code": {
+      "id": "UG30690103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306901",
+      "level": 3,
+      "name": {
+        "local": "Pokot",
+        "en": "Pokot",
+        "slug": "pokot-ug306901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3069",
+        "level": 2,
+        "name": {
+          "local": "Amudat",
+          "en": "Amudat",
+          "slug": "amudat-ug3069"
+        }
+      },
+      {
+        "id": "UG306901",
+        "level": 3,
+        "name": {
+          "local": "Pokot",
+          "en": "Pokot",
+          "slug": "pokot-ug306901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.549",
+      "lon": "34.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30690104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Loroo",
+      "en": "Loroo",
+      "slug": "loroo"
+    },
+    "code": {
+      "id": "UG30690104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306901",
+      "level": 3,
+      "name": {
+        "local": "Pokot",
+        "en": "Pokot",
+        "slug": "pokot-ug306901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3069",
+        "level": 2,
+        "name": {
+          "local": "Amudat",
+          "en": "Amudat",
+          "slug": "amudat-ug3069"
+        }
+      },
+      {
+        "id": "UG306901",
+        "level": 3,
+        "name": {
+          "local": "Pokot",
+          "en": "Pokot",
+          "slug": "pokot-ug306901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.146",
+      "lon": "34.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "UG205501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bukooli",
+    "en": "Bukooli",
+    "slug": "bukooli-ug205501"
+  },
+  "code": {
+    "id": "UG205501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2055",
+    "level": 2,
+    "name": {
+      "local": "Namayingo",
+      "en": "Namayingo",
+      "slug": "namayingo-ug2055"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2055",
+      "level": 2,
+      "name": {
+        "local": "Namayingo",
+        "en": "Namayingo",
+        "slug": "namayingo-ug2055"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.27",
+    "lon": "33.814"
+  },
+  "metadata": {},
+  "source": {}
+}

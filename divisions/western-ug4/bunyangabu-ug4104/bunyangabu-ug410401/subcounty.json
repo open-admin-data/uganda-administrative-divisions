@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG41040101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buheesi",
+      "en": "Buheesi",
+      "slug": "buheesi"
+    },
+    "code": {
+      "id": "UG41040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "30.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buheesi Town Council",
+      "en": "Buheesi Town Council",
+      "slug": "buheesi-town-council"
+    },
+    "code": {
+      "id": "UG41040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.568",
+      "lon": "30.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabonero",
+      "en": "Kabonero",
+      "slug": "kabonero"
+    },
+    "code": {
+      "id": "UG41040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.485",
+      "lon": "30.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katebwa",
+      "en": "Katebwa",
+      "slug": "katebwa"
+    },
+    "code": {
+      "id": "UG41040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.544",
+      "lon": "30.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibiito",
+      "en": "Kibiito",
+      "slug": "kibiito"
+    },
+    "code": {
+      "id": "UG41040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.448",
+      "lon": "30.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibiito Town Council",
+      "en": "Kibiito Town Council",
+      "slug": "kibiito-town-council"
+    },
+    "code": {
+      "id": "UG41040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.466",
+      "lon": "30.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisomoro",
+      "en": "Kisomoro",
+      "slug": "kisomoro"
+    },
+    "code": {
+      "id": "UG41040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.51",
+      "lon": "30.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiyombya",
+      "en": "Kiyombya",
+      "slug": "kiyombya"
+    },
+    "code": {
+      "id": "UG41040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.518",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyamukube Town Council",
+      "en": "Kyamukube Town Council",
+      "slug": "kyamukube-town-council"
+    },
+    "code": {
+      "id": "UG41040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "30.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubona Town Council",
+      "en": "Rubona Town Council",
+      "slug": "rubona-town-council"
+    },
+    "code": {
+      "id": "UG41040110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.558",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwimi",
+      "en": "Rwimi",
+      "slug": "rwimi"
+    },
+    "code": {
+      "id": "UG41040111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.398",
+      "lon": "30.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41040112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwimi Town Council",
+      "en": "Rwimi Town Council",
+      "slug": "rwimi-town-council"
+    },
+    "code": {
+      "id": "UG41040112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410401",
+      "level": 3,
+      "name": {
+        "local": "Bunyangabu",
+        "en": "Bunyangabu",
+        "slug": "bunyangabu-ug410401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4104",
+        "level": 2,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug4104"
+        }
+      },
+      {
+        "id": "UG410401",
+        "level": 3,
+        "name": {
+          "local": "Bunyangabu",
+          "en": "Bunyangabu",
+          "slug": "bunyangabu-ug410401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.375",
+      "lon": "30.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

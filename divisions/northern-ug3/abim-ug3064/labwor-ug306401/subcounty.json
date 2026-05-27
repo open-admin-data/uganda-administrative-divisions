@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG30640101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abim",
+      "en": "Abim",
+      "slug": "abim"
+    },
+    "code": {
+      "id": "UG30640101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.742",
+      "lon": "33.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abim Town Council",
+      "en": "Abim Town Council",
+      "slug": "abim-town-council"
+    },
+    "code": {
+      "id": "UG30640102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.645",
+      "lon": "33.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alerek",
+      "en": "Alerek",
+      "slug": "alerek"
+    },
+    "code": {
+      "id": "UG30640103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.959",
+      "lon": "33.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Awach",
+      "en": "Awach",
+      "slug": "awach"
+    },
+    "code": {
+      "id": "UG30640104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.617",
+      "lon": "33.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lotukei",
+      "en": "Lotukei",
+      "slug": "lotukei"
+    },
+    "code": {
+      "id": "UG30640105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.529",
+      "lon": "33.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magamaga",
+      "en": "Magamaga",
+      "slug": "magamaga"
+    },
+    "code": {
+      "id": "UG30640106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.703",
+      "lon": "33.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Morulem",
+      "en": "Morulem",
+      "slug": "morulem"
+    },
+    "code": {
+      "id": "UG30640107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.553",
+      "lon": "33.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30640108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyakwae",
+      "en": "Nyakwae",
+      "slug": "nyakwae"
+    },
+    "code": {
+      "id": "UG30640108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG306401",
+      "level": 3,
+      "name": {
+        "local": "Labwor",
+        "en": "Labwor",
+        "slug": "labwor-ug306401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3064",
+        "level": 2,
+        "name": {
+          "local": "Abim",
+          "en": "Abim",
+          "slug": "abim-ug3064"
+        }
+      },
+      {
+        "id": "UG306401",
+        "level": 3,
+        "name": {
+          "local": "Labwor",
+          "en": "Labwor",
+          "slug": "labwor-ug306401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.512",
+      "lon": "33.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

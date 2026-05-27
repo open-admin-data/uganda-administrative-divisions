@@ -1,0 +1,821 @@
+[
+  {
+    "id": "UG20500101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Benet",
+      "en": "Benet",
+      "slug": "benet"
+    },
+    "code": {
+      "id": "UG20500101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.247",
+      "lon": "34.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Binyiny",
+      "en": "Binyiny",
+      "slug": "binyiny"
+    },
+    "code": {
+      "id": "UG20500102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.438",
+      "lon": "34.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Binyiny Town Council",
+      "en": "Binyiny Town Council",
+      "slug": "binyiny-town-council"
+    },
+    "code": {
+      "id": "UG20500103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.417",
+      "lon": "34.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaproron",
+      "en": "Kaproron",
+      "slug": "kaproron"
+    },
+    "code": {
+      "id": "UG20500104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.443",
+      "lon": "34.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaproron Town Council",
+      "en": "Kaproron Town Council",
+      "slug": "kaproron-town-council"
+    },
+    "code": {
+      "id": "UG20500105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.438",
+      "lon": "34.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaptoyoy",
+      "en": "Kaptoyoy",
+      "slug": "kaptoyoy"
+    },
+    "code": {
+      "id": "UG20500106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.436",
+      "lon": "34.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaptum",
+      "en": "Kaptum",
+      "slug": "kaptum"
+    },
+    "code": {
+      "id": "UG20500107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.448",
+      "lon": "34.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiriki",
+      "en": "Kiriki",
+      "slug": "kiriki"
+    },
+    "code": {
+      "id": "UG20500108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.452",
+      "lon": "34.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitawoi",
+      "en": "Kitawoi",
+      "slug": "kitawoi"
+    },
+    "code": {
+      "id": "UG20500109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.325",
+      "lon": "34.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kwanyiy",
+      "en": "Kwanyiy",
+      "slug": "kwanyiy"
+    },
+    "code": {
+      "id": "UG20500110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.4",
+      "lon": "34.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kwosir",
+      "en": "Kwosir",
+      "slug": "kwosir"
+    },
+    "code": {
+      "id": "UG20500111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.351",
+      "lon": "34.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Moyok",
+      "en": "Moyok",
+      "slug": "moyok"
+    },
+    "code": {
+      "id": "UG20500112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.407",
+      "lon": "34.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20500113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngenge",
+      "en": "Ngenge",
+      "slug": "ngenge"
+    },
+    "code": {
+      "id": "UG20500113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205001",
+      "level": 3,
+      "name": {
+        "local": "Kween",
+        "en": "Kween",
+        "slug": "kween-ug205001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2050",
+        "level": 2,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug2050"
+        }
+      },
+      {
+        "id": "UG205001",
+        "level": 3,
+        "name": {
+          "local": "Kween",
+          "en": "Kween",
+          "slug": "kween-ug205001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.521",
+      "lon": "34.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

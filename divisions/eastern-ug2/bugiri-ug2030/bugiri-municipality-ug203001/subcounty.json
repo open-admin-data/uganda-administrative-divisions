@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG20300101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG20300101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203001",
+      "level": 3,
+      "name": {
+        "local": "Bugiri Municipality",
+        "en": "Bugiri Municipality",
+        "slug": "bugiri-municipality-ug203001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2030",
+        "level": 2,
+        "name": {
+          "local": "Bugiri",
+          "en": "Bugiri",
+          "slug": "bugiri-ug2030"
+        }
+      },
+      {
+        "id": "UG203001",
+        "level": 3,
+        "name": {
+          "local": "Bugiri Municipality",
+          "en": "Bugiri Municipality",
+          "slug": "bugiri-municipality-ug203001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.561",
+      "lon": "33.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20300102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG20300102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203001",
+      "level": 3,
+      "name": {
+        "local": "Bugiri Municipality",
+        "en": "Bugiri Municipality",
+        "slug": "bugiri-municipality-ug203001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2030",
+        "level": 2,
+        "name": {
+          "local": "Bugiri",
+          "en": "Bugiri",
+          "slug": "bugiri-ug2030"
+        }
+      },
+      {
+        "id": "UG203001",
+        "level": 3,
+        "name": {
+          "local": "Bugiri Municipality",
+          "en": "Bugiri Municipality",
+          "slug": "bugiri-municipality-ug203001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "33.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

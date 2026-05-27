@@ -1,0 +1,48 @@
+{
+  "id": "UG1004",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buvuma",
+    "en": "Buvuma",
+    "slug": "buvuma-ug1004"
+  },
+  "code": {
+    "id": "UG1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.347",
+    "lon": "33.199"
+  },
+  "metadata": {},
+  "source": {}
+}

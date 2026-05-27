@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG10100101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bbaale",
+      "en": "Bbaale",
+      "slug": "bbaale"
+    },
+    "code": {
+      "id": "UG10100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101001",
+      "level": 3,
+      "name": {
+        "local": "Bbaale",
+        "en": "Bbaale",
+        "slug": "bbaale-ug101001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101001",
+        "level": 3,
+        "name": {
+          "local": "Bbaale",
+          "en": "Bbaale",
+          "slug": "bbaale-ug101001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.126",
+      "lon": "32.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Galiraya",
+      "en": "Galiraya",
+      "slug": "galiraya"
+    },
+    "code": {
+      "id": "UG10100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101001",
+      "level": 3,
+      "name": {
+        "local": "Bbaale",
+        "en": "Bbaale",
+        "slug": "bbaale-ug101001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101001",
+        "level": 3,
+        "name": {
+          "local": "Bbaale",
+          "en": "Bbaale",
+          "slug": "bbaale-ug101001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.325",
+      "lon": "32.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kayonza",
+      "en": "Kayonza",
+      "slug": "kayonza"
+    },
+    "code": {
+      "id": "UG10100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101001",
+      "level": 3,
+      "name": {
+        "local": "Bbaale",
+        "en": "Bbaale",
+        "slug": "bbaale-ug101001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101001",
+        "level": 3,
+        "name": {
+          "local": "Bbaale",
+          "en": "Bbaale",
+          "slug": "bbaale-ug101001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.945",
+      "lon": "32.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitimbwa",
+      "en": "Kitimbwa",
+      "slug": "kitimbwa"
+    },
+    "code": {
+      "id": "UG10100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101001",
+      "level": 3,
+      "name": {
+        "local": "Bbaale",
+        "en": "Bbaale",
+        "slug": "bbaale-ug101001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101001",
+        "level": 3,
+        "name": {
+          "local": "Bbaale",
+          "en": "Bbaale",
+          "slug": "bbaale-ug101001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.865",
+      "lon": "32.935"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

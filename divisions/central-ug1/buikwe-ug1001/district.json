@@ -1,0 +1,48 @@
+{
+  "id": "UG1001",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buikwe",
+    "en": "Buikwe",
+    "slug": "buikwe-ug1001"
+  },
+  "code": {
+    "id": "UG1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 4,
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.302",
+    "lon": "33.039"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "UG100501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Gomba",
+    "en": "Gomba",
+    "slug": "gomba-ug100501"
+  },
+  "code": {
+    "id": "UG100501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1005",
+    "level": 2,
+    "name": {
+      "local": "Gomba",
+      "en": "Gomba",
+      "slug": "gomba-ug1005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1005",
+      "level": 2,
+      "name": {
+        "local": "Gomba",
+        "en": "Gomba",
+        "slug": "gomba-ug1005"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.203",
+    "lon": "31.737"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "UG1019",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mpigi",
+    "en": "Mpigi",
+    "slug": "mpigi-ug1019"
+  },
+  "code": {
+    "id": "UG1019",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.126",
+    "lon": "32.254"
+  },
+  "metadata": {},
+  "source": {}
+}

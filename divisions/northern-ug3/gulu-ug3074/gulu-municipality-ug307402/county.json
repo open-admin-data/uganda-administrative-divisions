@@ -1,0 +1,56 @@
+{
+  "id": "UG307402",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Gulu Municipality",
+    "en": "Gulu Municipality",
+    "slug": "gulu-municipality-ug307402"
+  },
+  "code": {
+    "id": "UG307402",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3074",
+    "level": 2,
+    "name": {
+      "local": "Gulu",
+      "en": "Gulu",
+      "slug": "gulu-ug3074"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3074",
+      "level": 2,
+      "name": {
+        "local": "Gulu",
+        "en": "Gulu",
+        "slug": "gulu-ug3074"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.781",
+    "lon": "32.288"
+  },
+  "metadata": {},
+  "source": {}
+}

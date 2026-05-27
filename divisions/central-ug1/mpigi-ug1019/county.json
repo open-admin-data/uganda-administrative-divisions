@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG101901",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mawokota",
+      "en": "Mawokota",
+      "slug": "mawokota-ug101901"
+    },
+    "code": {
+      "id": "UG101901",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1019",
+      "level": 2,
+      "name": {
+        "local": "Mpigi",
+        "en": "Mpigi",
+        "slug": "mpigi-ug1019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1019",
+        "level": 2,
+        "name": {
+          "local": "Mpigi",
+          "en": "Mpigi",
+          "slug": "mpigi-ug1019"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.126",
+      "lon": "32.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

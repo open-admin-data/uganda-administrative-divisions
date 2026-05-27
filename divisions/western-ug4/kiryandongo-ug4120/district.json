@@ -1,0 +1,48 @@
+{
+  "id": "UG4120",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kiryandongo",
+    "en": "Kiryandongo",
+    "slug": "kiryandongo-ug4120"
+  },
+  "code": {
+    "id": "UG4120",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.991",
+    "lon": "32.051"
+  },
+  "metadata": {},
+  "source": {}
+}

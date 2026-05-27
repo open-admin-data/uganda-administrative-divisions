@@ -1,0 +1,56 @@
+{
+  "id": "UG101301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kyotera",
+    "en": "Kyotera",
+    "slug": "kyotera-ug101301"
+  },
+  "code": {
+    "id": "UG101301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1013",
+    "level": 2,
+    "name": {
+      "local": "Kyotera",
+      "en": "Kyotera",
+      "slug": "kyotera-ug1013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1013",
+      "level": 2,
+      "name": {
+        "local": "Kyotera",
+        "en": "Kyotera",
+        "slug": "kyotera-ug1013"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.717",
+    "lon": "31.621"
+  },
+  "metadata": {},
+  "source": {}
+}

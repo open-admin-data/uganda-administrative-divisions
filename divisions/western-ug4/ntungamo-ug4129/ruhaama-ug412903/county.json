@@ -1,0 +1,56 @@
+{
+  "id": "UG412903",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ruhaama",
+    "en": "Ruhaama",
+    "slug": "ruhaama-ug412903"
+  },
+  "code": {
+    "id": "UG412903",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4129",
+    "level": 2,
+    "name": {
+      "local": "Ntungamo",
+      "en": "Ntungamo",
+      "slug": "ntungamo-ug4129"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4129",
+      "level": 2,
+      "name": {
+        "local": "Ntungamo",
+        "en": "Ntungamo",
+        "slug": "ntungamo-ug4129"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.893",
+    "lon": "30.448"
+  },
+  "metadata": {},
+  "source": {}
+}

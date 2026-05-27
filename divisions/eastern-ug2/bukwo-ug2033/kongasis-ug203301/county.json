@@ -1,0 +1,56 @@
+{
+  "id": "UG203301",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kongasis",
+    "en": "Kongasis",
+    "slug": "kongasis-ug203301"
+  },
+  "code": {
+    "id": "UG203301",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2033",
+    "level": 2,
+    "name": {
+      "local": "Bukwo",
+      "en": "Bukwo",
+      "slug": "bukwo-ug2033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    },
+    {
+      "id": "UG2033",
+      "level": 2,
+      "name": {
+        "local": "Bukwo",
+        "en": "Bukwo",
+        "slug": "bukwo-ug2033"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.27",
+    "lon": "34.698"
+  },
+  "metadata": {},
+  "source": {}
+}

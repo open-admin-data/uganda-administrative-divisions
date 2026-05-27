@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG30790101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aboke",
+      "en": "Aboke",
+      "slug": "aboke"
+    },
+    "code": {
+      "id": "UG30790101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.374",
+      "lon": "32.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Akalo",
+      "en": "Akalo",
+      "slug": "akalo"
+    },
+    "code": {
+      "id": "UG30790102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.147",
+      "lon": "32.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alito",
+      "en": "Alito",
+      "slug": "alito"
+    },
+    "code": {
+      "id": "UG30790103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.413",
+      "lon": "32.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ayer",
+      "en": "Ayer",
+      "slug": "ayer"
+    },
+    "code": {
+      "id": "UG30790104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.222",
+      "lon": "32.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bala",
+      "en": "Bala",
+      "slug": "bala"
+    },
+    "code": {
+      "id": "UG30790105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.199",
+      "lon": "32.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kole Town Council",
+      "en": "Kole Town Council",
+      "slug": "kole-town-council"
+    },
+    "code": {
+      "id": "UG30790106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.273",
+      "lon": "32.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30790107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okwerodot",
+      "en": "Okwerodot",
+      "slug": "okwerodot"
+    },
+    "code": {
+      "id": "UG30790107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307901",
+      "level": 3,
+      "name": {
+        "local": "Kole",
+        "en": "Kole",
+        "slug": "kole-ug307901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3079",
+        "level": 2,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug3079"
+        }
+      },
+      {
+        "id": "UG307901",
+        "level": 3,
+        "name": {
+          "local": "Kole",
+          "en": "Kole",
+          "slug": "kole-ug307901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.371",
+      "lon": "32.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

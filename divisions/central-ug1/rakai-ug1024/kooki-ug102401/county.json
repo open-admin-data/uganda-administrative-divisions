@@ -1,0 +1,56 @@
+{
+  "id": "UG102401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kooki",
+    "en": "Kooki",
+    "slug": "kooki-ug102401"
+  },
+  "code": {
+    "id": "UG102401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1024",
+    "level": 2,
+    "name": {
+      "local": "Rakai",
+      "en": "Rakai",
+      "slug": "rakai-ug1024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1024",
+      "level": 2,
+      "name": {
+        "local": "Rakai",
+        "en": "Rakai",
+        "slug": "rakai-ug1024"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.727",
+    "lon": "31.339"
+  },
+  "metadata": {},
+  "source": {}
+}

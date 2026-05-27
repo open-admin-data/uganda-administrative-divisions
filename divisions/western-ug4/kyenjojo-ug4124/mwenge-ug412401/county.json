@@ -1,0 +1,56 @@
+{
+  "id": "UG412401",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mwenge",
+    "en": "Mwenge",
+    "slug": "mwenge-ug412401"
+  },
+  "code": {
+    "id": "UG412401",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4124",
+    "level": 2,
+    "name": {
+      "local": "Kyenjojo",
+      "en": "Kyenjojo",
+      "slug": "kyenjojo-ug4124"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4124",
+      "level": 2,
+      "name": {
+        "local": "Kyenjojo",
+        "en": "Kyenjojo",
+        "slug": "kyenjojo-ug4124"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.643",
+    "lon": "30.659"
+  },
+  "metadata": {},
+  "source": {}
+}

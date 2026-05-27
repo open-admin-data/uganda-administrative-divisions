@@ -1,0 +1,48 @@
+{
+  "id": "UG4105",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bushenyi",
+    "en": "Bushenyi",
+    "slug": "bushenyi-ug4105"
+  },
+  "code": {
+    "id": "UG4105",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.475",
+    "lon": "30.171"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "UG100602",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kyamuswa",
+    "en": "Kyamuswa",
+    "slug": "kyamuswa-ug100602"
+  },
+  "code": {
+    "id": "UG100602",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1006",
+    "level": 2,
+    "name": {
+      "local": "Kalangala",
+      "en": "Kalangala",
+      "slug": "kalangala-ug1006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1006",
+      "level": 2,
+      "name": {
+        "local": "Kalangala",
+        "en": "Kalangala",
+        "slug": "kalangala-ug1006"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.572",
+    "lon": "32.438"
+  },
+  "metadata": {},
+  "source": {}
+}

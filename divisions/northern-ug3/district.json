@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "UG3064",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abim",
+      "en": "Abim",
+      "slug": "abim-ug3064"
+    },
+    "code": {
+      "id": "UG3064",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.746",
+      "lon": "33.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3065",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adjumani",
+      "en": "Adjumani",
+      "slug": "adjumani-ug3065"
+    },
+    "code": {
+      "id": "UG3065",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.235",
+      "lon": "31.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3066",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Agago",
+      "en": "Agago",
+      "slug": "agago-ug3066"
+    },
+    "code": {
+      "id": "UG3066",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.945",
+      "lon": "33.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3067",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alebtong",
+      "en": "Alebtong",
+      "slug": "alebtong-ug3067"
+    },
+    "code": {
+      "id": "UG3067",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.266",
+      "lon": "33.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3068",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amolatar",
+      "en": "Amolatar",
+      "slug": "amolatar-ug3068"
+    },
+    "code": {
+      "id": "UG3068",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.636",
+      "lon": "32.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3069",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amudat",
+      "en": "Amudat",
+      "slug": "amudat-ug3069"
+    },
+    "code": {
+      "id": "UG3069",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.825",
+      "lon": "34.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3070",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amuru",
+      "en": "Amuru",
+      "slug": "amuru-ug3070"
+    },
+    "code": {
+      "id": "UG3070",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.128",
+      "lon": "32.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3071",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Apac",
+      "en": "Apac",
+      "slug": "apac-ug3071"
+    },
+    "code": {
+      "id": "UG3071",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.931",
+      "lon": "32.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3072",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arua",
+      "en": "Arua",
+      "slug": "arua-ug3072"
+    },
+    "code": {
+      "id": "UG3072",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 4,
+      "subcounty": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.998",
+      "lon": "31.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3073",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dokolo",
+      "en": "Dokolo",
+      "slug": "dokolo-ug3073"
+    },
+    "code": {
+      "id": "UG3073",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.907",
+      "lon": "33.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3074",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gulu",
+      "en": "Gulu",
+      "slug": "gulu-ug3074"
+    },
+    "code": {
+      "id": "UG3074",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.019",
+      "lon": "32.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3075",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaabong",
+      "en": "Kaabong",
+      "slug": "kaabong-ug3075"
+    },
+    "code": {
+      "id": "UG3075",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.655",
+      "lon": "34.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3076",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karenga",
+      "en": "Karenga",
+      "slug": "karenga-ug3076"
+    },
+    "code": {
+      "id": "UG3076",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.71",
+      "lon": "33.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3077",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kitgum",
+      "en": "Kitgum",
+      "slug": "kitgum-ug3077"
+    },
+    "code": {
+      "id": "UG3077",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.417",
+      "lon": "33.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3078",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koboko",
+      "en": "Koboko",
+      "slug": "koboko-ug3078"
+    },
+    "code": {
+      "id": "UG3078",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.533",
+      "lon": "30.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3079",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kole",
+      "en": "Kole",
+      "slug": "kole-ug3079"
+    },
+    "code": {
+      "id": "UG3079",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.299",
+      "lon": "32.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3080",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kotido",
+      "en": "Kotido",
+      "slug": "kotido-ug3080"
+    },
+    "code": {
+      "id": "UG3080",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.989",
+      "lon": "34.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3081",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwania",
+      "en": "Kwania",
+      "slug": "kwania-ug3081"
+    },
+    "code": {
+      "id": "UG3081",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.901",
+      "lon": "32.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3082",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lamwo",
+      "en": "Lamwo",
+      "slug": "lamwo-ug3082"
+    },
+    "code": {
+      "id": "UG3082",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.521",
+      "lon": "32.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3083",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lira",
+      "en": "Lira",
+      "slug": "lira-ug3083"
+    },
+    "code": {
+      "id": "UG3083",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.332",
+      "lon": "32.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3084",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madi Okollo",
+      "en": "Madi Okollo",
+      "slug": "madi-okollo-ug3084"
+    },
+    "code": {
+      "id": "UG3084",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.867",
+      "lon": "31.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3085",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maracha",
+      "en": "Maracha",
+      "slug": "maracha-ug3085"
+    },
+    "code": {
+      "id": "UG3085",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.244",
+      "lon": "30.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3086",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moroto",
+      "en": "Moroto",
+      "slug": "moroto-ug3086"
+    },
+    "code": {
+      "id": "UG3086",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.613",
+      "lon": "34.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3087",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyo",
+      "en": "Moyo",
+      "slug": "moyo-ug3087"
+    },
+    "code": {
+      "id": "UG3087",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.665",
+      "lon": "31.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3088",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nabilatuk",
+      "en": "Nabilatuk",
+      "slug": "nabilatuk-ug3088"
+    },
+    "code": {
+      "id": "UG3088",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.038",
+      "lon": "34.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3089",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nakapiripirit",
+      "en": "Nakapiripirit",
+      "slug": "nakapiripirit-ug3089"
+    },
+    "code": {
+      "id": "UG3089",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.847",
+      "lon": "34.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3090",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Napak",
+      "en": "Napak",
+      "slug": "napak-ug3090"
+    },
+    "code": {
+      "id": "UG3090",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.395",
+      "lon": "34.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3091",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nebbi",
+      "en": "Nebbi",
+      "slug": "nebbi-ug3091"
+    },
+    "code": {
+      "id": "UG3091",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 2,
+      "subcounty": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.433",
+      "lon": "31.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3092",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nwoya",
+      "en": "Nwoya",
+      "slug": "nwoya-ug3092"
+    },
+    "code": {
+      "id": "UG3092",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.526",
+      "lon": "31.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3093",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obongi",
+      "en": "Obongi",
+      "slug": "obongi-ug3093"
+    },
+    "code": {
+      "id": "UG3093",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.364",
+      "lon": "31.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3094",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Omoro",
+      "en": "Omoro",
+      "slug": "omoro-ug3094"
+    },
+    "code": {
+      "id": "UG3094",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.645",
+      "lon": "32.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3095",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Otuke",
+      "en": "Otuke",
+      "slug": "otuke-ug3095"
+    },
+    "code": {
+      "id": "UG3095",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.476",
+      "lon": "33.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3096",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oyam",
+      "en": "Oyam",
+      "slug": "oyam-ug3096"
+    },
+    "code": {
+      "id": "UG3096",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.346",
+      "lon": "32.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3097",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pader",
+      "en": "Pader",
+      "slug": "pader-ug3097"
+    },
+    "code": {
+      "id": "UG3097",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.887",
+      "lon": "32.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3098",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakwach",
+      "en": "Pakwach",
+      "slug": "pakwach-ug3098"
+    },
+    "code": {
+      "id": "UG3098",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.465",
+      "lon": "31.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3099",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yumbe",
+      "en": "Yumbe",
+      "slug": "yumbe-ug3099"
+    },
+    "code": {
+      "id": "UG3099",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.488",
+      "lon": "31.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG3100",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zombo",
+      "en": "Zombo",
+      "slug": "zombo-ug3100"
+    },
+    "code": {
+      "id": "UG3100",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      }
+    ],
+    "children_count": {
+      "county": 1,
+      "subcounty": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.52",
+      "lon": "30.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

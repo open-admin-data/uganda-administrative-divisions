@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG10090101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukuya",
+      "en": "Bukuya",
+      "slug": "bukuya"
+    },
+    "code": {
+      "id": "UG10090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.662",
+      "lon": "31.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalwana",
+      "en": "Kalwana",
+      "slug": "kalwana"
+    },
+    "code": {
+      "id": "UG10090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.573",
+      "lon": "31.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kassanda",
+      "en": "Kassanda",
+      "slug": "kassanda"
+    },
+    "code": {
+      "id": "UG10090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "31.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kassanda Town Council",
+      "en": "Kassanda Town Council",
+      "slug": "kassanda-town-council"
+    },
+    "code": {
+      "id": "UG10090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.549",
+      "lon": "31.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiganda",
+      "en": "Kiganda",
+      "slug": "kiganda"
+    },
+    "code": {
+      "id": "UG10090105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.434",
+      "lon": "31.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitumbi",
+      "en": "Kitumbi",
+      "slug": "kitumbi"
+    },
+    "code": {
+      "id": "UG10090106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.703",
+      "lon": "31.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Makokoto",
+      "en": "Makokoto",
+      "slug": "makokoto"
+    },
+    "code": {
+      "id": "UG10090107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.741",
+      "lon": "31.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Manyogaseka",
+      "en": "Manyogaseka",
+      "slug": "manyogaseka"
+    },
+    "code": {
+      "id": "UG10090108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "31.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Myanzi",
+      "en": "Myanzi",
+      "slug": "myanzi"
+    },
+    "code": {
+      "id": "UG10090109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.44",
+      "lon": "31.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10090110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nalutuntu",
+      "en": "Nalutuntu",
+      "slug": "nalutuntu"
+    },
+    "code": {
+      "id": "UG10090110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100901",
+      "level": 3,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug100901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1009",
+        "level": 2,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug1009"
+        }
+      },
+      {
+        "id": "UG100901",
+        "level": 3,
+        "name": {
+          "local": "Kassanda",
+          "en": "Kassanda",
+          "slug": "kassanda-ug100901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.414",
+      "lon": "31.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

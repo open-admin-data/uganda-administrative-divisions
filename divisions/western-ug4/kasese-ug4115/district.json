@@ -1,0 +1,48 @@
+{
+  "id": "UG4115",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kasese",
+    "en": "Kasese",
+    "slug": "kasese-ug4115"
+  },
+  "code": {
+    "id": "UG4115",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 3,
+    "subcounty": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.136",
+    "lon": "30.008"
+  },
+  "metadata": {},
+  "source": {}
+}

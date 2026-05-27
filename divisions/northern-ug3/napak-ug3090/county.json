@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG309001",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bokora",
+      "en": "Bokora",
+      "slug": "bokora-ug309001"
+    },
+    "code": {
+      "id": "UG309001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG3090",
+      "level": 2,
+      "name": {
+        "local": "Napak",
+        "en": "Napak",
+        "slug": "napak-ug3090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3090",
+        "level": 2,
+        "name": {
+          "local": "Napak",
+          "en": "Napak",
+          "slug": "napak-ug3090"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.395",
+      "lon": "34.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

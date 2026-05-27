@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG30770201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG30770201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307702",
+      "level": 3,
+      "name": {
+        "local": "Kitgum Municipality",
+        "en": "Kitgum Municipality",
+        "slug": "kitgum-municipality-ug307702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307702",
+        "level": 3,
+        "name": {
+          "local": "Kitgum Municipality",
+          "en": "Kitgum Municipality",
+          "slug": "kitgum-municipality-ug307702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.291",
+      "lon": "32.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pager Division",
+      "en": "Pager Division",
+      "slug": "pager-division"
+    },
+    "code": {
+      "id": "UG30770202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307702",
+      "level": 3,
+      "name": {
+        "local": "Kitgum Municipality",
+        "en": "Kitgum Municipality",
+        "slug": "kitgum-municipality-ug307702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307702",
+        "level": 3,
+        "name": {
+          "local": "Kitgum Municipality",
+          "en": "Kitgum Municipality",
+          "slug": "kitgum-municipality-ug307702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.314",
+      "lon": "32.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30770203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pandwong Division",
+      "en": "Pandwong Division",
+      "slug": "pandwong-division"
+    },
+    "code": {
+      "id": "UG30770203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307702",
+      "level": 3,
+      "name": {
+        "local": "Kitgum Municipality",
+        "en": "Kitgum Municipality",
+        "slug": "kitgum-municipality-ug307702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3077",
+        "level": 2,
+        "name": {
+          "local": "Kitgum",
+          "en": "Kitgum",
+          "slug": "kitgum-ug3077"
+        }
+      },
+      {
+        "id": "UG307702",
+        "level": 3,
+        "name": {
+          "local": "Kitgum Municipality",
+          "en": "Kitgum Municipality",
+          "slug": "kitgum-municipality-ug307702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.282",
+      "lon": "32.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

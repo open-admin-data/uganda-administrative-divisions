@@ -1,0 +1,56 @@
+{
+  "id": "UG101201",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kiboga",
+    "en": "Kiboga",
+    "slug": "kiboga-ug101201"
+  },
+  "code": {
+    "id": "UG101201",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1012",
+    "level": 2,
+    "name": {
+      "local": "Kyankwanzi",
+      "en": "Kyankwanzi",
+      "slug": "kyankwanzi-ug1012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1012",
+      "level": 2,
+      "name": {
+        "local": "Kyankwanzi",
+        "en": "Kyankwanzi",
+        "slug": "kyankwanzi-ug1012"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.091",
+    "lon": "31.682"
+  },
+  "metadata": {},
+  "source": {}
+}

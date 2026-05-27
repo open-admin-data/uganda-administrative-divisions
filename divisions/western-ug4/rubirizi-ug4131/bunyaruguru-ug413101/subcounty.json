@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41310101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katanda",
+      "en": "Katanda",
+      "slug": "katanda"
+    },
+    "code": {
+      "id": "UG41310101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.24",
+      "lon": "30.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katerera",
+      "en": "Katerera",
+      "slug": "katerera"
+    },
+    "code": {
+      "id": "UG41310102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.19",
+      "lon": "30.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katerera Town Council",
+      "en": "Katerera Town Council",
+      "slug": "katerera-town-council"
+    },
+    "code": {
+      "id": "UG41310103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "30.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katunguru",
+      "en": "Katunguru",
+      "slug": "katunguru"
+    },
+    "code": {
+      "id": "UG41310104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.204",
+      "lon": "29.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kichwamba",
+      "en": "Kichwamba",
+      "slug": "kichwamba"
+    },
+    "code": {
+      "id": "UG41310105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.296",
+      "lon": "29.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kirugu",
+      "en": "Kirugu",
+      "slug": "kirugu"
+    },
+    "code": {
+      "id": "UG41310106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.174",
+      "lon": "30.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyabakara",
+      "en": "Kyabakara",
+      "slug": "kyabakara"
+    },
+    "code": {
+      "id": "UG41310107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.154",
+      "lon": "30.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magambo",
+      "en": "Magambo",
+      "slug": "magambo"
+    },
+    "code": {
+      "id": "UG41310108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.264",
+      "lon": "30.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubiriziri Town Council",
+      "en": "Rubiriziri Town Council",
+      "slug": "rubiriziri-town-council"
+    },
+    "code": {
+      "id": "UG41310109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.275",
+      "lon": "30.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rutoto",
+      "en": "Rutoto",
+      "slug": "rutoto"
+    },
+    "code": {
+      "id": "UG41310110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.376",
+      "lon": "29.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41310111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ryeru",
+      "en": "Ryeru",
+      "slug": "ryeru"
+    },
+    "code": {
+      "id": "UG41310111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413101",
+      "level": 3,
+      "name": {
+        "local": "Bunyaruguru",
+        "en": "Bunyaruguru",
+        "slug": "bunyaruguru-ug413101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4131",
+        "level": 2,
+        "name": {
+          "local": "Rubirizi",
+          "en": "Rubirizi",
+          "slug": "rubirizi-ug4131"
+        }
+      },
+      {
+        "id": "UG413101",
+        "level": 3,
+        "name": {
+          "local": "Bunyaruguru",
+          "en": "Bunyaruguru",
+          "slug": "bunyaruguru-ug413101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.291",
+      "lon": "30.141"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

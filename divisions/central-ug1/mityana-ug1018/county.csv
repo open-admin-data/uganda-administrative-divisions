@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subcounty,geo.lat,geo.lon
+UG101801,Busujju,Busujju,busujju-ug101801,UG101801,5,0.301,32.006
+UG101802,KCCA,KCCA,kcca-ug101802,UG101802,1,0.376,31.991
+UG101803,Mityana,Mityana,mityana-ug101803,UG101803,6,0.536,32.058
+UG101804,Mityana Municipality,Mityana Municipality,mityana-municipality-ug101804,UG101804,2,0.388,32.112

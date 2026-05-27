@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10020101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bigasa",
+      "en": "Bigasa",
+      "slug": "bigasa"
+    },
+    "code": {
+      "id": "UG10020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100201",
+      "level": 3,
+      "name": {
+        "local": "Bukomansimbi",
+        "en": "Bukomansimbi",
+        "slug": "bukomansimbi-ug100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1002",
+        "level": 2,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug1002"
+        }
+      },
+      {
+        "id": "UG100201",
+        "level": 3,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.045",
+      "lon": "31.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10020102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukomansimbi Town Council",
+      "en": "Bukomansimbi Town Council",
+      "slug": "bukomansimbi-town-council"
+    },
+    "code": {
+      "id": "UG10020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100201",
+      "level": 3,
+      "name": {
+        "local": "Bukomansimbi",
+        "en": "Bukomansimbi",
+        "slug": "bukomansimbi-ug100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1002",
+        "level": 2,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug1002"
+        }
+      },
+      {
+        "id": "UG100201",
+        "level": 3,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.164",
+      "lon": "31.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10020103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butenga",
+      "en": "Butenga",
+      "slug": "butenga"
+    },
+    "code": {
+      "id": "UG10020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100201",
+      "level": 3,
+      "name": {
+        "local": "Bukomansimbi",
+        "en": "Bukomansimbi",
+        "slug": "bukomansimbi-ug100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1002",
+        "level": 2,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug1002"
+        }
+      },
+      {
+        "id": "UG100201",
+        "level": 3,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.198",
+      "lon": "31.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10020104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibinge",
+      "en": "Kibinge",
+      "slug": "kibinge"
+    },
+    "code": {
+      "id": "UG10020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100201",
+      "level": 3,
+      "name": {
+        "local": "Bukomansimbi",
+        "en": "Bukomansimbi",
+        "slug": "bukomansimbi-ug100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1002",
+        "level": 2,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug1002"
+        }
+      },
+      {
+        "id": "UG100201",
+        "level": 3,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.252",
+      "lon": "31.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10020105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitanda",
+      "en": "Kitanda",
+      "slug": "kitanda"
+    },
+    "code": {
+      "id": "UG10020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100201",
+      "level": 3,
+      "name": {
+        "local": "Bukomansimbi",
+        "en": "Bukomansimbi",
+        "slug": "bukomansimbi-ug100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1002",
+        "level": 2,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug1002"
+        }
+      },
+      {
+        "id": "UG100201",
+        "level": 3,
+        "name": {
+          "local": "Bukomansimbi",
+          "en": "Bukomansimbi",
+          "slug": "bukomansimbi-ug100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.075",
+      "lon": "31.581"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

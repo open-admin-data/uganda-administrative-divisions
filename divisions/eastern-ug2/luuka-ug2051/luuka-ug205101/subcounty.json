@@ -1,0 +1,506 @@
+[
+  {
+    "id": "UG20510101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukanga",
+      "en": "Bukanga",
+      "slug": "bukanga"
+    },
+    "code": {
+      "id": "UG20510101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.707",
+      "lon": "33.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukooma",
+      "en": "Bukooma",
+      "slug": "bukooma"
+    },
+    "code": {
+      "id": "UG20510102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.873",
+      "lon": "33.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulongo",
+      "en": "Bulongo",
+      "slug": "bulongo"
+    },
+    "code": {
+      "id": "UG20510103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.77",
+      "lon": "33.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ikumbya",
+      "en": "Ikumbya",
+      "slug": "ikumbya"
+    },
+    "code": {
+      "id": "UG20510104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.001",
+      "lon": "33.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Irongo",
+      "en": "Irongo",
+      "slug": "irongo"
+    },
+    "code": {
+      "id": "UG20510105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "33.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Luuka Town Council",
+      "en": "Luuka Town Council",
+      "slug": "luuka-town-council"
+    },
+    "code": {
+      "id": "UG20510106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.763",
+      "lon": "33.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawampiti",
+      "en": "Nawampiti",
+      "slug": "nawampiti"
+    },
+    "code": {
+      "id": "UG20510107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.699",
+      "lon": "33.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20510108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Waibuga",
+      "en": "Waibuga",
+      "slug": "waibuga"
+    },
+    "code": {
+      "id": "UG20510108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205101",
+      "level": 3,
+      "name": {
+        "local": "Luuka",
+        "en": "Luuka",
+        "slug": "luuka-ug205101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2051",
+        "level": 2,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug2051"
+        }
+      },
+      {
+        "id": "UG205101",
+        "level": 3,
+        "name": {
+          "local": "Luuka",
+          "en": "Luuka",
+          "slug": "luuka-ug205101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.635",
+      "lon": "33.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG20430101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Budomero",
+      "en": "Budomero",
+      "slug": "budomero"
+    },
+    "code": {
+      "id": "UG20430101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.02",
+      "lon": "33.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukamba",
+      "en": "Bukamba",
+      "slug": "bukamba"
+    },
+    "code": {
+      "id": "UG20430102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.204",
+      "lon": "33.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bumanya",
+      "en": "Bumanya",
+      "slug": "bumanya"
+    },
+    "code": {
+      "id": "UG20430103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.002",
+      "lon": "33.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyinda",
+      "en": "Buyinda",
+      "slug": "buyinda"
+    },
+    "code": {
+      "id": "UG20430104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.039",
+      "lon": "33.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Gadumire",
+      "en": "Gadumire",
+      "slug": "gadumire"
+    },
+    "code": {
+      "id": "UG20430105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.152",
+      "lon": "33.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaliro Town Council",
+      "en": "Kaliro Town Council",
+      "slug": "kaliro-town-council"
+    },
+    "code": {
+      "id": "UG20430106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.899",
+      "lon": "33.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasokwe",
+      "en": "Kasokwe",
+      "slug": "kasokwe"
+    },
+    "code": {
+      "id": "UG20430107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.934",
+      "lon": "33.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisinda",
+      "en": "Kisinda",
+      "slug": "kisinda"
+    },
+    "code": {
+      "id": "UG20430108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.151",
+      "lon": "33.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namugongo",
+      "en": "Namugongo",
+      "slug": "namugongo"
+    },
+    "code": {
+      "id": "UG20430109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.916",
+      "lon": "33.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namwiwa",
+      "en": "Namwiwa",
+      "slug": "namwiwa"
+    },
+    "code": {
+      "id": "UG20430110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.106",
+      "lon": "33.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nansololo",
+      "en": "Nansololo",
+      "slug": "nansololo"
+    },
+    "code": {
+      "id": "UG20430111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.036",
+      "lon": "33.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20430112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nawaikoke",
+      "en": "Nawaikoke",
+      "slug": "nawaikoke"
+    },
+    "code": {
+      "id": "UG20430112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204301",
+      "level": 3,
+      "name": {
+        "local": "Bulamogi",
+        "en": "Bulamogi",
+        "slug": "bulamogi-ug204301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2043",
+        "level": 2,
+        "name": {
+          "local": "Kaliro",
+          "en": "Kaliro",
+          "slug": "kaliro-ug2043"
+        }
+      },
+      {
+        "id": "UG204301",
+        "level": 3,
+        "name": {
+          "local": "Bulamogi",
+          "en": "Bulamogi",
+          "slug": "bulamogi-ug204301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.115",
+      "lon": "33.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

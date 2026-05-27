@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG41120101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Birembo",
+      "en": "Birembo",
+      "slug": "birembo"
+    },
+    "code": {
+      "id": "UG41120101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.923",
+      "lon": "31.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bwanswa",
+      "en": "Bwanswa",
+      "slug": "bwanswa"
+    },
+    "code": {
+      "id": "UG41120102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.792",
+      "lon": "31.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakindo",
+      "en": "Kakindo",
+      "slug": "kakindo"
+    },
+    "code": {
+      "id": "UG41120103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.109",
+      "lon": "31.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakumiro Town Council",
+      "en": "Kakumiro Town Council",
+      "slug": "kakumiro-town-council"
+    },
+    "code": {
+      "id": "UG41120104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.777",
+      "lon": "31.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasambya",
+      "en": "Kasambya",
+      "slug": "kasambya"
+    },
+    "code": {
+      "id": "UG41120105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.88",
+      "lon": "31.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katikara",
+      "en": "Katikara",
+      "slug": "katikara"
+    },
+    "code": {
+      "id": "UG41120106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.138",
+      "lon": "31.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kijangi",
+      "en": "Kijangi",
+      "slug": "kijangi"
+    },
+    "code": {
+      "id": "UG41120107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.007",
+      "lon": "31.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikwaya",
+      "en": "Kikwaya",
+      "slug": "kikwaya"
+    },
+    "code": {
+      "id": "UG41120108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.014",
+      "lon": "31.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisiita",
+      "en": "Kisiita",
+      "slug": "kisiita"
+    },
+    "code": {
+      "id": "UG41120109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.048",
+      "lon": "31.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kisiita Town Council",
+      "en": "Kisiita Town Council",
+      "slug": "kisiita-town-council"
+    },
+    "code": {
+      "id": "UG41120110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.12",
+      "lon": "31.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitaihuka",
+      "en": "Kitaihuka",
+      "slug": "kitaihuka"
+    },
+    "code": {
+      "id": "UG41120111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.029",
+      "lon": "31.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpasaana",
+      "en": "Mpasaana",
+      "slug": "mpasaana"
+    },
+    "code": {
+      "id": "UG41120112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.034",
+      "lon": "31.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nalweyo",
+      "en": "Nalweyo",
+      "slug": "nalweyo"
+    },
+    "code": {
+      "id": "UG41120113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.119",
+      "lon": "31.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41120114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nkooko",
+      "en": "Nkooko",
+      "slug": "nkooko"
+    },
+    "code": {
+      "id": "UG41120114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG411201",
+      "level": 3,
+      "name": {
+        "local": "Bugangaizi",
+        "en": "Bugangaizi",
+        "slug": "bugangaizi-ug411201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4112",
+        "level": 2,
+        "name": {
+          "local": "Kakumiro",
+          "en": "Kakumiro",
+          "slug": "kakumiro-ug4112"
+        }
+      },
+      {
+        "id": "UG411201",
+        "level": 3,
+        "name": {
+          "local": "Bugangaizi",
+          "en": "Bugangaizi",
+          "slug": "bugangaizi-ug411201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.928",
+      "lon": "31.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

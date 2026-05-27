@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG20600201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Atiira",
+      "en": "Atiira",
+      "slug": "atiira"
+    },
+    "code": {
+      "id": "UG20600201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206002",
+      "level": 3,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug206002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206002",
+        "level": 3,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug206002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.607",
+      "lon": "33.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kateta",
+      "en": "Kateta",
+      "slug": "kateta"
+    },
+    "code": {
+      "id": "UG20600202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206002",
+      "level": 3,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug206002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206002",
+        "level": 3,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug206002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.406",
+      "lon": "33.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyere",
+      "en": "Kyere",
+      "slug": "kyere"
+    },
+    "code": {
+      "id": "UG20600203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206002",
+      "level": 3,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug206002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206002",
+        "level": 3,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug206002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.481",
+      "lon": "33.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Olio",
+      "en": "Olio",
+      "slug": "olio"
+    },
+    "code": {
+      "id": "UG20600204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206002",
+      "level": 3,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug206002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206002",
+        "level": 3,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug206002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.54",
+      "lon": "33.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20600205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Serere Town Council",
+      "en": "Serere Town Council",
+      "slug": "serere-town-council"
+    },
+    "code": {
+      "id": "UG20600205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG206002",
+      "level": 3,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug206002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      },
+      {
+        "id": "UG206002",
+        "level": 3,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug206002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.531",
+      "lon": "33.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

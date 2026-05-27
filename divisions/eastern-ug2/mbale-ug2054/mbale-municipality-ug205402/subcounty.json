@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG20540201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Industrial Divison",
+      "en": "Industrial Divison",
+      "slug": "industrial-divison"
+    },
+    "code": {
+      "id": "UG20540201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205402",
+      "level": 3,
+      "name": {
+        "local": "Mbale Municipality",
+        "en": "Mbale Municipality",
+        "slug": "mbale-municipality-ug205402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205402",
+        "level": 3,
+        "name": {
+          "local": "Mbale Municipality",
+          "en": "Mbale Municipality",
+          "slug": "mbale-municipality-ug205402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.072",
+      "lon": "34.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Northern Division",
+      "en": "Northern Division",
+      "slug": "northern-division"
+    },
+    "code": {
+      "id": "UG20540202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205402",
+      "level": 3,
+      "name": {
+        "local": "Mbale Municipality",
+        "en": "Mbale Municipality",
+        "slug": "mbale-municipality-ug205402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205402",
+        "level": 3,
+        "name": {
+          "local": "Mbale Municipality",
+          "en": "Mbale Municipality",
+          "slug": "mbale-municipality-ug205402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.088",
+      "lon": "34.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20540203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wanale Division",
+      "en": "Wanale Division",
+      "slug": "wanale-division"
+    },
+    "code": {
+      "id": "UG20540203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205402",
+      "level": 3,
+      "name": {
+        "local": "Mbale Municipality",
+        "en": "Mbale Municipality",
+        "slug": "mbale-municipality-ug205402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2054",
+        "level": 2,
+        "name": {
+          "local": "Mbale",
+          "en": "Mbale",
+          "slug": "mbale-ug2054"
+        }
+      },
+      {
+        "id": "UG205402",
+        "level": 3,
+        "name": {
+          "local": "Mbale Municipality",
+          "en": "Mbale Municipality",
+          "slug": "mbale-municipality-ug205402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.068",
+      "lon": "34.194"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

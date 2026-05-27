@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG30840101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Anyiribu",
+      "en": "Anyiribu",
+      "slug": "anyiribu"
+    },
+    "code": {
+      "id": "UG30840101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.583",
+      "lon": "31.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ewanga",
+      "en": "Ewanga",
+      "slug": "ewanga"
+    },
+    "code": {
+      "id": "UG30840102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.154",
+      "lon": "31.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Inde Town Council",
+      "en": "Inde Town Council",
+      "slug": "inde-town-council"
+    },
+    "code": {
+      "id": "UG30840103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.876",
+      "lon": "31.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Offaka",
+      "en": "Offaka",
+      "slug": "offaka"
+    },
+    "code": {
+      "id": "UG30840104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.667",
+      "lon": "31.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ogoko",
+      "en": "Ogoko",
+      "slug": "ogoko"
+    },
+    "code": {
+      "id": "UG30840105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.923",
+      "lon": "31.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Okollo",
+      "en": "Okollo",
+      "slug": "okollo"
+    },
+    "code": {
+      "id": "UG30840106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.711",
+      "lon": "31.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pawor",
+      "en": "Pawor",
+      "slug": "pawor"
+    },
+    "code": {
+      "id": "UG30840107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.819",
+      "lon": "31.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rhino Camp",
+      "en": "Rhino Camp",
+      "slug": "rhino-camp"
+    },
+    "code": {
+      "id": "UG30840108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.999",
+      "lon": "31.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rigbo",
+      "en": "Rigbo",
+      "slug": "rigbo"
+    },
+    "code": {
+      "id": "UG30840109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.09",
+      "lon": "31.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30840110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Uleppi",
+      "en": "Uleppi",
+      "slug": "uleppi"
+    },
+    "code": {
+      "id": "UG30840110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308401",
+      "level": 3,
+      "name": {
+        "local": "Madi Okollo",
+        "en": "Madi Okollo",
+        "slug": "madi-okollo-ug308401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3084",
+        "level": 2,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug3084"
+        }
+      },
+      {
+        "id": "UG308401",
+        "level": 3,
+        "name": {
+          "local": "Madi Okollo",
+          "en": "Madi Okollo",
+          "slug": "madi-okollo-ug308401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.782",
+      "lon": "31.065"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

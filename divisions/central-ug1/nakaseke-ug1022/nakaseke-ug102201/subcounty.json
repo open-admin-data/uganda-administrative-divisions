@@ -1,0 +1,947 @@
+[
+  {
+    "id": "UG10220101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Butalangu Town Council",
+      "en": "Butalangu Town Council",
+      "slug": "butalangu-town-council"
+    },
+    "code": {
+      "id": "UG10220101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.846",
+      "lon": "32.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapeeka",
+      "en": "Kapeeka",
+      "slug": "kapeeka"
+    },
+    "code": {
+      "id": "UG10220102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.687",
+      "lon": "32.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasangombe",
+      "en": "Kasangombe",
+      "slug": "kasangombe"
+    },
+    "code": {
+      "id": "UG10220103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.741",
+      "lon": "32.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kikamulo",
+      "en": "Kikamulo",
+      "slug": "kikamulo"
+    },
+    "code": {
+      "id": "UG10220104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.839",
+      "lon": "32.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinoni",
+      "en": "Kinoni",
+      "slug": "kinoni"
+    },
+    "code": {
+      "id": "UG10220105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.365",
+      "lon": "31.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinyogoga",
+      "en": "Kinyogoga",
+      "slug": "kinyogoga"
+    },
+    "code": {
+      "id": "UG10220106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.181",
+      "lon": "32.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kito",
+      "en": "Kito",
+      "slug": "kito"
+    },
+    "code": {
+      "id": "UG10220107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.761",
+      "lon": "32.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kiwoko Town Council",
+      "en": "Kiwoko Town Council",
+      "slug": "kiwoko-town-council"
+    },
+    "code": {
+      "id": "UG10220108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.851",
+      "lon": "32.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakaseke",
+      "en": "Nakaseke",
+      "slug": "nakaseke"
+    },
+    "code": {
+      "id": "UG10220109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.718",
+      "lon": "32.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nakaseke Town Council",
+      "en": "Nakaseke Town Council",
+      "slug": "nakaseke-town-council"
+    },
+    "code": {
+      "id": "UG10220110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.724",
+      "lon": "32.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "UG10220111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.142",
+      "lon": "31.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ngoma Town Council",
+      "en": "Ngoma Town Council",
+      "slug": "ngoma-town-council"
+    },
+    "code": {
+      "id": "UG10220112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.177",
+      "lon": "32.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Semuto",
+      "en": "Semuto",
+      "slug": "semuto"
+    },
+    "code": {
+      "id": "UG10220113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.595",
+      "lon": "32.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Semuto Town Council",
+      "en": "Semuto Town Council",
+      "slug": "semuto-town-council"
+    },
+    "code": {
+      "id": "UG10220114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.642",
+      "lon": "32.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10220115",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wakyato",
+      "en": "Wakyato",
+      "slug": "wakyato"
+    },
+    "code": {
+      "id": "UG10220115",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102201",
+      "level": 3,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug102201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      },
+      {
+        "id": "UG102201",
+        "level": 3,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug102201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.952",
+      "lon": "32.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

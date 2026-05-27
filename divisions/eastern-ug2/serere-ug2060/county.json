@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG206001",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kasilo",
+      "en": "Kasilo",
+      "slug": "kasilo-ug206001"
+    },
+    "code": {
+      "id": "UG206001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2060",
+      "level": 2,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug2060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.503",
+      "lon": "33.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG206002",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Serere",
+      "en": "Serere",
+      "slug": "serere-ug206002"
+    },
+    "code": {
+      "id": "UG206002",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG2060",
+      "level": 2,
+      "name": {
+        "local": "Serere",
+        "en": "Serere",
+        "slug": "serere-ug2060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2060",
+        "level": 2,
+        "name": {
+          "local": "Serere",
+          "en": "Serere",
+          "slug": "serere-ug2060"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.491",
+      "lon": "33.566"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

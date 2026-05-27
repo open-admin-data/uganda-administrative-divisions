@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG20470201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kapujan",
+      "en": "Kapujan",
+      "slug": "kapujan"
+    },
+    "code": {
+      "id": "UG20470201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204702",
+      "level": 3,
+      "name": {
+        "local": "Toroma",
+        "en": "Toroma",
+        "slug": "toroma-ug204702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204702",
+        "level": 3,
+        "name": {
+          "local": "Toroma",
+          "en": "Toroma",
+          "slug": "toroma-ug204702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.705",
+      "lon": "33.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magoro",
+      "en": "Magoro",
+      "slug": "magoro"
+    },
+    "code": {
+      "id": "UG20470202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204702",
+      "level": 3,
+      "name": {
+        "local": "Toroma",
+        "en": "Toroma",
+        "slug": "toroma-ug204702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204702",
+        "level": 3,
+        "name": {
+          "local": "Toroma",
+          "en": "Toroma",
+          "slug": "toroma-ug204702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.723",
+      "lon": "34.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omodoi",
+      "en": "Omodoi",
+      "slug": "omodoi"
+    },
+    "code": {
+      "id": "UG20470203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204702",
+      "level": 3,
+      "name": {
+        "local": "Toroma",
+        "en": "Toroma",
+        "slug": "toroma-ug204702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204702",
+        "level": 3,
+        "name": {
+          "local": "Toroma",
+          "en": "Toroma",
+          "slug": "toroma-ug204702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.782",
+      "lon": "33.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20470204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Toroma",
+      "en": "Toroma",
+      "slug": "toroma"
+    },
+    "code": {
+      "id": "UG20470204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204702",
+      "level": 3,
+      "name": {
+        "local": "Toroma",
+        "en": "Toroma",
+        "slug": "toroma-ug204702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2047",
+        "level": 2,
+        "name": {
+          "local": "Katakwi",
+          "en": "Katakwi",
+          "slug": "katakwi-ug2047"
+        }
+      },
+      {
+        "id": "UG204702",
+        "level": 3,
+        "name": {
+          "local": "Toroma",
+          "en": "Toroma",
+          "slug": "toroma-ug204702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.698",
+      "lon": "33.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "UG3080",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotido",
+    "en": "Kotido",
+    "slug": "kotido-ug3080"
+  },
+  "code": {
+    "id": "UG3080",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.989",
+    "lon": "34.035"
+  },
+  "metadata": {},
+  "source": {}
+}

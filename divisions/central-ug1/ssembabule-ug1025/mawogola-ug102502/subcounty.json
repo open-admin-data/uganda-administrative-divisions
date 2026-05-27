@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG10250201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lugusulu",
+      "en": "Lugusulu",
+      "slug": "lugusulu"
+    },
+    "code": {
+      "id": "UG10250201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.057",
+      "lon": "31.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lwebitakuli",
+      "en": "Lwebitakuli",
+      "slug": "lwebitakuli"
+    },
+    "code": {
+      "id": "UG10250202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.241",
+      "lon": "31.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mateete",
+      "en": "Mateete",
+      "slug": "mateete"
+    },
+    "code": {
+      "id": "UG10250203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.232",
+      "lon": "31.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mateete Town Council",
+      "en": "Mateete Town Council",
+      "slug": "mateete-town-council"
+    },
+    "code": {
+      "id": "UG10250204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.247",
+      "lon": "31.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mijwala",
+      "en": "Mijwala",
+      "slug": "mijwala"
+    },
+    "code": {
+      "id": "UG10250205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.115",
+      "lon": "31.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10250206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sembabule Town Council",
+      "en": "Sembabule Town Council",
+      "slug": "sembabule-town-council"
+    },
+    "code": {
+      "id": "UG10250206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102502",
+      "level": 3,
+      "name": {
+        "local": "Mawogola",
+        "en": "Mawogola",
+        "slug": "mawogola-ug102502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1025",
+        "level": 2,
+        "name": {
+          "local": "Ssembabule",
+          "en": "Ssembabule",
+          "slug": "ssembabule-ug1025"
+        }
+      },
+      {
+        "id": "UG102502",
+        "level": 3,
+        "name": {
+          "local": "Mawogola",
+          "en": "Mawogola",
+          "slug": "mawogola-ug102502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.088",
+      "lon": "31.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

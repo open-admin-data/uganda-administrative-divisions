@@ -1,0 +1,56 @@
+{
+  "id": "UG307501",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Dodoth",
+    "en": "Dodoth",
+    "slug": "dodoth-ug307501"
+  },
+  "code": {
+    "id": "UG307501",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3075",
+    "level": 2,
+    "name": {
+      "local": "Kaabong",
+      "en": "Kaabong",
+      "slug": "kaabong-ug3075"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3075",
+      "level": 2,
+      "name": {
+        "local": "Kaabong",
+        "en": "Kaabong",
+        "slug": "kaabong-ug3075"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.655",
+    "lon": "34.209"
+  },
+  "metadata": {},
+  "source": {}
+}

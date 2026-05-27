@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG30800201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG30800201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308002",
+      "level": 3,
+      "name": {
+        "local": "Kotido Municipality",
+        "en": "Kotido Municipality",
+        "slug": "kotido-municipality-ug308002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308002",
+        "level": 3,
+        "name": {
+          "local": "Kotido Municipality",
+          "en": "Kotido Municipality",
+          "slug": "kotido-municipality-ug308002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.997",
+      "lon": "34.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "North Division",
+      "en": "North Division",
+      "slug": "north-division"
+    },
+    "code": {
+      "id": "UG30800202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308002",
+      "level": 3,
+      "name": {
+        "local": "Kotido Municipality",
+        "en": "Kotido Municipality",
+        "slug": "kotido-municipality-ug308002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308002",
+        "level": 3,
+        "name": {
+          "local": "Kotido Municipality",
+          "en": "Kotido Municipality",
+          "slug": "kotido-municipality-ug308002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.055",
+      "lon": "34.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "South Division",
+      "en": "South Division",
+      "slug": "south-division"
+    },
+    "code": {
+      "id": "UG30800203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308002",
+      "level": 3,
+      "name": {
+        "local": "Kotido Municipality",
+        "en": "Kotido Municipality",
+        "slug": "kotido-municipality-ug308002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308002",
+        "level": 3,
+        "name": {
+          "local": "Kotido Municipality",
+          "en": "Kotido Municipality",
+          "slug": "kotido-municipality-ug308002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.938",
+      "lon": "34.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30800204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "West Division",
+      "en": "West Division",
+      "slug": "west-division"
+    },
+    "code": {
+      "id": "UG30800204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308002",
+      "level": 3,
+      "name": {
+        "local": "Kotido Municipality",
+        "en": "Kotido Municipality",
+        "slug": "kotido-municipality-ug308002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3080",
+        "level": 2,
+        "name": {
+          "local": "Kotido",
+          "en": "Kotido",
+          "slug": "kotido-ug3080"
+        }
+      },
+      {
+        "id": "UG308002",
+        "level": 3,
+        "name": {
+          "local": "Kotido Municipality",
+          "en": "Kotido Municipality",
+          "slug": "kotido-municipality-ug308002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.953",
+      "lon": "34.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

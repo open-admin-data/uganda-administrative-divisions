@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG41230101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Hapuuyo",
+      "en": "Hapuuyo",
+      "slug": "hapuuyo"
+    },
+    "code": {
+      "id": "UG41230101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.59",
+      "lon": "31.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabweza Kyegegwa",
+      "en": "Kabweza Kyegegwa",
+      "slug": "kabweza-kyegegwa"
+    },
+    "code": {
+      "id": "UG41230102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.423",
+      "lon": "31.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakabara",
+      "en": "Kakabara",
+      "slug": "kakabara"
+    },
+    "code": {
+      "id": "UG41230103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.558",
+      "lon": "30.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasule",
+      "en": "Kasule",
+      "slug": "kasule"
+    },
+    "code": {
+      "id": "UG41230104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.574",
+      "lon": "31.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigambo",
+      "en": "Kigambo",
+      "slug": "kigambo"
+    },
+    "code": {
+      "id": "UG41230105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.682",
+      "lon": "30.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyegegwa Town Council",
+      "en": "Kyegegwa Town Council",
+      "slug": "kyegegwa-town-council"
+    },
+    "code": {
+      "id": "UG41230106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.519",
+      "lon": "31.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mpara",
+      "en": "Mpara",
+      "slug": "mpara"
+    },
+    "code": {
+      "id": "UG41230107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.397",
+      "lon": "31.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruyonza",
+      "en": "Ruyonza",
+      "slug": "ruyonza"
+    },
+    "code": {
+      "id": "UG41230108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.277",
+      "lon": "30.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41230109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rwentuha",
+      "en": "Rwentuha",
+      "slug": "rwentuha"
+    },
+    "code": {
+      "id": "UG41230109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412301",
+      "level": 3,
+      "name": {
+        "local": "Kyaka",
+        "en": "Kyaka",
+        "slug": "kyaka-ug412301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4123",
+        "level": 2,
+        "name": {
+          "local": "Kyegegwa",
+          "en": "Kyegegwa",
+          "slug": "kyegegwa-ug4123"
+        }
+      },
+      {
+        "id": "UG412301",
+        "level": 3,
+        "name": {
+          "local": "Kyaka",
+          "en": "Kyaka",
+          "slug": "kyaka-ug412301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.34",
+      "lon": "30.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "UG41300101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bubaare",
+      "en": "Bubaare",
+      "slug": "bubaare"
+    },
+    "code": {
+      "id": "UG41300101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.23",
+      "lon": "29.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bufundi",
+      "en": "Bufundi",
+      "slug": "bufundi"
+    },
+    "code": {
+      "id": "UG41300102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.296",
+      "lon": "29.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Hamurwa",
+      "en": "Hamurwa",
+      "slug": "hamurwa"
+    },
+    "code": {
+      "id": "UG41300103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.117",
+      "lon": "29.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Hamurwa Town Council",
+      "en": "Hamurwa Town Council",
+      "slug": "hamurwa-town-council"
+    },
+    "code": {
+      "id": "UG41300104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.149",
+      "lon": "29.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ikumba",
+      "en": "Ikumba",
+      "slug": "ikumba"
+    },
+    "code": {
+      "id": "UG41300105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.095",
+      "lon": "29.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Muko",
+      "en": "Muko",
+      "slug": "muko"
+    },
+    "code": {
+      "id": "UG41300106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.201",
+      "lon": "29.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamweru",
+      "en": "Nyamweru",
+      "slug": "nyamweru"
+    },
+    "code": {
+      "id": "UG41300107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.17",
+      "lon": "29.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rubanda Town Council",
+      "en": "Rubanda Town Council",
+      "slug": "rubanda-town-council"
+    },
+    "code": {
+      "id": "UG41300108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.166",
+      "lon": "29.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41300109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ruhija",
+      "en": "Ruhija",
+      "slug": "ruhija"
+    },
+    "code": {
+      "id": "UG41300109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413001",
+      "level": 3,
+      "name": {
+        "local": "Rubanda",
+        "en": "Rubanda",
+        "slug": "rubanda-ug413001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4130",
+        "level": 2,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug4130"
+        }
+      },
+      {
+        "id": "UG413001",
+        "level": 3,
+        "name": {
+          "local": "Rubanda",
+          "en": "Rubanda",
+          "slug": "rubanda-ug413001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.034",
+      "lon": "29.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "UG20570101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulange",
+      "en": "Bulange",
+      "slug": "bulange"
+    },
+    "code": {
+      "id": "UG20570101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.755",
+      "lon": "33.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ivukula",
+      "en": "Ivukula",
+      "slug": "ivukula"
+    },
+    "code": {
+      "id": "UG20570102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.022",
+      "lon": "33.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kibaale",
+      "en": "Kibaale",
+      "slug": "kibaale"
+    },
+    "code": {
+      "id": "UG20570103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.859",
+      "lon": "33.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Magada",
+      "en": "Magada",
+      "slug": "magada"
+    },
+    "code": {
+      "id": "UG20570104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.893",
+      "lon": "33.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mazuba",
+      "en": "Mazuba",
+      "slug": "mazuba"
+    },
+    "code": {
+      "id": "UG20570105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.949",
+      "lon": "33.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nabweyo",
+      "en": "Nabweyo",
+      "slug": "nabweyo"
+    },
+    "code": {
+      "id": "UG20570106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.898",
+      "lon": "33.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namutumba",
+      "en": "Namutumba",
+      "slug": "namutumba"
+    },
+    "code": {
+      "id": "UG20570107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.802",
+      "lon": "33.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namutumba Town Council",
+      "en": "Namutumba Town Council",
+      "slug": "namutumba-town-council"
+    },
+    "code": {
+      "id": "UG20570108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.83",
+      "lon": "33.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nangonde",
+      "en": "Nangonde",
+      "slug": "nangonde"
+    },
+    "code": {
+      "id": "UG20570109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.959",
+      "lon": "33.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20570110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nsinze",
+      "en": "Nsinze",
+      "slug": "nsinze"
+    },
+    "code": {
+      "id": "UG20570110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG205701",
+      "level": 3,
+      "name": {
+        "local": "Busiki",
+        "en": "Busiki",
+        "slug": "busiki-ug205701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2057",
+        "level": 2,
+        "name": {
+          "local": "Namutumba",
+          "en": "Namutumba",
+          "slug": "namutumba-ug2057"
+        }
+      },
+      {
+        "id": "UG205701",
+        "level": 3,
+        "name": {
+          "local": "Busiki",
+          "en": "Busiki",
+          "slug": "busiki-ug205701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.821",
+      "lon": "33.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

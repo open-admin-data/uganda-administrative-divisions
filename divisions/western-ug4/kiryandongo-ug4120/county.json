@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG412001",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kibanda",
+      "en": "Kibanda",
+      "slug": "kibanda-ug412001"
+    },
+    "code": {
+      "id": "UG412001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4120",
+      "level": 2,
+      "name": {
+        "local": "Kiryandongo",
+        "en": "Kiryandongo",
+        "slug": "kiryandongo-ug4120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4120",
+        "level": 2,
+        "name": {
+          "local": "Kiryandongo",
+          "en": "Kiryandongo",
+          "slug": "kiryandongo-ug4120"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.991",
+      "lon": "32.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

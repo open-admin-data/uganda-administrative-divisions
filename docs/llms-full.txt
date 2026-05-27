@@ -1,0 +1,19 @@
+# Uganda Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Central](https://github.com/open-admin-data/uganda-administrative-divisions/blob/main/docs/llms-full/central-ug1.txt) — 26 districts, 47 countys, 268 sub-countys
+- [Eastern](https://github.com/open-admin-data/uganda-administrative-divisions/blob/main/docs/llms-full/eastern-ug2.txt) — 37 districts, 54 countys, 454 sub-countys
+- [Northern](https://github.com/open-admin-data/uganda-administrative-divisions/blob/main/docs/llms-full/northern-ug3.txt) — 37 districts, 48 countys, 339 sub-countys
+- [Western](https://github.com/open-admin-data/uganda-administrative-divisions/blob/main/docs/llms-full/western-ug4.txt) — 35 districts, 54 countys, 459 sub-countys
+
+## Summary
+
+| Region | Districts | Countys | Sub-countys | 
+|---|---|---|---|
+| Central | 26 | 47 | 268 | 
+| Eastern | 37 | 54 | 454 | 
+| Northern | 37 | 48 | 339 | 
+| Western | 35 | 54 | 459 | 

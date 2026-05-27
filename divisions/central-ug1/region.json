@@ -1,0 +1,31 @@
+{
+  "id": "UG1",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Central",
+    "en": "Central",
+    "slug": "central-ug1"
+  },
+  "code": {
+    "id": "UG1",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 26,
+    "subcounty": 268,
+    "county": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.336",
+    "lon": "32.219"
+  },
+  "metadata": {},
+  "source": {}
+}

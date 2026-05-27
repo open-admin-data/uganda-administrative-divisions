@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG101001",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bbaale",
+      "en": "Bbaale",
+      "slug": "bbaale-ug101001"
+    },
+    "code": {
+      "id": "UG101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1010",
+      "level": 2,
+      "name": {
+        "local": "Kayunga",
+        "en": "Kayunga",
+        "slug": "kayunga-ug1010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.126",
+      "lon": "32.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG101002",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ntenjeru",
+      "en": "Ntenjeru",
+      "slug": "ntenjeru-ug101002"
+    },
+    "code": {
+      "id": "UG101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1010",
+      "level": 2,
+      "name": {
+        "local": "Kayunga",
+        "en": "Kayunga",
+        "slug": "kayunga-ug1010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.691",
+      "lon": "32.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

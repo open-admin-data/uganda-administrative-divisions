@@ -1,0 +1,695 @@
+[
+  {
+    "id": "UG41350101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugongi Town Council",
+      "en": "Bugongi Town Council",
+      "slug": "bugongi-town-council"
+    },
+    "code": {
+      "id": "UG41350101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.689",
+      "lon": "30.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakindo Town Council",
+      "en": "Kakindo Town Council",
+      "slug": "kakindo-town-council"
+    },
+    "code": {
+      "id": "UG41350102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.501",
+      "lon": "30.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasaana",
+      "en": "Kasaana",
+      "slug": "kasaana"
+    },
+    "code": {
+      "id": "UG41350103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.709",
+      "lon": "30.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kigarama",
+      "en": "Kigarama",
+      "slug": "kigarama"
+    },
+    "code": {
+      "id": "UG41350104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.507",
+      "lon": "30.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitagata",
+      "en": "Kitagata",
+      "slug": "kitagata"
+    },
+    "code": {
+      "id": "UG41350105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.645",
+      "lon": "30.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kitagata Town Council",
+      "en": "Kitagata Town Council",
+      "slug": "kitagata-town-council"
+    },
+    "code": {
+      "id": "UG41350106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.688",
+      "lon": "30.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyangyenyi",
+      "en": "Kyangyenyi",
+      "slug": "kyangyenyi"
+    },
+    "code": {
+      "id": "UG41350107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.465",
+      "lon": "30.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masheruka",
+      "en": "Masheruka",
+      "slug": "masheruka"
+    },
+    "code": {
+      "id": "UG41350108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.462",
+      "lon": "30.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masheruka Twon Council",
+      "en": "Masheruka Twon Council",
+      "slug": "masheruka-twon-council"
+    },
+    "code": {
+      "id": "UG41350109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.46",
+      "lon": "30.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugarama",
+      "en": "Rugarama",
+      "slug": "rugarama"
+    },
+    "code": {
+      "id": "UG41350110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "30.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41350111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Shuuku Town Council",
+      "en": "Shuuku Town Council",
+      "slug": "shuuku-town-council"
+    },
+    "code": {
+      "id": "UG41350111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413501",
+      "level": 3,
+      "name": {
+        "local": "Sheema",
+        "en": "Sheema",
+        "slug": "sheema-ug413501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4135",
+        "level": 2,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug4135"
+        }
+      },
+      {
+        "id": "UG413501",
+        "level": 3,
+        "name": {
+          "local": "Sheema",
+          "en": "Sheema",
+          "slug": "sheema-ug413501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.685",
+      "lon": "30.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

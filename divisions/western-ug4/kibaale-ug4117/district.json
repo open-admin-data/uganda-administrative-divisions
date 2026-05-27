@@ -1,0 +1,48 @@
+{
+  "id": "UG4117",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kibaale",
+    "en": "Kibaale",
+    "slug": "kibaale-ug4117"
+  },
+  "code": {
+    "id": "UG4117",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.821",
+    "lon": "31.027"
+  },
+  "metadata": {},
+  "source": {}
+}

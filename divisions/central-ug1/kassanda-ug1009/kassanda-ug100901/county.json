@@ -1,0 +1,56 @@
+{
+  "id": "UG100901",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kassanda",
+    "en": "Kassanda",
+    "slug": "kassanda-ug100901"
+  },
+  "code": {
+    "id": "UG100901",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1009",
+    "level": 2,
+    "name": {
+      "local": "Kassanda",
+      "en": "Kassanda",
+      "slug": "kassanda-ug1009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1009",
+      "level": 2,
+      "name": {
+        "local": "Kassanda",
+        "en": "Kassanda",
+        "slug": "kassanda-ug1009"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.531",
+    "lon": "31.763"
+  },
+  "metadata": {},
+  "source": {}
+}

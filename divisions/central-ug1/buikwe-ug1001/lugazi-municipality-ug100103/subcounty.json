@@ -1,0 +1,128 @@
+[
+  {
+    "id": "UG10010301",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kawolo Division",
+      "en": "Kawolo Division",
+      "slug": "kawolo-division"
+    },
+    "code": {
+      "id": "UG10010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100103",
+      "level": 3,
+      "name": {
+        "local": "Lugazi Municipality",
+        "en": "Lugazi Municipality",
+        "slug": "lugazi-municipality-ug100103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100103",
+        "level": 3,
+        "name": {
+          "local": "Lugazi Municipality",
+          "en": "Lugazi Municipality",
+          "slug": "lugazi-municipality-ug100103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.338",
+      "lon": "32.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10010302",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Najjembe Division",
+      "en": "Najjembe Division",
+      "slug": "najjembe-division"
+    },
+    "code": {
+      "id": "UG10010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG100103",
+      "level": 3,
+      "name": {
+        "local": "Lugazi Municipality",
+        "en": "Lugazi Municipality",
+        "slug": "lugazi-municipality-ug100103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1001",
+        "level": 2,
+        "name": {
+          "local": "Buikwe",
+          "en": "Buikwe",
+          "slug": "buikwe-ug1001"
+        }
+      },
+      {
+        "id": "UG100103",
+        "level": 3,
+        "name": {
+          "local": "Lugazi Municipality",
+          "en": "Lugazi Municipality",
+          "slug": "lugazi-municipality-ug100103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.409",
+      "lon": "33.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

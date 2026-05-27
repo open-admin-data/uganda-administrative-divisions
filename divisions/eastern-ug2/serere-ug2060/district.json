@@ -1,0 +1,48 @@
+{
+  "id": "UG2060",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serere",
+    "en": "Serere",
+    "slug": "serere-ug2060"
+  },
+  "code": {
+    "id": "UG2060",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG2",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-ug2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG2",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-ug2"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.492",
+    "lon": "33.359"
+  },
+  "metadata": {},
+  "source": {}
+}

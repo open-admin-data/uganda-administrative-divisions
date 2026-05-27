@@ -1,0 +1,48 @@
+{
+  "id": "UG4103",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bundibugyo",
+    "en": "Bundibugyo",
+    "slug": "bundibugyo-ug4103"
+  },
+  "code": {
+    "id": "UG4103",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 2,
+    "subcounty": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.647",
+    "lon": "30.042"
+  },
+  "metadata": {},
+  "source": {}
+}

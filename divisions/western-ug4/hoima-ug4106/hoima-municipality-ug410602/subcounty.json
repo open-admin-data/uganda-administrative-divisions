@@ -1,0 +1,254 @@
+[
+  {
+    "id": "UG41060201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bujumbura Division",
+      "en": "Bujumbura Division",
+      "slug": "bujumbura-division"
+    },
+    "code": {
+      "id": "UG41060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410602",
+      "level": 3,
+      "name": {
+        "local": "Hoima Municipality",
+        "en": "Hoima Municipality",
+        "slug": "hoima-municipality-ug410602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410602",
+        "level": 3,
+        "name": {
+          "local": "Hoima Municipality",
+          "en": "Hoima Municipality",
+          "slug": "hoima-municipality-ug410602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.472",
+      "lon": "31.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busiisi Division",
+      "en": "Busiisi Division",
+      "slug": "busiisi-division"
+    },
+    "code": {
+      "id": "UG41060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410602",
+      "level": 3,
+      "name": {
+        "local": "Hoima Municipality",
+        "en": "Hoima Municipality",
+        "slug": "hoima-municipality-ug410602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410602",
+        "level": 3,
+        "name": {
+          "local": "Hoima Municipality",
+          "en": "Hoima Municipality",
+          "slug": "hoima-municipality-ug410602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.421",
+      "lon": "31.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kahoora Divison",
+      "en": "Kahoora Divison",
+      "slug": "kahoora-divison"
+    },
+    "code": {
+      "id": "UG41060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410602",
+      "level": 3,
+      "name": {
+        "local": "Hoima Municipality",
+        "en": "Hoima Municipality",
+        "slug": "hoima-municipality-ug410602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410602",
+        "level": 3,
+        "name": {
+          "local": "Hoima Municipality",
+          "en": "Hoima Municipality",
+          "slug": "hoima-municipality-ug410602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.423",
+      "lon": "31.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41060204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mparo Divison",
+      "en": "Mparo Divison",
+      "slug": "mparo-divison"
+    },
+    "code": {
+      "id": "UG41060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG410602",
+      "level": 3,
+      "name": {
+        "local": "Hoima Municipality",
+        "en": "Hoima Municipality",
+        "slug": "hoima-municipality-ug410602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4106",
+        "level": 2,
+        "name": {
+          "local": "Hoima",
+          "en": "Hoima",
+          "slug": "hoima-ug4106"
+        }
+      },
+      {
+        "id": "UG410602",
+        "level": 3,
+        "name": {
+          "local": "Hoima Municipality",
+          "en": "Hoima Municipality",
+          "slug": "hoima-municipality-ug410602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.415",
+      "lon": "31.404"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

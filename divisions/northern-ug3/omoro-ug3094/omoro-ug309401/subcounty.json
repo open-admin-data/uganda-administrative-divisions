@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG30940101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bobi",
+      "en": "Bobi",
+      "slug": "bobi"
+    },
+    "code": {
+      "id": "UG30940101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.545",
+      "lon": "32.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Koro",
+      "en": "Koro",
+      "slug": "koro"
+    },
+    "code": {
+      "id": "UG30940102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.707",
+      "lon": "32.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lakwana",
+      "en": "Lakwana",
+      "slug": "lakwana"
+    },
+    "code": {
+      "id": "UG30940103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.64",
+      "lon": "32.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lalogi",
+      "en": "Lalogi",
+      "slug": "lalogi"
+    },
+    "code": {
+      "id": "UG30940104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.706",
+      "lon": "32.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Odek",
+      "en": "Odek",
+      "slug": "odek"
+    },
+    "code": {
+      "id": "UG30940105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.715",
+      "lon": "32.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Omoro Town Council",
+      "en": "Omoro Town Council",
+      "slug": "omoro-town-council"
+    },
+    "code": {
+      "id": "UG30940106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.629",
+      "lon": "32.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30940107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ongako",
+      "en": "Ongako",
+      "slug": "ongako"
+    },
+    "code": {
+      "id": "UG30940107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309401",
+      "level": 3,
+      "name": {
+        "local": "Omoro",
+        "en": "Omoro",
+        "slug": "omoro-ug309401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3094",
+        "level": 2,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug3094"
+        }
+      },
+      {
+        "id": "UG309401",
+        "level": 3,
+        "name": {
+          "local": "Omoro",
+          "en": "Omoro",
+          "slug": "omoro-ug309401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.693",
+      "lon": "32.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

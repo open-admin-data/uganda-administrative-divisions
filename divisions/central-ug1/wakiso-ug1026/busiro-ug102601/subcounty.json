@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG10260101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bussi",
+      "en": "Bussi",
+      "slug": "bussi"
+    },
+    "code": {
+      "id": "UG10260101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.038",
+      "lon": "32.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kajjansi Town Council",
+      "en": "Kajjansi Town Council",
+      "slug": "kajjansi-town-council"
+    },
+    "code": {
+      "id": "UG10260102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.174",
+      "lon": "32.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakiri",
+      "en": "Kakiri",
+      "slug": "kakiri"
+    },
+    "code": {
+      "id": "UG10260103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.422",
+      "lon": "32.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakiri Town Council",
+      "en": "Kakiri Town Council",
+      "slug": "kakiri-town-council"
+    },
+    "code": {
+      "id": "UG10260104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.432",
+      "lon": "32.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kasanje",
+      "en": "Kasanje",
+      "slug": "kasanje"
+    },
+    "code": {
+      "id": "UG10260105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.137",
+      "lon": "32.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Katabi Town Council",
+      "en": "Katabi Town Council",
+      "slug": "katabi-town-council"
+    },
+    "code": {
+      "id": "UG10260106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.007",
+      "lon": "32.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kyengera Town Council",
+      "en": "Kyengera Town Council",
+      "slug": "kyengera-town-council"
+    },
+    "code": {
+      "id": "UG10260107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.272",
+      "lon": "32.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masuliita",
+      "en": "Masuliita",
+      "slug": "masuliita"
+    },
+    "code": {
+      "id": "UG10260108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.532",
+      "lon": "32.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masulita Town Council",
+      "en": "Masulita Town Council",
+      "slug": "masulita-town-council"
+    },
+    "code": {
+      "id": "UG10260109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.527",
+      "lon": "32.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mende",
+      "en": "Mende",
+      "slug": "mende"
+    },
+    "code": {
+      "id": "UG10260110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.451",
+      "lon": "32.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namayumba",
+      "en": "Namayumba",
+      "slug": "namayumba"
+    },
+    "code": {
+      "id": "UG10260111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.468",
+      "lon": "32.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namayumba Town Council",
+      "en": "Namayumba Town Council",
+      "slug": "namayumba-town-council"
+    },
+    "code": {
+      "id": "UG10260112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.528",
+      "lon": "32.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wakiso",
+      "en": "Wakiso",
+      "slug": "wakiso"
+    },
+    "code": {
+      "id": "UG10260113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.351",
+      "lon": "32.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10260114",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wakiso Town Council",
+      "en": "Wakiso Town Council",
+      "slug": "wakiso-town-council"
+    },
+    "code": {
+      "id": "UG10260114",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG102601",
+      "level": 3,
+      "name": {
+        "local": "Busiro",
+        "en": "Busiro",
+        "slug": "busiro-ug102601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1026",
+        "level": 2,
+        "name": {
+          "local": "Wakiso",
+          "en": "Wakiso",
+          "slug": "wakiso-ug1026"
+        }
+      },
+      {
+        "id": "UG102601",
+        "level": 3,
+        "name": {
+          "local": "Busiro",
+          "en": "Busiro",
+          "slug": "busiro-ug102601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.412",
+      "lon": "32.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

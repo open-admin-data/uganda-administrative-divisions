@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30810101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Abongomola",
+      "en": "Abongomola",
+      "slug": "abongomola"
+    },
+    "code": {
+      "id": "UG30810101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.027",
+      "lon": "32.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30810102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aduku",
+      "en": "Aduku",
+      "slug": "aduku"
+    },
+    "code": {
+      "id": "UG30810102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.007",
+      "lon": "32.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30810103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Aduku Town Council",
+      "en": "Aduku Town Council",
+      "slug": "aduku-town-council"
+    },
+    "code": {
+      "id": "UG30810103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.001",
+      "lon": "32.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30810104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chawente",
+      "en": "Chawente",
+      "slug": "chawente"
+    },
+    "code": {
+      "id": "UG30810104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.795",
+      "lon": "32.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30810105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Inomo",
+      "en": "Inomo",
+      "slug": "inomo"
+    },
+    "code": {
+      "id": "UG30810105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.085",
+      "lon": "32.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30810106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nambieso",
+      "en": "Nambieso",
+      "slug": "nambieso"
+    },
+    "code": {
+      "id": "UG30810106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG308101",
+      "level": 3,
+      "name": {
+        "local": "Kwania",
+        "en": "Kwania",
+        "slug": "kwania-ug308101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3081",
+        "level": 2,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug3081"
+        }
+      },
+      {
+        "id": "UG308101",
+        "level": 3,
+        "name": {
+          "local": "Kwania",
+          "en": "Kwania",
+          "slug": "kwania-ug308101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.879",
+      "lon": "32.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

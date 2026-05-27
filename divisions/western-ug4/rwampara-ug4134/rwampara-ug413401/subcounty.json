@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG41340101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugamba",
+      "en": "Bugamba",
+      "slug": "bugamba"
+    },
+    "code": {
+      "id": "UG41340101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413401",
+      "level": 3,
+      "name": {
+        "local": "Rwampara",
+        "en": "Rwampara",
+        "slug": "rwampara-ug413401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4134",
+        "level": 2,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug4134"
+        }
+      },
+      {
+        "id": "UG413401",
+        "level": 3,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug413401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.768",
+      "lon": "30.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41340102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kinoni Town Council",
+      "en": "Kinoni Town Council",
+      "slug": "kinoni-town-council"
+    },
+    "code": {
+      "id": "UG41340102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413401",
+      "level": 3,
+      "name": {
+        "local": "Rwampara",
+        "en": "Rwampara",
+        "slug": "rwampara-ug413401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4134",
+        "level": 2,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug4134"
+        }
+      },
+      {
+        "id": "UG413401",
+        "level": 3,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug413401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.664",
+      "lon": "30.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41340103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Mwizi",
+      "en": "Mwizi",
+      "slug": "mwizi"
+    },
+    "code": {
+      "id": "UG41340103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413401",
+      "level": 3,
+      "name": {
+        "local": "Rwampara",
+        "en": "Rwampara",
+        "slug": "rwampara-ug413401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4134",
+        "level": 2,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug4134"
+        }
+      },
+      {
+        "id": "UG413401",
+        "level": 3,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug413401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.798",
+      "lon": "30.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41340104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ndeija",
+      "en": "Ndeija",
+      "slug": "ndeija"
+    },
+    "code": {
+      "id": "UG41340104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413401",
+      "level": 3,
+      "name": {
+        "local": "Rwampara",
+        "en": "Rwampara",
+        "slug": "rwampara-ug413401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4134",
+        "level": 2,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug4134"
+        }
+      },
+      {
+        "id": "UG413401",
+        "level": 3,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug413401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.744",
+      "lon": "30.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41340105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Rugando",
+      "en": "Rugando",
+      "slug": "rugando"
+    },
+    "code": {
+      "id": "UG41340105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG413401",
+      "level": 3,
+      "name": {
+        "local": "Rwampara",
+        "en": "Rwampara",
+        "slug": "rwampara-ug413401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4134",
+        "level": 2,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug4134"
+        }
+      },
+      {
+        "id": "UG413401",
+        "level": 3,
+        "name": {
+          "local": "Rwampara",
+          "en": "Rwampara",
+          "slug": "rwampara-ug413401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.665",
+      "lon": "30.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

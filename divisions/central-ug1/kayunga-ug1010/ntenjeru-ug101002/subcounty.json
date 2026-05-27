@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UG10100201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busaana",
+      "en": "Busaana",
+      "slug": "busaana"
+    },
+    "code": {
+      "id": "UG10100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101002",
+      "level": 3,
+      "name": {
+        "local": "Ntenjeru",
+        "en": "Ntenjeru",
+        "slug": "ntenjeru-ug101002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101002",
+        "level": 3,
+        "name": {
+          "local": "Ntenjeru",
+          "en": "Ntenjeru",
+          "slug": "ntenjeru-ug101002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.788",
+      "lon": "32.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kangulumira",
+      "en": "Kangulumira",
+      "slug": "kangulumira"
+    },
+    "code": {
+      "id": "UG10100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101002",
+      "level": 3,
+      "name": {
+        "local": "Ntenjeru",
+        "en": "Ntenjeru",
+        "slug": "ntenjeru-ug101002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101002",
+        "level": 3,
+        "name": {
+          "local": "Ntenjeru",
+          "en": "Ntenjeru",
+          "slug": "ntenjeru-ug101002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.573",
+      "lon": "33.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kayunga",
+      "en": "Kayunga",
+      "slug": "kayunga"
+    },
+    "code": {
+      "id": "UG10100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101002",
+      "level": 3,
+      "name": {
+        "local": "Ntenjeru",
+        "en": "Ntenjeru",
+        "slug": "ntenjeru-ug101002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101002",
+        "level": 3,
+        "name": {
+          "local": "Ntenjeru",
+          "en": "Ntenjeru",
+          "slug": "ntenjeru-ug101002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.722",
+      "lon": "32.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kayunga Town Council",
+      "en": "Kayunga Town Council",
+      "slug": "kayunga-town-council"
+    },
+    "code": {
+      "id": "UG10100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101002",
+      "level": 3,
+      "name": {
+        "local": "Ntenjeru",
+        "en": "Ntenjeru",
+        "slug": "ntenjeru-ug101002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101002",
+        "level": 3,
+        "name": {
+          "local": "Ntenjeru",
+          "en": "Ntenjeru",
+          "slug": "ntenjeru-ug101002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.706",
+      "lon": "32.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG10100205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nazigo",
+      "en": "Nazigo",
+      "slug": "nazigo"
+    },
+    "code": {
+      "id": "UG10100205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG101002",
+      "level": 3,
+      "name": {
+        "local": "Ntenjeru",
+        "en": "Ntenjeru",
+        "slug": "ntenjeru-ug101002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1010",
+        "level": 2,
+        "name": {
+          "local": "Kayunga",
+          "en": "Kayunga",
+          "slug": "kayunga-ug1010"
+        }
+      },
+      {
+        "id": "UG101002",
+        "level": 3,
+        "name": {
+          "local": "Ntenjeru",
+          "en": "Ntenjeru",
+          "slug": "ntenjeru-ug101002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.676",
+      "lon": "33.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

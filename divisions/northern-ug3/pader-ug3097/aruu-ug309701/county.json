@@ -1,0 +1,56 @@
+{
+  "id": "UG309701",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Aruu",
+    "en": "Aruu",
+    "slug": "aruu-ug309701"
+  },
+  "code": {
+    "id": "UG309701",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3097",
+    "level": 2,
+    "name": {
+      "local": "Pader",
+      "en": "Pader",
+      "slug": "pader-ug3097"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    },
+    {
+      "id": "UG3097",
+      "level": 2,
+      "name": {
+        "local": "Pader",
+        "en": "Pader",
+        "slug": "pader-ug3097"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.887",
+    "lon": "32.913"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "UG20330101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukwo",
+      "en": "Bukwo",
+      "slug": "bukwo"
+    },
+    "code": {
+      "id": "UG20330101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.272",
+      "lon": "34.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bukwo Town Council",
+      "en": "Bukwo Town Council",
+      "slug": "bukwo-town-council"
+    },
+    "code": {
+      "id": "UG20330102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.294",
+      "lon": "34.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chepkwasta",
+      "en": "Chepkwasta",
+      "slug": "chepkwasta"
+    },
+    "code": {
+      "id": "UG20330103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.216",
+      "lon": "34.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Chesower",
+      "en": "Chesower",
+      "slug": "chesower"
+    },
+    "code": {
+      "id": "UG20330104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.263",
+      "lon": "34.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kabei",
+      "en": "Kabei",
+      "slug": "kabei"
+    },
+    "code": {
+      "id": "UG20330105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.226",
+      "lon": "34.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamet",
+      "en": "Kamet",
+      "slug": "kamet"
+    },
+    "code": {
+      "id": "UG20330106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.378",
+      "lon": "34.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaptererwo",
+      "en": "Kaptererwo",
+      "slug": "kaptererwo"
+    },
+    "code": {
+      "id": "UG20330107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.264",
+      "lon": "34.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kortek",
+      "en": "Kortek",
+      "slug": "kortek"
+    },
+    "code": {
+      "id": "UG20330108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.289",
+      "lon": "34.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Riwo",
+      "en": "Riwo",
+      "slug": "riwo"
+    },
+    "code": {
+      "id": "UG20330109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.355",
+      "lon": "34.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Senendet",
+      "en": "Senendet",
+      "slug": "senendet"
+    },
+    "code": {
+      "id": "UG20330110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.263",
+      "lon": "34.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Suam",
+      "en": "Suam",
+      "slug": "suam"
+    },
+    "code": {
+      "id": "UG20330111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.203",
+      "lon": "34.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20330112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Tulel",
+      "en": "Tulel",
+      "slug": "tulel"
+    },
+    "code": {
+      "id": "UG20330112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203301",
+      "level": 3,
+      "name": {
+        "local": "Kongasis",
+        "en": "Kongasis",
+        "slug": "kongasis-ug203301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2033",
+        "level": 2,
+        "name": {
+          "local": "Bukwo",
+          "en": "Bukwo",
+          "slug": "bukwo-ug2033"
+        }
+      },
+      {
+        "id": "UG203301",
+        "level": 3,
+        "name": {
+          "local": "Kongasis",
+          "en": "Kongasis",
+          "slug": "kongasis-ug203301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.386",
+      "lon": "34.711"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

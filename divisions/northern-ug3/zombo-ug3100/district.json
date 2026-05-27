@@ -1,0 +1,48 @@
+{
+  "id": "UG3100",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zombo",
+    "en": "Zombo",
+    "slug": "zombo-ug3100"
+  },
+  "code": {
+    "id": "UG3100",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG3",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-ug3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG3",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-ug3"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.52",
+    "lon": "30.875"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "UG410701",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ibanda",
+      "en": "Ibanda",
+      "slug": "ibanda-ug410701"
+    },
+    "code": {
+      "id": "UG410701",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4107",
+      "level": 2,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug4107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.201",
+      "lon": "30.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG410702",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ibanda Municipality",
+      "en": "Ibanda Municipality",
+      "slug": "ibanda-municipality-ug410702"
+    },
+    "code": {
+      "id": "UG410702",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4107",
+      "level": 2,
+      "name": {
+        "local": "Ibanda",
+        "en": "Ibanda",
+        "slug": "ibanda-ug4107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4107",
+        "level": 2,
+        "name": {
+          "local": "Ibanda",
+          "en": "Ibanda",
+          "slug": "ibanda-ug4107"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.11",
+      "lon": "30.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

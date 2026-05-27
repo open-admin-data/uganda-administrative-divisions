@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Uganda Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-27"
+url: "https://github.com/open-admin-data/uganda-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/uganda-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - uganda
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Uganda's administrative hierarchy:
+  4 regions, 135 districts, 203 countys, 1,520 sub-countys.
+  Bilingual with coordinates and postal codes where available.

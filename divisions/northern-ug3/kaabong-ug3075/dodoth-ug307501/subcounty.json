@@ -1,0 +1,821 @@
+[
+  {
+    "id": "UG30750101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaabong East",
+      "en": "Kaabong East",
+      "slug": "kaabong-east"
+    },
+    "code": {
+      "id": "UG30750101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.575",
+      "lon": "34.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaabong Town Council",
+      "en": "Kaabong Town Council",
+      "slug": "kaabong-town-council"
+    },
+    "code": {
+      "id": "UG30750102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.515",
+      "lon": "34.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kaabong West",
+      "en": "Kaabong West",
+      "slug": "kaabong-west"
+    },
+    "code": {
+      "id": "UG30750103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.493",
+      "lon": "34.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakamar",
+      "en": "Kakamar",
+      "slug": "kakamar"
+    },
+    "code": {
+      "id": "UG30750104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.427",
+      "lon": "34.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kalapata",
+      "en": "Kalapata",
+      "slug": "kalapata"
+    },
+    "code": {
+      "id": "UG30750105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.647",
+      "lon": "34.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamion",
+      "en": "Kamion",
+      "slug": "kamion"
+    },
+    "code": {
+      "id": "UG30750106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.91",
+      "lon": "34.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kathile",
+      "en": "Kathile",
+      "slug": "kathile"
+    },
+    "code": {
+      "id": "UG30750107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.671",
+      "lon": "34.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750108",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kathile South",
+      "en": "Kathile South",
+      "slug": "kathile-south"
+    },
+    "code": {
+      "id": "UG30750108",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.602",
+      "lon": "34.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750109",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lodiko",
+      "en": "Lodiko",
+      "slug": "lodiko"
+    },
+    "code": {
+      "id": "UG30750109",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.554",
+      "lon": "34.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750110",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lolelia",
+      "en": "Lolelia",
+      "slug": "lolelia"
+    },
+    "code": {
+      "id": "UG30750110",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.424",
+      "lon": "33.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750111",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lotim",
+      "en": "Lotim",
+      "slug": "lotim"
+    },
+    "code": {
+      "id": "UG30750111",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.65",
+      "lon": "34.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750112",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Loyoro",
+      "en": "Loyoro",
+      "slug": "loyoro"
+    },
+    "code": {
+      "id": "UG30750112",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.292",
+      "lon": "34.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30750113",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sidok",
+      "en": "Sidok",
+      "slug": "sidok"
+    },
+    "code": {
+      "id": "UG30750113",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG307501",
+      "level": 3,
+      "name": {
+        "local": "Dodoth",
+        "en": "Dodoth",
+        "slug": "dodoth-ug307501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3075",
+        "level": 2,
+        "name": {
+          "local": "Kaabong",
+          "en": "Kaabong",
+          "slug": "kaabong-ug3075"
+        }
+      },
+      {
+        "id": "UG307501",
+        "level": 3,
+        "name": {
+          "local": "Dodoth",
+          "en": "Dodoth",
+          "slug": "dodoth-ug307501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.346",
+      "lon": "34.121"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

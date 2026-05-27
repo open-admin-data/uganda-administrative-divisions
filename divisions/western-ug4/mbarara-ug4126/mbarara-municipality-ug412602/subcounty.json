@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG41260201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kakoba Division",
+      "en": "Kakoba Division",
+      "slug": "kakoba-division"
+    },
+    "code": {
+      "id": "UG41260201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412602",
+      "level": 3,
+      "name": {
+        "local": "Mbarara Municipality",
+        "en": "Mbarara Municipality",
+        "slug": "mbarara-municipality-ug412602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412602",
+        "level": 3,
+        "name": {
+          "local": "Mbarara Municipality",
+          "en": "Mbarara Municipality",
+          "slug": "mbarara-municipality-ug412602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.602",
+      "lon": "30.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Kamukuzi Division",
+      "en": "Kamukuzi Division",
+      "slug": "kamukuzi-division"
+    },
+    "code": {
+      "id": "UG41260202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412602",
+      "level": 3,
+      "name": {
+        "local": "Mbarara Municipality",
+        "en": "Mbarara Municipality",
+        "slug": "mbarara-municipality-ug412602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412602",
+        "level": 3,
+        "name": {
+          "local": "Mbarara Municipality",
+          "en": "Mbarara Municipality",
+          "slug": "mbarara-municipality-ug412602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.605",
+      "lon": "30.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG41260203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Nyamitanga Division",
+      "en": "Nyamitanga Division",
+      "slug": "nyamitanga-division"
+    },
+    "code": {
+      "id": "UG41260203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG412602",
+      "level": 3,
+      "name": {
+        "local": "Mbarara Municipality",
+        "en": "Mbarara Municipality",
+        "slug": "mbarara-municipality-ug412602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4126",
+        "level": 2,
+        "name": {
+          "local": "Mbarara",
+          "en": "Mbarara",
+          "slug": "mbarara-ug4126"
+        }
+      },
+      {
+        "id": "UG412602",
+        "level": 3,
+        "name": {
+          "local": "Mbarara Municipality",
+          "en": "Mbarara Municipality",
+          "slug": "mbarara-municipality-ug412602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.624",
+      "lon": "30.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "UG30980101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Alwi",
+      "en": "Alwi",
+      "slug": "alwi"
+    },
+    "code": {
+      "id": "UG30980101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.5",
+      "lon": "31.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30980102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pakwach",
+      "en": "Pakwach",
+      "slug": "pakwach"
+    },
+    "code": {
+      "id": "UG30980102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.396",
+      "lon": "31.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30980103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Pakwach Town Council",
+      "en": "Pakwach Town Council",
+      "slug": "pakwach-town-council"
+    },
+    "code": {
+      "id": "UG30980103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.471",
+      "lon": "31.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30980104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Panyango",
+      "en": "Panyango",
+      "slug": "panyango"
+    },
+    "code": {
+      "id": "UG30980104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.545",
+      "lon": "31.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30980105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Panyimur",
+      "en": "Panyimur",
+      "slug": "panyimur"
+    },
+    "code": {
+      "id": "UG30980105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.282",
+      "lon": "31.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG30980106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Wadelai",
+      "en": "Wadelai",
+      "slug": "wadelai"
+    },
+    "code": {
+      "id": "UG30980106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG309801",
+      "level": 3,
+      "name": {
+        "local": "Jonam",
+        "en": "Jonam",
+        "slug": "jonam-ug309801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG3",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-ug3"
+        }
+      },
+      {
+        "id": "UG3098",
+        "level": 2,
+        "name": {
+          "local": "Pakwach",
+          "en": "Pakwach",
+          "slug": "pakwach-ug3098"
+        }
+      },
+      {
+        "id": "UG309801",
+        "level": 3,
+        "name": {
+          "local": "Jonam",
+          "en": "Jonam",
+          "slug": "jonam-ug309801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.683",
+      "lon": "31.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

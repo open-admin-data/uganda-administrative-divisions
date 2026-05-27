@@ -1,0 +1,48 @@
+{
+  "id": "UG1007",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalungu",
+    "en": "Kalungu",
+    "slug": "kalungu-ug1007"
+  },
+  "code": {
+    "id": "UG1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-ug1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.1",
+    "lon": "31.815"
+  },
+  "metadata": {},
+  "source": {}
+}

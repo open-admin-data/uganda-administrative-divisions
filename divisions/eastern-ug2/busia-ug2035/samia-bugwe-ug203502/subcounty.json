@@ -1,0 +1,884 @@
+[
+  {
+    "id": "UG20350201",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buhehe",
+      "en": "Buhehe",
+      "slug": "buhehe"
+    },
+    "code": {
+      "id": "UG20350201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.342",
+      "lon": "34.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350202",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bulumbi",
+      "en": "Bulumbi",
+      "slug": "bulumbi"
+    },
+    "code": {
+      "id": "UG20350202",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.51",
+      "lon": "33.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350203",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busime",
+      "en": "Busime",
+      "slug": "busime"
+    },
+    "code": {
+      "id": "UG20350203",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.261",
+      "lon": "33.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350204",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busitema",
+      "en": "Busitema",
+      "slug": "busitema"
+    },
+    "code": {
+      "id": "UG20350204",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.554",
+      "lon": "34.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350205",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buteba",
+      "en": "Buteba",
+      "slug": "buteba"
+    },
+    "code": {
+      "id": "UG20350205",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.533",
+      "lon": "34.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350206",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyanga",
+      "en": "Buyanga",
+      "slug": "buyanga"
+    },
+    "code": {
+      "id": "UG20350206",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.485",
+      "lon": "33.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350207",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Dabani",
+      "en": "Dabani",
+      "slug": "dabani"
+    },
+    "code": {
+      "id": "UG20350207",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.442",
+      "lon": "34.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350208",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lumino",
+      "en": "Lumino",
+      "slug": "lumino"
+    },
+    "code": {
+      "id": "UG20350208",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.305",
+      "lon": "34.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350209",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Lunyo",
+      "en": "Lunyo",
+      "slug": "lunyo"
+    },
+    "code": {
+      "id": "UG20350209",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.342",
+      "lon": "33.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350210",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Majanji",
+      "en": "Majanji",
+      "slug": "majanji"
+    },
+    "code": {
+      "id": "UG20350210",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.251",
+      "lon": "34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350211",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masaba",
+      "en": "Masaba",
+      "slug": "masaba"
+    },
+    "code": {
+      "id": "UG20350211",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.379",
+      "lon": "33.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350212",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masafu",
+      "en": "Masafu",
+      "slug": "masafu"
+    },
+    "code": {
+      "id": "UG20350212",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.424",
+      "lon": "34.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350213",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Masinya",
+      "en": "Masinya",
+      "slug": "masinya"
+    },
+    "code": {
+      "id": "UG20350213",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.384",
+      "lon": "34.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20350214",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Sikuda",
+      "en": "Sikuda",
+      "slug": "sikuda"
+    },
+    "code": {
+      "id": "UG20350214",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203502",
+      "level": 3,
+      "name": {
+        "local": "Samia-Bugwe",
+        "en": "Samia-Bugwe",
+        "slug": "samia-bugwe-ug203502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2035",
+        "level": 2,
+        "name": {
+          "local": "Busia",
+          "en": "Busia",
+          "slug": "busia-ug2035"
+        }
+      },
+      {
+        "id": "UG203502",
+        "level": 3,
+        "name": {
+          "local": "Samia-Bugwe",
+          "en": "Samia-Bugwe",
+          "slug": "samia-bugwe-ug203502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.519",
+      "lon": "34.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

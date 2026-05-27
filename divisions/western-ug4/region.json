@@ -1,0 +1,31 @@
+{
+  "id": "UG4",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Western",
+    "en": "Western",
+    "slug": "western-ug4"
+  },
+  "code": {
+    "id": "UG4",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 35,
+    "subcounty": 459,
+    "county": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.444",
+    "lon": "30.526"
+  },
+  "metadata": {},
+  "source": {}
+}

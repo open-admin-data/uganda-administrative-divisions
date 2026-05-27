@@ -1,0 +1,443 @@
+[
+  {
+    "id": "UG20310101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Bugweri Town Council",
+      "en": "Bugweri Town Council",
+      "slug": "bugweri-town-council"
+    },
+    "code": {
+      "id": "UG20310101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.619",
+      "lon": "33.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Busembatia Town Council",
+      "en": "Busembatia Town Council",
+      "slug": "busembatia-town-council"
+    },
+    "code": {
+      "id": "UG20310102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "33.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Buyanga",
+      "en": "Buyanga",
+      "slug": "buyanga"
+    },
+    "code": {
+      "id": "UG20310103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.666",
+      "lon": "33.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310104",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Ibulanku",
+      "en": "Ibulanku",
+      "slug": "ibulanku"
+    },
+    "code": {
+      "id": "UG20310104",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.616",
+      "lon": "33.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310105",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Igombe",
+      "en": "Igombe",
+      "slug": "igombe"
+    },
+    "code": {
+      "id": "UG20310105",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.575",
+      "lon": "33.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310106",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Makuutu",
+      "en": "Makuutu",
+      "slug": "makuutu"
+    },
+    "code": {
+      "id": "UG20310106",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.494",
+      "lon": "33.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20310107",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Namalemba",
+      "en": "Namalemba",
+      "slug": "namalemba"
+    },
+    "code": {
+      "id": "UG20310107",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG203101",
+      "level": 3,
+      "name": {
+        "local": "Bugweri",
+        "en": "Bugweri",
+        "slug": "bugweri-ug203101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2031",
+        "level": 2,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug2031"
+        }
+      },
+      {
+        "id": "UG203101",
+        "level": 3,
+        "name": {
+          "local": "Bugweri",
+          "en": "Bugweri",
+          "slug": "bugweri-ug203101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.745",
+      "lon": "33.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

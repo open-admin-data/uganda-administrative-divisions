@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG412201",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kitagwenda",
+      "en": "Kitagwenda",
+      "slug": "kitagwenda-ug412201"
+    },
+    "code": {
+      "id": "UG412201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG4122",
+      "level": 2,
+      "name": {
+        "local": "Kitagwenda",
+        "en": "Kitagwenda",
+        "slug": "kitagwenda-ug4122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG4",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-ug4"
+        }
+      },
+      {
+        "id": "UG4122",
+        "level": 2,
+        "name": {
+          "local": "Kitagwenda",
+          "en": "Kitagwenda",
+          "slug": "kitagwenda-ug4122"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.014",
+      "lon": "30.324"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UG102201",
+    "level": 3,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nakaseke",
+      "en": "Nakaseke",
+      "slug": "nakaseke-ug102201"
+    },
+    "code": {
+      "id": "UG102201",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG1022",
+      "level": 2,
+      "name": {
+        "local": "Nakaseke",
+        "en": "Nakaseke",
+        "slug": "nakaseke-ug1022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG1",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-ug1"
+        }
+      },
+      {
+        "id": "UG1022",
+        "level": 2,
+        "name": {
+          "local": "Nakaseke",
+          "en": "Nakaseke",
+          "slug": "nakaseke-ug1022"
+        }
+      }
+    ],
+    "children_count": {
+      "subcounty": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "32.177"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

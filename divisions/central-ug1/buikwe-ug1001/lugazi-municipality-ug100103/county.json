@@ -1,0 +1,56 @@
+{
+  "id": "UG100103",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lugazi Municipality",
+    "en": "Lugazi Municipality",
+    "slug": "lugazi-municipality-ug100103"
+  },
+  "code": {
+    "id": "UG100103",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG1001",
+    "level": 2,
+    "name": {
+      "local": "Buikwe",
+      "en": "Buikwe",
+      "slug": "buikwe-ug1001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG1",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-ug1"
+      }
+    },
+    {
+      "id": "UG1001",
+      "level": 2,
+      "name": {
+        "local": "Buikwe",
+        "en": "Buikwe",
+        "slug": "buikwe-ug1001"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.375",
+    "lon": "33.028"
+  },
+  "metadata": {},
+  "source": {}
+}

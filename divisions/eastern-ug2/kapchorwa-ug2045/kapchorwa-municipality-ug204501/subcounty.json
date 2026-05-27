@@ -1,0 +1,191 @@
+[
+  {
+    "id": "UG20450101",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Central Division",
+      "en": "Central Division",
+      "slug": "central-division"
+    },
+    "code": {
+      "id": "UG20450101",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204501",
+      "level": 3,
+      "name": {
+        "local": "Kapchorwa Municipality",
+        "en": "Kapchorwa Municipality",
+        "slug": "kapchorwa-municipality-ug204501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204501",
+        "level": 3,
+        "name": {
+          "local": "Kapchorwa Municipality",
+          "en": "Kapchorwa Municipality",
+          "slug": "kapchorwa-municipality-ug204501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.41",
+      "lon": "34.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450102",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Eastern Division",
+      "en": "Eastern Division",
+      "slug": "eastern-division"
+    },
+    "code": {
+      "id": "UG20450102",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204501",
+      "level": 3,
+      "name": {
+        "local": "Kapchorwa Municipality",
+        "en": "Kapchorwa Municipality",
+        "slug": "kapchorwa-municipality-ug204501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204501",
+        "level": 3,
+        "name": {
+          "local": "Kapchorwa Municipality",
+          "en": "Kapchorwa Municipality",
+          "slug": "kapchorwa-municipality-ug204501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.335",
+      "lon": "34.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "UG20450103",
+    "level": 4,
+    "level_name": {
+      "local": "Sub-county",
+      "en": "Sub-county"
+    },
+    "name": {
+      "local": "Western Division",
+      "en": "Western Division",
+      "slug": "western-division"
+    },
+    "code": {
+      "id": "UG20450103",
+      "iso": null
+    },
+    "parent": {
+      "id": "UG204501",
+      "level": 3,
+      "name": {
+        "local": "Kapchorwa Municipality",
+        "en": "Kapchorwa Municipality",
+        "slug": "kapchorwa-municipality-ug204501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "UG2",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-ug2"
+        }
+      },
+      {
+        "id": "UG2045",
+        "level": 2,
+        "name": {
+          "local": "Kapchorwa",
+          "en": "Kapchorwa",
+          "slug": "kapchorwa-ug2045"
+        }
+      },
+      {
+        "id": "UG204501",
+        "level": 3,
+        "name": {
+          "local": "Kapchorwa Municipality",
+          "en": "Kapchorwa Municipality",
+          "slug": "kapchorwa-municipality-ug204501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.336",
+      "lon": "34.452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

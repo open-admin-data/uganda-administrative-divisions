@@ -1,0 +1,343 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.county,children_count.subcounty,zip_codes,geo.lat,geo.lon
+UG1,1,Region,Region,Central,Central,central-ug1,UG1,,,,,,26,47,268,,0.336,32.219
+UG1001,2,District,District,Buikwe,Buikwe,buikwe-ug1001,UG1001,,UG1,Central,Central,,,4,12,,0.302,33.039
+UG100101,3,County,County,Buikwe,Buikwe,buikwe-ug100101,UG100101,,UG1001,Buikwe,Buikwe,,,,6,,0.209,33.022
+UG100102,3,County,County,KCCA,KCCA,kcca-ug100102,UG100102,,UG1001,Buikwe,Buikwe,,,,1,,0.383,32.933
+UG100103,3,County,County,Lugazi Municipality,Lugazi Municipality,lugazi-municipality-ug100103,UG100103,,UG1001,Buikwe,Buikwe,,,,2,,0.375,33.028
+UG100104,3,County,County,Njeru Municipality,Njeru Municipality,njeru-municipality-ug100104,UG100104,,UG1001,Buikwe,Buikwe,,,,3,,0.423,33.148
+UG1002,2,District,District,Bukomansimbi,Bukomansimbi,bukomansimbi-ug1002,UG1002,,UG1,Central,Central,,,1,5,,-0.128,31.624
+UG100201,3,County,County,Bukomansimbi,Bukomansimbi,bukomansimbi-ug100201,UG100201,,UG1002,Bukomansimbi,Bukomansimbi,,,,5,,-0.128,31.624
+UG1003,2,District,District,Butambala,Butambala,butambala-ug1003,UG1003,,UG1,Central,Central,,,1,6,,0.162,32.136
+UG100301,3,County,County,Butambala,Butambala,butambala-ug100301,UG100301,,UG1003,Butambala,Butambala,,,,6,,0.162,32.136
+UG1004,2,District,District,Buvuma,Buvuma,buvuma-ug1004,UG1004,,UG1,Central,Central,,,1,9,,-0.347,33.199
+UG100401,3,County,County,Buvuma Island,Buvuma Island,buvuma-island-ug100401,UG100401,,UG1004,Buvuma,Buvuma,,,,9,,-0.347,33.199
+UG1005,2,District,District,Gomba,Gomba,gomba-ug1005,UG1005,,UG1,Central,Central,,,1,5,,0.203,31.737
+UG100501,3,County,County,Gomba,Gomba,gomba-ug100501,UG100501,,UG1005,Gomba,Gomba,,,,5,,0.203,31.737
+UG1006,2,District,District,Kalangala,Kalangala,kalangala-ug1006,UG1006,,UG1,Central,Central,,,2,7,,-0.572,32.438
+UG100601,3,County,County,Bujumba,Bujumba,bujumba-ug100601,UG100601,,UG1006,Kalangala,Kalangala,,,,3,,-0.356,32.188
+UG100602,3,County,County,Kyamuswa,Kyamuswa,kyamuswa-ug100602,UG100602,,UG1006,Kalangala,Kalangala,,,,4,,-0.572,32.438
+UG1007,2,District,District,Kalungu,Kalungu,kalungu-ug1007,UG1007,,UG1,Central,Central,,,1,7,,-0.1,31.815
+UG100701,3,County,County,Kalungu,Kalungu,kalungu-ug100701,UG100701,,UG1007,Kalungu,Kalungu,,,,7,,-0.1,31.815
+UG1008,2,District,District,Kampala,Kampala,kampala-ug1008,UG1008,,UG1,Central,Central,,,1,5,,0.31,32.587
+UG100801,3,County,County,KCCA,KCCA,kcca-ug100801,UG100801,,UG1008,Kampala,Kampala,,,,5,,0.31,32.587
+UG1009,2,District,District,Kassanda,Kassanda,kassanda-ug1009,UG1009,,UG1,Central,Central,,,1,10,,0.531,31.763
+UG100901,3,County,County,Kassanda,Kassanda,kassanda-ug100901,UG100901,,UG1009,Kassanda,Kassanda,,,,10,,0.531,31.763
+UG1010,2,District,District,Kayunga,Kayunga,kayunga-ug1010,UG1010,,UG1,Central,Central,,,2,9,,0.99,32.862
+UG101001,3,County,County,Bbaale,Bbaale,bbaale-ug101001,UG101001,,UG1010,Kayunga,Kayunga,,,,4,,1.126,32.879
+UG101002,3,County,County,Ntenjeru,Ntenjeru,ntenjeru-ug101002,UG101002,,UG1010,Kayunga,Kayunga,,,,5,,0.691,32.965
+UG1011,2,District,District,Kiboga,Kiboga,kiboga-ug1011,UG1011,,UG1,Central,Central,,,1,9,,0.855,31.929
+UG101101,3,County,County,Kiboga,Kiboga,kiboga-ug101101,UG101101,,UG1011,Kiboga,Kiboga,,,,9,,0.855,31.929
+UG1012,2,District,District,Kyankwanzi,Kyankwanzi,kyankwanzi-ug1012,UG1012,,UG1,Central,Central,,,1,14,,1.091,31.682
+UG101201,3,County,County,Kiboga,Kiboga,kiboga-ug101201,UG101201,,UG1012,Kyankwanzi,Kyankwanzi,,,,14,,1.091,31.682
+UG1013,2,District,District,Kyotera,Kyotera,kyotera-ug1013,UG1013,,UG1,Central,Central,,,1,12,,-0.717,31.621
+UG101301,3,County,County,Kyotera,Kyotera,kyotera-ug101301,UG101301,,UG1013,Kyotera,Kyotera,,,,12,,-0.717,31.621
+UG1014,2,District,District,Luwero,Luwero,luwero-ug1014,UG1014,,UG1,Central,Central,,,2,13,,0.846,32.603
+UG101401,3,County,County,Bamunanika,Bamunanika,bamunanika-ug101401,UG101401,,UG1014,Luwero,Luwero,,,,5,,0.85,32.701
+UG101402,3,County,County,Katikamu,Katikamu,katikamu-ug101402,UG101402,,UG1014,Luwero,Luwero,,,,8,,0.842,32.522
+UG1015,2,District,District,Lwengo,Lwengo,lwengo-ug1015,UG1015,,UG1,Central,Central,,,1,8,,-0.447,31.4
+UG101501,3,County,County,Bukoto,Bukoto,bukoto-ug101501,UG101501,,UG1015,Lwengo,Lwengo,,,,8,,-0.447,31.4
+UG1016,2,District,District,Lyantonde,Lyantonde,lyantonde-ug1016,UG1016,,UG1,Central,Central,,,1,7,,-0.262,31.184
+UG101601,3,County,County,Kabula,Kabula,kabula-ug101601,UG101601,,UG1016,Lyantonde,Lyantonde,,,,7,,-0.262,31.184
+UG1017,2,District,District,Masaka,Masaka,masaka-ug1017,UG1017,,UG1,Central,Central,,,2,9,,-0.486,31.833
+UG101701,3,County,County,Bukoto,Bukoto,bukoto-ug101701,UG101701,,UG1017,Masaka,Masaka,,,,6,,-0.486,31.833
+UG101702,3,County,County,Masaka Municipality,Masaka Municipality,masaka-municipality-ug101702,UG101702,,UG1017,Masaka,Masaka,,,,3,,-0.337,31.732
+UG1018,2,District,District,Mityana,Mityana,mityana-ug1018,UG1018,,UG1,Central,Central,,,4,14,,0.453,32.078
+UG101801,3,County,County,Busujju,Busujju,busujju-ug101801,UG101801,,UG1018,Mityana,Mityana,,,,5,,0.301,32.006
+UG101802,3,County,County,KCCA,KCCA,kcca-ug101802,UG101802,,UG1018,Mityana,Mityana,,,,1,,0.376,31.991
+UG101803,3,County,County,Mityana,Mityana,mityana-ug101803,UG101803,,UG1018,Mityana,Mityana,,,,6,,0.536,32.058
+UG101804,3,County,County,Mityana Municipality,Mityana Municipality,mityana-municipality-ug101804,UG101804,,UG1018,Mityana,Mityana,,,,2,,0.388,32.112
+UG1019,2,District,District,Mpigi,Mpigi,mpigi-ug1019,UG1019,,UG1,Central,Central,,,1,7,,0.126,32.254
+UG101901,3,County,County,Mawokota,Mawokota,mawokota-ug101901,UG101901,,UG1019,Mpigi,Mpigi,,,,7,,0.126,32.254
+UG1020,2,District,District,Mubende,Mubende,mubende-ug1020,UG1020,,UG1,Central,Central,,,3,13,,0.514,31.411
+UG102001,3,County,County,Buwekula,Buwekula,buwekula-ug102001,UG102001,,UG1020,Mubende,Mubende,,,,4,,0.582,31.517
+UG102002,3,County,County,Kasambya,Kasambya,kasambya-ug102002,UG102002,,UG1020,Mubende,Mubende,,,,6,,0.383,31.267
+UG102003,3,County,County,Mubende Municipality,Mubende Municipality,mubende-municipality-ug102003,UG102003,,UG1020,Mubende,Mubende,,,,3,,0.581,31.388
+UG1021,2,District,District,Mukono,Mukono,mukono-ug1021,UG1021,,UG1,Central,Central,,,4,15,,0.351,32.775
+UG102101,3,County,County,KCCA,KCCA,kcca-ug102101,UG102101,,UG1021,Mukono,Mukono,,,,1,,0.344,32.758
+UG102102,3,County,County,Mukono,Mukono,mukono-ug102102,UG102102,,UG1021,Mukono,Mukono,,,,7,,0.211,32.764
+UG102103,3,County,County,Mukono Municipality,Mukono Municipality,mukono-municipality-ug102103,UG102103,,UG1021,Mukono,Mukono,,,,1,,0.38,32.703
+UG102104,3,County,County,Nakifuma,Nakifuma,nakifuma-ug102104,UG102104,,UG1021,Mukono,Mukono,,,,6,,0.611,32.842
+UG1022,2,District,District,Nakaseke,Nakaseke,nakaseke-ug1022,UG1022,,UG1,Central,Central,,,1,15,,1,32.177
+UG102201,3,County,County,Nakaseke,Nakaseke,nakaseke-ug102201,UG102201,,UG1022,Nakaseke,Nakaseke,,,,15,,1,32.177
+UG1023,2,District,District,Nakasongola,Nakasongola,nakasongola-ug1023,UG1023,,UG1,Central,Central,,,1,11,,1.316,32.491
+UG102301,3,County,County,Buruli,Buruli,buruli-ug102301,UG102301,,UG1023,Nakasongola,Nakasongola,,,,11,,1.316,32.491
+UG1024,2,District,District,Rakai,Rakai,rakai-ug1024,UG1024,,UG1,Central,Central,,,1,11,,-0.727,31.339
+UG102401,3,County,County,Kooki,Kooki,kooki-ug102401,UG102401,,UG1024,Rakai,Rakai,,,,11,,-0.727,31.339
+UG1025,2,District,District,Ssembabule,Ssembabule,ssembabule-ug1025,UG1025,,UG1,Central,Central,,,2,8,,-0.055,31.374
+UG102501,3,County,County,Lwemiyaga,Lwemiyaga,lwemiyaga-ug102501,UG102501,,UG1025,Ssembabule,Ssembabule,,,,2,,0.063,31.181
+UG102502,3,County,County,Mawogola,Mawogola,mawogola-ug102502,UG102502,,UG1025,Ssembabule,Ssembabule,,,,6,,-0.069,31.419
+UG1026,2,District,District,Wakiso,Wakiso,wakiso-ug1026,UG1026,,UG1,Central,Central,,,6,27,,0.216,32.514
+UG102601,3,County,County,Busiro,Busiro,busiro-ug102601,UG102601,,UG1026,Wakiso,Wakiso,,,,14,,0.213,32.468
+UG102602,3,County,County,Entebbe Municipality,Entebbe Municipality,entebbe-municipality-ug102602,UG102602,,UG1026,Wakiso,Wakiso,,,,2,,-0.025,32.447
+UG102603,3,County,County,Kira Municipality,Kira Municipality,kira-municipality-ug102603,UG102603,,UG1026,Wakiso,Wakiso,,,,3,,0.385,32.646
+UG102604,3,County,County,Kyadondo,Kyadondo,kyadondo-ug102604,UG102604,,UG1026,Wakiso,Wakiso,,,,1,,0.455,32.583
+UG102605,3,County,County,Makindye Ssabagabo Municipality,Makindye Ssabagabo Municipality,makindye-ssabagabo-municipality-ug102605,UG102605,,UG1026,Wakiso,Wakiso,,,,3,,0.231,32.578
+UG102606,3,County,County,Nansana Municipality,Nansana Municipality,nansana-municipality-ug102606,UG102606,,UG1026,Wakiso,Wakiso,,,,4,,0.465,32.509
+UG2,1,Region,Region,Eastern,Eastern,eastern-ug2,UG2,,,,,,37,54,454,,0.709,33.682
+UG2027,2,District,District,Amuria,Amuria,amuria-ug2027,UG2027,,UG2,Eastern,Eastern,,,1,11,,1.981,33.658
+UG202701,3,County,County,Amuria,Amuria,amuria-ug202701,UG202701,,UG2027,Amuria,Amuria,,,,11,,1.981,33.658
+UG2028,2,District,District,Budaka,Budaka,budaka-ug2028,UG2028,,UG2,Eastern,Eastern,,,2,13,,1.064,34.005
+UG202801,3,County,County,Budaka,Budaka,budaka-ug202801,UG202801,,UG2028,Budaka,Budaka,,,,7,,1.022,33.981
+UG202802,3,County,County,Iki-Iki,Iki-Iki,iki-iki-ug202802,UG202802,,UG2028,Budaka,Budaka,,,,6,,1.114,34.021
+UG2029,2,District,District,Bududa,Bududa,bududa-ug2029,UG2029,,UG2,Eastern,Eastern,,,1,17,,1.026,34.391
+UG202901,3,County,County,Manjiya,Manjiya,manjiya-ug202901,UG202901,,UG2029,Bududa,Bududa,,,,17,,1.026,34.391
+UG2030,2,District,District,Bugiri,Bugiri,bugiri-ug2030,UG2030,,UG2,Eastern,Eastern,,,2,12,,0.519,33.773
+UG203001,3,County,County,Bugiri Municipality,Bugiri Municipality,bugiri-municipality-ug203001,UG203001,,UG2030,Bugiri,Bugiri,,,,2,,0.563,33.753
+UG203002,3,County,County,Bukooli,Bukooli,bukooli-ug203002,UG203002,,UG2030,Bugiri,Bugiri,,,,10,,0.519,33.773
+UG2031,2,District,District,Bugweri,Bugweri,bugweri-ug2031,UG2031,,UG2,Eastern,Eastern,,,1,7,,0.622,33.616
+UG203101,3,County,County,Bugweri,Bugweri,bugweri-ug203101,UG203101,,UG2031,Bugweri,Bugweri,,,,7,,0.622,33.616
+UG2032,2,District,District,Bukedea,Bukedea,bukedea-ug2032,UG2032,,UG2,Eastern,Eastern,,,1,6,,1.369,34.142
+UG203201,3,County,County,Bukedea,Bukedea,bukedea-ug203201,UG203201,,UG2032,Bukedea,Bukedea,,,,6,,1.369,34.142
+UG2033,2,District,District,Bukwo,Bukwo,bukwo-ug2033,UG2033,,UG2,Eastern,Eastern,,,1,12,,1.27,34.698
+UG203301,3,County,County,Kongasis,Kongasis,kongasis-ug203301,UG203301,,UG2033,Bukwo,Bukwo,,,,12,,1.27,34.698
+UG2034,2,District,District,Bulambuli,Bulambuli,bulambuli-ug2034,UG2034,,UG2,Eastern,Eastern,,,1,20,,1.348,34.279
+UG203401,3,County,County,Bulambuli,Bulambuli,bulambuli-ug203401,UG203401,,UG2034,Bulambuli,Bulambuli,,,,20,,1.348,34.279
+UG2035,2,District,District,Busia,Busia,busia-ug2035,UG2035,,UG2,Eastern,Eastern,,,2,16,,0.391,34.016
+UG203501,3,County,County,Busia Municipality,Busia Municipality,busia-municipality-ug203501,UG203501,,UG2035,Busia,Busia,,,,2,,0.468,34.091
+UG203502,3,County,County,Samia-Bugwe,Samia-Bugwe,samia-bugwe-ug203502,UG203502,,UG2035,Busia,Busia,,,,14,,0.391,34.016
+UG2036,2,District,District,Butaleja,Butaleja,butaleja-ug2036,UG2036,,UG2,Eastern,Eastern,,,1,12,,0.866,33.885
+UG203601,3,County,County,Bunyole,Bunyole,bunyole-ug203601,UG203601,,UG2036,Butaleja,Butaleja,,,,12,,0.866,33.885
+UG2037,2,District,District,Butebo,Butebo,butebo-ug2037,UG2037,,UG2,Eastern,Eastern,,,1,6,,1.172,34.06
+UG203701,3,County,County,Butebo,Butebo,butebo-ug203701,UG203701,,UG2037,Butebo,Butebo,,,,6,,1.172,34.06
+UG2038,2,District,District,Buyende,Buyende,buyende-ug2038,UG2038,,UG2,Eastern,Eastern,,,1,6,,1.233,33.176
+UG203801,3,County,County,Budiope,Budiope,budiope-ug203801,UG203801,,UG2038,Buyende,Buyende,,,,6,,1.233,33.176
+UG2039,2,District,District,Iganga,Iganga,iganga-ug2039,UG2039,,UG2,Eastern,Eastern,,,2,10,,0.722,33.502
+UG203901,3,County,County,Iganga Municipality,Iganga Municipality,iganga-municipality-ug203901,UG203901,,UG2039,Iganga,Iganga,,,,2,,0.613,33.477
+UG203902,3,County,County,Kigulu,Kigulu,kigulu-ug203902,UG203902,,UG2039,Iganga,Iganga,,,,8,,0.722,33.502
+UG2040,2,District,District,Jinja,Jinja,jinja-ug2040,UG2040,,UG2,Eastern,Eastern,,,3,12,,0.544,33.229
+UG204001,3,County,County,Butembe,Butembe,butembe-ug204001,UG204001,,UG2040,Jinja,Jinja,,,,4,,0.554,33.295
+UG204002,3,County,County,Jinja Municipality,Jinja Municipality,jinja-municipality-ug204002,UG204002,,UG2040,Jinja,Jinja,,,,3,,0.428,33.238
+UG204003,3,County,County,Kagoma,Kagoma,kagoma-ug204003,UG204003,,UG2040,Jinja,Jinja,,,,5,,0.588,33.164
+UG2041,2,District,District,Kaberamaido,Kaberamaido,kaberamaido-ug2041,UG2041,,UG2,Eastern,Eastern,,,1,6,,1.685,33.117
+UG204101,3,County,County,Kaberamaido,Kaberamaido,kaberamaido-ug204101,UG204101,,UG2041,Kaberamaido,Kaberamaido,,,,6,,1.685,33.117
+UG2042,2,District,District,Kalaki,Kalaki,kalaki-ug2042,UG2042,,UG2,Eastern,Eastern,,,1,7,,1.83,33.356
+UG204201,3,County,County,Kalaki,Kalaki,kalaki-ug204201,UG204201,,UG2042,Kalaki,Kalaki,,,,7,,1.83,33.356
+UG2043,2,District,District,Kaliro,Kaliro,kaliro-ug2043,UG2043,,UG2,Eastern,Eastern,,,1,12,,1.08,33.482
+UG204301,3,County,County,Bulamogi,Bulamogi,bulamogi-ug204301,UG204301,,UG2043,Kaliro,Kaliro,,,,12,,1.08,33.482
+UG2044,2,District,District,Kamuli,Kamuli,kamuli-ug2044,UG2044,,UG2,Eastern,Eastern,,,3,16,,0.94,33.128
+UG204401,3,County,County,Bugabula,Bugabula,bugabula-ug204401,UG204401,,UG2044,Kamuli,Kamuli,,,,8,,1.003,33.077
+UG204402,3,County,County,Buzaaya,Buzaaya,buzaaya-ug204402,UG204402,,UG2044,Kamuli,Kamuli,,,,6,,0.776,33.146
+UG204403,3,County,County,Kamuli Municipality,Kamuli Municipality,kamuli-municipality-ug204403,UG204403,,UG2044,Kamuli,Kamuli,,,,2,,0.926,33.118
+UG2045,2,District,District,Kapchorwa,Kapchorwa,kapchorwa-ug2045,UG2045,,UG2,Eastern,Eastern,,,2,14,,1.328,34.407
+UG204501,3,County,County,Kapchorwa Municipality,Kapchorwa Municipality,kapchorwa-municipality-ug204501,UG204501,,UG2045,Kapchorwa,Kapchorwa,,,,3,,1.336,34.46
+UG204502,3,County,County,Tingey,Tingey,tingey-ug204502,UG204502,,UG2045,Kapchorwa,Kapchorwa,,,,11,,1.29,34.446
+UG2046,2,District,District,Kapelebyong,Kapelebyong,kapelebyong-ug2046,UG2046,,UG2,Eastern,Eastern,,,1,6,,2.195,33.777
+UG204601,3,County,County,Kapelebyong,Kapelebyong,kapelebyong-ug204601,UG204601,,UG2046,Kapelebyong,Kapelebyong,,,,6,,2.195,33.777
+UG2047,2,District,District,Katakwi,Katakwi,katakwi-ug2047,UG2047,,UG2,Eastern,Eastern,,,2,10,,1.971,34.058
+UG204701,3,County,County,Katakwi,Katakwi,katakwi-ug204701,UG204701,,UG2047,Katakwi,Katakwi,,,,6,,2.035,34.058
+UG204702,3,County,County,Toroma,Toroma,toroma-ug204702,UG204702,,UG2047,Katakwi,Katakwi,,,,4,,1.745,34.034
+UG2048,2,District,District,Kibuku,Kibuku,kibuku-ug2048,UG2048,,UG2,Eastern,Eastern,,,1,17,,1.055,33.806
+UG204801,3,County,County,Kibuku,Kibuku,kibuku-ug204801,UG204801,,UG2048,Kibuku,Kibuku,,,,17,,1.055,33.806
+UG2049,2,District,District,Kumi,Kumi,kumi-ug2049,UG2049,,UG2,Eastern,Eastern,,,2,8,,1.456,33.925
+UG204901,3,County,County,Kumi,Kumi,kumi-ug204901,UG204901,,UG2049,Kumi,Kumi,,,,6,,1.456,33.878
+UG204902,3,County,County,Kumi Municipality,Kumi Municipality,kumi-municipality-ug204902,UG204902,,UG2049,Kumi,Kumi,,,,2,,1.483,33.94
+UG2050,2,District,District,Kween,Kween,kween-ug2050,UG2050,,UG2,Eastern,Eastern,,,1,13,,1.351,34.561
+UG205001,3,County,County,Kween,Kween,kween-ug205001,UG205001,,UG2050,Kween,Kween,,,,13,,1.351,34.561
+UG2051,2,District,District,Luuka,Luuka,luuka-ug2051,UG2051,,UG2,Eastern,Eastern,,,1,8,,0.818,33.328
+UG205101,3,County,County,Luuka,Luuka,luuka-ug205101,UG205101,,UG2051,Luuka,Luuka,,,,8,,0.818,33.328
+UG2052,2,District,District,Manafwa,Manafwa,manafwa-ug2052,UG2052,,UG2,Eastern,Eastern,,,1,17,,0.883,34.27
+UG205201,3,County,County,Bubulo,Bubulo,bubulo-ug205201,UG205201,,UG2052,Manafwa,Manafwa,,,,17,,0.883,34.27
+UG2053,2,District,District,Mayuge,Mayuge,mayuge-ug2053,UG2053,,UG2,Eastern,Eastern,,,1,14,,-0.193,33.59
+UG205301,3,County,County,Bunya,Bunya,bunya-ug205301,UG205301,,UG2053,Mayuge,Mayuge,,,,14,,-0.193,33.59
+UG2054,2,District,District,Mbale,Mbale,mbale-ug2054,UG2054,,UG2,Eastern,Eastern,,,2,27,,1.002,34.197
+UG205401,3,County,County,Bungokho,Bungokho,bungokho-ug205401,UG205401,,UG2054,Mbale,Mbale,,,,24,,1.002,34.197
+UG205402,3,County,County,Mbale Municipality,Mbale Municipality,mbale-municipality-ug205402,UG205402,,UG2054,Mbale,Mbale,,,,3,,1.079,34.173
+UG2055,2,District,District,Namayingo,Namayingo,namayingo-ug2055,UG2055,,UG2,Eastern,Eastern,,,1,9,,-0.27,33.814
+UG205501,3,County,County,Bukooli,Bukooli,bukooli-ug205501,UG205501,,UG2055,Namayingo,Namayingo,,,,9,,-0.27,33.814
+UG2056,2,District,District,Namisindwa,Namisindwa,namisindwa-ug2056,UG2056,,UG2,Eastern,Eastern,,,1,17,,0.864,34.384
+UG205601,3,County,County,Bubulo,Bubulo,bubulo-ug205601,UG205601,,UG2056,Namisindwa,Namisindwa,,,,17,,0.864,34.384
+UG2057,2,District,District,Namutumba,Namutumba,namutumba-ug2057,UG2057,,UG2,Eastern,Eastern,,,1,10,,0.887,33.666
+UG205701,3,County,County,Busiki,Busiki,busiki-ug205701,UG205701,,UG2057,Namutumba,Namutumba,,,,10,,0.887,33.666
+UG2058,2,District,District,Ngora,Ngora,ngora-ug2058,UG2058,,UG2,Eastern,Eastern,,,1,5,,1.496,33.774
+UG205801,3,County,County,Ngora,Ngora,ngora-ug205801,UG205801,,UG2058,Ngora,Ngora,,,,5,,1.496,33.774
+UG2059,2,District,District,Pallisa,Pallisa,pallisa-ug2059,UG2059,,UG2,Eastern,Eastern,,,2,14,,1.217,33.691
+UG205901,3,County,County,Butebo,Butebo,butebo-ug205901,UG205901,,UG2059,Pallisa,Pallisa,,,,2,,1.236,33.819
+UG205902,3,County,County,Pallisa,Pallisa,pallisa-ug205902,UG205902,,UG2059,Pallisa,Pallisa,,,,12,,1.217,33.624
+UG2060,2,District,District,Serere,Serere,serere-ug2060,UG2060,,UG2,Eastern,Eastern,,,2,12,,1.492,33.359
+UG206001,3,County,County,Kasilo,Kasilo,kasilo-ug206001,UG206001,,UG2060,Serere,Serere,,,,7,,1.503,33.23
+UG206002,3,County,County,Serere,Serere,serere-ug206002,UG206002,,UG2060,Serere,Serere,,,,5,,1.491,33.566
+UG2061,2,District,District,Sironko,Sironko,sironko-ug2061,UG2061,,UG2,Eastern,Eastern,,,1,21,,1.188,34.292
+UG206101,3,County,County,Budadiri,Budadiri,budadiri-ug206101,UG206101,,UG2061,Sironko,Sironko,,,,21,,1.188,34.292
+UG2062,2,District,District,Soroti,Soroti,soroti-ug2062,UG2062,,UG2,Eastern,Eastern,,,2,10,,1.788,33.607
+UG206201,3,County,County,Soroti,Soroti,soroti-ug206201,UG206201,,UG2062,Soroti,Soroti,,,,7,,1.788,33.607
+UG206202,3,County,County,Soroti Municipality,Soroti Municipality,soroti-municipality-ug206202,UG206202,,UG2062,Soroti,Soroti,,,,3,,1.726,33.621
+UG2063,2,District,District,Tororo,Tororo,tororo-ug2063,UG2063,,UG2,Eastern,Eastern,,,3,21,,0.739,34.103
+UG206301,3,County,County,Tororo,Tororo,tororo-ug206301,UG206301,,UG2063,Tororo,Tororo,,,,7,,0.742,34.248
+UG206302,3,County,County,Tororo Municipality,Tororo Municipality,tororo-municipality-ug206302,UG206302,,UG2063,Tororo,Tororo,,,,2,,0.682,34.18
+UG206303,3,County,County,West Budama (Kisolo),West Budama (Kisolo),west-budama-kisolo-ug206303,UG206303,,UG2063,Tororo,Tororo,,,,12,,0.73,34.037
+UG3,1,Region,Region,Northern,Northern,northern-ug3,UG3,,,,,,37,48,339,,2.798,32.822
+UG3064,2,District,District,Abim,Abim,abim-ug3064,UG3064,,UG3,Northern,Northern,,,1,8,,2.746,33.726
+UG306401,3,County,County,Labwor,Labwor,labwor-ug306401,UG306401,,UG3064,Abim,Abim,,,,8,,2.746,33.726
+UG3065,2,District,District,Adjumani,Adjumani,adjumani-ug3065,UG3065,,UG3,Northern,Northern,,,1,10,,3.235,31.787
+UG306501,3,County,County,East Moyo,East Moyo,east-moyo-ug306501,UG306501,,UG3065,Adjumani,Adjumani,,,,10,,3.235,31.787
+UG3066,2,District,District,Agago,Agago,agago-ug3066,UG3066,,UG3,Northern,Northern,,,1,16,,2.945,33.387
+UG306601,3,County,County,Agago,Agago,agago-ug306601,UG306601,,UG3066,Agago,Agago,,,,16,,2.945,33.387
+UG3067,2,District,District,Alebtong,Alebtong,alebtong-ug3067,UG3067,,UG3,Northern,Northern,,,1,9,,2.266,33.325
+UG306701,3,County,County,Moroto,Moroto,moroto-ug306701,UG306701,,UG3067,Alebtong,Alebtong,,,,9,,2.266,33.325
+UG3068,2,District,District,Amolatar,Amolatar,amolatar-ug3068,UG3068,,UG3,Northern,Northern,,,1,11,,1.636,32.633
+UG306801,3,County,County,Kioga,Kioga,kioga-ug306801,UG306801,,UG3068,Amolatar,Amolatar,,,,11,,1.636,32.633
+UG3069,2,District,District,Amudat,Amudat,amudat-ug3069,UG3069,,UG3,Northern,Northern,,,1,4,,1.825,34.93
+UG306901,3,County,County,Pokot,Pokot,pokot-ug306901,UG306901,,UG3069,Amudat,Amudat,,,,4,,1.825,34.93
+UG3070,2,District,District,Amuru,Amuru,amuru-ug3070,UG3070,,UG3,Northern,Northern,,,1,5,,3.128,32.105
+UG307001,3,County,County,Kilak,Kilak,kilak-ug307001,UG307001,,UG3070,Amuru,Amuru,,,,5,,3.128,32.105
+UG3071,2,District,District,Apac,Apac,apac-ug3071,UG3071,,UG3,Northern,Northern,,,2,8,,1.931,32.502
+UG307101,3,County,County,Apac Municipality,Apac Municipality,apac-municipality-ug307101,UG307101,,UG3071,Apac,Apac,,,,4,,1.968,32.543
+UG307102,3,County,County,Maruzi,Maruzi,maruzi-ug307102,UG307102,,UG3071,Apac,Apac,,,,4,,1.931,32.422
+UG3072,2,District,District,Arua,Arua,arua-ug3072,UG3072,,UG3,Northern,Northern,,,4,19,,2.998,31.015
+UG307201,3,County,County,Arua Municipality,Arua Municipality,arua-municipality-ug307201,UG307201,,UG3072,Arua,Arua,,,,2,,3.019,30.917
+UG307202,3,County,County,Ayivu,Ayivu,ayivu-ug307202,UG307202,,UG3072,Arua,Arua,,,,6,,3.048,30.854
+UG307203,3,County,County,Terego,Terego,terego-ug307203,UG307203,,UG3072,Arua,Arua,,,,7,,3.18,31.172
+UG307204,3,County,County,Vurra,Vurra,vurra-ug307204,UG307204,,UG3072,Arua,Arua,,,,4,,2.834,30.96
+UG3073,2,District,District,Dokolo,Dokolo,dokolo-ug3073,UG3073,,UG3,Northern,Northern,,,1,11,,1.907,33.076
+UG307301,3,County,County,Dokolo,Dokolo,dokolo-ug307301,UG307301,,UG3073,Dokolo,Dokolo,,,,11,,1.907,33.076
+UG3074,2,District,District,Gulu,Gulu,gulu-ug3074,UG3074,,UG3,Northern,Northern,,,2,10,,3.019,32.388
+UG307401,3,County,County,Aswa,Aswa,aswa-ug307401,UG307401,,UG3074,Gulu,Gulu,,,,6,,3.034,32.38
+UG307402,3,County,County,Gulu Municipality,Gulu Municipality,gulu-municipality-ug307402,UG307402,,UG3074,Gulu,Gulu,,,,4,,2.781,32.288
+UG3075,2,District,District,Kaabong,Kaabong,kaabong-ug3075,UG3075,,UG3,Northern,Northern,,,1,13,,3.655,34.209
+UG307501,3,County,County,Dodoth,Dodoth,dodoth-ug307501,UG307501,,UG3075,Kaabong,Kaabong,,,,13,,3.655,34.209
+UG3076,2,District,District,Karenga,Karenga,karenga-ug3076,UG3076,,UG3,Northern,Northern,,,1,7,,3.71,33.769
+UG307601,3,County,County,Dodoth,Dodoth,dodoth-ug307601,UG307601,,UG3076,Karenga,Karenga,,,,7,,3.71,33.769
+UG3077,2,District,District,Kitgum,Kitgum,kitgum-ug3077,UG3077,,UG3,Northern,Northern,,,2,12,,3.417,33.318
+UG307701,3,County,County,Chua,Chua,chua-ug307701,UG307701,,UG3077,Kitgum,Kitgum,,,,9,,3.417,33.318
+UG307702,3,County,County,Kitgum Municipality,Kitgum Municipality,kitgum-municipality-ug307702,UG307702,,UG3077,Kitgum,Kitgum,,,,3,,3.299,32.885
+UG3078,2,District,District,Koboko,Koboko,koboko-ug3078,UG3078,,UG3,Northern,Northern,,,2,9,,3.533,30.985
+UG307801,3,County,County,Koboko,Koboko,koboko-ug307801,UG307801,,UG3078,Koboko,Koboko,,,,6,,3.533,30.985
+UG307802,3,County,County,Koboko Municipality,Koboko Municipality,koboko-municipality-ug307802,UG307802,,UG3078,Koboko,Koboko,,,,3,,3.402,30.952
+UG3079,2,District,District,Kole,Kole,kole-ug3079,UG3079,,UG3,Northern,Northern,,,1,7,,2.299,32.739
+UG307901,3,County,County,Kole,Kole,kole-ug307901,UG307901,,UG3079,Kole,Kole,,,,7,,2.299,32.739
+UG3080,2,District,District,Kotido,Kotido,kotido-ug3080,UG3080,,UG3,Northern,Northern,,,2,9,,2.989,34.035
+UG308001,3,County,County,Jie,Jie,jie-ug308001,UG308001,,UG3080,Kotido,Kotido,,,,5,,2.989,33.876
+UG308002,3,County,County,Kotido Municipality,Kotido Municipality,kotido-municipality-ug308002,UG308002,,UG3080,Kotido,Kotido,,,,4,,2.984,34.073
+UG3081,2,District,District,Kwania,Kwania,kwania-ug3081,UG3081,,UG3,Northern,Northern,,,1,6,,1.901,32.774
+UG308101,3,County,County,Kwania,Kwania,kwania-ug308101,UG308101,,UG3081,Kwania,Kwania,,,,6,,1.901,32.774
+UG3082,2,District,District,Lamwo,Lamwo,lamwo-ug3082,UG3082,,UG3,Northern,Northern,,,1,11,,3.521,32.623
+UG308201,3,County,County,Lamwo,Lamwo,lamwo-ug308201,UG308201,,UG3082,Lamwo,Lamwo,,,,11,,3.521,32.623
+UG3083,2,District,District,Lira,Lira,lira-ug3083,UG3083,,UG3,Northern,Northern,,,2,13,,2.332,32.95
+UG308301,3,County,County,Erute,Erute,erute-ug308301,UG308301,,UG3083,Lira,Lira,,,,9,,2.332,32.95
+UG308302,3,County,County,Lira Municipality,Lira Municipality,lira-municipality-ug308302,UG308302,,UG3083,Lira,Lira,,,,4,,2.249,32.897
+UG3084,2,District,District,Madi Okollo,Madi Okollo,madi-okollo-ug3084,UG3084,,UG3,Northern,Northern,,,1,10,,2.867,31.238
+UG308401,3,County,County,Madi Okollo,Madi Okollo,madi-okollo-ug308401,UG308401,,UG3084,Madi Okollo,Madi Okollo,,,,10,,2.867,31.238
+UG3085,2,District,District,Maracha,Maracha,maracha-ug3085,UG3085,,UG3,Northern,Northern,,,1,8,,3.244,30.926
+UG308501,3,County,County,Maracha,Maracha,maracha-ug308501,UG308501,,UG3085,Maracha,Maracha,,,,8,,3.244,30.926
+UG3086,2,District,District,Moroto,Moroto,moroto-ug3086,UG3086,,UG3,Northern,Northern,,,2,6,,2.613,34.641
+UG308601,3,County,County,Matheniko,Matheniko,matheniko-ug308601,UG308601,,UG3086,Moroto,Moroto,,,,4,,2.613,34.641
+UG308602,3,County,County,Moroto Municipality,Moroto Municipality,moroto-municipality-ug308602,UG308602,,UG3086,Moroto,Moroto,,,,2,,2.53,34.66
+UG3087,2,District,District,Moyo,Moyo,moyo-ug3087,UG3087,,UG3,Northern,Northern,,,1,6,,3.665,31.747
+UG308701,3,County,County,Moyo,Moyo,moyo-ug308701,UG308701,,UG3087,Moyo,Moyo,,,,6,,3.665,31.747
+UG3088,2,District,District,Nabilatuk,Nabilatuk,nabilatuk-ug3088,UG3088,,UG3,Northern,Northern,,,1,4,,2.038,34.586
+UG308801,3,County,County,Pian,Pian,pian-ug308801,UG308801,,UG3088,Nabilatuk,Nabilatuk,,,,4,,2.038,34.586
+UG3089,2,District,District,Nakapiripirit,Nakapiripirit,nakapiripirit-ug3089,UG3089,,UG3,Northern,Northern,,,1,5,,1.847,34.639
+UG308901,3,County,County,Chekwi,Chekwi,chekwi-ug308901,UG308901,,UG3089,Nakapiripirit,Nakapiripirit,,,,5,,1.847,34.639
+UG3090,2,District,District,Napak,Napak,napak-ug3090,UG3090,,UG3,Northern,Northern,,,1,8,,2.395,34.26
+UG309001,3,County,County,Bokora,Bokora,bokora-ug309001,UG309001,,UG3090,Napak,Napak,,,,8,,2.395,34.26
+UG3091,2,District,District,Nebbi,Nebbi,nebbi-ug3091,UG3091,,UG3,Northern,Northern,,,2,11,,2.433,31.163
+UG309101,3,County,County,Nebbi Municipality,Nebbi Municipality,nebbi-municipality-ug309101,UG309101,,UG3091,Nebbi,Nebbi,,,,3,,2.477,31.085
+UG309102,3,County,County,Padyere,Padyere,padyere-ug309102,UG309102,,UG3091,Nebbi,Nebbi,,,,8,,2.433,31.191
+UG3092,2,District,District,Nwoya,Nwoya,nwoya-ug3092,UG3092,,UG3,Northern,Northern,,,1,8,,2.526,31.872
+UG309201,3,County,County,Nwoya,Nwoya,nwoya-ug309201,UG309201,,UG3092,Nwoya,Nwoya,,,,8,,2.526,31.872
+UG3093,2,District,District,Obongi,Obongi,obongi-ug3093,UG3093,,UG3,Northern,Northern,,,1,4,,3.364,31.537
+UG309301,3,County,County,Obongi,Obongi,obongi-ug309301,UG309301,,UG3093,Obongi,Obongi,,,,4,,3.364,31.537
+UG3094,2,District,District,Omoro,Omoro,omoro-ug3094,UG3094,,UG3,Northern,Northern,,,1,7,,2.645,32.498
+UG309401,3,County,County,Omoro,Omoro,omoro-ug309401,UG309401,,UG3094,Omoro,Omoro,,,,7,,2.645,32.498
+UG3095,2,District,District,Otuke,Otuke,otuke-ug3095,UG3095,,UG3,Northern,Northern,,,1,8,,2.476,33.383
+UG309501,3,County,County,Otuke,Otuke,otuke-ug309501,UG309501,,UG3095,Otuke,Otuke,,,,8,,2.476,33.383
+UG3096,2,District,District,Oyam,Oyam,oyam-ug3096,UG3096,,UG3,Northern,Northern,,,1,12,,2.346,32.424
+UG309601,3,County,County,Oyam,Oyam,oyam-ug309601,UG309601,,UG3096,Oyam,Oyam,,,,12,,2.346,32.424
+UG3097,2,District,District,Pader,Pader,pader-ug3097,UG3097,,UG3,Northern,Northern,,,1,12,,2.887,32.913
+UG309701,3,County,County,Aruu,Aruu,aruu-ug309701,UG309701,,UG3097,Pader,Pader,,,,12,,2.887,32.913
+UG3098,2,District,District,Pakwach,Pakwach,pakwach-ug3098,UG3098,,UG3,Northern,Northern,,,1,6,,2.465,31.396
+UG309801,3,County,County,Jonam,Jonam,jonam-ug309801,UG309801,,UG3098,Pakwach,Pakwach,,,,6,,2.465,31.396
+UG3099,2,District,District,Yumbe,Yumbe,yumbe-ug3099,UG3099,,UG3,Northern,Northern,,,1,13,,3.488,31.285
+UG309901,3,County,County,Aringa,Aringa,aringa-ug309901,UG309901,,UG3099,Yumbe,Yumbe,,,,13,,3.488,31.285
+UG3100,2,District,District,Zombo,Zombo,zombo-ug3100,UG3100,,UG3,Northern,Northern,,,1,13,,2.52,30.875
+UG310001,3,County,County,Okoro,Okoro,okoro-ug310001,UG310001,,UG3100,Zombo,Zombo,,,,13,,2.52,30.875
+UG4,1,Region,Region,Western,Western,western-ug4,UG4,,,,,,35,54,459,,0.444,30.526
+UG4101,2,District,District,Buhweju,Buhweju,buhweju-ug4101,UG4101,,UG4,Western,Western,,,1,8,,-0.323,30.348
+UG410101,3,County,County,Buhweju,Buhweju,buhweju-ug410101,UG410101,,UG4101,Buhweju,Buhweju,,,,8,,-0.323,30.348
+UG4102,2,District,District,Buliisa,Buliisa,buliisa-ug4102,UG4102,,UG4,Western,Western,,,1,7,,1.974,31.383
+UG410201,3,County,County,Buliisa,Buliisa,buliisa-ug410201,UG410201,,UG4102,Buliisa,Buliisa,,,,7,,1.974,31.383
+UG4103,2,District,District,Bundibugyo,Bundibugyo,bundibugyo-ug4103,UG4103,,UG4,Western,Western,,,2,24,,0.647,30.042
+UG410301,3,County,County,Bughendera,Bughendera,bughendera-ug410301,UG410301,,UG4103,Bundibugyo,Bundibugyo,,,,12,,0.647,30.084
+UG410302,3,County,County,Bwamba,Bwamba,bwamba-ug410302,UG410302,,UG4103,Bundibugyo,Bundibugyo,,,,12,,0.739,30.043
+UG4104,2,District,District,Bunyangabu,Bunyangabu,bunyangabu-ug4104,UG4104,,UG4,Western,Western,,,1,12,,0.48,30.202
+UG410401,3,County,County,Bunyangabu,Bunyangabu,bunyangabu-ug410401,UG410401,,UG4104,Bunyangabu,Bunyangabu,,,,12,,0.48,30.202
+UG4105,2,District,District,Bushenyi,Bushenyi,bushenyi-ug4105,UG4105,,UG4,Western,Western,,,2,14,,-0.475,30.171
+UG410501,3,County,County,Bushenyi Municipality,Bushenyi Municipality,bushenyi-municipality-ug410501,UG410501,,UG4105,Bushenyi,Bushenyi,,,,3,,-0.54,30.176
+UG410502,3,County,County,Igara,Igara,igara-ug410502,UG410502,,UG4105,Bushenyi,Bushenyi,,,,11,,-0.475,30.171
+UG4106,2,District,District,Hoima,Hoima,hoima-ug4106,UG4106,,UG4,Western,Western,,,2,10,,1.564,31.149
+UG410601,3,County,County,Bugahya,Bugahya,bugahya-ug410601,UG410601,,UG4106,Hoima,Hoima,,,,6,,1.564,31.149
+UG410602,3,County,County,Hoima Municipality,Hoima Municipality,hoima-municipality-ug410602,UG410602,,UG4106,Hoima,Hoima,,,,4,,1.436,31.355
+UG4107,2,District,District,Ibanda,Ibanda,ibanda-ug4107,UG4107,,UG4,Western,Western,,,2,15,,-0.062,30.492
+UG410701,3,County,County,Ibanda,Ibanda,ibanda-ug410701,UG410701,,UG4107,Ibanda,Ibanda,,,,12,,-0.201,30.412
+UG410702,3,County,County,Ibanda Municipality,Ibanda Municipality,ibanda-municipality-ug410702,UG410702,,UG4107,Ibanda,Ibanda,,,,3,,-0.11,30.496
+UG4108,2,District,District,Isingiro,Isingiro,isingiro-ug4108,UG4108,,UG4,Western,Western,,,2,19,,-0.839,30.931
+UG410801,3,County,County,Bukanga,Bukanga,bukanga-ug410801,UG410801,,UG4108,Isingiro,Isingiro,,,,8,,-0.836,31.05
+UG410802,3,County,County,Isingiro,Isingiro,isingiro-ug410802,UG410802,,UG4108,Isingiro,Isingiro,,,,11,,-0.839,30.724
+UG4109,2,District,District,Kabale,Kabale,kabale-ug4109,UG4109,,UG4,Western,Western,,,2,13,,-1.336,30.037
+UG410901,3,County,County,Kabale Municipality,Kabale Municipality,kabale-municipality-ug410901,UG410901,,UG4109,Kabale,Kabale,,,,3,,-1.267,29.989
+UG410902,3,County,County,Ndorwa,Ndorwa,ndorwa-ug410902,UG410902,,UG4109,Kabale,Kabale,,,,10,,-1.336,30.037
+UG4110,2,District,District,Kabarole,Kabarole,kabarole-ug4110,UG4110,,UG4,Western,Western,,,2,18,,0.621,30.268
+UG411001,3,County,County,Burahya,Burahya,burahya-ug411001,UG411001,,UG4110,Kabarole,Kabarole,,,,15,,0.621,30.188
+UG411002,3,County,County,Fort Portal Municipality,Fort Portal Municipality,fort-portal-municipality-ug411002,UG411002,,UG4110,Kabarole,Kabarole,,,,3,,0.654,30.285
+UG4111,2,District,District,Kagadi,Kagadi,kagadi-ug4111,UG4111,,UG4,Western,Western,,,1,19,,1.02,30.832
+UG411101,3,County,County,Buyaga,Buyaga,buyaga-ug411101,UG411101,,UG4111,Kagadi,Kagadi,,,,19,,1.02,30.832
+UG4112,2,District,District,Kakumiro,Kakumiro,kakumiro-ug4112,UG4112,,UG4,Western,Western,,,1,14,,0.961,31.291
+UG411201,3,County,County,Bugangaizi,Bugangaizi,bugangaizi-ug411201,UG411201,,UG4112,Kakumiro,Kakumiro,,,,14,,0.961,31.291
+UG4113,2,District,District,Kamwenge,Kamwenge,kamwenge-ug4113,UG4113,,UG4,Western,Western,,,1,11,,0.334,30.614
+UG411301,3,County,County,Kibale,Kibale,kibale-ug411301,UG411301,,UG4113,Kamwenge,Kamwenge,,,,11,,0.334,30.614
+UG4114,2,District,District,Kanungu,Kanungu,kanungu-ug4114,UG4114,,UG4,Western,Western,,,1,17,,-0.708,29.714
+UG411401,3,County,County,Kinkizi,Kinkizi,kinkizi-ug411401,UG411401,,UG4114,Kanungu,Kanungu,,,,17,,-0.708,29.714
+UG4115,2,District,District,Kasese,Kasese,kasese-ug4115,UG4115,,UG4,Western,Western,,,3,32,,0.136,30.008
+UG411501,3,County,County,Bukonjo,Bukonjo,bukonjo-ug411501,UG411501,,UG4115,Kasese,Kasese,,,,15,,0.07,29.832
+UG411502,3,County,County,Busongora,Busongora,busongora-ug411502,UG411502,,UG4115,Kasese,Kasese,,,,14,,0.136,30.166
+UG411503,3,County,County,Kasese Municipality,Kasese Municipality,kasese-municipality-ug411503,UG411503,,UG4115,Kasese,Kasese,,,,3,,0.218,30.112
+UG4116,2,District,District,Kazo,Kazo,kazo-ug4116,UG4116,,UG4,Western,Western,,,1,8,,0.024,30.752
+UG411601,3,County,County,Kazo,Kazo,kazo-ug411601,UG411601,,UG4116,Kazo,Kazo,,,,8,,0.024,30.752
+UG4117,2,District,District,Kibaale,Kibaale,kibaale-ug4117,UG4117,,UG4,Western,Western,,,1,11,,0.821,31.027
+UG411701,3,County,County,Buyanja,Buyanja,buyanja-ug411701,UG411701,,UG4117,Kibaale,Kibaale,,,,11,,0.821,31.027
+UG4118,2,District,District,Kikuube,Kikuube,kikuube-ug4118,UG4118,,UG4,Western,Western,,,1,7,,1.308,31.001
+UG411801,3,County,County,Buhaguzi,Buhaguzi,buhaguzi-ug411801,UG411801,,UG4118,Kikuube,Kikuube,,,,7,,1.308,31.001
+UG4119,2,District,District,Kiruhura,Kiruhura,kiruhura-ug4119,UG4119,,UG4,Western,Western,,,1,10,,-0.327,30.873
+UG411901,3,County,County,Nyabushozi,Nyabushozi,nyabushozi-ug411901,UG411901,,UG4119,Kiruhura,Kiruhura,,,,10,,-0.327,30.873
+UG4120,2,District,District,Kiryandongo,Kiryandongo,kiryandongo-ug4120,UG4120,,UG4,Western,Western,,,1,7,,1.991,32.051
+UG412001,3,County,County,Kibanda,Kibanda,kibanda-ug412001,UG412001,,UG4120,Kiryandongo,Kiryandongo,,,,7,,1.991,32.051
+UG4121,2,District,District,Kisoro,Kisoro,kisoro-ug4121,UG4121,,UG4,Western,Western,,,2,17,,-1.198,29.669
+UG412101,3,County,County,Bufumbira,Bufumbira,bufumbira-ug412101,UG412101,,UG4121,Kisoro,Kisoro,,,,14,,-1.198,29.669
+UG412102,3,County,County,Kisoro Municipality,Kisoro Municipality,kisoro-municipality-ug412102,UG412102,,UG4121,Kisoro,Kisoro,,,,3,,-1.277,29.691
+UG4122,2,District,District,Kitagwenda,Kitagwenda,kitagwenda-ug4122,UG4122,,UG4,Western,Western,,,1,7,,0.014,30.324
+UG412201,3,County,County,Kitagwenda,Kitagwenda,kitagwenda-ug412201,UG412201,,UG4122,Kitagwenda,Kitagwenda,,,,7,,0.014,30.324
+UG4123,2,District,District,Kyegegwa,Kyegegwa,kyegegwa-ug4123,UG4123,,UG4,Western,Western,,,1,9,,0.478,31.001
+UG412301,3,County,County,Kyaka,Kyaka,kyaka-ug412301,UG412301,,UG4123,Kyegegwa,Kyegegwa,,,,9,,0.478,31.001
+UG4124,2,District,District,Kyenjojo,Kyenjojo,kyenjojo-ug4124,UG4124,,UG4,Western,Western,,,1,20,,0.643,30.659
+UG412401,3,County,County,Mwenge,Mwenge,mwenge-ug412401,UG412401,,UG4124,Kyenjojo,Kyenjojo,,,,20,,0.643,30.659
+UG4125,2,District,District,Masindi,Masindi,masindi-ug4125,UG4125,,UG4,Western,Western,,,3,9,,1.812,31.737
+UG412501,3,County,County,Bujenje,Bujenje,bujenje-ug412501,UG412501,,UG4125,Masindi,Masindi,,,,3,,1.52,31.592
+UG412502,3,County,County,Buruuli,Buruuli,buruuli-ug412502,UG412502,,UG4125,Masindi,Masindi,,,,2,,1.551,31.876
+UG412503,3,County,County,Masindi Municipality,Masindi Municipality,masindi-municipality-ug412503,UG412503,,UG4125,Masindi,Masindi,,,,4,,1.678,31.703
+UG4126,2,District,District,Mbarara,Mbarara,mbarara-ug4126,UG4126,,UG4,Western,Western,,,2,13,,-0.487,30.628
+UG412601,3,County,County,Kashari,Kashari,kashari-ug412601,UG412601,,UG4126,Mbarara,Mbarara,,,,10,,-0.487,30.628
+UG412602,3,County,County,Mbarara Municipality,Mbarara Municipality,mbarara-municipality-ug412602,UG412602,,UG4126,Mbarara,Mbarara,,,,3,,-0.612,30.658
+UG4127,2,District,District,Mitooma,Mitooma,mitooma-ug4127,UG4127,,UG4,Western,Western,,,1,12,,-0.609,30.008
+UG412701,3,County,County,Ruhinda,Ruhinda,ruhinda-ug412701,UG412701,,UG4127,Mitooma,Mitooma,,,,12,,-0.609,30.008
+UG4128,2,District,District,Ntoroko,Ntoroko,ntoroko-ug4128,UG4128,,UG4,Western,Western,,,1,10,,0.99,30.387
+UG412801,3,County,County,Ntoroko,Ntoroko,ntoroko-ug412801,UG412801,,UG4128,Ntoroko,Ntoroko,,,,10,,0.99,30.387
+UG4129,2,District,District,Ntungamo,Ntungamo,ntungamo-ug4129,UG4129,,UG4,Western,Western,,,4,24,,-0.956,30.3
+UG412901,3,County,County,Kajara,Kajara,kajara-ug412901,UG412901,,UG4129,Ntungamo,Ntungamo,,,,7,,-0.831,30.13
+UG412902,3,County,County,Ntungamo Municipality,Ntungamo Municipality,ntungamo-municipality-ug412902,UG412902,,UG4129,Ntungamo,Ntungamo,,,,3,,-0.873,30.274
+UG412903,3,County,County,Ruhaama,Ruhaama,ruhaama-ug412903,UG412903,,UG4129,Ntungamo,Ntungamo,,,,9,,-0.893,30.448
+UG412904,3,County,County,Rushenyi,Rushenyi,rushenyi-ug412904,UG412904,,UG4129,Ntungamo,Ntungamo,,,,5,,-1.04,30.169
+UG4130,2,District,District,Rubanda,Rubanda,rubanda-ug4130,UG4130,,UG4,Western,Western,,,1,9,,-1.175,29.9
+UG413001,3,County,County,Rubanda,Rubanda,rubanda-ug413001,UG413001,,UG4130,Rubanda,Rubanda,,,,9,,-1.175,29.9
+UG4131,2,District,District,Rubirizi,Rubirizi,rubirizi-ug4131,UG4131,,UG4,Western,Western,,,1,11,,-0.261,29.952
+UG413101,3,County,County,Bunyaruguru,Bunyaruguru,bunyaruguru-ug413101,UG413101,,UG4131,Rubirizi,Rubirizi,,,,11,,-0.261,29.952
+UG4132,2,District,District,Rukiga,Rukiga,rukiga-ug4132,UG4132,,UG4,Western,Western,,,1,6,,-1.147,30.055
+UG413201,3,County,County,Rukiga,Rukiga,rukiga-ug413201,UG413201,,UG4132,Rukiga,Rukiga,,,,6,,-1.147,30.055
+UG4133,2,District,District,Rukungiri,Rukungiri,rukungiri-ug4133,UG4133,,UG4,Western,Western,,,3,16,,-0.699,29.891
+UG413301,3,County,County,Bujumbura,Bujumbura,bujumbura-ug413301,UG413301,,UG4133,Rukungiri,Rukungiri,,,,7,,-0.611,29.812
+UG413302,3,County,County,Rubabo,Rubabo,rubabo-ug413302,UG413302,,UG4133,Rukungiri,Rukungiri,,,,6,,-0.918,29.949
+UG413303,3,County,County,Rukungiri Municipality,Rukungiri Municipality,rukungiri-municipality-ug413303,UG413303,,UG4133,Rukungiri,Rukungiri,,,,3,,-0.79,29.94
+UG4134,2,District,District,Rwampara,Rwampara,rwampara-ug4134,UG4134,,UG4,Western,Western,,,1,5,,-0.735,30.461
+UG413401,3,County,County,Rwampara,Rwampara,rwampara-ug413401,UG413401,,UG4134,Rwampara,Rwampara,,,,5,,-0.735,30.461
+UG4135,2,District,District,Sheema,Sheema,sheema-ug4135,UG4135,,UG4,Western,Western,,,2,15,,-0.595,30.373
+UG413501,3,County,County,Sheema,Sheema,sheema-ug413501,UG413501,,UG4135,Sheema,Sheema,,,,11,,-0.691,30.251
+UG413502,3,County,County,Sheema Municipality,Sheema Municipality,sheema-municipality-ug413502,UG413502,,UG4135,Sheema,Sheema,,,,4,,-0.604,30.37

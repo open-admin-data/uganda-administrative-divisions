@@ -1,0 +1,48 @@
+{
+  "id": "UG4102",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buliisa",
+    "en": "Buliisa",
+    "slug": "buliisa-ug4102"
+  },
+  "code": {
+    "id": "UG4102",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-ug4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    }
+  ],
+  "children_count": {
+    "county": 1,
+    "subcounty": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.974",
+    "lon": "31.383"
+  },
+  "metadata": {},
+  "source": {}
+}

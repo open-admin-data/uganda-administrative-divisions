@@ -1,0 +1,56 @@
+{
+  "id": "UG412502",
+  "level": 3,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Buruuli",
+    "en": "Buruuli",
+    "slug": "buruuli-ug412502"
+  },
+  "code": {
+    "id": "UG412502",
+    "iso": null
+  },
+  "parent": {
+    "id": "UG4125",
+    "level": 2,
+    "name": {
+      "local": "Masindi",
+      "en": "Masindi",
+      "slug": "masindi-ug4125"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "UG4",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-ug4"
+      }
+    },
+    {
+      "id": "UG4125",
+      "level": 2,
+      "name": {
+        "local": "Masindi",
+        "en": "Masindi",
+        "slug": "masindi-ug4125"
+      }
+    }
+  ],
+  "children_count": {
+    "subcounty": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.551",
+    "lon": "31.876"
+  },
+  "metadata": {},
+  "source": {}
+}
